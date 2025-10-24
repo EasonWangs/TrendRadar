@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T12:09:26.381870+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-10-24T13:09:34.889165+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 12时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 13时09分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -108,6 +108,19 @@
           "time_info": "[08时30分 ~ 10时36分]"
         },
         {
+          "title": "白宫：特朗普将访问马来西亚、日本、韩国",
+          "url": "https://news.ifeng.com/c/8nhzSOzpBcB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时09分]"
+        },
+        {
           "title": "特朗普：将取消向旧金山派国民警卫队的计划",
           "url": "https://news.ifeng.com/c/8nhYfXrmEBD",
           "source": "凤凰网",
@@ -119,16 +132,29 @@
           "time_info": "[08时30分 ~ 09时36分]"
         },
         {
-          "title": "白宫：特朗普将访问马来西亚、日本、韩国",
-          "url": "https://news.ifeng.com/c/8nhzSOzpBcB",
-          "source": "凤凰网",
+          "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
+          "url": "https://www.cls.cn/detail/2179005",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            9,
+            7,
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时09分]"
+          "appearance_count": 6,
+          "time_info": "[08时30分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普：终止与加拿大的所有贸易谈判",
+          "url": "https://news.ifeng.com/c/8ni2EpR7ztO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
@@ -175,26 +201,13 @@
           "time_info": "02时13分"
         },
         {
-          "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
-          "url": "https://www.cls.cn/detail/2179005",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 12时09分]"
-        },
-        {
           "title": "特朗普：美国终止与加拿大的所有贸易谈判",
           "url": "https://news.ifeng.com/c/8ni2EpR7ztO",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -208,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
+        },
+        {
+          "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
+          "url": "https://news.ifeng.com/c/8nhrwh3rstP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 13时09分]"
         },
         {
           "title": "墨西哥股市和比索上涨，特朗普盘后称该国“由毒贩经营”",
@@ -322,6 +346,19 @@
           "time_info": "[05时08分 ~ 06时08分]"
         },
         {
+          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
+          "url": "https://www.cls.cn/detail/2179115",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 13时09分]"
+        },
+        {
           "title": "“特朗普取消会晤” 普京发声",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E4%BC%9A%E6%99%A4%E2%80%9D+%E6%99%AE%E4%BA%AC%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -336,15 +373,16 @@
           "time_info": "[09时36分 ~ 12时09分]"
         },
         {
-          "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
-          "url": "https://news.ifeng.com/c/8nhrwh3rstP",
-          "source": "凤凰网",
+          "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
+          "url": "https://www.zhihu.com/question/1964977368591495757",
+          "source": "知乎",
           "ranks": [
-            6
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时36分 ~ 12时09分]"
+          "time_info": "[11时22分 ~ 13时09分]"
         },
         {
           "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
@@ -373,19 +411,6 @@
           "time_info": "[01时08分 ~ 03时08分]"
         },
         {
-          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
-          "url": "https://www.cls.cn/detail/2179115",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 12时09分]"
-        },
-        {
           "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
           "url": "https://wallstreetcn.com/livenews/2992708",
           "source": "华尔街见闻-快讯",
@@ -399,16 +424,16 @@
           "time_info": "[02时13分 ~ 04时11分]"
         },
         {
-          "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
-          "url": "https://www.zhihu.com/question/1964977368591495757",
-          "source": "知乎",
+          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179344",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时09分]"
+          "time_info": "[12时09分 ~ 13时09分]"
         },
         {
           "title": "美国总统特朗普：我们可能会就打击“陆上毒品”一事征求国会意见。",
@@ -517,17 +542,6 @@
           "time_info": "07时08分"
         },
         {
-          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179344",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "美国白宫：（关于对币安赵长鹏的赦免）特朗普正在行使宪法赋予的宽恕权力。该赦免已由白宫法律顾问审查。",
           "url": "https://flash.jin10.com/detail/20251024014417750800",
           "source": "金十数据",
@@ -592,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "特朗普对普京翻脸 俄乌还可能和谈吗",
+          "url": "https://www.toutiao.com/trending/7564610390873624070/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "美国白宫：特朗普将与马来西亚总统举行双边会谈。",
@@ -693,6 +718,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "梅德韦杰夫称特朗普踏上对俄战争之路",
+          "url": "https://www.toutiao.com/trending/7564265609349955627/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "报道：特朗普政府可能暂未考虑入股量子计算公司",
           "url": "https://wallstreetcn.com/livenews/2992698",
           "source": "华尔街见闻-快讯",
@@ -724,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "特朗普：终止与加拿大的所有贸易谈判",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E6%89%80%E6%9C%89%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "特朗普赦免赵长鹏将带来哪些影响",
@@ -776,7 +823,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -869,6 +916,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D%E5%B8%81%E5%AE%89%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B5%B5%E9%95%BF%E9%B9%8F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "美国白宫：特朗普希望看到俄罗斯采取行动，而不仅仅是空谈。",
           "url": "https://flash.jin10.com/detail/20251024015506511800",
           "source": "金十数据",
@@ -883,7 +941,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -894,8 +952,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时09分]"
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时09分]"
         },
         {
           "title": "市场消息：Rivian(RIVN.O)将支付2.5亿美元了结一起指控其在首次公开募股中就车辆价格欺骗投资者的诉讼。",
@@ -931,17 +989,6 @@
           "time_info": "07时08分"
         },
         {
-          "title": "分析师：马来西亚林吉特兑美元可能在4.20附近交易",
-          "url": "https://flash.jin10.com/detail/20251024114424930800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "银行业准备最快下周一发行380亿美元债务，从而帮助那些与甲骨文相关的数据中心。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2992801",
           "source": "华尔街见闻-快讯",
@@ -973,6 +1020,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "纽约期银回落至48美元/盎司下方，日内跌1.47%。",
+          "url": "https://flash.jin10.com/detail/20251024123038424800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "比特币站上111000美元/枚，日内涨0.86%。",
+          "url": "https://flash.jin10.com/detail/20251024122728539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "韩国产业部长表示，作为关税协议的一部分，韩国希望美国投资方案规模低于3500亿美元。",
@@ -1075,6 +1144,18 @@
           "time_info": "[04时11分 ~ 05时08分]"
         },
         {
+          "title": "分析师：马来西亚林吉特兑美元可能在4.20附近交易",
+          "url": "https://flash.jin10.com/detail/20251024114424930800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时09分]"
+        },
+        {
           "title": "美国至10月17日当周外国央行持有美国国债 47.54亿美元，前值-310.32亿美元。",
           "url": "https://flash.jin10.com/detail/20251024043137187800",
           "source": "金十数据",
@@ -1159,6 +1240,18 @@
           "time_info": "[05时08分 ~ 06时08分]"
         },
         {
+          "title": "如何看待在 10 月 23 日美国国债已经突破 38 万亿美元？",
+          "url": "https://www.zhihu.com/question/1964791896485402358",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 13时09分]"
+        },
+        {
           "title": "周四（10月23日），韩元兑美元最终跌0.47%，报1437.59韩元。",
           "url": "https://wallstreetcn.com/livenews/2992713",
           "source": "华尔街见闻-快讯",
@@ -1183,18 +1276,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 04时11分]"
-        },
-        {
-          "title": "如何看待在 10 月 23 日美国国债已经突破 38 万亿美元？",
-          "url": "https://www.zhihu.com/question/1964791896485402358",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 12时09分]"
         },
         {
           "title": "美国财政部拍卖260亿美元五年期通胀保值国债（TIPS），得标利率1.182%，投标倍数2.51。",
@@ -1316,6 +1397,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "以太坊突破3900美元/枚，日内涨1.21%。",
+          "url": "https://flash.jin10.com/detail/20251024121744870800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "纽约期金向上触及4150美元/盎司，日内涨0.11%。",
           "url": "https://flash.jin10.com/detail/20251024090335738800",
           "source": "金十数据",
@@ -1325,6 +1417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "日本麒麟控股公司已将其肯塔基波本威士忌品牌Four Roses以10亿美元的价格挂牌出售，该啤酒制造商正从陷入困境的烈酒行业转向医疗保健行业。",
+          "url": "https://flash.jin10.com/detail/20251024120300905800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "人民币兑美元中间价报7.0928，下调10点；上一交易日中间价7.0918，上一交易日官方收盘价7.1221，上日夜盘报收7.1242。",
@@ -1539,7 +1642,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "金店老板10元1克收孩子黄金还给家长",
@@ -1632,6 +1735,17 @@
           "time_info": "[03时08分 ~ 04时11分]"
         },
         {
+          "title": "公司给优秀员工奖黄金键帽 最贵4万",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%99%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%A5%96%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD+%E6%9C%80%E8%B4%B54%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时09分]"
+        },
+        {
           "title": "达利欧：制裁战正在削弱法定货币 黄金将因秩序瓦解而上涨",
           "url": "https://flash.jin10.com/detail/20251024080828553800",
           "source": "金十数据",
@@ -1676,15 +1790,15 @@
           "time_info": "09时36分"
         },
         {
-          "title": "公司给优秀员工奖黄金键帽 最贵4万",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%99%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%A5%96%E9%BB%84%E9%87%91%E9%94%AE%E5%B8%BD+%E6%9C%80%E8%B4%B54%E4%B8%87",
-          "source": "百度热搜",
+          "title": "金十图示：2025年10月24日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251024115357812800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "13时09分"
         },
         {
           "title": "纽蒙特矿业(NEM.N)：预计2026年的黄金产量将接近2025年指导值的下限。",
@@ -1760,6 +1874,19 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时08分 ~ 13时09分]"
+        },
+        {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
           "url": "https://www.cls.cn/detail/2178825",
           "source": "财联社热门",
@@ -1774,19 +1901,6 @@
           "time_info": "[00时09分 ~ 10时36分]"
         },
         {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时08分 ~ 12时09分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
           "url": "https://www.cls.cn/detail/2179010",
           "source": "财联社热门",
@@ -1797,8 +1911,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时08分 ~ 12时09分]"
+          "appearance_count": 7,
+          "time_info": "[07时08分 ~ 13时09分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -1964,19 +2078,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 13时09分]"
         },
         {
           "title": "分析人士：国际金价长期仍看涨",
           "url": "https://www.douyin.com/hot/2280483",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时09分]"
         },
         {
           "title": "金价惊魂一夜后大妈挤爆金店",
@@ -2032,6 +2147,18 @@
           "time_info": "[08时30分 ~ 09时36分]"
         },
         {
+          "title": "10月24日午间收评：创业板指半日涨超2%，存储芯片、商业航天概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/2993015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时09分]"
+        },
+        {
           "title": "商业航天概念开盘领涨，达华智能竞价涨停，航天智装涨超15%，航天宏图、航天环宇、天银机电、陕西华达等纷纷高开，消息面上，四中全会公报发布，相较于十九届五中全会公报，本次公报新增了航天强国。",
           "url": "https://wallstreetcn.com/livenews/2992884",
           "source": "华尔街见闻-快讯",
@@ -2052,17 +2179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "10月24日午间收评：创业板指半日涨超2%，存储芯片、商业航天概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/2993015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         }
       ]
     },
