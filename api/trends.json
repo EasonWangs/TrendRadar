@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-25T22:07:43.878580+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-10-25T23:14:59.376846+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "特朗普：愿在亚洲行期间会见金正恩",
+          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时10分 ~ 23时14分]"
+        },
         {
           "title": "韩统一部：特朗普金正恩会面机会“相当大”",
           "url": "https://news.ifeng.com/c/8nizznpKteH",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[07时09分 ~ 15时09分]"
-        },
-        {
-          "title": "特朗普：愿在亚洲行期间会见金正恩",
-          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时10分 ~ 22时07分]"
         },
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸",
@@ -41,6 +41,20 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
+          "url": "https://wallstreetcn.com/articles/3757880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时10分 ~ 23时14分]"
+        },
+        {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
           "url": "https://www.cls.cn/detail/2180450",
           "source": "财联社热门",
@@ -52,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时09分 ~ 22时07分]"
+          "appearance_count": 23,
+          "time_info": "[07时09分 ~ 23时14分]"
         },
         {
           "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
@@ -83,11 +97,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时10分 ~ 22时07分]"
+          "appearance_count": 16,
+          "time_info": "[12时10分 ~ 23时14分]"
         },
         {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
@@ -101,20 +116,6 @@
           "time_info": "[00时09分 ~ 08时31分]"
         },
         {
-          "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
-          "url": "https://wallstreetcn.com/articles/3757880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时10分 ~ 22时07分]"
-        },
-        {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
           "url": "https://www.cls.cn/detail/2180455",
           "source": "财联社热门",
@@ -126,8 +127,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时09分 ~ 22时07分]"
+          "appearance_count": 23,
+          "time_info": "[07时09分 ~ 23时14分]"
         },
         {
           "title": "特朗普赦免币安创始人赵长鹏",
@@ -206,6 +207,21 @@
           "time_info": "[12时11分 ~ 18时08分]"
         },
         {
+          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251025171620948800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            17,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时08分 ~ 23时14分]"
+        },
+        {
           "title": "特朗普拿美加贸易谈判要挟得逞：加拿大将暂停播放反关税广告",
           "url": "https://wallstreetcn.com/articles/3757875",
           "source": "华尔街见闻",
@@ -228,21 +244,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时10分 ~ 08时31分]"
-        },
-        {
-          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
-          "url": "https://flash.jin10.com/detail/20251025171620948800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            17,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时08分 ~ 22时07分]"
         },
         {
           "title": "报道：特朗普提名加密货币专家迈克尔·塞利格担任CFTC主席",
@@ -288,6 +289,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时09分 ~ 19时08分]"
+        },
+        {
+          "title": "韩国民众举行反特朗普示威",
+          "url": "https://news.ifeng.com/c/8nkKIhcxWDm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时13分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普与日本首相高市早苗通电话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/2993699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国高级官员：特朗普将在马来西亚签署重要和平协议。",
@@ -340,19 +377,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时36分 ~ 18时08分]"
-        },
-        {
-          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2993685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时13分 ~ 22时07分]"
         },
         {
           "title": "美国总统特朗普：我们将与新任日本首相建立美妙的关系。",
@@ -444,6 +468,32 @@
           "time_info": "[03时08分 ~ 04时10分]"
         },
         {
+          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
+          "url": "https://flash.jin10.com/detail/20251025185202927800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时13分 ~ 23时14分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
+          "url": "https://flash.jin10.com/detail/20251025183737163800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时13分 ~ 23时14分]"
+        },
+        {
           "title": "特朗普据悉提名迈克尔·塞利格担任CFTC主席",
           "url": "https://flash.jin10.com/detail/20251025035840305800",
           "source": "金十数据",
@@ -469,19 +519,6 @@
           "time_info": "[11时22分 ~ 13时09分]"
         },
         {
-          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
-          "url": "https://flash.jin10.com/detail/20251025185202927800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时13分 ~ 22时07分]"
-        },
-        {
           "title": "特朗普在“对中贸易争锋”中阵脚已乱",
           "url": "https://www.toutiao.com/trending/7565063614768352822/",
           "source": "今日头条",
@@ -493,19 +530,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时08分 ~ 20时13分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
-          "url": "https://flash.jin10.com/detail/20251025183737163800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时13分 ~ 22时07分]"
         },
         {
           "title": "美国总统特朗普：（当被问及对委内瑞拉的袭击）我们拭目以待。",
@@ -1056,8 +1080,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时30分 ~ 22时07分]"
+          "appearance_count": 22,
+          "time_info": "[08时30分 ~ 23时14分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -1082,8 +1106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时09分 ~ 22时07分]"
+          "appearance_count": 23,
+          "time_info": "[07时09分 ~ 23时14分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -1134,6 +1158,18 @@
           "time_info": "[08时30分 ~ 10时37分]"
         },
         {
+          "title": "美股为何一直在上涨",
+          "url": "https://www.toutiao.com/trending/7564074588235317290/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时13分 ~ 23时14分]"
+        },
+        {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251025040539216800",
           "source": "金十数据",
@@ -1168,17 +1204,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时09分 ~ 08时31分]"
-        },
-        {
-          "title": "美股为何一直在上涨",
-          "url": "https://www.toutiao.com/trending/7564074588235317290/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时13分 ~ 22时07分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -1229,7 +1254,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金本周跌3.3%，美国CPI数据发布后有所回升，现货白银累跌约6.3%",
@@ -1384,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "黄金暴跌背后的规律是什么",
+          "url": "https://www.toutiao.com/trending/7565107511024422441/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
@@ -1423,6 +1459,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时36分 ~ 11时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek新突破能否打破大模型瓶颈",
+          "url": "https://www.toutiao.com/trending/7565151497953611306/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
