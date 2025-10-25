@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T08:31:10.118624+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2025-10-25T09:36:23.256768+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸",
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 09时36分]"
         },
         {
           "title": "韩统一部：特朗普金正恩会面机会“相当大”",
@@ -49,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 08时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 09时36分]"
         },
         {
           "title": "据CNN：特朗普考虑打击委内瑞拉境内可卡因生产设施 。",
@@ -66,6 +67,21 @@
           "time_info": "[04时10分 ~ 08时31分]"
         },
         {
+          "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
+          "url": "https://wallstreetcn.com/livenews/2993602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            12,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时09分 ~ 09时36分]"
+        },
+        {
           "title": "美国高级官员：特朗普将在马来西亚签署重要和平协议。",
           "url": "https://flash.jin10.com/detail/20251025032903185800",
           "source": "金十数据",
@@ -77,20 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时10分 ~ 08时31分]"
-        },
-        {
-          "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
-          "url": "https://wallstreetcn.com/livenews/2993602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
         },
         {
           "title": "特朗普对以色列放出迄今最明确警告",
@@ -105,6 +107,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时09分 ~ 08时31分]"
+        },
+        {
+          "title": "报道：特朗普提名加密货币专家迈克尔·塞利格担任CFTC主席",
+          "url": "https://wallstreetcn.com/livenews/2993595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            18,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "加拿大安大略省长宣布：将暂停播放针对特朗普关税的广告",
@@ -158,18 +175,28 @@
           "time_info": "[03时08分 ~ 04时10分]"
         },
         {
-          "title": "报道：特朗普提名加密货币专家迈克尔·塞利格担任CFTC主席",
-          "url": "https://wallstreetcn.com/livenews/2993595",
-          "source": "华尔街见闻-快讯",
+          "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
+          "url": "https://www.cls.cn/detail/2180455",
+          "source": "财联社热门",
           "ranks": [
             10,
-            17,
-            18,
-            24
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
+          "time_info": "[07时09分 ~ 09时36分]"
+        },
+        {
+          "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
+          "url": "https://www.cls.cn/detail/2180450",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 09时36分]"
         },
         {
           "title": "特朗普据悉提名迈克尔·塞利格担任CFTC主席",
@@ -184,39 +211,17 @@
           "time_info": "[05时09分 ~ 08时31分]"
         },
         {
-          "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
-          "url": "https://www.cls.cn/detail/2180455",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 08时31分]"
-        },
-        {
-          "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
-          "url": "https://www.cls.cn/detail/2180450",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 08时31分]"
-        },
-        {
           "title": "特朗普谈普京对美强硬表态：拭目以待",
           "url": "https://www.toutiao.com/trending/7564749571637841435/",
           "source": "今日头条",
           "ranks": [
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 08时31分]"
+          "appearance_count": 4,
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "市场消息：加拿大安大略省将撤销“反对关税”的广告，此前美国总统特朗普叫停两国之间的对话。",
@@ -252,6 +257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 03时08分]"
+        },
+        {
+          "title": "伯南克和耶伦呼吁推翻特朗普关税 加拿大称愿重启与美国谈判 | 环球市场",
+          "url": "https://www.cls.cn/detail/2180470",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "白宫经济顾问哈塞特：特朗普对加拿大非常失望",
@@ -290,7 +306,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "中美元首是否将会晤？外交部回应",
@@ -300,8 +316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 09时36分]"
         },
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
@@ -326,8 +342,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 09时36分]"
         },
         {
           "title": "外交部回应中美元首是否将会晤",
@@ -340,11 +356,12 @@
             3,
             5,
             14,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 09时36分]"
         },
         {
           "title": "中方回应中美元首是否在APEC会晤",
@@ -370,11 +387,27 @@
             13,
             20,
             21,
-            27
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时10分 ~ 09时36分]"
+        },
+        {
+          "title": "周五（10月24日）纽约尾盘，美元兑日元涨0.20%，报152.87日元，北京时间20:30发布美国CPI数据时跳水、短线形成V形反转，本周累计上涨1.51%，整体交投区间为150.28-153.06日元，持续震荡上行。",
+          "url": "https://wallstreetcn.com/livenews/2993605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            9,
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[04时10分 ~ 08时31分]"
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "美元指数本周涨0.5%",
@@ -392,18 +425,33 @@
           "time_info": "[04时10分 ~ 08时31分]"
         },
         {
-          "title": "周五（10月24日）纽约尾盘，美元兑日元涨0.20%，报152.87日元，北京时间20:30发布美国CPI数据时跳水、短线形成V形反转，本周累计上涨1.51%，整体交投区间为150.28-153.06日元，持续震荡上行。",
-          "url": "https://wallstreetcn.com/livenews/2993605",
+          "title": "周五（10月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1261元，较周四纽约尾盘跌5点，日内整体交投于7.1212-7.1292元区间。",
+          "url": "https://wallstreetcn.com/livenews/2993608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8,
-            9,
+            5,
+            6,
+            12,
             15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
+          "time_info": "[06时08分 ~ 09时36分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.505万亿美元，之前一周18.437万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2993599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            14,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "周五（10月24日），韩元兑美元最终跌0.09%，报1438.89韩元，北京时间20:30发布美国CPI数据时显著反弹。 本周，韩元乐基下跌1.18%，10月20-23日持续下挫，23日11:30过后持续低位震荡。",
@@ -417,19 +465,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时10分]"
-        },
-        {
-          "title": "周五（10月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1261元，较周四纽约尾盘跌5点，日内整体交投于7.1212-7.1292元区间。",
-          "url": "https://wallstreetcn.com/livenews/2993608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时08分 ~ 08时31分]"
         },
         {
           "title": "LME期铜收涨108美元，报10962美元/吨。 LME期铝收跌4美元，报2859美元/吨。 LME期锌收涨8美元，报3026美元/吨。 LME期铅收涨6美元，报2016美元/吨。 LME期镍收跌2美元，报15361美元/吨。 LME期锡收涨30美元，报35802美元/吨。 LME期钴收平美元，报48570美元/吨。",
@@ -471,18 +506,18 @@
           "time_info": "[01时10分 ~ 03时08分]"
         },
         {
-          "title": "美联储：美国上周银行存款18.505万亿美元，之前一周18.437万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2993599",
+          "title": "周五（10月24日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨0.53%，报11.1万美元，北京时间20:30发布美国CPI通胀数据时曾逼近11.2万美元，本周累计上涨4.05%，整体交投于10.7万-11.5万美元区间。 CME以太币期货DCR主力合约涨2.00%，报3945.50美元，本周累涨2.17%，整体交投于3741-4126.50美元区间。",
+          "url": "https://wallstreetcn.com/livenews/2993606",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            13,
+            7,
+            8,
             14,
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
+          "time_info": "[06时08分 ~ 09时36分]"
         },
         {
           "title": "美元指数24日上涨",
@@ -511,19 +546,6 @@
           "time_info": "[04时10分 ~ 07时09分]"
         },
         {
-          "title": "周五（10月24日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨0.53%，报11.1万美元，北京时间20:30发布美国CPI通胀数据时曾逼近11.2万美元，本周累计上涨4.05%，整体交投于10.7万-11.5万美元区间。 CME以太币期货DCR主力合约涨2.00%，报3945.50美元，本周累涨2.17%，整体交投于3741-4126.50美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2993606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时08分 ~ 08时31分]"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的24.35亿美元。",
           "url": "https://flash.jin10.com/detail/20251025011605403800",
           "source": "金十数据",
@@ -546,6 +568,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时10分]"
+        },
+        {
+          "title": "APEC会议期间中美元首是否举行会晤？外交部回应",
+          "url": "https://wallstreetcn.com/articles/3757814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "英镑兑美元GBP/USD失守1.33，日内跌幅0.21%。",
@@ -584,22 +617,24 @@
             7,
             6,
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 09时36分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
           "url": "https://wallstreetcn.com/articles/3757811",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时30分 ~ 08时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时30分 ~ 09时36分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -610,8 +645,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 08时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 09时36分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
+          "url": "https://wallstreetcn.com/livenews/2993598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            15,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -638,20 +688,6 @@
           "time_info": "[05时09分 ~ 08时31分]"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
-          "url": "https://wallstreetcn.com/livenews/2993598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
-        },
-        {
           "title": "美股收盘：三大股指齐创新高",
           "url": "https://flash.jin10.com/detail/20251025040102680800",
           "source": "金十数据",
@@ -668,11 +704,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%853600%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时30分 ~ 08时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时30分 ~ 09时36分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股盘中）",
@@ -731,11 +768,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
+          "appearance_count": 5,
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "纽蒙特矿业(NEM.N)：位于加纳的阿哈福北矿区（Ahafo North）已开始商业生产，将在2025年生产约50,000盎司黄金。",
@@ -743,22 +781,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
-        },
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1046.93吨，较前一个交易日减少5.44吨。",
-          "url": "https://flash.jin10.com/detail/20251025080227861800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时31分"
+          "appearance_count": 5,
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "现货黄金本周跌3.3%，美国CPI数据发布后有所回升，现货白银累跌约6.3%",
@@ -768,11 +796,12 @@
             2,
             9,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时09分 ~ 08时31分]"
+          "appearance_count": 5,
+          "time_info": "[05时09分 ~ 09时36分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月24日（周五）晚盘收盘下跌0.14%报940.3元/克；<br/>上海黄金交易所白银T+D 10月24日（周五）晚盘收盘上涨0.39%报11394.0元/千克。",
@@ -785,6 +814,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时10分]"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1046.93吨，较前一个交易日减少5.44吨。",
+          "url": "https://flash.jin10.com/detail/20251025080227861800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时31分 ~ 09时36分]"
         },
         {
           "title": "纽蒙特矿业考虑就巴里克矿业在美国内华达的黄金资产达成一份协议。（彭博）",
@@ -828,11 +869,12 @@
           "url": "https://www.toutiao.com/trending/7564374778371457065/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时30分 ~ 08时31分]"
+          "appearance_count": 3,
+          "time_info": "[08时30分 ~ 09时36分]"
         },
         {
           "title": "美媒：特朗普计划打造全新下一代“黄金舰队”或配备高超音速导弹",
@@ -849,7 +891,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
@@ -858,11 +900,23 @@
           "ranks": [
             2,
             3,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时08分 ~ 08时31分]"
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 09时36分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
+          "url": "https://flash.jin10.com/detail/20251025085423303800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     },
