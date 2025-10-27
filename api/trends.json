@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T21:18:14.971681+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2025-10-27T22:10:38.013522+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 77,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时10分 ~ 21时18分]"
+          "appearance_count": 8,
+          "time_info": "[17时10分 ~ 22时10分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -87,11 +87,12 @@
           "url": "https://www.douyin.com/hot/2285103",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时15分 ~ 21时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时15分 ~ 22时10分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -157,6 +158,19 @@
           "time_info": "[08时34分 ~ 13时11分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 22时10分]"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -168,6 +182,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时07分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国总统特朗普：我们与巴西总统卢拉举行了一次良好的会晤。",
@@ -285,17 +310,15 @@
           "time_info": "[14时15分 ~ 16时12分]"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 21时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
@@ -337,6 +360,18 @@
           "time_info": "[14时15分 ~ 15时10分]"
         },
         {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时15分 ~ 22时10分]"
+        },
+        {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
           "url": "https://www.toutiao.com/trending/7564722086686507044/",
           "source": "今日头条",
@@ -364,15 +399,28 @@
           "time_info": "[08时34分 ~ 10时41分]"
         },
         {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
           "ranks": [
-            16
+            12,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时15分 ~ 21时18分]"
+          "time_info": "[21时17分 ~ 22时10分]"
+        },
+        {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 22时10分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -434,17 +482,6 @@
           "time_info": "[13时11分 ~ 14时15分]"
         },
         {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
           "title": "特朗普的关税“套路”曝光",
           "url": "https://www.toutiao.com/trending/7565671486447423027/",
           "source": "今日头条",
@@ -457,15 +494,15 @@
           "time_info": "[08时34分 ~ 09时37分]"
         },
         {
-          "title": "评论员：特朗普在马来西亚双喜临门",
-          "url": "https://www.toutiao.com/trending/7565834902130658870/",
-          "source": "今日头条",
+          "title": "特朗普欲购买阿根廷牛肉 共和党人罕见发声反对",
+          "url": "https://flash.jin10.com/detail/20251027213930146800",
+          "source": "金十数据",
           "ranks": [
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
@@ -477,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "特朗普：俄方应结束冲突而非试射导弹",
+          "url": "https://www.toutiao.com/trending/7565221360721592361/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "巴西总统卢拉：向美国总统特朗普递交了一份书面议程。",
@@ -710,6 +758,17 @@
           "time_info": "20时15分"
         },
         {
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "美国总统特朗普：我真没考虑过去竞选2028年的第三任期。",
           "url": "https://flash.jin10.com/detail/20251027142110925800",
           "source": "金十数据",
@@ -845,7 +904,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "给出100美元目标价！英伟达“唯一的空头”：这不是我第一次看到泡沫",
@@ -1082,6 +1141,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "现货白银日内跌幅达3%，报47.11美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2994403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "Strategy(MSTR.O)在10月20日至10月26日以总价4340万美元购买了390个比特币。",
           "url": "https://flash.jin10.com/detail/20251027200126467800",
           "source": "金十数据",
@@ -1093,15 +1163,15 @@
           "time_info": "20时15分"
         },
         {
-          "title": "哥伦比亚比索兑美元在美国制裁石油公司后开盘下跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20251027210947397800",
+          "title": "现货白银日内跌超3.00%，现报47.10美元/盎司。纽约期银日内走低3.00%，现报47.13美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251027214359959800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "22时10分"
         },
         {
           "title": "比特币突破116000美元/枚，创10月10日以来新高，日内涨1.27%。",
@@ -1124,17 +1194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
-        },
-        {
-          "title": "交易员：阿根廷比索延续涨势，早盘兑美元汇率上涨10%。",
-          "url": "https://flash.jin10.com/detail/20251027210618067800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         },
         {
           "title": "WTI原油日内涨幅达1.00%，现报61.88美元/桶。",
@@ -1161,6 +1220,18 @@
           "time_info": "[13时11分 ~ 14时15分]"
         },
         {
+          "title": "哥伦比亚比索兑美元在美国制裁石油公司后开盘下跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20251027210947397800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
+        },
+        {
           "title": "外交部：中美元首之间保持着密切的沟通与交往",
           "url": "https://wallstreetcn.com/livenews/2994099",
           "source": "华尔街见闻-快讯",
@@ -1171,6 +1242,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时12分 ~ 17时11分]"
+        },
+        {
+          "title": "交易员：阿根廷比索延续涨势，早盘兑美元汇率上涨10%。",
+          "url": "https://flash.jin10.com/detail/20251027210618067800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
         },
         {
           "title": "比特币升破112000美元",
@@ -1234,6 +1317,42 @@
           "time_info": "[07时08分 ~ 08时34分]"
         },
         {
+          "title": "路透调查：预计2025年锌市场过剩8万吨，2026年过剩23.9万吨。预计LME锌2025年均价2801美元/吨，2026年为2838美元/吨，略高于2024年的2777美元/吨。",
+          "url": "https://flash.jin10.com/detail/20251027210319591800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
+        },
+        {
+          "title": "交易员：阿根廷总统米莱及其盟友在周末选举中获胜后，阿根廷比索兑美元汇率升值6.57%，至1美元兑1,400比索。",
+          "url": "https://flash.jin10.com/detail/20251027210253800800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
+        },
+        {
+          "title": "路透调查：预计LME铝2025年均价2598美元/吨，2026年为2679美元/吨，高于2024年的2418美元/吨。预计2025年铝市场过剩23.6万吨，2026年过剩25万吨。",
+          "url": "https://flash.jin10.com/detail/20251027210246275800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
+        },
+        {
           "title": "美团寻求通过发行美元和人民币优先票据，筹资30亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2993970",
           "source": "华尔街见闻-快讯",
@@ -1246,6 +1365,18 @@
           "time_info": "[12时17分 ~ 13时11分]"
         },
         {
+          "title": "路透调查：预计2025年铜市场短缺12.4万吨，2026年短缺15万吨。预计LME铜2025年均价为9752美元/吨，2026年为10500美元/吨，高于2024年的9143美元/吨。",
+          "url": "https://flash.jin10.com/detail/20251027210208542800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
+        },
+        {
           "title": "人民币兑美元中间价升至2024年10月15日来最高",
           "url": "https://wallstreetcn.com/livenews/2993882",
           "source": "华尔街见闻-快讯",
@@ -1256,6 +1387,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 10时41分]"
+        },
+        {
+          "title": "乌克兰央行将周二官方格里夫纳汇率设定为42.07比1美元，为纪录新低。",
+          "url": "https://flash.jin10.com/detail/20251027213634218800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "外媒称中美元首将在韩国举行会晤，外交部回应",
@@ -1302,17 +1444,6 @@
           "time_info": "20时15分"
         },
         {
-          "title": "路透调查：预计2025年锌市场过剩8万吨，2026年过剩23.9万吨。预计LME锌2025年均价2801美元/吨，2026年为2838美元/吨，略高于2024年的2777美元/吨。",
-          "url": "https://flash.jin10.com/detail/20251027210319591800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
           "title": "加通贝祥：将雅诗兰黛(EL.N)目标价从85美元上调至100美元。",
           "url": "https://flash.jin10.com/detail/20251027144659279800",
           "source": "金十数据",
@@ -1322,17 +1453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
-        },
-        {
-          "title": "交易员：阿根廷总统米莱及其盟友在周末选举中获胜后，阿根廷比索兑美元汇率升值6.57%，至1美元兑1,400比索。",
-          "url": "https://flash.jin10.com/detail/20251027210253800800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         },
         {
           "title": "纽约金日内跌幅达2%，报4051.8美元/盎司。",
@@ -1357,17 +1477,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "路透调查：预计LME铝2025年均价2598美元/吨，2026年为2679美元/吨，高于2024年的2418美元/吨。预计2025年铝市场过剩23.6万吨，2026年过剩25万吨。",
-          "url": "https://flash.jin10.com/detail/20251027210246275800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
           "title": "美、布两油开盘上涨0.8%，分别报61.67美元/桶和65.53美元/桶。",
           "url": "https://flash.jin10.com/detail/20251027060057038800",
           "source": "金十数据",
@@ -1379,15 +1488,15 @@
           "time_info": "07时08分"
         },
         {
-          "title": "路透调查：预计2025年铜市场短缺12.4万吨，2026年短缺15万吨。预计LME铜2025年均价为9752美元/吨，2026年为10500美元/吨，高于2024年的9143美元/吨。",
-          "url": "https://flash.jin10.com/detail/20251027210208542800",
-          "source": "金十数据",
+          "title": "阿根廷比索兑美元跃升10%，此前米莱赢得中期选举。",
+          "url": "https://wallstreetcn.com/livenews/2994390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "22时10分"
         },
         {
           "title": "澳元兑美元上涨0.6%，至0.6549，为10月10日以来的最高水平。澳洲联储主席称，对货币政策保持谨慎，基准利率可能不会像其他人预期的那样下降。",
@@ -1506,7 +1615,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1550,7 +1659,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1561,7 +1670,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1591,7 +1700,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "真急眼了？美军要打造“黄金舰队”",
@@ -1651,8 +1760,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时09分 ~ 21时18分]"
+          "appearance_count": 25,
+          "time_info": "[01时09分 ~ 22时10分]"
         },
         {
           "title": "现货黄金回落至4060美元/盎司下方，日内跌1.28%。",
@@ -1815,6 +1924,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "金十整理：最爱\"买\"黄金的央行 VS 最爱\"卖\"黄金的央行",
+          "url": "https://flash.jin10.com/detail/20251027212600338800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "四川黄金：第三季度净利润1.6亿元，同比增长184.38%；前三季度净利润3.7亿元，同比增长87.36%。",
           "url": "https://wallstreetcn.com/livenews/2994135",
           "source": "华尔街见闻-快讯",
@@ -1846,6 +1966,173 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 21时18分]"
+        },
+        {
+          "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
+          "url": "https://flash.jin10.com/detail/20251027190236928800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251027214435879800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 21时18分]"
+        },
+        {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 17时11分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 22时10分]"
+        },
+        {
+          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251027060229559800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 08时34分]"
+        },
+        {
+          "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20251027111943892800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "凯登斯银行美股盘前上涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20251027185322298800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美股三大股指高开",
+          "url": "https://flash.jin10.com/detail/20251027213047126800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美股三大股指高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
@@ -1946,7 +2233,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1957,7 +2244,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1986,118 +2273,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 21时18分]"
-        },
-        {
-          "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
-          "url": "https://flash.jin10.com/detail/20251027190236928800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 21时18分]"
-        },
-        {
-          "title": "美股盘前，科技股、中概股普涨",
-          "url": "https://wallstreetcn.com/livenews/2994104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 17时11分]"
-        },
-        {
-          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251027060229559800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时34分]"
-        },
-        {
-          "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20251027111943892800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "凯登斯银行美股盘前上涨3.2%。",
-          "url": "https://flash.jin10.com/detail/20251027185322298800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
-          "url": "https://flash.jin10.com/detail/20251027210443791800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2994370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "四季度eSSD涨幅据预测将达到10% 国产芯片概念股单日涨近17% 本周机构密集调研相关上市公司",
@@ -2175,6 +2352,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时41分 ~ 11时35分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线5连阳再冲4000大关，存储芯片股持续火爆，可控核聚变概念涨势重燃",
+          "url": "https://www.cls.cn/detail/2182068",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "【数据看盘】多只创业板ETF上周份额大减 机构激烈博弈存储芯片概念股",
+          "url": "https://www.cls.cn/detail/2182099",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "【图解牛熊股】存储芯片概念涨幅居前，CPO概念股异动拉升",
