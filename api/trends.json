@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T16:12:57.245866+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-10-27T17:11:08.370758+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -134,6 +134,17 @@
           "time_info": "[08时34分 ~ 13时11分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -201,7 +212,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -234,7 +245,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -249,6 +260,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时15分 ~ 16时12分]"
+        },
+        {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 17时11分]"
         },
         {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
@@ -302,18 +326,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时34分 ~ 10时41分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 16时12分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -404,7 +416,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -547,7 +559,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -602,7 +614,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -687,7 +699,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "给出100美元目标价！英伟达“唯一的空头”：这不是我第一次看到泡沫",
@@ -861,6 +873,17 @@
           "time_info": "[00时10分 ~ 06时09分]"
         },
         {
+          "title": "外媒称中美元首将在韩国举行会晤，外交部回应",
+          "url": "https://www.cls.cn/detail/2181806",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
           "title": "汇丰预计为麦道夫案相关诉讼计提11亿美元拨备。",
           "url": "https://wallstreetcn.com/livenews/2993814",
           "source": "华尔街见闻-快讯",
@@ -883,15 +906,16 @@
           "time_info": "15时10分"
         },
         {
-          "title": "外交部：中美元首之间保持着密切的沟通与交往",
-          "url": "https://wallstreetcn.com/livenews/2994099",
-          "source": "华尔街见闻-快讯",
+          "title": "在南海坠毁美军直升机单价超1亿美元",
+          "url": "https://www.toutiao.com/trending/7565702202031996947/",
+          "source": "今日头条",
           "ranks": [
+            8,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 17时11分]"
         },
         {
           "title": "评级机构KBW：将伯克希尔哈撒韦(BRK.A.N)评级从与大市一致下调至跑输大市；将目标价从735,000美元下调至700,000美元。",
@@ -929,6 +953,18 @@
           "time_info": "[13时11分 ~ 14时15分]"
         },
         {
+          "title": "外交部：中美元首之间保持着密切的沟通与交往",
+          "url": "https://wallstreetcn.com/livenews/2994099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 17时11分]"
+        },
+        {
           "title": "比特币升破112000美元",
           "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%8D%87%E7%A0%B4112000%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -940,6 +976,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时07分 ~ 07时08分]"
+        },
+        {
+          "title": "坠入南海美军机单价超1亿美元",
+          "url": "https://www.baidu.com/s?wd=%E5%9D%A0%E5%85%A5%E5%8D%97%E6%B5%B7%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%95%E4%BB%B7%E8%B6%851%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 17时11分]"
         },
         {
           "title": "泰国商务部：9月基于海关数据的贸易顺差为1.3亿美元（路透调查预估为0.1亿美元）。",
@@ -1020,18 +1068,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "在南海坠毁美军直升机单价超1亿美元",
-          "url": "https://www.toutiao.com/trending/7565702202031996947/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1045,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "纽约金日内跌幅达2%，报4051.8美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2994144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "现货钯金日内涨超2.00%，现报1430.26美元/盎司。",
@@ -1067,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "澳元兑美元上涨0.6%，至0.6549，为10月10日以来的最高水平。澳洲联储主席称，对货币政策保持谨慎，基准利率可能不会像其他人预期的那样下降。",
+          "url": "https://wallstreetcn.com/livenews/2994139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "伦锡日内涨幅扩大至2.00%，现报36375.00美元/吨。",
@@ -1119,9 +1178,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1109，较上一交易日官方收盘价涨121点，较上日夜盘收盘涨106点。",
+          "url": "https://wallstreetcn.com/livenews/2994130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "伦敦金属交易所（LME）三个月期铜创下每吨11035美元的2024年5月以来新高。",
@@ -1146,6 +1216,17 @@
           "time_info": "08时34分"
         },
         {
+          "title": "WTI原油向下触及61美元/桶，日内跌0.43%。",
+          "url": "https://flash.jin10.com/detail/20251027162947759800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "据韩联社：韩国总统李在明表示，韩国和美国在3500亿美元投资的问题上的贸易谈判仍然处于僵局。",
           "url": "https://flash.jin10.com/detail/20251027063530175800",
           "source": "金十数据",
@@ -1166,23 +1247,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        },
-        {
-          "title": "坠入南海美军机单价超1亿美元",
-          "url": "https://www.baidu.com/s?wd=%E5%9D%A0%E5%85%A5%E5%8D%97%E6%B5%B7%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%95%E4%BB%B7%E8%B6%851%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "真急眼了？美军要打造“黄金舰队”",
@@ -1193,8 +1263,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时37分 ~ 16时12分]"
+          "appearance_count": 10,
+          "time_info": "[09时37分 ~ 17时11分]"
         },
         {
           "title": "“人人都预期”的黄金崩盘发生了，现在人人都等着抄底？",
@@ -1210,6 +1280,20 @@
           "time_info": "[00时09分 ~ 11时35分]"
         },
         {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 17时11分]"
+        },
+        {
           "title": "打造黄金舰队,懂王和“金”杠上了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346238&amp;topic_name=%E6%89%93%E9%80%A0%E9%BB%84%E9%87%91%E8%88%B0%E9%98%9F%2C%E6%87%82%E7%8E%8B%E5%92%8C%E2%80%9C%E9%87%91%E2%80%9D%E6%9D%A0%E4%B8%8A%E4%BA%86",
           "source": "贴吧",
@@ -1221,25 +1305,12 @@
             16,
             19,
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时09分 ~ 16时12分]"
-        },
-        {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时41分 ~ 16时12分]"
+          "appearance_count": 19,
+          "time_info": "[01时09分 ~ 17时11分]"
         },
         {
           "title": "现货黄金回落至4060美元/盎司下方，日内跌1.28%。",
@@ -1325,6 +1396,17 @@
           "time_info": "[08时34分 ~ 13时11分]"
         },
         {
+          "title": "金银油下跌，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/livenews/2994148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "现货黄金持续反弹，重返4100美元/盎司关口上方，较日低反弹约40美元，日内跌幅收窄至0.2%。",
           "url": "https://wallstreetcn.com/livenews/2993807",
           "source": "华尔街见闻-快讯",
@@ -1347,6 +1429,17 @@
           "time_info": "08时34分"
         },
         {
+          "title": "黄金和白银价格回落，贵金属矿商美股盘前股价下跌，纽蒙特矿业(NEM.N)下跌3.4%，巴里克矿业(B.N)下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20251027163510344800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月27日（周一）早盘盘初下跌0.81%报934.0元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）早盘盘初上涨0.05%报11356.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251027090047145800",
           "source": "金十数据",
@@ -1367,6 +1460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "四川黄金：第三季度净利润1.6亿元，同比增长184.38%；前三季度净利润3.7亿元，同比增长87.36%。",
+          "url": "https://wallstreetcn.com/livenews/2994135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "上周美国CPI数据全线低于预期亦无法阻止金银录得周度跌势，周一盘初金银迎来震荡走势，当前现货黄金多头占优，白银显现卖出信号，繁忙的“超级央行周”即将在本周开启，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1557,7 +1661,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         }
@@ -1572,11 +1676,12 @@
           "url": "https://wallstreetcn.com/livenews/2994104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 17时11分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
