@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T06:09:46.829185+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2025-10-28T07:09:21.157467+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时09分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -25,22 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 06时09分]"
-        },
-        {
-          "title": "境内外人民币周一创下两个月来最大涨幅。 美元/离岸人民币1个月隐含波动率小幅升至2.7%，六个交易日以来首次上涨。",
-          "url": "https://wallstreetcn.com/livenews/2994549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 07时09分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.730%，投标倍数2.38。",
@@ -143,16 +133,41 @@
           "time_info": "[05时09分 ~ 06时09分]"
         },
         {
+          "title": "境内外人民币周一创下两个月来最大涨幅。 美元/离岸人民币1个月隐含波动率小幅升至2.7%，六个交易日以来首次上涨。",
+          "url": "https://wallstreetcn.com/livenews/2994549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时09分]"
+        },
+        {
           "title": "美元指数27日下跌",
           "url": "https://flash.jin10.com/detail/20251028042623888800",
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 07时09分]"
+        },
+        {
+          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
+          "url": "https://flash.jin10.com/detail/20251028052428627800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
+          "time_info": "[06时09分 ~ 07时09分]"
         },
         {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.504%，投标倍数2.59。",
@@ -251,6 +266,18 @@
           "time_info": "[04时09分 ~ 05时09分]"
         },
         {
+          "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2994543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时09分]"
+        },
+        {
           "title": "墨西哥国家石油公司：截至第三季度末，公司对供应商的债务为281.3亿美元。",
           "url": "https://flash.jin10.com/detail/20251028002853717800",
           "source": "金十数据",
@@ -323,17 +350,6 @@
           "time_info": "[01时21分 ~ 02时13分]"
         },
         {
-          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
-          "url": "https://flash.jin10.com/detail/20251028052428627800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
           "url": "https://wallstreetcn.com/livenews/2994438",
           "source": "华尔街见闻-快讯",
@@ -365,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2994543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的106.42亿美元。",
@@ -480,7 +485,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -491,8 +496,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时09分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -506,19 +511,6 @@
           "time_info": "[00时12分 ~ 05时09分]"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
-        },
-        {
           "title": "特朗普：很长时间内不想和加总理见面",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%95%BF%E6%97%B6%E9%97%B4%E5%86%85%E4%B8%8D%E6%83%B3%E5%92%8C%E5%8A%A0%E6%80%BB%E7%90%86%E8%A7%81%E9%9D%A2",
           "source": "百度热搜",
@@ -527,11 +519,12 @@
             26,
             22,
             10,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时09分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -542,7 +535,21 @@
             16,
             19,
             24,
-            18
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时09分]"
+        },
+        {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -571,17 +578,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
-          "url": "https://flash.jin10.com/detail/20251028054741724800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
           "url": "https://wallstreetcn.com/livenews/2994483",
           "source": "华尔街见闻-快讯",
@@ -593,6 +589,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 04时09分]"
+        },
+        {
+          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
+          "url": "https://flash.jin10.com/detail/20251028054741724800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时09分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -618,6 +626,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时13分]"
+        },
+        {
+          "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
+          "url": "https://news.ifeng.com/c/8nnpTggasmR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时09分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -654,15 +673,15 @@
           "time_info": "00时12分"
         },
         {
-          "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
-          "url": "https://news.ifeng.com/c/8nnpTggasmR",
-          "source": "凤凰网",
+          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "07时09分"
         },
         {
           "title": "加拿大安大略省省长：美国总统特朗普正在找借口不达成协议。",
@@ -690,7 +709,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄金跌破4000美元",
@@ -704,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时09分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -715,8 +734,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时09分]"
         },
         {
           "title": "打造黄金舰队,懂王和“金”杠上了",
@@ -744,26 +763,39 @@
           "time_info": "[01时21分 ~ 04时09分]"
         },
         {
-          "title": "现货黄金周二小幅高开，现报3984美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251028060140000800",
-          "source": "金十数据",
+          "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "07时09分"
+        },
+        {
+          "title": "现货黄金周二小幅高开，现报3984美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251028060140000800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时09分]"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
           "url": "https://wallstreetcn.com/livenews/2994556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时09分]"
         },
         {
           "title": "菲律宾央行（BSP）货币政策委员会成员Benjamin Diokno：鉴于避险需求退烧，是时候对菲央行“过剩的”黄金持仓获利了结了。",
@@ -802,6 +834,17 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少8.01吨，当前持仓量为1038.92吨。",
+          "url": "https://flash.jin10.com/detail/20251028060809381800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "南非股指下跌大约1.7%，追随现货黄金+纽约期金一度双双跌穿4000美元的表现。",
           "url": "https://wallstreetcn.com/livenews/2994427",
           "source": "华尔街见闻-快讯",
@@ -838,7 +881,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -856,11 +899,38 @@
           "url": "https://wallstreetcn.com/livenews/2994554",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时09分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 07时09分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 07时09分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -875,18 +945,6 @@
           "time_info": "[01时21分 ~ 02时13分]"
         },
         {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
           "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251028003030671800",
           "source": "金十数据",
@@ -897,18 +955,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
         },
         {
           "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
@@ -933,6 +979,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
@@ -987,11 +1044,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时09分 ~ 07时09分]"
         }
       ]
     },
