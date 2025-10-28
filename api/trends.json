@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T11:39:07.065939+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2025-10-28T12:10:11.880436+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -21,8 +21,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时21分 ~ 11时39分]"
+          "appearance_count": 17,
+          "time_info": "[01时21分 ~ 12时10分]"
         },
         {
           "title": "30亿美元！美团史上最大规模发债，为“外卖大战”补充弹药",
@@ -34,8 +34,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 12时10分]"
+        },
+        {
+          "title": "印度卢比兑美元贬至两周低点88.40。 交易员称，印度央行可能在抛售美元以支撑卢比。",
+          "url": "https://wallstreetcn.com/livenews/2994750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "布伦特原油向下触及65美元/桶，日内跌0.45%。",
@@ -207,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时09分]"
+        },
+        {
+          "title": "大和资本市场：将福特汽车(F.N)目标价从11美元上调至13美元。",
+          "url": "https://flash.jin10.com/detail/20251028111935881800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时10分]"
         },
         {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.504%，投标倍数2.59。",
@@ -389,15 +412,15 @@
           "time_info": "[01时21分 ~ 02时13分]"
         },
         {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从11美元上调至13美元。",
-          "url": "https://flash.jin10.com/detail/20251028111935881800",
+          "title": "印度卢比兑美元跌至两周低点88.40，最新报88.36。",
+          "url": "https://flash.jin10.com/detail/20251028114321120800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "12时10分"
         },
         {
           "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
@@ -409,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "交易商表示，印度央行可能正在抛售美元以支撑卢比。",
+          "url": "https://flash.jin10.com/detail/20251028114142226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "美国财政部拍卖690亿美元2年期国债，得标利率3.504%，投标倍数2.59。",
@@ -549,7 +583,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -579,7 +613,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -615,8 +649,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时12分 ~ 11时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时12分 ~ 12时10分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -661,8 +695,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时09分 ~ 11时39分]"
+          "appearance_count": 9,
+          "time_info": "[07时09分 ~ 12时10分]"
         },
         {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
@@ -673,8 +707,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 11时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 12时10分]"
         },
         {
           "title": "特朗普：愿意延长亚洲行与金正恩会面",
@@ -685,8 +719,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时34分 ~ 11时39分]"
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 12时10分]"
+        },
+        {
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 12时10分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -769,19 +817,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 11时39分]"
-        },
-        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -819,6 +854,17 @@
           "time_info": "[02时13分 ~ 04时09分]"
         },
         {
+          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
+          "url": "https://news.ifeng.com/c/8noQCRgOldf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 12时10分]"
+        },
+        {
           "title": "特朗普与高市早苗的“同盟秀”",
           "url": "https://www.toutiao.com/trending/7565899265139019300/",
           "source": "今日头条",
@@ -844,17 +890,6 @@
           "time_info": "[01时21分 ~ 03时08分]"
         },
         {
-          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
-          "url": "https://news.ifeng.com/c/8noQCRgOldf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
-        },
-        {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
           "url": "https://flash.jin10.com/detail/20251028004039681800",
           "source": "金十数据",
@@ -876,6 +911,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时09分]"
+        },
+        {
+          "title": "特朗普东京下榻酒店军犬检查车辆",
+          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -910,6 +956,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
+          "url": "https://flash.jin10.com/detail/20251028114540746800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "特朗普谈美军机南海坠毁原因",
@@ -1127,7 +1184,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
@@ -1135,8 +1192,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 12时10分]"
+        },
         {
           "title": "黄金跌破4000美元",
           "url": "https://www.douyin.com/hot/2285336",
@@ -1147,22 +1215,12 @@
             5,
             4,
             1,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时39分]"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时34分 ~ 11时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 12时10分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -1175,6 +1233,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时12分 ~ 09时37分]"
+        },
+        {
+          "title": "黄金失守4000美元大关",
+          "url": "https://www.toutiao.com/trending/7566043393697009202/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            1,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 12时10分]"
         },
         {
           "title": "打造黄金舰队,懂王和“金”杠上了",
@@ -1202,17 +1274,16 @@
           "time_info": "[01时21分 ~ 04时09分]"
         },
         {
-          "title": "黄金失守4000美元大关",
-          "url": "https://www.toutiao.com/trending/7566043393697009202/",
-          "source": "今日头条",
+          "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
+          "url": "https://www.cls.cn/detail/2182758",
+          "source": "财联社热门",
           "ranks": [
-            30,
-            1,
-            21
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时34分 ~ 11时39分]"
+          "time_info": "[10时38分 ~ 12时10分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -1224,6 +1295,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
+          "url": "https://www.cls.cn/detail/2182631",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 12时10分]"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251028115304763800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "现货黄金周二小幅高开，现报3984美元/盎司。",
@@ -1251,28 +1345,17 @@
           "time_info": "[06时09分 ~ 07时09分]"
         },
         {
-          "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
-          "url": "https://www.cls.cn/detail/2182758",
-          "source": "财联社热门",
+          "title": "京东黄金降价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E9%BB%84%E9%87%91%E9%99%8D%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D18%26cate%3D5001%26flag%3D1%26pos%3D18%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E9%25BB%2584%25E9%2587%2591%25E9%2599%258D%25E4%25BB%25B7%2523%26realpos%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761622336%26pre_seqid%3D17616223369190195585846",
+          "source": "微博",
           "ranks": [
-            8,
-            7
+            18,
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时38分 ~ 11时39分]"
-        },
-        {
-          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
-          "url": "https://www.cls.cn/detail/2182631",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 11时39分]"
+          "time_info": "[11时38分 ~ 12时10分]"
         },
         {
           "title": "现货黄金跌破4000美元/盎司",
@@ -1334,6 +1417,18 @@
           "time_info": "[07时09分 ~ 08时34分]"
         },
         {
+          "title": "现货黄金短线持续走低，目前报3984美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2994720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 12时10分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 10月27日（周一）晚盘收盘下跌1.79%报917.9元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）晚盘收盘下跌2.3%报11122.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251028023058504800",
           "source": "金十数据",
@@ -1346,15 +1441,16 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
-          "title": "京东黄金降价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E9%BB%84%E9%87%91%E9%99%8D%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D18%26cate%3D5001%26flag%3D1%26pos%3D18%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E9%25BB%2584%25E9%2587%2591%25E9%2599%258D%25E4%25BB%25B7%2523%26realpos%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761622336%26pre_seqid%3D17616223369190195585846",
-          "source": "微博",
+          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251028110428303800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
+          "time_info": "[11时39分 ~ 12时10分]"
         },
         {
           "title": "黄金",
@@ -1378,17 +1474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        },
-        {
-          "title": "现货黄金短线持续走低，目前报3984美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2994720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         },
         {
           "title": "上海黄金交易所黄金T+D 10月28日（周二）早盘盘初下跌1.92%报916.65元/克；<br/>上海黄金交易所白银T+D 10月28日（周二）早盘盘初下跌2.1%报11145.0元/千克。",
@@ -1457,17 +1542,6 @@
           "time_info": "10时39分"
         },
         {
-          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251028110428303800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
           "title": "黄金惊变",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%83%8A%E5%8F%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%2583%258A%25E5%258F%2598%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D22%26cate%3D5001%26band_rank%3D22%26pos%3D21%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1761611008%26pre_seqid%3D17616110089240195191463",
           "source": "微博",
@@ -1485,7 +1559,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         },
@@ -1539,8 +1613,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时09分 ~ 11时39分]"
+          "appearance_count": 9,
+          "time_info": "[07时09分 ~ 12时10分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高",
@@ -1668,8 +1742,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时34分 ~ 11时39分]"
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 12时10分]"
+        },
+        {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 12时10分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1694,17 +1779,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时37分 ~ 10时39分]"
-        },
-        {
-          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
-          "url": "https://wallstreetcn.com/articles/3758018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "国际金价跌穿4000美元关口，抛售加剧",
