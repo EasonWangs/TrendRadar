@@ -1,1512 +1,44 @@
 {
-  "generated_at": "2025-10-28T23:10:11.040615+08:00",
-  "total_titles_processed": 2192,
+  "generated_at": "2025-10-29T00:11:59.263161+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 105,
+      "keyword_group": "特朗普",
+      "match_count": 12,
       "titles": [
         {
-          "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
-          "url": "https://www.cls.cn/detail/2182542",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            7,
-            6,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时21分 ~ 13时11分]"
-        },
-        {
-          "title": "30亿美元！美团史上最大规模发债，为“外卖大战”补充弹药",
-          "url": "https://wallstreetcn.com/articles/3757957",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时12分 ~ 14时12分]"
-        },
-        {
-          "title": "特朗普：我们将重新开始造船，很快就会这么做。 我们将与日本合作造船。 日本是美国的大投资者。 丰田将在美国建厂，价值将高达100亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994894",
+          "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/2995246",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "00时11分"
         },
         {
-          "title": "Prosus在10月20-24日当周回购0.442亿欧元（折合超0.51亿美元）股票，均价58.7980欧元，回购75.1995万股。 Naspers同期回购将近4.91亿南非兰特（折合超0.28亿美元）股票，均价1211.6259兰特，回购40.5216万股。",
-          "url": "https://wallstreetcn.com/livenews/2995223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美国总统特朗普：丰田将在美国建造价值高达100亿美元的工厂。",
-          "url": "https://flash.jin10.com/detail/20251028155533375800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "星巴克据悉将博裕视为收购其中国业务控股权的领跑竞标者，交易对星巴克中国的估值可能超过40亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2995126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "布伦特原油向下触及65美元/桶，日内跌0.45%。",
-          "url": "https://flash.jin10.com/detail/20251028080106680800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "萨博公司获得美国陆军订单，采购Giraffe 1X雷达，订单价值约为4600万美元。",
-          "url": "https://flash.jin10.com/detail/20251028230106762800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "WTI原油跌破61美元/桶，日内跌0.58%。",
-          "url": "https://flash.jin10.com/detail/20251028080053323800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "现货钯金跌超3%，至每盎司1,359.70美元。",
-          "url": "https://flash.jin10.com/detail/20251028163511927800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "市场消息：由Peter Thiel支持的一家初创公司估值已超过10亿美元，计划挑战全球光刻机巨头阿斯麦(ASML.O)。",
-          "url": "https://flash.jin10.com/detail/20251028210115354800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "铀相关股票在美国达成800亿美元新建核电站协议后上涨，Oklo上涨2.9%，Nuscale Power上涨14.1%，Nano Nuclear上涨6.2%。",
-          "url": "https://flash.jin10.com/detail/20251028225900624800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.730%，投标倍数2.38。",
-          "url": "https://wallstreetcn.com/livenews/2994474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时08分]"
-        },
-        {
-          "title": "伦铜创收盘历史新高，首次收于1.1万美元上方",
-          "url": "https://wallstreetcn.com/livenews/2994486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时09分]"
-        },
-        {
-          "title": "Cadence Design三季度营收13.4亿美元，分析师预期13.2亿美元。 三季度调整后EPS为1.93美元，分析师预期1.79美元。",
-          "url": "https://wallstreetcn.com/livenews/2994521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时09分]"
-        },
-        {
-          "title": "美元兑日元日内累计走低近百点，目前报151.90。",
-          "url": "https://wallstreetcn.com/livenews/2994771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时12分]"
-        },
-        {
-          "title": "日本公布5500亿美元对美投资计划中的潜在项目清单",
-          "url": "https://wallstreetcn.com/livenews/2994959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 18时10分]"
-        },
-        {
-          "title": "周一（10月27日），韩元兑美元最终涨0.44%，报1432.49韩元，大部分时间高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2994484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时09分]"
-        },
-        {
-          "title": "周一（10月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报7.1093元，较上周五纽约尾盘涨168点——创8月28日（当天涨337点）以来最大单日涨幅，日内整体交投于7.1254-7.1027元区间。",
-          "url": "https://wallstreetcn.com/livenews/2994541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "在岸人民币兑美元早盘走高，一度涨破7.10关口，触及7.0995元，创2024年11月来新高，日内涨逾70点。",
-          "url": "https://wallstreetcn.com/livenews/2994689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 11时39分]"
-        },
-        {
-          "title": "印度卢比兑美元贬至两周低点88.40。 交易员称，印度央行可能在抛售美元以支撑卢比。",
-          "url": "https://wallstreetcn.com/livenews/2994750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时11分]"
-        },
-        {
-          "title": "离岸人民币兑美元短线拉升约40点，现报7.0981。",
-          "url": "https://wallstreetcn.com/livenews/2994955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 18时10分]"
-        },
-        {
-          "title": "WTI原油期货涨幅收窄至0.3%，暂报61.69美元。 乌克兰总统泽连斯基：乌克兰将扩大针对俄罗斯炼油厂的打击。",
-          "url": "https://wallstreetcn.com/livenews/2994442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时21分]"
-        },
-        {
-          "title": "Blackline涨5%。 彭博援引知情人士报道称，德国思爱普Sap今年稍早接触软件公司Blackline。 Sap给出接近60美元的收购报价，但被拒绝，（双方）现阶段没有任何沟通。",
-          "url": "https://wallstreetcn.com/livenews/2994498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
-        },
-        {
-          "title": "诺华第三季度核心每股收益2.25美元，预估2.26美元。 第三季度销售净额139.1亿美元，预估138.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 15时09分]"
-        },
-        {
-          "title": "美元兑日元USD/JPY失守152，日内跌幅0.58%。",
-          "url": "https://flash.jin10.com/detail/20251028124645354800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时12分]"
-        },
-        {
-          "title": "周一（10月27日）纽约尾盘，美元兑日元涨0.02%，报152.89日元，日内交投区间为152.57-153.26日元。",
-          "url": "https://wallstreetcn.com/livenews/2994538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "境内外人民币周一创下两个月来最大涨幅。 美元/离岸人民币1个月隐含波动率小幅升至2.7%，六个交易日以来首次上涨。",
-          "url": "https://wallstreetcn.com/livenews/2994549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时09分]"
-        },
-        {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20251028042623888800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时09分]"
-        },
-        {
-          "title": "以太坊跌破4100美元/枚，日内跌1.45%。",
-          "url": "https://flash.jin10.com/detail/20251028052428627800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时09分]"
-        },
-        {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从11美元上调至13美元。",
-          "url": "https://flash.jin10.com/detail/20251028111935881800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时10分]"
-        },
-        {
-          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.504%，投标倍数2.59。",
-          "url": "https://wallstreetcn.com/livenews/2994440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时21分]"
-        },
-        {
-          "title": "WTI 12月原油期货收跌0.19美元，跌幅0.31%，报61.31美元/桶。 布伦特12月原油期货收跌0.32美元，跌幅0.49%，报65.62美元/桶。 中东Abu Dhabi Murban原油期货跌1.16%，报68.11美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2994495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
-        },
-        {
-          "title": "黑石与沙特AI公司Humain签署30亿美元数据中心协议",
-          "url": "https://wallstreetcn.com/livenews/2995198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 23时10分]"
-        },
-        {
-          "title": "据知情人士透露，私募Cinven考虑按至多30亿欧元（折合35亿美元）估值出售德国软件开发公司Think-Cell。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2994439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时21分]"
-        },
-        {
-          "title": "尽管墨西哥政府提供410亿美元扶持资金，但石油公司Pemex仍报告亏损",
-          "url": "https://wallstreetcn.com/livenews/2994512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时09分]"
-        },
-        {
-          "title": "墨西哥石油公司Pemex：2025年石油对冲带来1.576亿美元（收入），保护了38%的风险敞口。",
-          "url": "https://wallstreetcn.com/livenews/2994462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "阿根廷比索兑美元涨3.8%。",
-          "url": "https://wallstreetcn.com/livenews/2994490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
-        },
-        {
-          "title": "周一（10月27日），美联储隔夜逆回购协议（RRP）使用规模为106.42亿美元（13家交易对手），上个交易日（仅仅四家交易对手）报24.35亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 03时08分]"
-        },
-        {
-          "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
-          "url": "https://wallstreetcn.com/livenews/2994510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时09分]"
-        },
-        {
-          "title": "周一（10月27日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨3.61%，逼近11.5万美元，亚太盘初短线拉升之后，剩余时间持续高位震荡，北京时间15:06曾涨穿11.65万美元。 CME以太币期货DCR主力合约涨4.92%，报4138.50美元，亚太盘初“跳空高开”之后，持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2994543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时09分]"
-        },
-        {
-          "title": "墨西哥国家石油公司：截至第三季度末，公司对供应商的债务为281.3亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028002853717800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/2994508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时09分]"
-        },
-        {
-          "title": "恩智浦三季度营收31.7亿美元，分析师预期31.6亿美元。 三季度调整后自由现金流（FCF）为5.09亿美元，分析师预期7.62亿美元。 预计四季度营收32亿-34亿美元，分析师预期32.3亿美元。 预计四季度调整后毛利润率57%-58%，分析师预期57.5%。 预计四季度调整后运营利润10.8亿-12.1亿美元，分析师预期11.1亿美元。 恩智浦（NXPI）盘后涨超1.1%。",
-          "url": "https://wallstreetcn.com/livenews/2994527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "土耳其总统埃尔多安：与英国决定把贸易规模扩大至400亿美元。 双方希望在能源、防务领域构建新的合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/2994456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "前明星交易员Tom Hayes起诉瑞银索赔4亿美元，声称自己成替罪羊",
-          "url": "https://wallstreetcn.com/livenews/2994525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "美元兑加元持稳，暂报1.4。 加拿大股指维持0.6%的跌幅，暂报30167点。 加拿大安大略省长Doug Ford表示，美国人正在钢铁贸易问题上欺诈加拿大。 在加拿大与美国贸易磋商中，汽车行业（的重要性）已经下滑。",
-          "url": "https://wallstreetcn.com/livenews/2994454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "据The Information：苹果供应商Skyworks与竞争对手科沃展开谈判，拟以80亿美元收购后者。",
-          "url": "https://flash.jin10.com/detail/20251028133713682800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "WTI原油日内跌超1%，现报60.73美元/桶；布伦特原油跌0.97%。",
-          "url": "https://flash.jin10.com/detail/20251028154954946800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "伦敦金银市场协会（LBMA）调查：预计一年后银价将达每盎司59.1美元。",
-          "url": "https://flash.jin10.com/detail/20251028162845258800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "日本首席贸易谈判代表赤泽亮正：汽车项目可能纳入5500亿美元基金项目。汽车对经济安全也很重要。",
-          "url": "https://flash.jin10.com/detail/20251028174933132800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "印度卢比兑美元跌至两周低点88.40，最新报88.36。",
-          "url": "https://flash.jin10.com/detail/20251028114321120800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "美元兑日元USD/JPY日内跌幅达0.50%，现报152.11。",
-          "url": "https://flash.jin10.com/detail/20251028123709570800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
-          "url": "https://wallstreetcn.com/livenews/2994438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "交易商表示，印度央行可能正在抛售美元以支撑卢比。",
-          "url": "https://flash.jin10.com/detail/20251028114142226800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "高盛：维持看空观点，预计铁矿石价格将在2026年第四季度降至88美元/吨（此前预期为80美元/吨）。",
-          "url": "https://flash.jin10.com/detail/20251028195057216800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "美国财政部拍卖690亿美元2年期国债，得标利率3.504%，投标倍数2.59。",
-          "url": "https://flash.jin10.com/detail/20251027233259506800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "高盛：将2026年铁矿石价格预测上调至每吨93美元。",
-          "url": "https://flash.jin10.com/detail/20251028194941232800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
-          "url": "https://wallstreetcn.com/livenews/2994435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的106.42亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028011953731800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "日本首席贸易谈判代表赤泽亮正：5500亿美元基金不仅仅用于日本企业。",
-          "url": "https://flash.jin10.com/detail/20251028174358050800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "现货钯金日内跌幅达2.00%，现报1359.13美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251028145050142800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "台积电放弃4亿美元光刻机背后",
-          "url": "https://www.toutiao.com/trending/7565838343225740806/",
+          "title": "特朗普在美航母上讲话时用手拍导弹",
+          "url": "https://www.toutiao.com/trending/7565827783251755027/",
           "source": "今日头条",
           "ranks": [
-            13
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "汇丰第三季度税前利润73亿美元，同比下降14%。 第三季度营收178亿美元。 第三季度预期信贷损失提拨净额10.1亿美元。 第三次每股中期股息0.10美元。 第三季度普通股一级资本充足率14.5％。 9个月除税前利润231.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "美国政府与西屋电气签署800亿美元核反应堆协议",
-          "url": "https://wallstreetcn.com/livenews/2994990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美国银行：日本央行本周料将按兵不动，但会为“下次（政策会议决定）加息提供线索”。 预计日本央行将为加息前景释放鹰派信号。 这可能和美国与日本首脑会面推高美元兑日元。",
-          "url": "https://wallstreetcn.com/livenews/2995209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "现货白银日内跌幅达4.5%，报46.4美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2994425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "现货钯金下跌近3%，至每盎司1,377.75美元。",
-          "url": "https://flash.jin10.com/detail/20251027232837994800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "加拿大铀矿公司Cameco在美国上市的股票盘前上涨13.5%。此前该公司与西屋电气（Westinghouse Electric）及Brookfield资产管理公司携手美国政府，合作建设价值800亿美元的核反应堆。",
-          "url": "https://flash.jin10.com/detail/20251028173844441800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "苹果挺进4万亿美元市值俱乐部",
-          "url": "https://flash.jin10.com/detail/20251028215423003800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1071元，较上周五夜盘收盘涨144点。成交量451.82亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "伦敦金银市场协会会议调查：银价一年后料升至每盎司59.1美元。",
-          "url": "https://wallstreetcn.com/livenews/2994927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "苹果市值突破4万亿美元 成史上第三家达到这一里程碑的上市公司",
-          "url": "https://wallstreetcn.com/livenews/2995185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "市场消息：星巴克(SBUX.O)认为博裕资本是其中国业务的领先竞标者。博裕资本寻求收购星巴克中国的控股权。该交易可能使星巴克中国的估值超过40亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028194130208800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "COMEX白银期货日内跌幅达4.5%，报46.39美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2994420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "知情人士称，中国干细胞疗法开发企业Pollon Life已经以保密方式申请在香港进行首次公开募股(IPO)，或筹资约3亿美元或更多。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2995132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "汇丰控股(00005.HK)：已完成于7月30日宣布的30亿美元股票回购。",
-          "url": "https://flash.jin10.com/detail/20251028120943239800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "沙特主权财富基金总裁亚西尔·鲁梅扬：去年外国投资达10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028143632772800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "新东方(EDU.N)：根据股份回购计划，公司可能在未来12个月内回购最多3亿美元的美国存托股（ADS）或普通股。",
-          "url": "https://flash.jin10.com/detail/20251028173723918800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：通用电气旗下的GE Vernova计划在能源领域投资最高达1,000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028182538038800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "瑞穗银行：将美光科技(MU.O)目标价从240美元上调至265美元。",
-          "url": "https://flash.jin10.com/detail/20251028192756752800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "瑞银集团：将亚马逊(AMZN.O)目标价从271美元上调至279美元。",
-          "url": "https://flash.jin10.com/detail/20251028214901842800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "PayPal第三季度净营收84.2亿美元，预估82.4亿美元。 第三季度调整后每股收益1.34美元，预估1.20美元。 第三季度调整后运营收益15.7亿美元，预估14.4亿美元。 PayPal预计第四季度调整后每股收益1.27美元至1.31美元。 PayPal仍然预测全年自由现金流60亿美元至70亿美元，市场预估60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2995086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "阿根廷比索兑美元开盘下跌1.4%，选举行情暂歇。",
-          "url": "https://wallstreetcn.com/livenews/2995177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美国能源部与AMD达成10亿美元合作 打造两台超级计算机",
-          "url": "https://flash.jin10.com/detail/20251027230638735800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "印度石油公司董事长：公司在俄罗斯油田的股份分红3亿美元，但资金滞留在俄罗斯的银行中。",
-          "url": "https://flash.jin10.com/detail/20251028152526503800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：软银承诺投资250亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028182406366800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "星巴克据悉将博裕视为收购其中国业务控股权的领跑竞标者，交易对星巴克中国的估值可能超过40亿美元。博裕对星巴克中国的出价据悉高于凯雷等其他竞标者。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2995126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "墨西哥比索兑美元上涨，此前墨西哥总统辛鲍姆表示美国延长贸易截止日期。",
-          "url": "https://flash.jin10.com/detail/20251027230541508800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "据法新社：英国斯塔默表示已与土耳其达成价值 110 亿美元的欧洲战斗机协议。",
-          "url": "https://flash.jin10.com/detail/20251028001203173800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "芝加哥期货交易所的大豆期货上攻每蒲式耳11美元关口，创下15 个月以来的最高水平，延续周一单日大涨2.3%的强劲走势。",
-          "url": "https://wallstreetcn.com/livenews/2994853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "英镑兑美元下跌0.5%至1.3270，为两周以来最低。",
-          "url": "https://wallstreetcn.com/livenews/2995175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "日本首席贸易谈判代表赤泽亮正：资料清单中的各项项目总额约为4,000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028173215158800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：Bechtel公司承诺投资最高达250亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028182250739800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：5500亿美元对美投资计划中包含汽车项目一事尚未确定。",
-          "url": "https://wallstreetcn.com/livenews/2995030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "菲律宾比索兑美元汇率跌至59，创纪录低位。",
-          "url": "https://wallstreetcn.com/livenews/2994646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "联合健康第三季度调整后每股收益为2.92美元，去年同期为7.15美元，市场预期为2.83美元。 第三季度每股收益为2.59美元，去年同期为6.51美元。 预计全年调整后每股收益至少为16.25美元，此前预期至少为16美元，市场预期为16.23美元。 预计全年每股收益至少为14.90美元，此前预期至少为14.65美元。",
-          "url": "https://wallstreetcn.com/livenews/2995029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：西屋公司将投资高达1000亿美元用于核反应堆项目。",
-          "url": "https://flash.jin10.com/detail/20251028182149996800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "布伦特原油日内跌幅达1.5%，报63.92美元/桶；WTI原油日内跌幅达1.5%，报60.34美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/2994902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "新东方：预计分两期将予派付的现金股息总额大约将为1.9亿美元",
-          "url": "https://wallstreetcn.com/livenews/2995028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：将在日本签署4900亿美元投资协议。",
-          "url": "https://flash.jin10.com/detail/20251028182118476800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "以太坊失守4100美元/枚，日内跌幅0.56%。",
-          "url": "https://flash.jin10.com/detail/20251028105043863800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "市场消息：美国能源部与AMD(AMD.O)达成10亿美元合作，共同打造两台超级计算机。",
-          "url": "https://flash.jin10.com/detail/20251027230037831800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0856，上调25点；上一交易日中间价7.0881，上一交易日官方收盘价7.1109，上日夜盘报收7.1071。",
-          "url": "https://wallstreetcn.com/livenews/2994640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 104,
-      "titles": [
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 07时09分]"
-        },
-        {
-          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
-          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "time_info": "00时11分"
         },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
           "url": "https://v.ifeng.com/c/8noT1p8iWLt",
           "source": "凤凰网",
           "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时09分 ~ 23时10分]"
-        },
-        {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6,
-            22,
-            25,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时38分 ~ 20时14分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时10分]"
-        },
-        {
-          "title": "特朗普：很长时间内不想和加总理见面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%95%BF%E6%97%B6%E9%97%B4%E5%86%85%E4%B8%8D%E6%83%B3%E5%92%8C%E5%8A%A0%E6%80%BB%E7%90%86%E8%A7%81%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26,
-            22,
-            10,
-            8,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 08时34分]"
-        },
-        {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            16,
-            19,
-            24,
-            18,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时37分]"
-        },
-        {
-          "title": "特朗普：愿意延长亚洲行与金正恩会面",
-          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时34分 ~ 13时11分]"
-        },
-        {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10,
-            7,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时37分 ~ 14时12分]"
-        },
-        {
-          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时09分 ~ 12时10分]"
-        },
-        {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时11分 ~ 20时14分]"
-        },
-        {
-          "title": "特朗普自顾自检阅 高市早苗原地愣住",
-          "url": "https://www.toutiao.com/trending/7565434042020007460/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时08分]"
-        },
-        {
-          "title": "特朗普演讲时当众搂住高市早苗",
-          "url": "https://www.toutiao.com/trending/7565434042020056612/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
-        },
-        {
-          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
-          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
-        },
-        {
-          "title": "特朗普：愿为金正恩延长亚洲行程",
-          "url": "https://www.toutiao.com/trending/7565122061997785115/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "美国总统特朗普：日本是美国的大投资者。",
-          "url": "https://flash.jin10.com/detail/20251028155739360800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "知情人士：莫迪缺席马来西亚峰会，原因是担心特朗普谈及巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20251028210218375800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "高市早苗欲送特朗普安倍球杆",
-          "url": "https://www.toutiao.com/trending/7566037915437141513/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            18,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时34分 ~ 11时39分]"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            5,
-            22,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 18时10分]"
-        },
-        {
-          "title": "特朗普谈南海坠机：或用了劣质燃料",
-          "url": "https://www.toutiao.com/trending/7565133400080846342/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
-          "url": "https://flash.jin10.com/detail/20251028100012683800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普将于当地时间周三下午12:05（北京时间11:05）在APEC首席执行官午宴上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251028184042152800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "特朗普将于周三12:05在韩国举行的亚太经合组织会议上发表主旨演讲。",
-          "url": "https://wallstreetcn.com/livenews/2995066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "00时11分"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -1516,216 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时14分 ~ 23时10分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)CEO库克出席了在东京举行的美国总统特朗普晚宴。",
-          "url": "https://flash.jin10.com/detail/20251028183803091800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美国总统特朗普：感谢日本首相的欢迎。 正签署一项新协议，这是一项非常公平的协议。 我们将一起开展大量贸易。",
-          "url": "https://wallstreetcn.com/livenews/2994635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "特朗普将于韩国当地时间周三下午6:30与韩国总统共进晚餐。",
-          "url": "https://wallstreetcn.com/livenews/2995065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美国官员：特朗普下周可能会见乌兹别克斯坦总统。",
-          "url": "https://wallstreetcn.com/livenews/2995155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
-          "url": "https://flash.jin10.com/detail/20251028145714701800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "美国总统特朗普：我们又开始造船了，我们很快就会造。",
-          "url": "https://flash.jin10.com/detail/20251028155313523800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普将于当地时间周三晚上6:30与韩国总统共进晚餐。",
-          "url": "https://flash.jin10.com/detail/20251028183750402800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时14分 ~ 23时10分]"
-        },
-        {
-          "title": "据日本电视台（NTV）：日本首相高市早苗正在进行最后协调，准备推荐提名特朗普获得诺贝尔和平奖。",
-          "url": "https://flash.jin10.com/detail/20251028075437084800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
-          "url": "https://flash.jin10.com/detail/20251028090353703800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
-          "url": "https://news.ifeng.com/c/8noQCRgOldf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 13时11分]"
-        },
-        {
-          "title": "特朗普再提2028参选可能，点名两个潜在接班人",
-          "url": "https://news.ifeng.com/c/8noQCRgOldf",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时34分 ~ 10时39分]"
-        },
-        {
-          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
-          "url": "https://flash.jin10.com/detail/20251028054741724800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时09分 ~ 08时34分]"
-        },
-        {
-          "title": "特朗普1分钟内两次无视高市早苗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D24%26realpos%3D24%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D0%26pos%3D25%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE1%25E5%2588%2586%25E9%2592%259F%25E5%2586%2585%25E4%25B8%25A4%25E6%25AC%25A1%25E6%2597%25A0%25E8%25A7%2586%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26dgr%3D0%26display_time%3D1761652913%26pre_seqid%3D17616529133490132787126",
-          "source": "微博",
-          "ranks": [
-            24,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时17分]"
-        },
-        {
-          "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/2994483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 04时09分]"
-        },
-        {
-          "title": "特朗普东京下榻酒店军犬检查车辆",
-          "url": "https://www.toutiao.com/trending/7565376015993356324/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时12分]"
-        },
-        {
-          "title": "特朗普与高市早苗的“同盟秀”",
-          "url": "https://www.toutiao.com/trending/7565899265139019300/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时34分 ~ 10时39分]"
-        },
-        {
-          "title": "特朗普略过日本国旗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D18%26c_type%3D31%26pos%3D18%26flag%3D1%26display_time%3D1761641670%26pre_seqid%3D17616416708570195468977",
-          "source": "微博",
-          "ranks": [
-            18,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 19时08分]"
+          "time_info": "00时11分"
         },
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -1735,2177 +59,357 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时08分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "特朗普和高市早苗登华盛顿号航母",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8F%B7%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 20时14分]"
-        },
-        {
-          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
-          "url": "https://wallstreetcn.com/livenews/2994466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时08分]"
-        },
-        {
-          "title": "特朗普与高市早苗一同乘机登上美航母",
-          "url": "https://www.toutiao.com/trending/7565775120976429082/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时08分]"
-        },
-        {
-          "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
-          "url": "https://flash.jin10.com/detail/20251028114540746800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时11分]"
-        },
-        {
-          "title": "据日本共同社：日本首相高市早苗周二在与美国总统特朗普的首次会晤中表示，为纪念美国建国250周年，日本将于明年向华盛顿捐赠250棵樱花树。",
-          "url": "https://flash.jin10.com/detail/20251028124115417800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时12分]"
-        },
-        {
-          "title": "学者：特朗普的“慢刀子”扎进俄死穴",
-          "url": "https://www.toutiao.com/trending/7566111913025900074/",
-          "source": "今日头条",
-          "ranks": [
-            27,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时11分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
-          "url": "https://flash.jin10.com/detail/20251028004039681800",
-          "source": "金十数据",
+          "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
+          "url": "https://wallstreetcn.com/livenews/2995230",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            25
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "高市早苗想推荐特朗普角逐和平奖",
-          "url": "https://www.toutiao.com/trending/7566126453180452390/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 15时09分]"
-        },
-        {
-          "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
-          "url": "https://news.ifeng.com/c/8nnpTggasmR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时09分]"
-        },
-        {
-          "title": "特朗普：美国核潜艇就在俄海岸附近",
-          "url": "https://www.toutiao.com/trending/7565925591850663979/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时08分]"
-        },
-        {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D23%26realpos%3D22%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D22%26dgr%3D0%26display_time%3D1761618941%26pre_seqid%3D17616189410870284981292",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "特朗普到底薅了全世界多少钱",
-          "url": "https://www.toutiao.com/trending/7565875834884460086/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时09分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
           "source": "百度热搜",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时12分]"
-        },
-        {
-          "title": "高市早苗会见特朗普 现场奏美国国歌",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE+%E7%8E%B0%E5%9C%BA%E5%A5%8F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E6%AD%8C",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "特朗普谈美军机南海坠毁原因",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26pos%3D5%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25B0%2588%25E7%25BE%258E%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%25E5%258E%259F%25E5%259B%25A0%2523%26band_rank%3D6%26dgr%3D0%26flag%3D0%26display_time%3D1761581410%26pre_seqid%3D17615814104640124409031",
-          "source": "微博",
-          "ranks": [
-            6
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "美国总统特朗普：这将是一段比以往任何时候都更加牢固的关系。",
-          "url": "https://flash.jin10.com/detail/20251028090338913800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "日本首相高市早苗：欢迎特朗普访问日本。",
-          "url": "https://wallstreetcn.com/livenews/2994630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "特朗普：不会在未来竞选副总统",
-          "url": "https://www.toutiao.com/trending/7564808311294869550/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
-          "url": "https://flash.jin10.com/detail/20251028090239806800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "美国总统特朗普和日本首相高市早苗签署关键矿物和稀土供应保障框架。",
-          "url": "https://flash.jin10.com/detail/20251028094807871800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时11分"
         },
         {
           "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
           "url": "https://wallstreetcn.com/livenews/2995214",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美国总统特朗普：对日本订购军事装备表示赞赏。",
-          "url": "https://flash.jin10.com/detail/20251028090204345800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "特朗普想要夺取的格陵兰岛发现新金矿",
-          "url": "https://flash.jin10.com/detail/20251028183501527800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "00时11分"
         },
         {
           "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
           "url": "https://wallstreetcn.com/livenews/2995213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美国总统特朗普：美国已收到日本的军事装备订单。",
-          "url": "https://flash.jin10.com/detail/20251028090156945800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "美国总统特朗普和日本首相高市早苗在东京会谈后参加签字仪式。",
-          "url": "https://flash.jin10.com/detail/20251028094433053800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "日本首相高市早苗计划推荐美国总统特朗普提名诺贝尔和平奖，将在周二的峰会上向特朗普传达这一意向。（NTV）",
-          "url": "https://wallstreetcn.com/livenews/2994627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "特朗普与高市早苗签署美日关键矿产框架协议。",
-          "url": "https://wallstreetcn.com/livenews/2994672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "00时11分"
         },
         {
           "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
           "url": "https://wallstreetcn.com/livenews/2995211",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "特朗普：想祝贺英伟达的黄仁勋。 明天将会见黄仁勋。",
-          "url": "https://wallstreetcn.com/livenews/2995103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
-          "url": "https://flash.jin10.com/detail/20251028090036168800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "特朗普：高市早苗在谈判中很强硬，但双方关系良好。",
-          "url": "https://wallstreetcn.com/livenews/2994870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "高市早苗：日本做好准备为和平与稳定作出更多贡献。 将与特朗普一起将盟友关系推升至新的高度。",
-          "url": "https://wallstreetcn.com/livenews/2994867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "特朗普重申对美联储主席鲍威尔的批评。特朗普称，鲍威尔将在“几个月后”卸任。",
-          "url": "https://wallstreetcn.com/livenews/2995100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "特朗普谈到重振美国造船业。",
-          "url": "https://wallstreetcn.com/livenews/2995097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
+          "time_info": "00时11分"
         },
         {
           "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
           "url": "https://wallstreetcn.com/livenews/2995205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "特朗普：非常反对突袭搜查韩国工厂",
-          "url": "https://www.toutiao.com/trending/7565763131436777526/",
-          "source": "今日头条",
-          "ranks": [
-            16
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "日本首相高市早苗：高度赞赏特朗普对世界和平与稳定的承诺。",
-          "url": "https://flash.jin10.com/detail/20251028085744041800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "信函显示，民主党参议员反对美国总统特朗普政府的计划，该计划拟放弃前总统拜登提出的建议，即强制航空公司就承运人造成的延误向旅客提供赔偿。",
-          "url": "https://flash.jin10.com/detail/20251028223800253800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "特朗普：美日拥有令人珍视的同盟关系。",
-          "url": "https://wallstreetcn.com/livenews/2994862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "特朗普称米莱赢了让美国赚了很多钱",
-          "url": "https://www.toutiao.com/trending/7565088402136547337/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "特朗普谈2028大选点名万斯鲁比奥",
-          "url": "https://www.toutiao.com/trending/7566235206777048618/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "日本首相高市早苗：特朗普为包括泰柬协议在内的亚洲和平作出了贡献，中东协议的达成是前所未有的历史性成就。",
-          "url": "https://flash.jin10.com/detail/20251028085732109800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "美国副国务卿：美国总统特朗普与乌兹别克斯坦总统将于下周在华盛顿会晤。",
-          "url": "https://flash.jin10.com/detail/20251028193346585800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "纽柯钢铁(NUE.N)CEO：美国总统特朗普为美国钢铁业创造了“公平的竞争环境”。",
-          "url": "https://flash.jin10.com/detail/20251028223740867800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "特朗普回应美军机南海坠毁",
-          "url": "https://www.douyin.com/hot/2285427",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "加拿大安大略省省长：美国总统特朗普正在找借口不达成协议。",
-          "url": "https://flash.jin10.com/detail/20251028001555308800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
-          "url": "https://flash.jin10.com/detail/20251028022338078800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：本周将向日本交付首批导弹。",
-          "url": "https://flash.jin10.com/detail/20251028152925804800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "特朗普：将降低牛肉价格 或许牧场主的境况太好了",
-          "url": "https://wallstreetcn.com/livenews/2995130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "特朗普回应美两军机南海坠毁",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%B8%A4%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D20%26stream_entry_id%3D31%26dgr%3D0%26pos%3D21%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E7%25BE%258E%25E4%25B8%25A4%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D20%26display_time%3D1761614667%26pre_seqid%3D176161466794901954904122",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：看不到美国总统特朗普寻求第三任期的路径。",
-          "url": "https://flash.jin10.com/detail/20251028223624534800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美国高院即将就特朗普关税案进行庭审 投注网站料其败诉概率约六成",
-          "url": "https://wallstreetcn.com/livenews/2995178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "英伟达(NVDA.O)盘前上涨0.4%，特朗普称明天将会见英伟达CEO黄仁勋。",
-          "url": "https://flash.jin10.com/detail/20251028192725119800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "高市早苗被特朗普夸开心到跳跃旋转",
-          "url": "https://www.toutiao.com/trending/7565841738145792006/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
-          "url": "https://flash.jin10.com/detail/20251028152443500800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "特朗普：感谢贝森特“出色的工作”。 贝森特安抚了市场。 考虑让贝森特担任美联储主席，但他不想干。 美国贸易代表格里尔让“所有人都满意”，甚至对方也满意。 日本新首相表现非常好。 想感谢软银。 回忆与孙正义一起打高尔夫球的时光。",
-          "url": "https://wallstreetcn.com/livenews/2995080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "日本严密戒备迎接特朗普来访",
-          "url": "https://www.toutiao.com/trending/7565777562144669759/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "特朗普与高市早苗会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "美国总统特朗普：日本正在增加国防开支。",
-          "url": "https://flash.jin10.com/detail/20251028105119280800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 64,
+      "match_count": 8,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时34分 ~ 23时10分]"
-        },
-        {
-          "title": "黄金跌破4000美元",
-          "url": "https://www.douyin.com/hot/2285336",
-          "source": "抖音",
-          "ranks": [
-            12,
-            7,
-            5,
-            4,
-            1,
-            20,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时12分 ~ 20时14分]"
-        },
-        {
-          "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
-          "url": "https://news.ifeng.com/c/8nomig16j0E",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时09分 ~ 23时10分]"
-        },
-        {
-          "title": "黄金失守4000美元只是开始？凯投宏观：到明年底仍有逾10%下跌空间",
-          "url": "https://www.cls.cn/detail/2182758",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时38分 ~ 17时09分]"
-        },
-        {
-          "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
-          "url": "https://wallstreetcn.com/articles/3757941",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时37分]"
-        },
-        {
-          "title": "黄金失守4000美元大关",
-          "url": "https://www.toutiao.com/trending/7566043393697009202/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            1,
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时34分 ~ 13时11分]"
-        },
-        {
-          "title": "打造黄金舰队,懂王和“金”杠上了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346238&amp;topic_name=%E6%89%93%E9%80%A0%E9%BB%84%E9%87%91%E8%88%B0%E9%98%9F%2C%E6%87%82%E7%8E%8B%E5%92%8C%E2%80%9C%E9%87%91%E2%80%9D%E6%9D%A0%E4%B8%8A%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
-        },
-        {
-          "title": "现货黄金、白银双双大跌",
-          "url": "https://www.toutiao.com/trending/7565906604558650899/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 04时09分]"
-        },
-        {
-          "title": "那些买黄金被套路的故事",
-          "url": "https://www.douyin.com/hot/2285261",
-          "source": "抖音",
-          "ranks": [
-            22,
-            28,
-            8,
-            18,
-            13,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时12分 ~ 23时10分]"
-        },
-        {
-          "title": "现货黄金挑战4000美元整数关口之际 业界怎么看？",
-          "url": "https://www.cls.cn/detail/2182631",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 14时12分]"
-        },
-        {
-          "title": "山姆“黄金大闸蟹”系水贝供货",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E2%80%9D%E7%B3%BB%E6%B0%B4%E8%B4%9D%E4%BE%9B%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时14分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "黄金史诗级暴跌后还会涨吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E6%B6%A8%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            14,
-            5,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时09分 ~ 23时10分]"
-        },
-        {
-          "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "00时11分"
         },
         {
-          "title": "现货黄金延续跌势，失守3960美元/盎司，日内跌0.53%。",
-          "url": "https://flash.jin10.com/detail/20251028134115624800",
-          "source": "金十数据",
+          "title": "美日签署稀土和关税协议，高市早苗承诺打造“新黄金时代”",
+          "url": "https://news.ifeng.com/c/8nomig16j0E",
+          "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "现货黄金向下触及3910美元/盎司，日内跌1.80%。",
-          "url": "https://flash.jin10.com/detail/20251028163814490800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "现货黄金日内跌幅达1%，报3942.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2994841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "花旗下调黄金、白银短期价格目标",
-          "url": "https://flash.jin10.com/detail/20251028163608562800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "山姆一门店黄金大闸蟹涉嫌侵权",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E5%A7%86%E4%B8%80%E9%97%A8%E5%BA%97%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25B1%25B1%25E5%25A7%2586%25E4%25B8%2580%25E9%2597%25A8%25E5%25BA%2597%25E9%25BB%2584%25E9%2587%2591%25E5%25A4%25A7%25E9%2597%25B8%25E8%259F%25B9%25E6%25B6%2589%25E5%25AB%258C%25E4%25BE%25B5%25E6%259D%2583%2523%26c_type%3D31%26cate%3D5001%26pos%3D10%26band_rank%3D10%26stream_entry_id%3D31%26flag%3D1%26realpos%3D10%26lcate%3D5001%26dgr%3D0%26display_time%3D1761631805%26pre_seqid%3D17616318054330123258279",
-          "source": "微博",
-          "ranks": [
-            10,
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 17时09分]"
+          "time_info": "00时11分"
         },
         {
           "title": "山姆黄金蟹被指侵权 多方回应",
           "url": "https://www.douyin.com/hot/2286045",
           "source": "抖音",
           "ranks": [
-            28,
-            8,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "山姆“黄金大闸蟹”系水贝供货",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E2%80%9D%E7%B3%BB%E6%B0%B4%E8%B4%9D%E4%BE%9B%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时14分 ~ 23时10分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%25BB%2584%25E9%2587%2591%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D24%26cate%3D5001%26band_rank%3D24%26pos%3D23%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1761611008%26pre_seqid%3D17616110089240195191463",
-          "source": "微博",
-          "ranks": [
-            24,
-            22,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时34分 ~ 22时08分]"
-        },
-        {
-          "title": "现货黄金周二小幅高开，现报3984美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251028060140000800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时09分 ~ 08时34分]"
-        },
-        {
-          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
-          "url": "https://wallstreetcn.com/livenews/2994556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时09分]"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251028115304763800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时11分]"
-        },
-        {
-          "title": "京东黄金降价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E9%BB%84%E9%87%91%E9%99%8D%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D18%26cate%3D5001%26flag%3D1%26pos%3D18%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E9%25BB%2584%25E9%2587%2591%25E9%2599%258D%25E4%25BB%25B7%2523%26realpos%3D18%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761622336%26pre_seqid%3D17616223369190195585846",
-          "source": "微博",
-          "ranks": [
-            18,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 12时10分]"
-        },
-        {
-          "title": "现货黄金跌破4000美元/盎司",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时34分 ~ 10时39分]"
-        },
-        {
-          "title": "黄金大跌后性价比还高吗",
-          "url": "https://www.toutiao.com/trending/7566042444433722907/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 10时39分]"
-        },
-        {
-          "title": "菲律宾央行（BSP）货币政策委员会成员Benjamin Diokno：鉴于避险需求退烧，是时候对菲央行“过剩的”黄金持仓获利了结了。",
-          "url": "https://wallstreetcn.com/livenews/2994514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时09分]"
-        },
-        {
-          "title": "贝莱德CEO：投资者忧心资产贬值 因恐惧而涌入黄金和加密货币",
-          "url": "https://wallstreetcn.com/livenews/2995120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时17分]"
-        },
-        {
-          "title": "周一（10月27日）纽约尾盘，现货黄金xiadie 3.05%，报3987.28美元/盎司，全天处于下跌状态、且持续走低，交投区间为4109.27-3971.52美元。",
-          "url": "https://wallstreetcn.com/livenews/2994536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少8.01吨，当前持仓量为1038.92吨。",
-          "url": "https://flash.jin10.com/detail/20251028060809381800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 08时34分]"
-        },
-        {
-          "title": "A股黄金、有色金属板块午后震荡下挫，铜陵有色接近跌停，江西铜业、豫光金铅、云南铜业跌超5%，兴业银锡、紫金矿业纷纷下挫。",
-          "url": "https://wallstreetcn.com/livenews/2994805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 15时09分]"
-        },
-        {
-          "title": "现货黄金短线持续走低，目前报3984美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2994720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时10分]"
-        },
-        {
-          "title": "现货黄金跌破3960美元/盎司关口，日内跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/2994804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 15时09分]"
-        },
-        {
-          "title": "三大指数午后集体翻绿，创业板指此前一度涨近1.5%，黄金、风电设备、稀土永磁、存储芯片等方向跌幅居前，沪深京三市下跌个股超3000只。",
-          "url": "https://wallstreetcn.com/livenews/2994797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 15时09分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月27日（周一）晚盘收盘下跌1.79%报917.9元/克；<br/>上海黄金交易所白银T+D 10月27日（周一）晚盘收盘下跌2.3%报11122.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251028023058504800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
-        },
-        {
-          "title": "山姆黄金大闸蟹系水贝供货",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E9%BB%84%E9%87%91%E5%A4%A7%E9%97%B8%E8%9F%B9%E7%B3%BB%E6%B0%B4%E8%B4%9D%E4%BE%9B%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
-        },
-        {
-          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251028110428303800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时10分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "炒黄金期货赚14亿辞职？当事人否认",
           "url": "https://www.baidu.com/s?wd=%E7%82%92%E9%BB%84%E9%87%91%E6%9C%9F%E8%B4%A7%E8%B5%9A14%E4%BA%BF%E8%BE%9E%E8%81%8C%EF%BC%9F%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%90%A6%E8%AE%A4",
           "source": "百度热搜",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "那些买黄金被套路的故事",
+          "url": "https://www.douyin.com/hot/2285261",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "黄金下跌要持续多久",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91%E4%B8%8B%E8%B7%8C%E8%A6%81%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D29%26q%3D%25E9%25BB%2584%25E9%2587%2591%25E4%25B8%258B%25E8%25B7%258C%25E8%25A6%2581%25E6%258C%2581%25E7%25BB%25AD%25E5%25A4%259A%25E4%25B9%2585%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D29%26flag%3D1%26pos%3D29%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1761664016%26pre_seqid%3D176166401607202623809136",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91%E4%B8%8B%E8%B7%8C%E8%A6%81%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E9%25BB%2584%25E9%2587%2591%25E4%25B8%258B%25E8%25B7%258C%25E8%25A6%2581%25E6%258C%2581%25E7%25BB%25AD%25E5%25A4%259A%25E4%25B9%2585%26dgr%3D0%26stream_entry_id%3D31%26pos%3D27%26lcate%3D5001%26band_rank%3D26%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26realpos%3D26%26display_time%3D1761666612%26pre_seqid%3D1761666612473013422359",
           "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "现货金银下跌，现货黄金失守3950美元关口",
-          "url": "https://wallstreetcn.com/livenews/2994833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "美国总统特朗普和日本首相高市早苗签署美日同盟新黄金时代实施协议文件。",
-          "url": "https://flash.jin10.com/detail/20251028094559068800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "现货黄金日内走低1.00%，现报3941.13美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251028145236518800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "现货黄金回落至3970美元/盎司下方，日内跌0.29%。",
-          "url": "https://flash.jin10.com/detail/20251028122636837800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月28日（周二）早盘盘初下跌1.92%报916.65元/克；<br/>上海黄金交易所白银T+D 10月28日（周二）早盘盘初下跌2.1%报11145.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251028090145665800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "现货黄金跌破3910美元/盎司关口，报3908.6美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2994939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "现货黄金重回4000美元/盎司之上，日内涨0.48%。",
-          "url": "https://flash.jin10.com/detail/20251028073200868800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "现货黄金短线拉升，站上4010美元/盎司，日内涨0.73%。",
-          "url": "https://flash.jin10.com/detail/20251028090123010800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "现货黄金跌破3930美元/盎司关口，日内跌幅达1.3%。",
-          "url": "https://wallstreetcn.com/livenews/2994873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "南非股指下跌大约1.7%，追随现货黄金+纽约期金一度双双跌穿4000美元的表现。",
-          "url": "https://wallstreetcn.com/livenews/2994427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "日本首相高市早苗：希望与美国总统特朗普共同实现日美同盟的新黄金时代。",
-          "url": "https://flash.jin10.com/detail/20251028090002688800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "韩国央行：考虑自2013年以来首次购买黄金",
-          "url": "https://wallstreetcn.com/livenews/2994666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "网传前国海证券首席炒黄金期货大赚14亿？本人已发朋友圈辟谣",
-          "url": "https://wallstreetcn.com/livenews/2994930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "现货黄金回落至3930美元/盎司下方，日内跌1.28%。",
-          "url": "https://flash.jin10.com/detail/20251028153151631800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "国际现货黄金失守3950美元",
-          "url": "https://flash.jin10.com/detail/20251028143936524800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 10月28日（周二）收盘下跌4.06%报896.68元/克；<br/>上海黄金交易所白银T+D 10月28日（周二）收盘下跌3.39%报10998.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251028153023643800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "现货黄金日内跌幅达1.6%，报3918.31美元/盎司，较日高跌去100美元。",
-          "url": "https://wallstreetcn.com/livenews/2994918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "黄金惊变",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%83%8A%E5%8F%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%2583%258A%25E5%258F%2598%2523%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D22%26cate%3D5001%26band_rank%3D22%26pos%3D21%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1761611008%26pre_seqid%3D17616110089240195191463",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
-          "title": "现货黄金短线走低14美元，最新报3983.37美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251028105508807800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美股盘前，黄金概念股普跌",
-          "url": "https://wallstreetcn.com/livenews/2994904",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "现货黄金跌破3900美元/盎司关口，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/2994965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "现货黄金跌破3960美元",
-          "url": "https://www.toutiao.com/trending/7566157030134648326/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "现货黄金向下触及3980美元/盎司，日内跌3.23%。现货白银日内大跌5.00%，现报46.15美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251027230105752800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "黄金跌破4000美元是短期回调吗",
-          "url": "https://www.toutiao.com/trending/7566141929071578674/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "现货黄金下跌2.3%，刷新日低，逼近2010美元。 现货白银日内跌幅达3%，报47.11美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2994403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 24,
+      "keyword_group": "美元",
+      "match_count": 7,
       "titles": [
         {
-          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
+          "title": "纽约期银日内涨超1.00%，现报47.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251028235458043800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时09分 ~ 15时09分]"
-        },
-        {
-          "title": "Cameco美股盘前涨近16%，此前美国政府与西屋电气公司（Westinghouse）签署800亿美元的协议来建造核电反应堆，这个战略伙伴关系还涉及博枫资产管理公司和Cameco Corp.",
-          "url": "https://wallstreetcn.com/livenews/2995128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时14分"
+          "time_info": "00时11分"
         },
         {
-          "title": "美股收盘：三大指数齐刷历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            14,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时34分 ~ 11时39分]"
-        },
-        {
-          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/2995018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
-          "url": "https://wallstreetcn.com/livenews/2994554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时09分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时09分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时09分]"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时08分 ~ 23时10分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003902797800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003030671800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时13分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
-          "url": "https://flash.jin10.com/detail/20251028040154573800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
-          "url": "https://wallstreetcn.com/livenews/2994531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/2995188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 23时10分]"
-        },
-        {
-          "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
-          "url": "https://wallstreetcn.com/livenews/2995148",
+          "title": "英伟达将对诺基亚实施10亿美元股权投资，从而推动AI网络",
+          "url": "https://wallstreetcn.com/livenews/2995232",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "00时11分"
         },
         {
-          "title": "联邦快递美股盘前扩大涨势，现上涨5.1%。",
-          "url": "https://wallstreetcn.com/livenews/2995047",
+          "title": "英伟达拟向诺基亚投资10亿美元",
+          "url": "https://flash.jin10.com/detail/20251028234852642800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "Prosus在10月20-24日当周回购0.442亿欧元（折合超0.51亿美元）股票，均价58.7980欧元，回购75.1995万股。 Naspers同期回购将近4.91亿南非兰特（折合超0.28亿美元）股票，均价1211.6259兰特，回购40.5216万股。",
+          "url": "https://wallstreetcn.com/livenews/2995223",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "00时11分"
         },
         {
-          "title": "美股盘初：微软涨约4%，核电股Cameco涨约18%",
-          "url": "https://wallstreetcn.com/livenews/2995181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "UPS美股盘前涨幅扩大至超20%，公司对第四季度营收预估超过市场预估。",
-          "url": "https://wallstreetcn.com/livenews/2995044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
-          "url": "https://wallstreetcn.com/livenews/2995038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美股核电股盘前上涨，Cameco涨近16%",
-          "url": "https://wallstreetcn.com/livenews/2995128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-28）",
-          "url": "https://flash.jin10.com/detail/20251028205332062800",
+          "title": "诺基亚欧股股价上涨17%，英伟达将进行10亿美元股权投资。",
+          "url": "https://flash.jin10.com/detail/20251028233556618800",
           "source": "金十数据",
           "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "00时11分"
         },
         {
-          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
-          "url": "https://flash.jin10.com/detail/20251028000829704800",
-          "source": "金十数据",
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "00时11分"
         },
         {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251028214237483800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2995170",
+          "title": "美国银行：日本央行本周料将按兵不动，但会为“下次（政策会议决定）加息提供线索”。 预计日本央行将为加息前景释放鹰派信号。 这可能和美国与日本首脑会面推高美元兑日元。",
+          "url": "https://wallstreetcn.com/livenews/2995209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
         {
-          "title": "Adobe(ADBE.O)首席执行官：Adobe将OpenAI和谷歌AI模型加入Photoshop及其他工具。",
-          "url": "https://flash.jin10.com/detail/20251028200047881800",
-          "source": "金十数据",
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时14分"
+          "time_info": "00时11分"
         },
         {
-          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028210205594800",
+          "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
+          "url": "https://flash.jin10.com/detail/20251028234022550800",
           "source": "金十数据",
           "ranks": [
-            2
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)与OpenAI签署了新协议。",
-          "url": "https://flash.jin10.com/detail/20251028210128191800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "00时11分"
         },
         {
           "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
           "url": "https://wallstreetcn.com/livenews/2995218",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
-          "url": "https://flash.jin10.com/detail/20251028045401357800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时09分]"
-        },
-        {
-          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
-          "url": "https://wallstreetcn.com/livenews/2995062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
-          "url": "https://flash.jin10.com/detail/20251028123906600800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "OpenAI CEO：将直播讨论新企业结构及其他重要内容",
-          "url": "https://flash.jin10.com/detail/20251028224945145800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股的计划。",
-          "url": "https://flash.jin10.com/detail/20251028224651919800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "特朗普东京晚宴聚焦日对美投资，OpenAI与Salesforce高管出席",
-          "url": "https://flash.jin10.com/detail/20251028173857141800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "Paypal(PYPL.O)：将把全球商户网络接入OpenAI的系统。",
-          "url": "https://flash.jin10.com/detail/20251028183047581800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "据CNBC：Paypal(PYPL.O)与OpenAI签署协议，成为ChatGPT的支付钱包。",
-          "url": "https://flash.jin10.com/detail/20251028182437625800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将持有OpenAI 27%的股权",
-          "url": "https://wallstreetcn.com/livenews/2995172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
-          "url": "https://flash.jin10.com/detail/20251028222603957800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时34分 ~ 15时09分]"
-        },
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
           "url": "https://wallstreetcn.com/articles/3758018",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时38分 ~ 23时10分]"
-        },
-        {
-          "title": "金价突然杀跌原因何在",
-          "url": "https://www.toutiao.com/trending/7565674495126847531/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            21,
-            22,
-            23,
-            25,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时09分 ~ 21时17分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
           "url": "https://wallstreetcn.com/articles/3758026",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时07分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "LBMA预测金价一年内逼近5000美元，白银等金属同涨",
-          "url": "https://flash.jin10.com/detail/20251028175512834800",
-          "source": "金十数据",
+          "title": "金价跌破3900美元 未来会是什么走势",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B43900%E7%BE%8E%E5%85%83+%E6%9C%AA%E6%9D%A5%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E8%B5%B0%E5%8A%BF",
+          "source": "百度热搜",
           "ranks": [
-            1
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2994463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时08分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26stream_entry_id%3D31%26dgr%3D0%26pos%3D22%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D21%26display_time%3D1761614667%26pre_seqid%3D176161466794901954904122",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 10时39分]"
-        },
-        {
-          "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
-          "url": "https://flash.jin10.com/detail/20251028162351099800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "分析师：贸易乐观情绪拖累金价 避险买盘有所减少",
-          "url": "https://flash.jin10.com/detail/20251028144551726800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
-          "url": "https://wallstreetcn.com/livenews/2995204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "国际金价跌穿4000美元关口，抛售加剧",
-          "url": "https://wallstreetcn.com/livenews/2994415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "金价是由什么决定的",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%98%AF%E7%94%B1%E4%BB%80%E4%B9%88%E5%86%B3%E5%AE%9A%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "金价下跌 业内欢迎“健康回调”",
-          "url": "https://www.toutiao.com/trending/7566242899495489060/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "00时11分"
         }
       ]
     },
     {
-      "keyword_group": "概念",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "A股机器人概念股再度拉升，三花智控触及涨停，股价再创历史新高，总市值逼近2000亿，永茂泰、方正电机此前封板，万向钱潮、富临精工、中坚科技、拓普集团等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 15时09分]"
-        },
-        {
-          "title": "达华智能：公司关注到近期市场对于量子科技相关概念的关注度较高，公司暂无相关业务，公司目前经营业绩不受影响。",
-          "url": "https://wallstreetcn.com/livenews/2995125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时17分]"
-        },
-        {
-          "title": "一图看懂|这一锂电关键材料价格翻倍 核心概念股全梳理",
-          "url": "https://www.cls.cn/detail/2183565",
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
           "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时17分 ~ 23时10分]"
-        },
-        {
-          "title": "半导体概念股普遍上涨，高通收涨11.09%，报187.68美元，创2024年7月份以来收盘新高。 ETF SOXL涨8.58%，英伟达两倍做多ETF涨5.49%，半导体板块ETF涨2.78%，半导体ETF涨2.51%。 迈威尔科技涨5.44%，Arm控股涨4.65%，相干公司Coherent涨4.37%，Tower半导体涨4.26%，安森美半导体涨3.88%，英特尔涨3.29%，英伟达涨2.81%，AMD涨2.67%，阿斯麦ADR涨2.6%。 纳微半导体则收跌1.14%。",
-          "url": "https://wallstreetcn.com/livenews/2994519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "A股机器人概念震荡拉升，南京聚隆涨超12%，永茂泰此前涨停，青岛双星3连板，大洋电机、三花智控、新瀚新材跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2994668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩根大通美债客户多头占比降至去年12月以来新低",
-          "url": "https://wallstreetcn.com/livenews/2995121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时17分]"
-        },
-        {
-          "title": "30年期美债收益率跌约3个基点",
-          "url": "https://wallstreetcn.com/livenews/2994513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时09分]"
+          "time_info": "00时11分"
         }
       ]
     }
