@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T13:08:57.334985+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2025-10-30T14:12:22.911288+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 62,
       "titles": [
         {
           "title": "快评｜中美元首将会晤，“领导人会晤对中美关系具有无可替代的重要性”",
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时10分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[06时10分 ~ 14时12分]"
         },
         {
           "title": "如何看待英伟达 10 亿美元入股诺基亚？频繁大额投资背后，英伟达在布什么局？",
@@ -40,11 +40,12 @@
             20,
             22,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时10分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[06时10分 ~ 14时12分]"
         },
         {
           "title": "特朗普称贸易协议“几乎敲定”，韩国确认对美投资2000亿美元",
@@ -69,6 +70,44 @@
           "time_info": "[08时31分 ~ 09时38分]"
         },
         {
+          "title": "中美元首握手合影",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D2%26band_rank%3D2%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E6%258F%25A1%25E6%2589%258B%25E5%2590%2588%25E5%25BD%25B1%2523%26pos%3D1%26flag%3D1%26display_time%3D1761796989%26pre_seqid%3D17617969895410113174846",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
+        },
+        {
+          "title": "中美元首釜山会晤现场",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26band_rank%3D13%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E7%258E%25B0%25E5%259C%25BA%2523%26dgr%3D0%26c_type%3D31%26realpos%3D13%26pos%3D13%26lcate%3D5001%26display_time%3D1761791300%26pre_seqid%3D176179130044801138820153",
+          "source": "微博",
+          "ranks": [
+            13,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 14时12分]"
+        },
+        {
+          "title": "中美元首握手合影",
+          "url": "https://www.toutiao.com/trending/7566854727581929010/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
+        },
+        {
           "title": "中美元首釜山会晤备受瞩目",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E5%A4%87%E5%8F%97%E7%9E%A9%E7%9B%AE",
           "source": "百度热搜",
@@ -84,16 +123,26 @@
           "time_info": "[08时31分 ~ 12时09分]"
         },
         {
-          "title": "中美元首握手合影",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D2%26band_rank%3D2%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E6%258F%25A1%25E6%2589%258B%25E5%2590%2588%25E5%25BD%25B1%2523%26pos%3D1%26flag%3D1%26display_time%3D1761796989%26pre_seqid%3D17617969895410113174846",
-          "source": "微博",
+          "title": "中美元首会晤结束 历时约100分钟",
+          "url": "https://www.douyin.com/hot/2288271",
+          "source": "抖音",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
+          "time_info": "[13时08分 ~ 14时12分]"
+        },
+        {
+          "title": "中美元首会晤历时约1小时40分钟",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%8E%86%E6%97%B6%E7%BA%A61%E5%B0%8F%E6%97%B640%E5%88%86%E9%92%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -105,31 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时08分]"
-        },
-        {
-          "title": "中美元首釜山会晤现场",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%87%9C%E5%B1%B1%E4%BC%9A%E6%99%A4%E7%8E%B0%E5%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26band_rank%3D13%26stream_entry_id%3D31%26q%3D%2523%25E4%25B8%25AD%25E7%25BE%258E%25E5%2585%2583%25E9%25A6%2596%25E9%2587%259C%25E5%25B1%25B1%25E4%25BC%259A%25E6%2599%25A4%25E7%258E%25B0%25E5%259C%25BA%2523%26dgr%3D0%26c_type%3D31%26realpos%3D13%26pos%3D13%26lcate%3D5001%26display_time%3D1761791300%26pre_seqid%3D176179130044801138820153",
-          "source": "微博",
-          "ranks": [
-            13,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 13时08分]"
-        },
-        {
-          "title": "中美元首握手合影",
-          "url": "https://www.toutiao.com/trending/7566854727581929010/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
         },
         {
           "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
@@ -177,28 +201,6 @@
           "time_info": "12时09分"
         },
         {
-          "title": "中美元首会晤结束 历时约100分钟",
-          "url": "https://www.douyin.com/hot/2288271",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "中美元首会晤历时约1小时40分钟",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%8E%86%E6%97%B6%E7%BA%A61%E5%B0%8F%E6%97%B640%E5%88%86%E9%92%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "美元/日元隔夜隐含波动率在日本央行决议前升至16.45%的四个半月高点。",
           "url": "https://flash.jin10.com/detail/20251030102132988800",
           "source": "金十数据",
@@ -210,6 +212,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "加拿大皇家银行：将星巴克(SBUX.O)目标股价从110美元下调至100美元。",
+          "url": "https://flash.jin10.com/detail/20251030135909828800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0864，下调21点；上一交易日中间价7.0843，上一交易日官方收盘价7.0991，上日夜盘报收7.0993。",
           "url": "https://wallstreetcn.com/livenews/2996344",
           "source": "华尔街见闻-快讯",
@@ -219,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "百威英博宣布60亿美元股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/2996512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "大国外交最前线见证中美元首会晤",
@@ -239,7 +263,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -267,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 13时08分]"
+        },
+        {
+          "title": "中美元首会晤开场白传递哪些重磅信息",
+          "url": "https://www.toutiao.com/trending/7566519039041585162/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
         },
         {
           "title": "中美元首会晤开始前，习近平同特朗普握手合影。 （央视新闻）",
@@ -306,6 +342,41 @@
           "time_info": "[12时09分 ~ 13时08分]"
         },
         {
+          "title": "史上首家！英伟达市值破5万亿美元",
+          "url": "https://news.ifeng.com/c/8nr6MpZgMMM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
+        },
+        {
+          "title": "中美元首会晤结束",
+          "url": "https://wallstreetcn.com/articles/3758263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
+        },
+        {
+          "title": "中美元首开场白传递哪些重磅信息",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BC%80%E5%9C%BA%E7%99%BD%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E9%87%8D%E7%A3%85%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
+        },
+        {
           "title": "特朗普：韩国已同意向美国支付3500亿美元 已批准韩国建造核动力潜艇",
           "url": "https://flash.jin10.com/detail/20251030052910541800",
           "source": "金十数据",
@@ -328,17 +399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 10时40分]"
-        },
-        {
-          "title": "史上首家！英伟达市值破5万亿美元",
-          "url": "https://news.ifeng.com/c/8nr6MpZgMMM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普：韩国已同意向美国支付3500亿美元，以降低美国对其征收的关税。他们已同意大量购买我们的油气，而且韩国富裕企业和商人的对美投资将超过6000亿美元。",
@@ -377,26 +437,26 @@
           "time_info": "[06时10分 ~ 07时08分]"
         },
         {
-          "title": "中美元首会晤开场白传递哪些重磅信息",
-          "url": "https://www.toutiao.com/trending/7566519039041585162/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "比特币向下触及108000美元/枚，日内跌1.88%。",
           "url": "https://flash.jin10.com/detail/20251030123306578800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "澳新银行：将0—3个月原油价格目标上调至每桶70美元。",
+          "url": "https://flash.jin10.com/detail/20251030133637749800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美元指数DXY回落至99下方，日内跌0.13%。",
@@ -427,18 +487,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "中美元首会晤结束",
-          "url": "https://wallstreetcn.com/articles/3758263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -454,24 +503,13 @@
           "time_info": "11时28分"
         },
         {
-          "title": "中美元首开场白传递哪些重磅信息",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%BC%80%E5%9C%BA%E7%99%BD%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E9%87%8D%E7%A3%85%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "比特币失守109000美元/枚，日内跌幅0.96%。",
           "url": "https://flash.jin10.com/detail/20251030122632933800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -487,6 +525,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "日本央行前行长黑田东彦预计日元兑美元汇率将升向120-130",
+          "url": "https://wallstreetcn.com/livenews/2996497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "周三（10月29日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报7.0974元，较周二纽约尾盘跌14点，日内整体交投于7.0886-7.1010元区间。",
           "url": "https://wallstreetcn.com/livenews/2996225",
           "source": "华尔街见闻-快讯",
@@ -496,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "离岸人民币兑美元短线小幅走低，目前报7.1022。",
+          "url": "https://wallstreetcn.com/livenews/2996494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "微软预计第二财季营收将为795亿-806亿美元。 预计第二财季Azure按恒定汇率将增长37%。 预计第二财季资本开支将季环比增长。 预计2026财年资本开支增速将比2025财年更加陡峭。",
@@ -509,6 +569,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "前日本央行行长黑田东彦：日元兑美元汇率可能升至120-130左右，因为日美利率差预计迟早会收窄。",
+          "url": "https://flash.jin10.com/detail/20251030131848411800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美元兑日元USD/JPY短线涨幅扩大至近70点，最新报152.82。",
           "url": "https://flash.jin10.com/detail/20251030112329322800",
           "source": "金十数据",
@@ -518,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "高盛：目前的基本面证明铜价有理由向每吨1万-1.1万美元预测区间的顶端盘整。",
+          "url": "https://flash.jin10.com/detail/20251030131055634800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "周三（10月29日）纽约尾盘，瑞典克朗兑美元跌0.46%，挪威克朗兑美元跌0.32%，丹麦克朗兑美元跌0.43%。 波兰兹罗提兑美元跌0.70%，匈牙利福林兑美元跌0.51%。",
@@ -562,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "高盛：即使考虑到全球精炼产量的大幅下降，我们仍维持铜市场将在2026年出现小幅过剩的观点，这与我们对2026年铜价10,500美元/吨的预测一致。",
+          "url": "https://flash.jin10.com/detail/20251030130731953800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "周三（10月29日）纽约尾盘，欧元兑美元跌0.44%，报1.1601，北京时间02:35美联储主席鲍威尔谈论12月降息前景带来一波显著的跳水行情； 英镑兑美元跌0.57%，报1.3195，鲍威尔讲话期间迅速扩大跌幅； 美元兑瑞郎涨0.83%，报0.8001，全天持续走高，鲍威尔新闻发布会期间曾迅速拉升。",
@@ -633,7 +726,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -644,8 +737,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时10分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[06时10分 ~ 14时12分]"
         },
         {
           "title": "特朗普：相信美中将达成协议，会带来令人兴奋的东西",
@@ -671,6 +764,17 @@
           "time_info": "[08时31分 ~ 12时09分]"
         },
         {
+          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 14时12分]"
+        },
+        {
           "title": "习近平将同特朗普举行会晤",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "bilibili 热搜",
@@ -692,19 +796,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时10分 ~ 13时08分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854252",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[06时10分 ~ 14时12分]"
         },
         {
           "title": "特朗普：未能协调好与金正恩会晤时间",
@@ -722,11 +815,24 @@
           "url": "https://www.toutiao.com/trending/7566661509154131492/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 13时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 14时12分]"
+        },
+        {
+          "title": "迎接特朗普，高市早苗笑了一天",
+          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时31分 ~ 14时12分]"
         },
         {
           "title": "特朗普：美中会达成更多共识",
@@ -753,18 +859,6 @@
           "time_info": "[06时10分 ~ 10时40分]"
         },
         {
-          "title": "迎接特朗普，高市早苗笑了一天",
-          "url": "https://news.ifeng.com/c/8nrJZ12ddrh",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时31分 ~ 13时08分]"
-        },
-        {
           "title": "习近平同特朗普会晤开始",
           "url": "https://www.toutiao.com/trending/7566827332992880174/",
           "source": "今日头条",
@@ -787,6 +881,17 @@
           "time_info": "[10时40分 ~ 11时28分]"
         },
         {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
+        },
+        {
           "title": "习近平同特朗普在韩国举行会晤",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
           "source": "bilibili 热搜",
@@ -796,6 +901,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时40分 ~ 11时28分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.douyin.com/hot/2288225",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
+        },
+        {
+          "title": "特朗普：相信我们将建立长期良好关系",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E5%B0%86%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E8%89%AF%E5%A5%BD%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -809,48 +958,15 @@
           "time_info": "[06时10分 ~ 07时08分]"
         },
         {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
-          "source": "百度热搜",
+          "title": "特朗普已下令立即重启美国核试验",
+          "url": "https://news.ifeng.com/c/8ns4o1aiP6D",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
-        },
-        {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普会晤",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
-        },
-        {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.douyin.com/hot/2288225",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
+          "time_info": "[13时08分 ~ 14时12分]"
         },
         {
           "title": "特朗普：相信中美将建立长期良好关系",
@@ -875,15 +991,16 @@
           "time_info": "[06时10分 ~ 07时08分]"
         },
         {
-          "title": "特朗普：相信我们将建立长期良好关系",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E5%B0%86%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E8%89%AF%E5%A5%BD%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
+          "title": "特朗普声称：我威胁收250%关税阻止了印巴冲突",
+          "url": "https://news.ifeng.com/c/8nrrYMbODOU",
+          "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
+          "time_info": "[13时08分 ~ 14时12分]"
         },
         {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
@@ -896,17 +1013,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时10分 ~ 08时32分]"
-        },
-        {
-          "title": "特朗普已下令立即重启美国核试验",
-          "url": "https://news.ifeng.com/c/8ns4o1aiP6D",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "特朗普与卡尼在韩国会面",
@@ -940,7 +1046,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -956,15 +1062,17 @@
           "time_info": "10时40分"
         },
         {
-          "title": "特朗普声称：我威胁收250%关税阻止了印巴冲突",
-          "url": "https://news.ifeng.com/c/8nrrYMbODOU",
-          "source": "凤凰网",
+          "title": "特朗普回应会晤",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BC%9A%E6%99%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D6%26band_rank%3D6%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E4%25BC%259A%25E6%2599%25A4%2523%26pos%3D6%26flag%3D1%26display_time%3D1761796989%26pre_seqid%3D17617969895410113174846",
+          "source": "微博",
           "ranks": [
-            5
+            6,
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时12分]"
         },
         {
           "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
@@ -977,18 +1085,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普回应会晤",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BC%9A%E6%99%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D6%26band_rank%3D6%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E4%25BC%259A%25E6%2599%25A4%2523%26pos%3D6%26flag%3D1%26display_time%3D1761796989%26pre_seqid%3D17617969895410113174846",
-          "source": "微博",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
         },
         {
           "title": "特朗普相信中美将建立长期良好关系",
@@ -1050,6 +1146,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时08分]"
+        },
+        {
+          "title": "习近平同特朗普握手合影",
+          "url": "https://www.cls.cn/detail/2185819",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
         },
         {
           "title": "美国总统特朗普：已批准他们建造一艘核动力潜艇。",
@@ -1132,17 +1240,6 @@
           "time_info": "10时40分"
         },
         {
-          "title": "习近平同特朗普握手合影",
-          "url": "https://www.cls.cn/detail/2185819",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "美国总统特朗普：由于其他国家的测试计划，我已指示国防部开始以同等规模测试我们的核武器。程序将立即启动。",
           "url": "https://flash.jin10.com/detail/20251030090558415800",
           "source": "金十数据",
@@ -1154,6 +1251,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
+          "url": "https://www.zhihu.com/question/1966966107974931991",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美国参议院获得足够票数通过决议，推翻特朗普对加拿大加征的关税。",
           "url": "https://flash.jin10.com/detail/20251030055720412800",
           "source": "金十数据",
@@ -1163,6 +1271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "报告：特朗普在自导自演贸易战中败北",
+          "url": "https://www.toutiao.com/trending/7566831598922894890/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "特朗普政府接触三个资金渠道，希望能实现在（政府关门期间于）周五对军队发工资。（Axios）",
@@ -1182,7 +1301,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -1226,9 +1345,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "美国总统特朗普称，和加拿大总理卡尼的谈话非常愉快。",
+          "url": "https://wallstreetcn.com/livenews/2996479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "牛弹琴：韩国人讨好特朗普用心良苦",
+          "url": "https://www.toutiao.com/trending/7566841369273729043/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "习近平将同美国总统特朗普在釜山举行会晤",
@@ -1256,7 +1397,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -1268,8 +1409,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时08分 ~ 13时08分]"
+          "appearance_count": 10,
+          "time_info": "[07时08分 ~ 14时12分]"
         },
         {
           "title": "山姆50万元一只黄金蟹紧急下架",
@@ -1307,8 +1448,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时31分 ~ 13时08分]"
+          "appearance_count": 9,
+          "time_info": "[08时31分 ~ 14时12分]"
         },
         {
           "title": "科技巨头力撑美三大指数再创新高，但多数股票下跌，英伟达破新高，黄金三连跌",
@@ -1321,17 +1462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时08分]"
-        },
-        {
-          "title": "美股期货、数字货币全线跳水，现货黄金拉升",
-          "url": "https://wallstreetcn.com/livenews/2996476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.87吨，当前持仓量为1036.05吨。",
@@ -1351,7 +1481,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -1367,6 +1497,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时40分 ~ 13时08分]"
+        },
+        {
+          "title": "美股期货、数字货币全线跳水，现货黄金拉升",
+          "url": "https://wallstreetcn.com/livenews/2996476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
         },
         {
           "title": "给女儿的300克黄金嫁妆掉落高速上",
@@ -1388,7 +1530,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -1448,6 +1590,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "女子将黄金手镯皮带涂成银色入境被查",
+          "url": "https://www.toutiao.com/trending/7566823557318164499/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美联储“降息+结束缩表”靴子如期落地，但鲍威尔“鹰语”打破市场连续降息梦，黄金反攻4000美元无效，现重回3900美元区间，繁忙的“超级央行周”远未结束，日本央行、欧洲央行陆续有来，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251030104419121800",
           "source": "金十数据",
@@ -1476,7 +1629,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -1543,17 +1696,6 @@
           "time_info": "[08时31分 ~ 13时08分]"
         },
         {
-          "title": "OpenAI回应筹备IPO",
-          "url": "https://flash.jin10.com/detail/20251030082103049800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时32分"
-        },
-        {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
@@ -1563,8 +1705,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 13时08分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 14时12分]"
+        },
+        {
+          "title": "OpenAI回应筹备IPO",
+          "url": "https://flash.jin10.com/detail/20251030082103049800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
@@ -1583,11 +1736,12 @@
           "url": "https://www.zhihu.com/question/1966652250177893275",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 14时12分]"
         },
         {
           "title": "OpenAI目标在2027年上市 估值可能高达1万亿美元",
@@ -1648,8 +1802,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时08分 ~ 13时08分]"
+          "appearance_count": 10,
+          "time_info": "[07时08分 ~ 14时12分]"
         },
         {
           "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
@@ -1699,6 +1853,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美存储概念“热股”希捷科技暴涨近20%，亮眼业绩被华尔街集体点赞！",
+          "url": "https://www.cls.cn/detail/2185593",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 14时12分]"
+        },
+        {
+          "title": "10月30日午间收评：沪指窄幅震荡微涨，量子科技概念持续爆发",
+          "url": "https://wallstreetcn.com/livenews/2996459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时08分]"
+        },
+        {
+          "title": "A股工业母机概念表现活跃，华东数控涨停，宇环数控此前涨停，欧科亿、华锐精密涨超5%，沃尔德、海天精工、科德数控等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2996398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时40分 ~ 11时28分]"
+        },
+        {
+          "title": "A股超硬材料概念快速拉升，惠丰钻石涨超10%，沃尔德、力量钻石、黄河旋风、四方达等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/2996490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "A股稀土永磁概念逆势拉升，九菱科技涨超10%，中科磁业、银河磁体、奔朗新材、金力永磁等快速跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2996485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
@@ -1852,48 +2071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "10月30日午间收评：沪指窄幅震荡微涨，量子科技概念持续爆发",
-          "url": "https://wallstreetcn.com/livenews/2996459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时08分]"
-        },
-        {
-          "title": "美存储概念“热股”希捷科技暴涨近20%，亮眼业绩被华尔街集体点赞！",
-          "url": "https://www.cls.cn/detail/2185593",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 13时08分]"
-        },
-        {
-          "title": "A股工业母机概念表现活跃，华东数控涨停，宇环数控此前涨停，欧科亿、华锐精密涨超5%，沃尔德、海天精工、科德数控等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2996398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 11时28分]"
         }
       ]
     }
