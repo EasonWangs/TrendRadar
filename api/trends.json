@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T20:15:17.880665+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-10-31T21:16:22.546803+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 126,
+      "match_count": 131,
       "titles": [
         {
           "title": "中美元首会晤结束",
@@ -135,6 +135,21 @@
           "time_info": "[00时11分 ~ 08时30分]"
         },
         {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时10分 ~ 21时16分]"
+        },
+        {
           "title": "《人民日报》披露中美元首会晤细节",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E6%8A%AB%E9%9C%B2%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%BB%86%E8%8A%82",
           "source": "百度热搜",
@@ -148,21 +163,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时29分 ~ 16时10分]"
-        },
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时10分 ~ 20时15分]"
         },
         {
           "title": "中美元首会晤对台湾意味着什么",
@@ -329,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "美国财长贝森特：与新加坡总理黄循财讨论了美元稳定币的采用问题。",
+          "url": "https://wallstreetcn.com/livenews/2997749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "中美元首握手合影",
@@ -913,6 +924,17 @@
           "time_info": "19时08分"
         },
         {
+          "title": "WTI原油期货突破61美元/桶，日内涨0.71%。",
+          "url": "https://flash.jin10.com/detail/20251031210234148800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的191.66亿美元。",
           "url": "https://flash.jin10.com/detail/20251031011746589800",
           "source": "金十数据",
@@ -988,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "图解10月大事件：中美元首会晤 中美经贸磋商达成多项成果共识",
+          "url": "https://www.cls.cn/detail/2187764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "Reddit(RDDT.N)2025年Q3营收5.85亿美元，上年同期为3.48亿美元，市场预期为5.45亿美元。",
@@ -1139,7 +1172,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1172,7 +1205,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1194,7 +1227,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1227,7 +1260,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1353,6 +1386,17 @@
           "time_info": "19时08分"
         },
         {
+          "title": "美国财长贝森特：与新加坡总理讨论了美元稳定币的采用问题。",
+          "url": "https://flash.jin10.com/detail/20251031205616856800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "亚马逊：继续在AI与核心基础设施看到强劲需求。 最近12个月，新增超过3.8 GW算力。 AWS增速是2022年以来从未看到过的。 AWS重新加速至同比增长20.2%。 Trainium2 AI芯片是一个价值（至少）数十亿美元规模的业务。",
           "url": "https://wallstreetcn.com/livenews/2997121",
           "source": "华尔街见闻-快讯",
@@ -1392,7 +1436,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1439,6 +1483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD一度跌至6个半月低点1.3107。",
+          "url": "https://flash.jin10.com/detail/20251031205101346800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
@@ -1534,8 +1589,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时40分 ~ 20时15分]"
+          "appearance_count": 15,
+          "time_info": "[10时40分 ~ 21时16分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -1613,8 +1668,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时36分 ~ 20时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时36分 ~ 21时16分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -1670,8 +1725,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时30分 ~ 20时15分]"
+          "appearance_count": 18,
+          "time_info": "[08时30分 ~ 21时16分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -1715,11 +1770,12 @@
             10,
             13,
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时36分 ~ 20时15分]"
+          "appearance_count": 17,
+          "time_info": "[09时36分 ~ 21时16分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -1748,6 +1804,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时11分 ~ 09时37分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 21时16分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -1829,18 +1897,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时29分 ~ 14时14分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时10分 ~ 20时15分]"
         },
         {
           "title": "如何看待特朗普对中美会晤的表述",
@@ -2299,22 +2355,304 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 22,
+      "keyword_group": "美股",
+      "match_count": 25,
       "titles": [
         {
-          "title": "星铁黄金史诗PV再见昔涟",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97PV",
-          "source": "bilibili 热搜",
+          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
-            5
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时13分 ~ 20时15分]"
+          "appearance_count": 19,
+          "time_info": "[07时09分 ~ 21时16分]"
         },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
+          "url": "https://www.cls.cn/detail/2187041",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时08分 ~ 13时09分]"
+        },
+        {
+          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时08分]"
+        },
+        {
+          "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
+          "url": "https://wallstreetcn.com/livenews/2997115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
+          "url": "https://flash.jin10.com/detail/20251031044225667800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时08分]"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251031003149362800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时13分]"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251031003044643800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时13分]"
+        },
+        {
+          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 21时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体下跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时30分 ~ 10时40分]"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后跌2%。",
+          "url": "https://flash.jin10.com/detail/20251031043456886800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时10分 ~ 06时08分]"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251031044521499800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时09分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
+          "url": "https://wallstreetcn.com/livenews/2997746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "小马智行美股盘前涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2997604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251031040546902800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251031040544206800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2997557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)美股盘后大涨超10%。",
+          "url": "https://flash.jin10.com/detail/20251031040446703800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，金融业ETF、银行业ETF涨近1%，网络股指数ETF、可选消费ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 Meta跌超11%",
+          "url": "https://flash.jin10.com/detail/20251031040124209800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2996997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 23,
+      "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
           "url": "https://wallstreetcn.com/articles/3758166",
@@ -2325,6 +2663,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时11分 ~ 06时08分]"
+        },
+        {
+          "title": "星铁黄金史诗PV再见昔涟",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E9%BB%84%E9%87%91%E5%8F%B2%E8%AF%97PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时13分 ~ 21时16分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）黄金ETF持仓报告",
@@ -2534,6 +2886,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
+          "url": "https://flash.jin10.com/detail/20251031205708619800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "瑞士央行：前三个季度报告利润达126亿瑞郎。外汇头寸亏损达90亿瑞郎，黄金持仓录得229亿瑞郎的估值收益。",
           "url": "https://flash.jin10.com/detail/20251031141752393800",
           "source": "金十数据",
@@ -2554,267 +2917,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时09分 ~ 20时15分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 08时30分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
-          "url": "https://www.cls.cn/detail/2187041",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时08分 ~ 13时09分]"
-        },
-        {
-          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 06时08分]"
-        },
-        {
-          "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
-          "url": "https://wallstreetcn.com/livenews/2997115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
-          "url": "https://flash.jin10.com/detail/20251031044225667800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时08分]"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251031003149362800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时13分]"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251031003044643800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时13分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体下跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时30分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘后跌2%。",
-          "url": "https://flash.jin10.com/detail/20251031043456886800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时08分]"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘后涨幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20251031044521499800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时08分 ~ 07时09分]"
-        },
-        {
-          "title": "小马智行美股盘前涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/2997604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/2997653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251031040546902800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251031040544206800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
-          "url": "https://wallstreetcn.com/livenews/2997557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)美股盘后大涨超10%。",
-          "url": "https://flash.jin10.com/detail/20251031040446703800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，金融业ETF、银行业ETF涨近1%，网络股指数ETF、可选消费ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 Meta跌超11%",
-          "url": "https://flash.jin10.com/detail/20251031040124209800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/2996997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
         }
       ]
     },
@@ -2858,8 +2960,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时10分 ~ 20时15分]"
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 21时16分]"
         },
         {
           "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
@@ -2986,7 +3088,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股可控核聚变概念盘中震荡走弱，中国核建触及跌停，安泰科技、应流股份、兰石重装、杭氧股份、西部超导均跌超5%。",
@@ -2999,6 +3101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 12时10分]"
+        },
+        {
+          "title": "【焦点复盘】科创50低开低走跌逾3%，算力硬件股持续退潮，创新药概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2187963",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "A股免税概念走强，海汽集团盘中触及涨停，平潭发展、凯撒旅业、海南发展、茂业商业等涨幅居前。消息面上，财政部、商务部、文化和旅游部、海关总署、税务总局印发《关于完善免税店政策支持提振消费的通知》。",
@@ -3030,8 +3143,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时29分 ~ 20时15分]"
+          "appearance_count": 14,
+          "time_info": "[11时29分 ~ 21时16分]"
         }
       ]
     },
