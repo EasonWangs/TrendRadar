@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T18:10:49.054444+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2025-10-31T19:08:06.990842+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 106,
+      "match_count": 121,
       "titles": [
         {
           "title": "中美元首会晤结束",
@@ -191,6 +191,20 @@
           "time_info": "[10时40分 ~ 15时10分]"
         },
         {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 19时08分]"
+        },
+        {
           "title": "以太坊日内跌超5.00%，现报3707美元/枚。",
           "url": "https://flash.jin10.com/detail/20251031033939393800",
           "source": "金十数据",
@@ -200,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "摩根士丹利：将苹果(AAPL.O)目标价从298美元上调至305美元。",
+          "url": "https://flash.jin10.com/detail/20251031184701138800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
@@ -213,6 +238,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时09分 ~ 07时09分]"
+        },
+        {
+          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 19时08分]"
         },
         {
           "title": "市场消息：福特汽车(F.N)将在印度投资3.7亿美元。",
@@ -288,7 +325,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -303,6 +340,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 03时09分]"
+        },
+        {
+          "title": "中美元首会晤有何长远意义",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%9C%89%E4%BD%95%E9%95%BF%E8%BF%9C%E6%84%8F%E4%B9%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 19时08分]"
         },
         {
           "title": "摩根大通：将苹果(AAPL.O)目标股价从290美元上调至305美元。",
@@ -401,19 +449,6 @@
           "time_info": "[04时09分 ~ 06时08分]"
         },
         {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时10分 ~ 18时10分]"
-        },
-        {
           "title": "周四（10月30日），美联储隔夜逆回购协议（RRP）使用规模为191.66亿美元，上个交易日报195.04亿美元。",
           "url": "https://wallstreetcn.com/livenews/2997073",
           "source": "华尔街见闻-快讯",
@@ -452,18 +487,6 @@
           "time_info": "[08时30分 ~ 16时10分]"
         },
         {
-          "title": "微镜头·中美元首釜山会晤：“对话比对抗好”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858469",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时09分]"
-        },
-        {
           "title": "中美元首釜山会晤备受瞩目",
           "url": "https://wallstreetcn.com/articles/3758235",
           "source": "华尔街见闻",
@@ -475,17 +498,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时08分 ~ 08时30分]"
-        },
-        {
-          "title": "中美元首会晤有何长远意义",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E6%9C%89%E4%BD%95%E9%95%BF%E8%BF%9C%E6%84%8F%E4%B9%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时10分]"
         },
         {
           "title": "Meta的债券销售吸引到创纪录的1250亿美元认购需求。",
@@ -812,6 +824,17 @@
           "time_info": "[06时08分 ~ 07时09分]"
         },
         {
+          "title": "埃克森美孚石油(XOM.N)：有望在2025年完成200亿美元的股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20251031183605496800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "韦德布什：将亚马逊(AMZN.O)目标股价从280美元上调至330美元。",
           "url": "https://flash.jin10.com/detail/20251031110602534800",
           "source": "金十数据",
@@ -856,6 +879,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "埃克森美孚石油(XOM.N)：预计将实现超过180亿美元的累计成本节约。",
+          "url": "https://flash.jin10.com/detail/20251031183346648800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "比特币跌破107000美元/枚，日内跌2.78%。",
           "url": "https://flash.jin10.com/detail/20251031012301668800",
           "source": "金十数据",
@@ -865,6 +899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)：预计今年的资本支出将略低于270亿至290亿美元区间的下限。",
+          "url": "https://flash.jin10.com/detail/20251031183327878800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的191.66亿美元。",
@@ -906,7 +951,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -931,6 +976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "富国银行：将苹果(AAPL.O)目标价从290美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251031183240767800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "Reddit(RDDT.N)2025年Q3营收5.85亿美元，上年同期为3.48亿美元，市场预期为5.45亿美元。",
@@ -961,9 +1017,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "富国银行：将亚马逊(AMZN.O)目标价从280美元上调至292美元。",
+          "url": "https://flash.jin10.com/detail/20251031183226698800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
@@ -1016,9 +1083,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)第三季度总收入及其他收入为852.9亿美元，市场预期为836亿美元。第三季度调整后每股收益为1.88美元，市场预期为1.81美元。",
+          "url": "https://flash.jin10.com/detail/20251031183106778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "英伟达将对AI初创公司Poolside投资至多10亿美元。",
@@ -1041,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)：预计第四季度其他所有业务板块的收益将计入9亿至11亿美元的费用。",
+          "url": "https://flash.jin10.com/detail/20251031182331667800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "亚马逊(AMZN.O)预计第四季度运营利润为210亿美元至260亿美元。",
@@ -1109,6 +1198,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "雪佛龙(CVX.N)：预计第四季度股票回购规模为25亿至30亿美元。",
+          "url": "https://flash.jin10.com/detail/20251031182000339800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "Reddit三季度营收5.85亿美元，分析师预期5.489亿美元。",
           "url": "https://wallstreetcn.com/livenews/2997120",
           "source": "华尔街见闻-快讯",
@@ -1142,6 +1242,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "WTI原油期货跌破60美元/桶，日内跌0.96%。",
+          "url": "https://flash.jin10.com/detail/20251031181920746800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "Coinbase三季度总收入18.7亿美元，分析师预期18亿美元。",
           "url": "https://wallstreetcn.com/livenews/2997119",
           "source": "华尔街见闻-快讯",
@@ -1164,6 +1275,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "花旗：将苹果(AAPL.O)目标价从245美元上调至315美元。",
+          "url": "https://flash.jin10.com/detail/20251031181717175800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "亚马逊(AMZN.O)2025年Q3营收1802亿美元，市场预期1776.9亿美元，上年同期1588.77亿美元。",
           "url": "https://flash.jin10.com/detail/20251031040154083800",
           "source": "金十数据",
@@ -1173,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)第三季度上游业务盈利33亿美元，市场预期33.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20251031181703169800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "亚马逊：继续在AI与核心基础设施看到强劲需求。 最近12个月，新增超过3.8 GW算力。 AWS增速是2022年以来从未看到过的。 AWS重新加速至同比增长20.2%。 Trainium2 AI芯片是一个价值（至少）数十亿美元规模的业务。",
@@ -1195,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)第三季度营收及其他收入为497.3亿美元，市场预期为467.3亿美元。第三季度全球产量4086万桶油当量/日，市场预期3873万桶油当量/日，第三季度液体产量1496万桶/日，市场预期2401万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251031181641488800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
@@ -1230,6 +1374,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "雪佛龙(CVX.N)第三季度调整后每股收益1.85美元，市场预期为1.66美元。",
+          "url": "https://flash.jin10.com/detail/20251031181525100800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
           "url": "https://wallstreetcn.com/livenews/2997000",
           "source": "华尔街见闻-快讯",
@@ -1239,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "巴克莱：将福克斯(FOXA.O)目标价从58美元上调至64美元。",
+          "url": "https://flash.jin10.com/detail/20251031181400247800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "现货白银日内涨幅达2%，报48.53美元/盎司。",
@@ -1277,7 +1443,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -1311,8 +1477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时40分 ~ 18时10分]"
+          "appearance_count": 12,
+          "time_info": "[10时40分 ~ 19时08分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -1390,8 +1556,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时36分 ~ 18时10分]"
+          "appearance_count": 14,
+          "time_info": "[09时36分 ~ 19时08分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -1451,6 +1617,20 @@
           "time_info": "[00时11分 ~ 14时14分]"
         },
         {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时30分 ~ 19时08分]"
+        },
+        {
           "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
           "url": "https://www.cls.cn/detail/2187115",
           "source": "财联社热门",
@@ -1475,11 +1655,12 @@
             9,
             12,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时36分 ~ 18时10分]"
+          "appearance_count": 14,
+          "time_info": "[09时36分 ~ 19时08分]"
         },
         {
           "title": "特朗普批准韩国在美建造核动力潜艇",
@@ -1508,19 +1689,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时11分 ~ 09时37分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时30分 ~ 18时10分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -1631,6 +1799,17 @@
           "time_info": "[08时30分 ~ 11时29分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 19时08分]"
+        },
+        {
           "title": "外交部回应特朗普重启核试验",
           "url": "https://www.douyin.com/hot/2288630",
           "source": "抖音",
@@ -1644,6 +1823,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时29分 ~ 15时10分]"
+        },
+        {
+          "title": "特朗普为何不参加APEC峰会",
+          "url": "https://www.toutiao.com/trending/7567275879148031498/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时09分 ~ 19时08分]"
         },
         {
           "title": "高市早苗接待特朗普为何“丑态百出”",
@@ -1668,17 +1859,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
         },
         {
           "title": "特朗普呼吁：参议院共和党人应废除阻挠议事程序以打破政府停摆僵局",
@@ -1715,18 +1895,6 @@
           "time_info": "[03时09分 ~ 04时09分]"
         },
         {
-          "title": "特朗普为何不参加APEC峰会",
-          "url": "https://www.toutiao.com/trending/7567275879148031498/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 18时10分]"
-        },
-        {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
           "url": "https://flash.jin10.com/detail/20251031023332558800",
           "source": "金十数据",
@@ -1750,6 +1918,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时29分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普关税被指“违法”对华意味什么",
+          "url": "https://www.toutiao.com/trending/7567284269270175295/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 19时08分]"
+        },
+        {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 19时08分]"
         },
         {
           "title": "如何看待美国参议院否决特朗普关税",
@@ -1822,6 +2014,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 17时09分]"
+        },
+        {
+          "title": "专家谈特朗普发文用G2指代中美",
+          "url": "https://www.toutiao.com/trending/7567314385656352292/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 19时08分]"
         },
         {
           "title": "匈牙利总理欧尔班：下周与美国总统特朗普的会晤可能会使我们更接近和平峰会。",
@@ -1934,17 +2137,6 @@
           "time_info": "11时29分"
         },
         {
-          "title": "外交部回应特朗普“G2”集团言论",
-          "url": "https://www.toutiao.com/trending/7566848950186197011/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
           "title": "美国贸易代表格里尔：总统特朗普希望与巴西总统卢拉达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/2997125",
           "source": "华尔街见闻-快讯",
@@ -1954,17 +2146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        },
-        {
-          "title": "特朗普关税被指“违法”对华意味什么",
-          "url": "https://www.toutiao.com/trending/7567284269270175295/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
         },
         {
           "title": "参议院再否决特朗普关税，共和党人持续倒戈",
@@ -2022,6 +2203,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-31）",
+          "url": "https://flash.jin10.com/detail/20251031181559600800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "25州起诉特朗普政府 要求法院阻止其暂停食品补助",
           "url": "https://flash.jin10.com/detail/20251030230710150800",
           "source": "金十数据",
@@ -2055,11 +2247,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时13分 ~ 18时10分]"
+          "appearance_count": 8,
+          "time_info": "[14时13分 ~ 19时08分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）黄金ETF持仓报告",
@@ -2079,7 +2272,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -2198,7 +2391,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -2294,7 +2487,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -2305,8 +2498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时09分 ~ 18时10分]"
+          "appearance_count": 16,
+          "time_info": "[07时09分 ~ 19时08分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -2437,9 +2630,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "埃克森美孚第三季度收入及其他收益852.9亿美元。 第三季度调整后每股收益1.88美元，预估1.81美元。 第三季度每股收益1.76美元。 埃克森美孚美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "雪佛龙第三季度调整后每股收益1.85美元，预估1.66美元。 第三季度收入及其他收益497.3亿美元，预估467.3亿美元。 雪佛龙美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
@@ -2551,6 +2766,18 @@
           "time_info": "10时40分"
         },
         {
+          "title": "金价涨涨跌跌 旧首饰如何处理",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 19时08分]"
+        },
+        {
           "title": "大华银行：尽管近期出现回调，但金价的长期驱动因素仍未改变",
           "url": "https://flash.jin10.com/detail/20251031092806995800",
           "source": "金十数据",
@@ -2582,17 +2809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "金价涨涨跌跌 旧首饰如何处理",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
         },
         {
           "title": "“新债王”：金价还会进一步回调",
@@ -2725,11 +2941,12 @@
             13,
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时29分 ~ 18时10分]"
+          "appearance_count": 11,
+          "time_info": "[11时29分 ~ 19时08分]"
         }
       ]
     },
