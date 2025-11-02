@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T20:14:23.456650+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-11-02T21:11:35.405293+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时11分 ~ 20时14分]"
+          "appearance_count": 13,
+          "time_info": "[12时11分 ~ 21时11分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时11分 ~ 16时09分]"
+        },
+        {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 21时11分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -97,6 +108,17 @@
           "time_info": "[00时09分 ~ 08时33分]"
         },
         {
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 21时11分]"
+        },
+        {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
           "url": "https://www.zhihu.com/question/1967205319198372105",
           "source": "知乎",
@@ -109,28 +131,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[08时32分 ~ 19时07分]"
-        },
-        {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 20时14分]"
-        },
-        {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 20时14分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -178,11 +178,12 @@
           "url": "https://flash.jin10.com/detail/20251102194256163800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时11分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -192,8 +193,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时11分]"
         },
         {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
@@ -208,6 +209,41 @@
           "time_info": "[16时09分 ~ 17时08分]"
         },
         {
+          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
+          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时11分]"
+        },
+        {
+          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时11分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-02）",
+          "url": "https://flash.jin10.com/detail/20251102185206448800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时11分]"
+        },
+        {
           "title": "美国考虑制作特朗普纪念币",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%88%B6%E4%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%AA%E5%BF%B5%E5%B8%81",
           "source": "bilibili 热搜",
@@ -217,39 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        },
-        {
-          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
-          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-02）",
-          "url": "https://flash.jin10.com/detail/20251102185206448800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
         }
       ]
     },
@@ -267,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时38分 ~ 20时14分]"
+          "appearance_count": 16,
+          "time_info": "[09时38分 ~ 21时11分]"
         },
         {
           "title": "官方发布关于黄金有关税收政策公告，纳税人不通过交易所销售标准黄金，应缴纳增值税，会对市场带来哪些影响？",
@@ -297,8 +300,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 20时14分]"
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 21时11分]"
         },
         {
           "title": "关于黄金有关税收政策的公告",
@@ -320,11 +323,12 @@
           "ranks": [
             4,
             12,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 21时11分]"
         },
         {
           "title": "上期所发布关于黄金期货出入库及发票流程等事项的通知",
@@ -387,7 +391,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -401,8 +405,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时29分 ~ 20时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时29分 ~ 21时11分]"
         },
         {
           "title": "伯克希尔·哈撒韦Q3运营利润大增34%，现金储备飙至3817亿美元创历史新高",
@@ -417,8 +421,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时09分 ~ 20时14分]"
+          "appearance_count": 26,
+          "time_info": "[00时09分 ~ 21时11分]"
         },
         {
           "title": "4200万美国民众就快吃不上饭，白宫却豪掷3亿美元建舞厅",
@@ -428,8 +432,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 20时14分]"
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 21时11分]"
         },
         {
           "title": "伯克希尔哈撒韦的现金储备达到创纪录的3816.7亿美元。 伯克希尔哈撒韦连续第五个季度未进行股票回购。",
@@ -480,6 +484,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时08分 ~ 19时07分]"
+        },
+        {
+          "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
+          "url": "https://wallstreetcn.com/livenews/2998143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "白宫斥资3亿美元建舞厅",
@@ -553,8 +568,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时11分 ~ 20时14分]"
+          "appearance_count": 13,
+          "time_info": "[12时11分 ~ 21时11分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -701,9 +716,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时11分]"
         },
         {
           "title": "12岁女孩做外贸3个月卖了10万",
@@ -724,9 +739,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时11分]"
         }
       ]
     },
