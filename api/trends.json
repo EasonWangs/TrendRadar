@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T16:13:32.236541+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-11-03T17:12:09.999892+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -107,6 +107,30 @@
           "time_info": "[00时08分 ~ 07时09分]"
         },
         {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
           "url": "https://wallstreetcn.com/livenews/2998163",
           "source": "华尔街见闻-快讯",
@@ -178,18 +202,6 @@
           "time_info": "[09时38分 ~ 14时12分]"
         },
         {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时13分]"
-        },
-        {
           "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
           "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
           "source": "凤凰网",
@@ -202,15 +214,27 @@
           "time_info": "[15时09分 ~ 16时13分]"
         },
         {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
           "source": "凤凰网",
           "ranks": [
-            1
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 17时12分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -345,18 +369,6 @@
           "time_info": "[08时34分 ~ 09时39分]"
         },
         {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时13分]"
-        },
-        {
           "title": "特朗普的三角外交玩不转了吗",
           "url": "https://www.toutiao.com/trending/7568318449886170651/",
           "source": "今日头条",
@@ -378,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时09分 ~ 16时13分]"
+        },
+        {
+          "title": "特朗普取消旁听美最高法院关税案辩论",
+          "url": "https://www.toutiao.com/trending/7567579672977031204/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
         },
         {
           "title": "特朗普为何威胁对尼日利亚动武",
@@ -433,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "特朗普表示不会参与有关欧洲可能扣押俄被冻结资产的讨论",
@@ -614,7 +648,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -650,8 +684,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时38分 ~ 16时13分]"
+          "appearance_count": 11,
+          "time_info": "[09时38分 ~ 17时12分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
@@ -773,6 +807,30 @@
           "time_info": "[08时34分 ~ 09时39分]"
         },
         {
+          "title": "5万亿美元！英伟达市值究竟有多惊人：几组对比告诉你……",
+          "url": "https://www.cls.cn/detail/2189185",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时11分]"
+        },
+        {
+          "title": "现货白银涨幅扩大至1%，现报49.058美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 17时12分]"
+        },
+        {
           "title": "纽约银日内涨幅达1%，报48.65美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/2998377",
           "source": "华尔街见闻-快讯",
@@ -797,27 +855,26 @@
           "time_info": "[11时31分 ~ 12时15分]"
         },
         {
-          "title": "5万亿美元！英伟达市值究竟有多惊人：几组对比告诉你……",
-          "url": "https://www.cls.cn/detail/2189185",
-          "source": "财联社热门",
+          "title": "比特币失守107000美元/枚，日内跌幅3.24%。",
+          "url": "https://flash.jin10.com/detail/20251103164922246800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时13分]"
-        },
-        {
-          "title": "现货白银涨幅扩大至1%，现报49.058美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2998452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "17时12分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1225，较上一交易日官方收盘价跌90点，较上日夜盘收盘跌25点。",
+          "url": "https://wallstreetcn.com/livenews/2998482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "比特币失守108000美元/枚，日内跌幅2.30%。",
@@ -848,7 +905,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -977,7 +1034,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "黄金税收新规影响如何",
@@ -1021,6 +1078,19 @@
           "time_info": "[08时34分 ~ 14时12分]"
         },
         {
+          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3758522",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 17时12分]"
+        },
+        {
           "title": "王家卫被曝录音中称中国的编剧现在处在黄金时代，真是这样吗？影视编剧行业境况究竟如何？",
           "url": "https://www.zhihu.com/question/1967902830531666243",
           "source": "知乎",
@@ -1037,19 +1107,6 @@
           "time_info": "[08时34分 ~ 15时09分]"
         },
         {
-          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3758522",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 16时13分]"
-        },
-        {
           "title": "国有大行“吹哨子”？工商银行暂停部分黄金积存业务引关注，业内：或仅为正常调整",
           "url": "https://www.cls.cn/detail/2189286",
           "source": "财联社热门",
@@ -1059,8 +1116,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 17时12分]"
+        },
+        {
+          "title": "黄金开始征税 部分商家火速下架金条",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%BE%81%E7%A8%8E+%E9%83%A8%E5%88%86%E5%95%86%E5%AE%B6%E7%81%AB%E9%80%9F%E4%B8%8B%E6%9E%B6%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时15分 ~ 17时12分]"
         },
         {
           "title": "现货黄金突破4010美元/盎司，日内涨0.17%。",
@@ -1075,17 +1145,15 @@
           "time_info": "[11时31分 ~ 12时15分]"
         },
         {
-          "title": "黄金开始征税 部分商家火速下架金条",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%BE%81%E7%A8%8E+%E9%83%A8%E5%88%86%E5%95%86%E5%AE%B6%E7%81%AB%E9%80%9F%E4%B8%8B%E6%9E%B6%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
+          "title": "高中生讲述缅北51天经历：受背黄金高薪诱惑，入缅后得知被卖",
+          "url": "https://news.ifeng.com/c/8nypu2CfsNZ",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            22,
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时15分 ~ 16时13分]"
+          "time_info": "[15时09分 ~ 17时12分]"
         },
         {
           "title": "买黄金要多交税了吗",
@@ -1099,15 +1167,26 @@
           "time_info": "[09时38分 ~ 10时41分]"
         },
         {
-          "title": "高中生讲述缅北51天经历：受背黄金高薪诱惑，入缅后得知被卖",
-          "url": "https://news.ifeng.com/c/8nypu2CfsNZ",
-          "source": "凤凰网",
+          "title": "A股三大指数午后全线翻红，贵金属、电池等板块跌幅居前，港股老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 17时12分]"
+        },
+        {
+          "title": "一条视频看懂黄金税收新规",
+          "url": "https://www.douyin.com/hot/2293159",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时13分 ~ 17时12分]"
         },
         {
           "title": "港股老铺黄金盘中跌超8%，此前中国取消黄金税收优惠政策。",
@@ -1133,15 +1212,15 @@
           "time_info": "[09时38分 ~ 09时39分]"
         },
         {
-          "title": "A股三大指数午后全线翻红，贵金属、电池等板块跌幅居前，港股老铺黄金跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758525",
-          "source": "华尔街见闻",
+          "title": "黄金税收新规出台后，招行实体金条价格已含税",
+          "url": "https://wallstreetcn.com/livenews/2998489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "17时12分"
         },
         {
           "title": "现货黄金回落至3980美元/盎司下方，日内跌0.58%。",
@@ -1183,18 +1262,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "一条视频看懂黄金税收新规",
-          "url": "https://www.douyin.com/hot/2293159",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -1230,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
+          "url": "https://flash.jin10.com/detail/20251103162225875800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -1464,7 +1543,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
