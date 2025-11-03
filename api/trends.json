@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-11-04T03:07:48.228457+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2025-11-04T04:09:53.571736+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
+          "title": "周一（11月3日）纽约尾盘，ICE原糖期货涨1.73%，ICE白糖期货涨1.95%。 ICE阿拉比卡咖啡期货涨4.23%，咖啡“C”期货涨4%。罗布斯塔咖啡期货涨3.41%。 纽约可可期货涨6.54%，报6553美元/吨。伦敦可可期货涨6.15%。 ICE棉花期货涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/2998737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时09分"
         },
         {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
@@ -52,24 +52,37 @@
           "time_info": "01时10分"
         },
         {
+          "title": "LME期铜收跌32美元，报10855美元/吨。 LME期铝收涨18美元，报2902美元/吨。 LME期锌收涨44美元，报3100美元/吨。 LME期铅收涨10美元，报2027美元/吨。 LME期镍收跌84美元，报15142美元/吨。 LME期锡收跌39美元，报36047美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2998700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时12分 ~ 04时09分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)的美元债券发行吸引了高达900亿美元的投资者认购需求。",
           "url": "https://flash.jin10.com/detail/20251104013308077800",
           "source": "金十数据",
           "ranks": [
             3,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 03时07分]"
-        },
-        {
-          "title": "LME期铜收跌32美元，报10855美元/吨。 LME期铝收涨18美元，报2902美元/吨。 LME期锌收涨44美元，报3100美元/吨。 LME期铅收涨10美元，报2027美元/吨。 LME期镍收跌84美元，报15142美元/吨。 LME期锡收跌39美元，报36047美元/吨。 LME期钴收平，报48570美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/2998700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -98,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时07分]"
+        },
+        {
+          "title": "周一（11月3日），美联储隔夜逆回购协议（RRP）使用规模为237.92亿美元，上个交易日报518.02亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
         },
         {
           "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
@@ -142,9 +167,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "分析师预测：英伟达市值有望达8.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "比特币日内大跌5001美元，现报105540美元/枚，跌幅4.52%。",
@@ -158,15 +194,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "周一（11月3日），美联储隔夜逆回购协议（RRP）使用规模为237.92亿美元，上个交易日报518.02亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998707",
+          "title": "WTI 12月原油期货收涨0.07美元，涨幅0.11%，报61.05美元/桶。 布伦特1月原油期货收涨0.12美元，涨幅0.19%，报64.89美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报67.14美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/2998731",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时09分"
         },
         {
           "title": "比特币回落至106000美元/枚下方，日内跌4.18%。",
@@ -180,6 +216,28 @@
           "time_info": "00时10分"
         },
         {
+          "title": "华尔街机构喊出英伟达最高目标价 市值有望达8.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20251104033423610800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "2025年迄今最大一笔页岩油气交易：SM Energy Co.同意，按大约28亿美元股权估值收购美国二叠纪盆地的竞争对手Civitas Resources Inc.。",
+          "url": "https://wallstreetcn.com/livenews/2998729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "纽元兑美元NZD/USD日内走低0.50%，现报0.5695。",
           "url": "https://flash.jin10.com/detail/20251103232811681800",
           "source": "金十数据",
@@ -191,6 +249,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "沃旭能源ADR涨7.4%，Apollo将对该公司旗下Hornsea 3项目（英国东海岸海上风电场）投资65亿美元、持股50%。",
+          "url": "https://wallstreetcn.com/livenews/2998724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "瑞银：将伯克希尔哈撒韦(BRK.B.N)目标价从593美元上调至595美元。",
           "url": "https://flash.jin10.com/detail/20251103231919193800",
           "source": "金十数据",
@@ -200,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1205元，较上周五夜盘收盘跌5点。成交量452.59亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "瑞银：将伯克希尔哈撒韦(BRK.A.N)目标价从890002美元上调至892758美元。",
@@ -271,7 +351,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -281,8 +361,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
@@ -292,8 +372,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
@@ -303,8 +383,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "特朗普：大型台企将生产线向美国转移",
@@ -315,19 +395,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
-          "title": "加拿大央行行长Tiff Macklem：美国民众在极大程度承担了（总统特朗普挑起的）关税成本。",
-          "url": "https://wallstreetcn.com/livenews/2998714",
+          "title": "美联储理事库克：有理由担心失业人口增加（这种风险）。 担心就业市场，因为它能迅速发生变化。 （企业/总统特朗普的联邦政府）宣布的裁员行动可能还没有实质化，需要通过数据来分析。",
+          "url": "https://wallstreetcn.com/livenews/2998734",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时09分"
         },
         {
           "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
@@ -337,11 +417,12 @@
             17,
             16,
             15,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -349,11 +430,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -364,8 +446,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "特朗普：和中国合作能让我们更强大",
@@ -375,8 +457,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
+        },
+        {
+          "title": "加拿大央行行长Tiff Macklem：美国民众在极大程度承担了（总统特朗普挑起的）关税成本。",
+          "url": "https://wallstreetcn.com/livenews/2998714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -387,8 +481,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -415,6 +509,18 @@
           "time_info": "[02时12分 ~ 03时07分]"
         },
         {
+          "title": "奥巴马抨击特朗普释放了什么信号",
+          "url": "https://www.toutiao.com/trending/7568449754930089518/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
           "title": "美国大约24个州起诉特朗普政府限制“公共服务贷款豁免”的做法",
           "url": "https://wallstreetcn.com/livenews/2998683",
           "source": "华尔街见闻-快讯",
@@ -438,6 +544,28 @@
           "time_info": "01时10分"
         },
         {
+          "title": "美联储理事库克：在法庭审理（美国总统特朗普政府所谓的抵押贷款）官司期间，对各方的支持表示由衷的感谢。 我不会谈论正在进行的庭审，那样做是不合适的。",
+          "url": "https://wallstreetcn.com/livenews/2998727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "加拿大不列颠哥伦比亚省长：我们不会针对美国总统特朗普运行反关税广告。",
+          "url": "https://wallstreetcn.com/livenews/2998726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "美国众议院议长约翰逊：周末与美国总统特朗普就补充营养协助计划（SNAP）进行了交谈。",
           "url": "https://flash.jin10.com/detail/20251103232552334800",
           "source": "金十数据",
@@ -449,15 +577,26 @@
           "time_info": "00时10分"
         },
         {
-          "title": "奥巴马抨击特朗普释放了什么信号",
-          "url": "https://www.toutiao.com/trending/7568449754930089518/",
-          "source": "今日头条",
+          "title": "美联储理事库克自特朗普起诉她以来首次公开讲话，称：还没有就12月降息与否做决定。 （在9月份和10月份都）支持FOMC降息，因为就业市场面临的风险超过通胀风险。 当前政策仍然具有适度的限制性。",
+          "url": "https://wallstreetcn.com/livenews/2998722",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美联储理事库克：不会就美国总统特朗普的解职意图进一步置评。",
+          "url": "https://flash.jin10.com/detail/20251104031804973800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -473,8 +612,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
@@ -485,8 +624,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
@@ -496,19 +635,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251104023204638800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -518,8 +646,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251104023204638800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "一条视频看懂黄金税收新规",
@@ -532,8 +671,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "黄金开始征税 部分商家火速下架金条",
@@ -543,11 +682,12 @@
             18,
             24,
             26,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "工行和建行同日暂停部分黄金积存业务",
@@ -555,11 +695,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 04时09分]"
         },
         {
           "title": "现货黄金短线走低20美元，现报4012.73美元/盎司。现货白银短线走低0.4美元，现报48.34美元/盎司",
@@ -682,8 +823,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -693,8 +834,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 04时09分]"
         },
         {
           "title": "比特币短线从10.7万美元上方下挫至10.6万美元下方，日内跌幅迅速扩大至约4%，以太坊跌6%，Solana跌8.9%，狗狗币跌9.8%，XRP跌6%。 加密货币概念股普跌，BitMine跌8.3%，以太币ETF FETH跌7.6%，Coinbase跌4.1%，Riot Platform则涨3.4%，Bitfarms涨4.1%，Iren涨13.1%，Cipher Mining涨20.5%。",
