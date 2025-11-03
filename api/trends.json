@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T12:15:53.560750+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2025-11-03T14:12:48.107363+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时34分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 14时12分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -65,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时08分 ~ 12时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时08分 ~ 14时12分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -160,8 +160,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时12分]"
         },
         {
           "title": "核武专家都在猜 特朗普这话什么意思",
@@ -170,11 +170,12 @@
           "ranks": [
             28,
             18,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 12时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 14时12分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -210,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.toutiao.com/trending/7567984366324858899/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美国总统特朗普：我将在堪萨斯城对阵布法罗的NFL（美国职业橄榄球大联盟）比赛结束后接受《60分钟》的采访。",
@@ -463,6 +475,17 @@
           "time_info": "08时34分"
         },
         {
+          "title": "特朗普拒绝重启与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7567532659673727026/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美国总统特朗普：有时你必须让俄罗斯和乌克兰展开战斗。",
           "url": "https://flash.jin10.com/detail/20251103071628120800",
           "source": "金十数据",
@@ -505,12 +528,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "三季度再卖61亿、连续5季度不回购、三年累计卖1840亿美元股票！巴菲特给伯克希尔留下的是：3820亿美元现金",
@@ -541,11 +575,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 12时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 14时12分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
@@ -592,7 +627,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -657,13 +692,24 @@
           "time_info": "[11时31分 ~ 12时15分]"
         },
         {
+          "title": "纽约银日内涨幅达1%，报48.65美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "比特币失守108000美元/枚，日内跌幅2.30%。",
           "url": "https://flash.jin10.com/detail/20251103112644373800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -679,13 +725,24 @@
           "time_info": "09时39分"
         },
         {
+          "title": "纽约期银日内涨幅达1.00%，现报48.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251103133156376800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "万科美元债盘中下跌",
           "url": "https://wallstreetcn.com/livenews/2998324",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -696,9 +753,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "摩根士丹利上调2026年上半年布油价格预期至每桶60美元",
+          "url": "https://flash.jin10.com/detail/20251103131637372800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "比特币跌破110000美元/枚，日内跌0.50%。",
@@ -718,7 +786,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -737,7 +805,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "黄金税收新规影响如何",
@@ -773,11 +841,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时34分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 14时12分]"
         },
         {
           "title": "王家卫被曝录音中称中国的编剧现在处在黄金时代，真是这样吗？影视编剧行业境况究竟如何？",
@@ -787,11 +856,23 @@
             19,
             9,
             7,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时34分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 14时12分]"
+        },
+        {
+          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3758522",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "现货黄金突破4010美元/盎司，日内涨0.17%。",
@@ -829,6 +910,18 @@
           "time_info": "[10时41分 ~ 11时31分]"
         },
         {
+          "title": "黄金开始征税 部分商家火速下架金条",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%BE%81%E7%A8%8E+%E9%83%A8%E5%88%86%E5%95%86%E5%AE%B6%E7%81%AB%E9%80%9F%E4%B8%8B%E6%9E%B6%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 14时12分]"
+        },
+        {
           "title": "一文读懂黄金新政",
           "url": "https://www.toutiao.com/trending/7568277448333200932/",
           "source": "今日头条",
@@ -838,6 +931,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "国有大行“吹哨子”？工商银行暂停部分黄金积存业务引关注，业内：或仅为正常调整",
+          "url": "https://www.cls.cn/detail/2189286",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "现货黄金回落至3980美元/盎司下方，日内跌0.58%。",
@@ -868,9 +972,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "黄金 征税",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91+%E5%BE%81%E7%A8%8E&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D18%26realpos%3D18%26q%3D%25E9%25BB%2584%25E9%2587%2591%2520%25E5%25BE%2581%25E7%25A8%258E%26dgr%3D0%26pos%3D18%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26display_time%3D1762150246%26pre_seqid%3D176215024636401688827149&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "金十图示：2025年11月03日（周一）黄金ETF持仓报告",
@@ -882,17 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
-        },
-        {
-          "title": "黄金开始征税 部分商家火速下架金条",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%BE%81%E7%A8%8E+%E9%83%A8%E5%88%86%E5%95%86%E5%AE%B6%E7%81%AB%E9%80%9F%E4%B8%8B%E6%9E%B6%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货涨0.11%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
@@ -934,11 +1038,12 @@
             12,
             11,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 12时15分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 14时12分]"
         },
         {
           "title": "学者：特朗普抛G2概念是霸权算计",
@@ -971,7 +1076,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -1049,7 +1154,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1092,11 +1197,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时12分]"
         },
         {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
