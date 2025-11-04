@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T22:09:09.099683+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2025-11-04T23:09:42.265586+08:00",
+  "total_titles_processed": 2129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 110,
+      "match_count": 121,
       "titles": [
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -38,6 +38,18 @@
           "time_info": "[09时37分 ~ 17时11分]"
         },
         {
+          "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时08分 ~ 23时09分]"
+        },
+        {
           "title": "全球风险资产下挫：纳指100期货跌超1%，欧股跌超1%、加密货币继续崩盘，金银油齐跌，美元徘徊在100关口",
           "url": "https://wallstreetcn.com/articles/3758628",
           "source": "华尔街见闻",
@@ -50,15 +62,18 @@
           "time_info": "[19时10分 ~ 21时20分]"
         },
         {
-          "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
+          "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
+          "url": "https://www.zhihu.com/question/1968945735178388310",
+          "source": "知乎",
           "ranks": [
-            4
+            11,
+            7,
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 22时09分]"
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 23时09分]"
         },
         {
           "title": "美元兑日元USD/JPY上涨0.18%，一度升至2月中旬以来最高水平154.48。",
@@ -103,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "Prosus于10月27-31日按均价60.7906欧元回购股票101.7081万股，总计0.618亿欧元（折合0.717亿美元）。 Naspers同期按均价1260.6104南非兰特回购37.7261万股，总计4.756亿兰特（折合0.276亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/2999288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "印度最大线上券商母公司启动IPO 估值或达70亿美元",
@@ -166,9 +192,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
+        },
+        {
+          "title": "市场消息：尼日利亚计划发行23亿美元的欧洲债券。",
+          "url": "https://flash.jin10.com/detail/20251104224938933800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
@@ -213,19 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
-        },
-        {
-          "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
-          "url": "https://www.zhihu.com/question/1968945735178388310",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 17时11分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE原糖期货涨1.73%，ICE白糖期货涨1.95%。 ICE阿拉比卡咖啡期货涨4.23%，咖啡“C”期货涨4%。罗布斯塔咖啡期货涨3.41%。 纽约可可期货涨6.54%，报6553美元/吨。伦敦可可期货涨6.15%。 ICE棉花期货涨0.23%。",
@@ -711,6 +735,28 @@
           "time_info": "09时37分"
         },
         {
+          "title": "伦铝日内下跌2.00%，现报2847.68美元/吨。",
+          "url": "https://flash.jin10.com/detail/20251104224238132800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "据知情人士透露，尼日利亚计划发行23亿美元欧元债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "全球风险资产下挫：纳指100期货跌超1%，欧股低开超1%、加密货币继续崩盘，金银油齐跌，美元徘徊在100关口",
           "url": "https://wallstreetcn.com/articles/3758628",
           "source": "华尔街见闻",
@@ -799,6 +845,17 @@
           "time_info": "16时12分"
         },
         {
+          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2999277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "比特币回落至106000美元/枚下方，日内跌4.18%。",
           "url": "https://flash.jin10.com/detail/20251103233037937800",
           "source": "金十数据",
@@ -854,6 +911,17 @@
           "time_info": "21时20分"
         },
         {
+          "title": "阿波罗Apollo Global Management Inc.（APO）上涨8.3%，创5月12日以来最大盘中涨幅。 该公司三季度盈利超出了华尔街的预期，其资产规模正逼近1万亿美元大关。 费用相关收益（Fee-related earnings） 同比跃升23%，达到6.52亿美元，分析师平均预期6.265亿美元。 调整后净收入（Adjusted net income） 攀升20%，达到近13.6亿美元，或每股2.17美元，高于华尔街预期的1.90美元。",
+          "url": "https://wallstreetcn.com/livenews/2999275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "欧元兑美元EUR/USD跌至1.1504，为8月1日以来的最低水平。",
           "url": "https://flash.jin10.com/detail/20251104091534074800",
           "source": "金十数据",
@@ -898,6 +966,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "比特币失守103000美元/枚，日内跌幅3.37%。",
+          "url": "https://flash.jin10.com/detail/20251104223825527800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
           "url": "https://flash.jin10.com/detail/20251104091430231800",
           "source": "金十数据",
@@ -931,6 +1010,17 @@
           "time_info": "21时20分"
         },
         {
+          "title": "据The Information：Anthropic PBC于9月从多家投资者融资130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251104223713783800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "澳元兑美元AUD/USD短线波动暂时不大，现报0.6530。",
           "url": "https://flash.jin10.com/detail/20251104113124316800",
           "source": "金十数据",
@@ -948,7 +1038,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -962,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "Anthropic PBC在9月份从多家投资者融资130亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2999268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "瑞银：将伯克希尔哈撒韦(BRK.B.N)目标价从593美元上调至595美元。",
@@ -984,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
+        },
+        {
+          "title": "现货白银失守47美元/盎司，日内跌幅2.22%。",
+          "url": "https://flash.jin10.com/detail/20251104223548013800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "人民币兑美元中间价报7.0885，下调18点；上一交易日中间价7.0867，上一交易日官方收盘价7.1225，上日夜盘报收7.1205。",
@@ -1135,7 +1247,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1217,6 +1329,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "医药公司Metsera Inc.获得诺和诺德递交的修订版收购方案。 获得诺和诺德高达每股86.20美元的估值（11月3日收报60.73美元）。 认为诺和诺德的最新收购提议“更优”。 Metsera与辉瑞制药可能会在未来两天谈判潜在的（收购方案）调整。",
+          "url": "https://wallstreetcn.com/livenews/2999260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "花旗：到2030年全球人工智能产业收入料将达到9750亿美元",
           "url": "https://flash.jin10.com/detail/20251103231145361800",
           "source": "金十数据",
@@ -1275,7 +1398,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -1354,6 +1477,18 @@
           "time_info": "[12时09分 ~ 18时10分]"
         },
         {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
           "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
           "source": "澎湃新闻",
@@ -1381,18 +1516,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时10分 ~ 09时37分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时10分 ~ 22时09分]"
         },
         {
           "title": "特朗普：和中国合作能让我们更强大",
@@ -1504,11 +1627,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 22时09分]"
+          "appearance_count": 4,
+          "time_info": "[21时20分 ~ 23时09分]"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -1575,6 +1699,18 @@
           "time_info": "[03时07分 ~ 07时08分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时20分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普称对中国与其打压不如合作",
           "url": "https://www.toutiao.com/trending/7568736208902324287/",
           "source": "今日头条",
@@ -1585,17 +1721,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时10分 ~ 20时14分]"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时20分 ~ 22时09分]"
         },
         {
           "title": "特朗普改口不去全球关税合法性听证会",
@@ -1737,7 +1862,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1858,7 +1983,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -1891,9 +2016,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
+        },
+        {
+          "title": "奥巴马为何怼特朗普政府“无法无天”",
+          "url": "https://www.toutiao.com/trending/7568801860920806922/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美国总统特朗普：共和党将在没有冗长辩论的情况下使所有议案获得批准。",
@@ -1902,7 +2038,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         }
@@ -1910,7 +2046,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -1920,8 +2056,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时30分 ~ 22时09分]"
+          "appearance_count": 19,
+          "time_info": "[08时30分 ~ 23时09分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -2005,17 +2141,6 @@
           "time_info": "14时13分"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2999257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
           "url": "https://flash.jin10.com/detail/20251104134919523800",
           "source": "金十数据",
@@ -2038,6 +2163,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时14分 ~ 22时09分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 23时09分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -2100,6 +2237,18 @@
           "time_info": "[06时10分 ~ 07时08分]"
         },
         {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时08分 ~ 23时09分]"
+        },
+        {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/2999015",
           "source": "华尔街见闻-快讯",
@@ -2158,17 +2307,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时08分]"
-        },
-        {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "美股收盘，三大股指涨跌不一",
@@ -2241,13 +2379,24 @@
           "time_info": "06时10分"
         },
         {
+          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251104224011768800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-11-04）",
           "url": "https://flash.jin10.com/detail/20251104214109676800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -2261,6 +2410,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/2999272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/2999262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "美股三大股指集体低开",
+          "url": "https://flash.jin10.com/detail/20251104223028460800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
@@ -2321,7 +2503,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
@@ -2361,6 +2543,20 @@
           "time_info": "[00时10分 ~ 17时11分]"
         },
         {
+          "title": "最高涨幅13%！税收新政落地首周黄金饰品普遍涨价，板料经营商暂停报价观望市场",
+          "url": "https://www.cls.cn/detail/2190546",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时12分 ~ 23时09分]"
+        },
+        {
           "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
           "url": "https://www.cls.cn/detail/2190148",
           "source": "财联社热门",
@@ -2373,19 +2569,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时38分 ~ 17时11分]"
-        },
-        {
-          "title": "最高涨幅13%！税收新政落地首周黄金饰品普遍涨价，板料经营商暂停报价观望市场",
-          "url": "https://www.cls.cn/detail/2190546",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时12分 ~ 22时09分]"
         },
         {
           "title": "黄金还有投资机会吗",
@@ -2456,6 +2639,20 @@
           "time_info": "[00时10分 ~ 11时28分]"
         },
         {
+          "title": "一图看懂 | 黄金税收新政影响浮现，对“买金党”有何影响？",
+          "url": "https://www.cls.cn/detail/2190860",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 23时09分]"
+        },
+        {
           "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
           "url": "https://www.zhihu.com/question/1968612930045059136",
           "source": "知乎",
@@ -2463,8 +2660,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时11分 ~ 22时09分]"
+          "appearance_count": 8,
+          "time_info": "[17时11分 ~ 23时09分]"
         },
         {
           "title": "工行和建行同日暂停部分黄金积存业务",
@@ -2482,19 +2679,6 @@
           "time_info": "[01时10分 ~ 08时30分]"
         },
         {
-          "title": "一图看懂 | 黄金税收新政影响浮现，对“买金党”有何影响？",
-          "url": "https://www.cls.cn/detail/2190860",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时10分 ~ 22时09分]"
-        },
-        {
           "title": "唐俪辞有5吨黄金",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%94%90%E4%BF%AA%E8%BE%9E%E6%9C%895%E5%90%A8%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D1%26q%3D%25E5%2594%2590%25E4%25BF%25AA%25E8%25BE%259E%25E6%259C%25895%25E5%2590%25A8%25E9%25BB%2584%25E9%2587%2591%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D2%26realpos%3D2%26dgr%3D0%26display_time%3D1762232911%26pre_seqid%3D17622329117570252232856&launchid=10000360-page_H5",
           "source": "微博",
@@ -2505,6 +2689,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时09分 ~ 15时09分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数再陷缩量调整，黄金等资源股持续低迷，资金逆势抱团银行等红利股",
+          "url": "https://www.cls.cn/detail/2190760",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时10分 ~ 23时09分]"
+        },
+        {
+          "title": "现货黄金短线反弹近20美元，现报3946.46美元/盎司。现货白银短线反弹近0.3美元，现报47.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251104225442162800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
@@ -2527,19 +2736,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
-        },
-        {
-          "title": "【焦点复盘】三大指数再陷缩量调整，黄金等资源股持续低迷，资金逆势抱团银行等红利股",
-          "url": "https://www.cls.cn/detail/2190760",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时10分 ~ 22时09分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -2578,6 +2774,17 @@
           "time_info": "[00时10分 ~ 06时10分]"
         },
         {
+          "title": "现货黄金失守3930美元/盎司，日内跌幅1.76%。",
+          "url": "https://flash.jin10.com/detail/20251104224116816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "现货黄金短线走低20美元，现报4012.73美元/盎司。现货白银短线走低0.4美元，现报48.34美元/盎司",
           "url": "https://flash.jin10.com/detail/20251103233020705800",
           "source": "金十数据",
@@ -2609,6 +2816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "美联储降息预期削减 现货黄金持续走低",
+          "url": "https://flash.jin10.com/detail/20251104223533910800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月4日（周二）早盘盘初下跌0.3%报913.51元/克；<br/>上海黄金交易所白银T+D 11月4日（周二）早盘盘初下跌0.84%报11275.0元/千克。",
@@ -2655,6 +2873,17 @@
           "time_info": "08时30分"
         },
         {
+          "title": "现货黄金失守3950美元/盎司，日内跌幅1.28%。",
+          "url": "https://flash.jin10.com/detail/20251104223229956800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "现货黄金跌破3990美元，日内小幅下跌0.28%。",
           "url": "https://wallstreetcn.com/livenews/2998803",
           "source": "华尔街见闻-快讯",
@@ -2686,6 +2915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "现货黄金向下触及3960美元/盎司，日内跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251104222932185800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     },
@@ -2884,8 +3124,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[06时09分 ~ 22时09分]"
+          "appearance_count": 22,
+          "time_info": "[06时09分 ~ 23时09分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
