@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T21:20:49.922981+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2025-11-04T22:09:09.099683+08:00",
+  "total_titles_processed": 2043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 106,
+      "match_count": 110,
       "titles": [
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -48,6 +48,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时10分 ~ 21时20分]"
+        },
+        {
+          "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "美元兑日元USD/JPY上涨0.18%，一度升至2月中旬以来最高水平154.48。",
@@ -144,9 +155,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
+        },
+        {
+          "title": "以财政部长：两年战事致以色列经济损失770亿美元",
+          "url": "https://flash.jin10.com/detail/20251104215032798800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "现货白银日内走低1%，现报48.19美元/盎司。",
@@ -245,6 +267,19 @@
           "time_info": "[05时08分 ~ 07时08分]"
         },
         {
+          "title": "欧元兑美元自8月1日以来首次跌破1.15。",
+          "url": "https://wallstreetcn.com/livenews/2999204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 22时09分]"
+        },
+        {
           "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
           "url": "https://wallstreetcn.com/livenews/2998716",
           "source": "华尔街见闻-快讯",
@@ -303,18 +338,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时08分]"
-        },
-        {
-          "title": "欧元兑美元自8月1日以来首次跌破1.15。",
-          "url": "https://wallstreetcn.com/livenews/2999204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时20分]"
         },
         {
           "title": "现货白银日内跌幅达1.0%，报48.14美元/盎司。",
@@ -571,6 +594,18 @@
           "time_info": "[14时13分 ~ 15时09分]"
         },
         {
+          "title": "第138届广交会今天闭幕 现场意向出口成交256.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/2999216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
+        },
+        {
           "title": "沃旭能源ADR涨7.4%，Apollo将对该公司旗下Hornsea 3项目（英国东海岸海上风电场）投资65亿美元、持股50%。",
           "url": "https://wallstreetcn.com/livenews/2998724",
           "source": "华尔街见闻-快讯",
@@ -581,6 +616,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
+          "url": "https://wallstreetcn.com/livenews/2999214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1205元，较上周五夜盘收盘跌5点。成交量452.59亿美元。",
@@ -802,7 +849,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -851,17 +898,6 @@
           "time_info": "18时10分"
         },
         {
-          "title": "第138届广交会今天闭幕 现场意向出口成交256.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/2999216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
           "url": "https://flash.jin10.com/detail/20251104091430231800",
           "source": "金十数据",
@@ -890,18 +926,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/2999214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -915,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "智利国家铜业公司预计今年资本支出为43亿至50亿美元。",
+          "url": "https://flash.jin10.com/detail/20251104213613405800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次。",
@@ -1093,6 +1129,17 @@
           "time_info": "08时30分"
         },
         {
+          "title": "英国石油公司首席执行官：将维持每年6亿美元的勘探预算。",
+          "url": "https://flash.jin10.com/detail/20251104213253237800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
           "url": "https://wallstreetcn.com/livenews/2998642",
           "source": "华尔街见闻-快讯",
@@ -1228,7 +1275,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -1291,8 +1338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时10分 ~ 21时20分]"
+          "appearance_count": 27,
+          "time_info": "[00时10分 ~ 22时09分]"
         },
         {
           "title": "特朗普：美核武可毁灭世界150次",
@@ -1334,6 +1381,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时10分 ~ 09时37分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时10分 ~ 22时09分]"
         },
         {
           "title": "特朗普：和中国合作能让我们更强大",
@@ -1383,18 +1442,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时08分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时20分]"
         },
         {
           "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
@@ -1450,6 +1497,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时20分 ~ 22时09分]"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -1528,6 +1587,17 @@
           "time_info": "[18时10分 ~ 20时14分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时20分 ~ 22时09分]"
+        },
+        {
           "title": "特朗普改口不去全球关税合法性听证会",
           "url": "https://www.toutiao.com/trending/7568682000622554660/",
           "source": "今日头条",
@@ -1552,6 +1622,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时11分 ~ 19时10分]"
+        },
+        {
+          "title": "特朗普再向中国示好背后原因是什么",
+          "url": "https://www.toutiao.com/trending/7568843465572748827/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -1650,6 +1731,17 @@
           "time_info": "[17时11分 ~ 19时10分]"
         },
         {
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
           "url": "https://flash.jin10.com/detail/20251104061658652800",
           "source": "金十数据",
@@ -1681,17 +1773,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        },
-        {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
         },
         {
           "title": "道富集团CEO批特朗普移民政策“反增长”",
@@ -1771,15 +1852,15 @@
           "time_info": "15时09分"
         },
         {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
+          "title": "乌克兰总统泽连斯基：美国总统特朗普支持乌克兰加入欧盟的申请。",
+          "url": "https://flash.jin10.com/detail/20251104213316041800",
+          "source": "金十数据",
           "ranks": [
-            18
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时20分"
+          "time_info": "22时09分"
         },
         {
           "title": "美联储理事库克：不会就美国总统特朗普的解职意图进一步置评。",
@@ -1802,12 +1883,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
+        },
+        {
+          "title": "特朗普再次呼吁终止参议院冗长议事规则",
+          "url": "https://flash.jin10.com/detail/20251104212729939800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "美国总统特朗普：共和党将在没有冗长辩论的情况下使所有议案获得批准。",
+          "url": "https://flash.jin10.com/detail/20251104212317020800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -1817,8 +1920,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时30分 ~ 21时20分]"
+          "appearance_count": 18,
+          "time_info": "[08时30分 ~ 22时09分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -1902,6 +2005,17 @@
           "time_info": "14时13分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
           "url": "https://flash.jin10.com/detail/20251104134919523800",
           "source": "金十数据",
@@ -1918,11 +2032,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时20分]"
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 22时09分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -2045,6 +2160,17 @@
           "time_info": "[06时10分 ~ 07时08分]"
         },
         {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时08分 ~ 22时09分]"
+        },
+        {
           "title": "美股收盘，三大股指涨跌不一",
           "url": "https://flash.jin10.com/detail/20251104050106634800",
           "source": "金十数据",
@@ -2069,6 +2195,30 @@
           "time_info": "[17时11分 ~ 18时10分]"
         },
         {
+          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2999213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
+        },
+        {
+          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/2999210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
+        },
+        {
           "title": "加密货币股票美股盘前下跌，Riot Platforms(RIOT.O)下跌4.6%，Hut 8跌4.5%，嘉楠科技(CAN.O)跌3.8%，Robinhood(HOOD.O)、Marathon Holdings(MARA.O)跌3.7%，Coinbase(COIN.O)跌3.3%。",
           "url": "https://flash.jin10.com/detail/20251104172801861800",
           "source": "金十数据",
@@ -2091,6 +2241,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-04）",
+          "url": "https://flash.jin10.com/detail/20251104214109676800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "美股高开低走，纳指科技指数收涨超0.2%，亚马逊创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/2998752",
           "source": "华尔街见闻-快讯",
@@ -2100,28 +2261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2999213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/2999210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
@@ -2236,6 +2375,19 @@
           "time_info": "[10时38分 ~ 17时11分]"
         },
         {
+          "title": "最高涨幅13%！税收新政落地首周黄金饰品普遍涨价，板料经营商暂停报价观望市场",
+          "url": "https://www.cls.cn/detail/2190546",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时12分 ~ 22时09分]"
+        },
+        {
           "title": "黄金还有投资机会吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%90%97",
           "source": "bilibili 热搜",
@@ -2304,17 +2456,15 @@
           "time_info": "[00时10分 ~ 11时28分]"
         },
         {
-          "title": "最高涨幅13%！税收新政落地首周黄金饰品普遍涨价，板料经营商暂停报价观望市场",
-          "url": "https://www.cls.cn/detail/2190546",
-          "source": "财联社热门",
+          "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
+          "url": "https://www.zhihu.com/question/1968612930045059136",
+          "source": "知乎",
           "ranks": [
-            11,
-            3,
-            4
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时12分 ~ 21时20分]"
+          "appearance_count": 7,
+          "time_info": "[17时11分 ~ 22时09分]"
         },
         {
           "title": "工行和建行同日暂停部分黄金积存业务",
@@ -2330,6 +2480,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 08时30分]"
+        },
+        {
+          "title": "一图看懂 | 黄金税收新政影响浮现，对“买金党”有何影响？",
+          "url": "https://www.cls.cn/detail/2190860",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时10分 ~ 22时09分]"
         },
         {
           "title": "唐俪辞有5吨黄金",
@@ -2366,39 +2529,17 @@
           "time_info": "16时12分"
         },
         {
-          "title": "黄金征税金条下架系假消息",
-          "url": "https://wallstreetcn.com/livenews/2999226",
-          "source": "华尔街见闻-快讯",
+          "title": "【焦点复盘】三大指数再陷缩量调整，黄金等资源股持续低迷，资金逆势抱团银行等红利股",
+          "url": "https://www.cls.cn/detail/2190760",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
-          "url": "https://www.zhihu.com/question/1968612930045059136",
-          "source": "知乎",
-          "ranks": [
-            16
+            12,
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时11分 ~ 21时20分]"
-        },
-        {
-          "title": "一图看懂 | 黄金税收新政影响浮现，对“买金党”有何影响？",
-          "url": "https://www.cls.cn/detail/2190860",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时20分]"
+          "time_info": "[19时10分 ~ 22时09分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -2413,17 +2554,16 @@
           "time_info": "[06时10分 ~ 07时08分]"
         },
         {
-          "title": "【焦点复盘】三大指数再陷缩量调整，黄金等资源股持续低迷，资金逆势抱团银行等红利股",
-          "url": "https://www.cls.cn/detail/2190760",
-          "source": "财联社热门",
+          "title": "黄金征税金条下架系假消息",
+          "url": "https://wallstreetcn.com/livenews/2999226",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            11,
-            8
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时20分]"
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
         },
         {
           "title": "黄金征税对普通人买金饰没影响",
@@ -2558,11 +2698,12 @@
           "url": "https://wallstreetcn.com/livenews/2999233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
         },
         {
           "title": "30年期美债收益率涨约3.7个基点",
@@ -2743,8 +2884,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时09分 ~ 21时20分]"
+          "appearance_count": 21,
+          "time_info": "[06时09分 ~ 22时09分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
