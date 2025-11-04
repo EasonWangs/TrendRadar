@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T15:09:34.347295+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2025-11-04T16:12:57.958640+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -15,11 +15,12 @@
             12,
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时30分 ~ 15时09分]"
+          "appearance_count": 11,
+          "time_info": "[08时30分 ~ 16时12分]"
         },
         {
           "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
@@ -29,11 +30,12 @@
             12,
             9,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时37分 ~ 15时09分]"
+          "appearance_count": 10,
+          "time_info": "[09时37分 ~ 16时12分]"
         },
         {
           "title": "美元兑日元USD/JPY上涨0.18%，一度升至2月中旬以来最高水平154.48。",
@@ -86,18 +88,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "英国石油第三季度调整后净利润22亿美元，预估19.8亿美元。 第三季度调整后每股收益0.1424美元，预估0.12美元。 第三季度经营现金流77.9亿美元，预估72.2亿美元。 英国石油将在公布第四季度业绩前进行7.5亿美元的股票回购。",
-          "url": "https://wallstreetcn.com/livenews/2999057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -209,6 +200,18 @@
           "time_info": "[14时13分 ~ 15时09分]"
         },
         {
+          "title": "英国石油第三季度调整后净利润22亿美元，预估19.8亿美元。 第三季度调整后每股收益0.1424美元，预估0.12美元。 第三季度经营现金流77.9亿美元，预估72.2亿美元。 英国石油将在公布第四季度业绩前进行7.5亿美元的股票回购。",
+          "url": "https://wallstreetcn.com/livenews/2999057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 16时12分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)的美元债券发行吸引了高达900亿美元的投资者认购需求。",
           "url": "https://flash.jin10.com/detail/20251104013308077800",
           "source": "金十数据",
@@ -219,6 +222,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时07分]"
+        },
+        {
+          "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
+          "url": "https://www.zhihu.com/question/1968945735178388310",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 16时12分]"
         },
         {
           "title": "加密市场一度闪崩，24小时内超12亿美元头寸被平仓",
@@ -255,18 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 13时09分]"
-        },
-        {
-          "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
-          "url": "https://www.zhihu.com/question/1968945735178388310",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 15时09分]"
         },
         {
           "title": "分析师预测：英伟达市值有望达8.5万亿美元",
@@ -549,7 +552,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -596,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "美元兑日元跌0.5%，报153.44。",
+          "url": "https://wallstreetcn.com/livenews/2999073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "比特币回落至106000美元/枚下方，日内跌4.18%。",
@@ -912,7 +926,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -923,7 +937,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -945,7 +959,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
@@ -953,7 +967,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -1015,8 +1029,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时10分 ~ 15时09分]"
+          "appearance_count": 20,
+          "time_info": "[00时10分 ~ 16时12分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -1030,8 +1044,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时10分 ~ 15时09分]"
+          "appearance_count": 20,
+          "time_info": "[00时10分 ~ 16时12分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -1060,6 +1074,30 @@
           "time_info": "[00时10分 ~ 07时08分]"
         },
         {
+          "title": "特朗普：美核武可毁灭世界150次",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时12分]"
+        },
+        {
+          "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
+          "url": "https://news.ifeng.com/c/8o0F27J4SeK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时12分]"
+        },
+        {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
           "url": "https://news.ifeng.com/c/8o00YT3c5ib",
           "source": "凤凰网",
@@ -1085,30 +1123,6 @@
           "time_info": "[00时10分 ~ 07时08分]"
         },
         {
-          "title": "特朗普：美核武可毁灭世界150次",
-          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时09分]"
-        },
-        {
-          "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
-          "url": "https://news.ifeng.com/c/8o0F27J4SeK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时09分]"
-        },
-        {
           "title": "美财长将出席最高法院关于特朗普关税政策合法性听证会",
           "url": "https://wallstreetcn.com/livenews/2998971",
           "source": "华尔街见闻-快讯",
@@ -1129,6 +1143,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
+          "url": "https://flash.jin10.com/detail/20251104153456073800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
+          "url": "https://wallstreetcn.com/livenews/2999077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -1194,6 +1230,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时28分 ~ 13时09分]"
+        },
+        {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 16时12分]"
         },
         {
           "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过“补充营养援助计划”（SNAP）。 必须向那些享受SNAP的人群重新计算支付金额。",
@@ -1268,17 +1315,6 @@
           "time_info": "[02时12分 ~ 03时07分]"
         },
         {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
           "url": "https://flash.jin10.com/detail/20251104061658652800",
           "source": "金十数据",
@@ -1345,6 +1381,28 @@
           "time_info": "00时10分"
         },
         {
+          "title": "特朗普威胁对尼日利亚动武，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2999066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "强调合作 特朗普为何对华态度转变",
+          "url": "https://www.toutiao.com/trending/7568702514976001542/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "特朗普敦促纽约人投票支持科莫竞选市长",
           "url": "https://flash.jin10.com/detail/20251104073700410800",
           "source": "金十数据",
@@ -1362,7 +1420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1391,6 +1449,300 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3758522",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 09时37分]"
+        },
+        {
+          "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
+          "url": "https://wallstreetcn.com/articles/3758541",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 15时09分]"
+        },
+        {
+          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时10分 ~ 16时12分]"
+        },
+        {
+          "title": "黄金还有投资机会吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            11,
+            10,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时30分 ~ 16时12分]"
+        },
+        {
+          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
+          "url": "https://www.cls.cn/detail/2190148",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时38分 ~ 16时12分]"
+        },
+        {
+          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 13时09分]"
+        },
+        {
+          "title": "黄金开始征税 部分商家火速下架金条",
+          "url": "https://www.toutiao.com/trending/7568271211139186694/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24,
+            26,
+            10,
+            19,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 08时30分]"
+        },
+        {
+          "title": "一条视频看懂黄金税收新规",
+          "url": "https://www.douyin.com/hot/2293159",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            11,
+            16,
+            13,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时10分 ~ 11时28分]"
+        },
+        {
+          "title": "工行和建行同日暂停部分黄金积存业务",
+          "url": "https://www.toutiao.com/trending/7568451021819612735/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23,
+            24,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 08时30分]"
+        },
+        {
+          "title": "唐俪辞有5吨黄金",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%94%90%E4%BF%AA%E8%BE%9E%E6%9C%895%E5%90%A8%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D1%26q%3D%25E5%2594%2590%25E4%25BF%25AA%25E8%25BE%259E%25E6%259C%25895%25E5%2590%25A8%25E9%25BB%2584%25E9%2587%2591%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D2%26realpos%3D2%26dgr%3D0%26display_time%3D1762232911%26pre_seqid%3D17622329117570252232856&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时09分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251104023204638800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月4日（周二）收盘下跌0.06%报915.75元/克；<br/>上海黄金交易所白银T+D 11月4日（周二）收盘下跌1.13%报11242.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251104153025634800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2998769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时08分]"
+        },
+        {
+          "title": "黄金征税对普通人买金饰没影响",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BE%81%E7%A8%8E%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E9%87%91%E9%A5%B0%E6%B2%A1%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 06时10分]"
+        },
+        {
+          "title": "现货黄金短线走低20美元，现报4012.73美元/盎司。现货白银短线走低0.4美元，现报48.34美元/盎司",
+          "url": "https://flash.jin10.com/detail/20251103233020705800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "黑松露为什么比黄金还贵",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%91%E6%9D%BE%E9%9C%B2%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E9%BB%84%E9%87%91%E8%BF%98%E8%B4%B5&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D10%26band_rank%3D10%26stream_entry_id%3D31%26q%3D%25E9%25BB%2591%25E6%259D%25BE%25E9%259C%25B2%25E4%25B8%25BA%25E4%25BB%2580%25E4%25B9%2588%25E6%25AF%2594%25E9%25BB%2584%25E9%2587%2591%25E8%25BF%2598%25E8%25B4%25B5%26dgr%3D0%26lcate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26realpos%3D10%26display_time%3D1762243889%26pre_seqid%3D17622438897280339791005&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "最高涨幅13%！税收新政落地首周黄金饰品普遍涨价，板料经营商暂停报价观望市场",
+          "url": "https://www.cls.cn/detail/2190546",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "恒生科技指数跌2%，恒生指数跌0.8%，紫金矿业跌约6%，赤峰黄金跌约6%，赣锋锂业跌约6%，天齐锂业跌约5%。",
+          "url": "https://wallstreetcn.com/livenews/2999033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月4日（周二）早盘盘初下跌0.3%报913.51元/克；<br/>上海黄金交易所白银T+D 11月4日（周二）早盘盘初下跌0.84%报11275.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251104090055871800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "国内多家品牌金饰克价下跌，老庙黄金报价1187元",
+          "url": "https://wallstreetcn.com/livenews/2998892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "现货黄金失守3990美元/盎司，日内跌幅0.26%。",
+          "url": "https://flash.jin10.com/detail/20251104071358865800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "现货黄金跌破3990美元，日内小幅下跌0.28%。",
+          "url": "https://wallstreetcn.com/livenews/2998803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251104115413263800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
@@ -1402,8 +1754,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时30分 ~ 15时09分]"
+          "appearance_count": 11,
+          "time_info": "[08时30分 ~ 16时12分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -1414,8 +1766,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时30分 ~ 15时09分]"
+          "appearance_count": 11,
+          "time_info": "[08时30分 ~ 16时12分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -1651,266 +2003,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "老铺黄金盘中跌超8%！中国税收优惠结束，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3758522",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 09时37分]"
-        },
-        {
-          "title": "黄金税收优惠没了，老铺黄金等珠宝商为何重挫？",
-          "url": "https://wallstreetcn.com/articles/3758541",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时10分 ~ 15时09分]"
-        },
-        {
-          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时10分 ~ 15时09分]"
-        },
-        {
-          "title": "黄金还有投资机会吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            11,
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时30分 ~ 15时09分]"
-        },
-        {
-          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758525",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时10分 ~ 13时09分]"
-        },
-        {
-          "title": "黄金开始征税 部分商家火速下架金条",
-          "url": "https://www.toutiao.com/trending/7568271211139186694/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            24,
-            26,
-            10,
-            19,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 08时30分]"
-        },
-        {
-          "title": "一条视频看懂黄金税收新规",
-          "url": "https://www.douyin.com/hot/2293159",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            11,
-            16,
-            13,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时28分]"
-        },
-        {
-          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
-          "url": "https://www.cls.cn/detail/2190148",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 15时09分]"
-        },
-        {
-          "title": "工行和建行同日暂停部分黄金积存业务",
-          "url": "https://www.toutiao.com/trending/7568451021819612735/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23,
-            24,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 08时30分]"
-        },
-        {
-          "title": "唐俪辞有5吨黄金",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%94%90%E4%BF%AA%E8%BE%9E%E6%9C%895%E5%90%A8%E9%BB%84%E9%87%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D1%26q%3D%25E5%2594%2590%25E4%25BF%25AA%25E8%25BE%259E%25E6%259C%25895%25E5%2590%25A8%25E9%25BB%2584%25E9%2587%2591%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D2%26realpos%3D2%26dgr%3D0%26display_time%3D1762232911%26pre_seqid%3D17622329117570252232856&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 15时09分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251104023204638800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2998769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时08分]"
-        },
-        {
-          "title": "黄金征税对普通人买金饰没影响",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%BE%81%E7%A8%8E%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E9%87%91%E9%A5%B0%E6%B2%A1%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 06时10分]"
-        },
-        {
-          "title": "现货黄金短线走低20美元，现报4012.73美元/盎司。现货白银短线走低0.4美元，现报48.34美元/盎司",
-          "url": "https://flash.jin10.com/detail/20251103233020705800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "恒生科技指数跌2%，恒生指数跌0.8%，紫金矿业跌约6%，赤峰黄金跌约6%，赣锋锂业跌约6%，天齐锂业跌约5%。",
-          "url": "https://wallstreetcn.com/livenews/2999033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月4日（周二）早盘盘初下跌0.3%报913.51元/克；<br/>上海黄金交易所白银T+D 11月4日（周二）早盘盘初下跌0.84%报11275.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251104090055871800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "国内多家品牌金饰克价下跌，老庙黄金报价1187元",
-          "url": "https://wallstreetcn.com/livenews/2998892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "现货黄金失守3990美元/盎司，日内跌幅0.26%。",
-          "url": "https://flash.jin10.com/detail/20251104071358865800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时30分"
-        },
-        {
-          "title": "现货黄金跌破3990美元，日内小幅下跌0.28%。",
-          "url": "https://wallstreetcn.com/livenews/2998803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时30分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251104115413263800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
       "match_count": 5,
       "titles": [
@@ -1997,7 +2089,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -2028,7 +2120,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "30年期美债收益率涨约3.7个基点",
@@ -2055,13 +2147,24 @@
           "time_info": "[01时10分 ~ 02时12分]"
         },
         {
+          "title": "荷兰国际：欧债走势几乎被美债主导",
+          "url": "https://flash.jin10.com/detail/20251104152351380800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "荷兰国际：美债收益率曲线仍过于平坦",
           "url": "https://flash.jin10.com/detail/20251104144102291800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
@@ -2081,8 +2184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时09分 ~ 15时09分]"
+          "appearance_count": 14,
+          "time_info": "[06时09分 ~ 16时12分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
