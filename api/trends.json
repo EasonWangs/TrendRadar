@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T11:28:25.754580+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-11-04T12:09:41.541631+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 11时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时30分 ~ 12时09分]"
         },
         {
           "title": "美元兑日元USD/JPY上涨0.18%，一度升至2月中旬以来最高水平154.48。",
@@ -86,6 +86,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "澳洲联储利率决议公布后，澳元/美元短线小幅走低。",
+          "url": "https://wallstreetcn.com/livenews/2998965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 12时09分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE原糖期货涨1.73%，ICE白糖期货涨1.95%。 ICE阿拉比卡咖啡期货涨4.23%，咖啡“C”期货涨4%。罗布斯塔咖啡期货涨3.41%。 纽约可可期货涨6.54%，报6553美元/吨。伦敦可可期货涨6.15%。 ICE棉花期货涨0.23%。",
@@ -161,19 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时08分]"
-        },
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 11时28分]"
         },
         {
           "title": "现货白银日内跌幅达1.0%，报48.14美元/盎司。",
@@ -334,6 +345,18 @@
           "time_info": "[05时08分 ~ 06时10分]"
         },
         {
+          "title": "印尼卢比兑美元一度下跌0.5%，至1美元兑16,733卢比，为9月26日以来的最低水平。 新加坡元兑美元一度下跌0.2%，至1美元兑1.307坡元，为5月12日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/2998933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时09分]"
+        },
+        {
           "title": "沃旭能源ADR涨7.4%，Apollo将对该公司旗下Hornsea 3项目（英国东海岸海上风电场）投资65亿美元、持股50%。",
           "url": "https://wallstreetcn.com/livenews/2998724",
           "source": "华尔街见闻-快讯",
@@ -431,7 +454,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -453,7 +476,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -480,17 +503,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "印尼卢比兑美元一度下跌0.5%，至1美元兑16,733卢比，为9月26日以来的最低水平。 新加坡元兑美元一度下跌0.2%，至1美元兑1.307坡元，为5月12日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/2998933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "纽元兑美元NZD/USD日内走低0.50%，现报0.5695。",
           "url": "https://flash.jin10.com/detail/20251103232811681800",
           "source": "金十数据",
@@ -511,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD短线波动暂时不大，现报0.6530。",
+          "url": "https://flash.jin10.com/detail/20251104113124316800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次。",
@@ -585,7 +608,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -725,7 +748,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -787,8 +810,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 12时09分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -802,8 +825,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 12时09分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -846,6 +869,39 @@
           "time_info": "[00时10分 ~ 07时08分]"
         },
         {
+          "title": "特朗普：美核武可毁灭世界150次",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "美财长将出席最高法院关于特朗普关税政策合法性听证会",
+          "url": "https://wallstreetcn.com/livenews/2998971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
+          "url": "https://news.ifeng.com/c/8o0F27J4SeK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
           "url": "https://flash.jin10.com/detail/20251104062405788800",
           "source": "金十数据",
@@ -855,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
+          "url": "https://news.ifeng.com/c/8o00YT3c5ib",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "美联储理事库克：有理由担心失业人口增加（这种风险）。 担心就业市场，因为它能迅速发生变化。 （企业/总统特朗普的联邦政府）宣布的裁员行动可能还没有实质化，需要通过数据来分析。",
@@ -955,6 +1022,18 @@
           "time_info": "[04时09分 ~ 05时08分]"
         },
         {
+          "title": "美国多方“围剿”特朗普只为废除关税",
+          "url": "https://www.toutiao.com/trending/7568663171070692900/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时09分]"
+        },
+        {
           "title": "美国大约24个州起诉特朗普政府限制“公共服务贷款豁免”的做法",
           "url": "https://wallstreetcn.com/livenews/2998683",
           "source": "华尔街见闻-快讯",
@@ -965,6 +1044,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时07分]"
+        },
+        {
+          "title": "特朗普改口不去全球关税合法性听证会",
+          "url": "https://www.toutiao.com/trending/7568682000622554660/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时09分]"
         },
         {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
@@ -1044,17 +1135,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "美国多方“围剿”特朗普只为废除关税",
-          "url": "https://www.toutiao.com/trending/7568663171070692900/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "特朗普吹牛遭记者尴尬打断",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%B9%E7%89%9B%E9%81%AD%E8%AE%B0%E8%80%85%E5%B0%B4%E5%B0%AC%E6%89%93%E6%96%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D25%26cate%3D5001%26dgr%3D0%26pos%3D26%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2590%25B9%25E7%2589%259B%25E9%2581%25AD%25E8%25AE%25B0%25E8%2580%2585%25E5%25B0%25B4%25E5%25B0%25AC%25E6%2589%2593%25E6%2596%25AD%2523%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1762216169%26pre_seqid%3D176221616979103350837139&launchid=10000360-page_H5",
           "source": "微博",
@@ -1064,17 +1144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
-        },
-        {
-          "title": "特朗普改口不去全球关税合法性听证会",
-          "url": "https://www.toutiao.com/trending/7568682000622554660/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         }
       ]
     },
@@ -1090,8 +1159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 11时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时30分 ~ 12时09分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -1102,8 +1171,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 11时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时30分 ~ 12时09分]"
+        },
+        {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时30分 ~ 12时09分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -1137,20 +1220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
-        },
-        {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 11时28分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -1329,8 +1398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 12时09分]"
         },
         {
           "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
@@ -1342,8 +1411,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 12时09分]"
         },
         {
           "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
@@ -1355,8 +1424,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 12时09分]"
         },
         {
           "title": "黄金开始征税 部分商家火速下架金条",
@@ -1393,6 +1462,20 @@
           "time_info": "[00时10分 ~ 11时28分]"
         },
         {
+          "title": "黄金还有投资机会吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时30分 ~ 12时09分]"
+        },
+        {
           "title": "工行和建行同日暂停部分黄金积存业务",
           "url": "https://www.toutiao.com/trending/7568451021819612735/",
           "source": "今日头条",
@@ -1408,17 +1491,16 @@
           "time_info": "[01时10分 ~ 08时30分]"
         },
         {
-          "title": "黄金还有投资机会吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
+          "url": "https://www.cls.cn/detail/2190148",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            7,
-            11
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 11时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 12时09分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月3日（周一）晚盘收盘上涨0.09%报917.1元/克；<br/>上海黄金交易所白银T+D 11月3日（周一）晚盘收盘下跌0.37%报11328.0元/千克。",
@@ -1430,18 +1512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
-          "url": "https://www.cls.cn/detail/2190148",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 11时28分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -1526,7 +1596,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -1574,6 +1644,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时10分]"
+        },
+        {
+          "title": "统计学中「矩」这个概念是怎么引入的？它为什么被称为矩？它与物理意义上的矩有什么相同与不同？",
+          "url": "https://www.zhihu.com/question/19915565",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
@@ -1631,8 +1712,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时09分 ~ 11时28分]"
+          "appearance_count": 9,
+          "time_info": "[06时09分 ~ 12时09分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -1641,11 +1722,12 @@
           "ranks": [
             13,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 12时09分]"
         }
       ]
     },
@@ -1688,11 +1770,12 @@
           "url": "https://wallstreetcn.com/livenews/2998954",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时09分]"
         }
       ]
     }
