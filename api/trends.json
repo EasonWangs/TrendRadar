@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T05:09:10.806148+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-05T06:08:10.481459+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
         },
         {
           "title": "【微软“新云”交易额超600亿美元】微软公司已向多家“新云”（neocloud）数据中心公司投入超过600亿美元，以寻找足够的算力来满足其AI需求。该公司与Nscale的协议将使微软能够在其位于多个地点的站点使用大约20万个英伟达最新的GB300芯片。 自10月初以来，微软对“新云”公司的支出承诺大约翻了一番，该公司周一宣布了两项总计超过100亿美元的新承诺。",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -175,6 +175,18 @@
           "time_info": "[03时08分 ~ 04时10分]"
         },
         {
+          "title": "周二（11月4日）纽约尾盘，美元兑日元跌0.36%，报153.67日元，亚太早盘微幅上涨、北京时间09:29刷新日高至154.48日元，随后持续走低，14:00之后持续低位震荡、18:08刷新日低至153.32日元。 欧元兑日元跌0.71%，报176.41日元；英镑兑日元跌1.30%，报200.054日元。",
+          "url": "https://wallstreetcn.com/livenews/2999389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时08分]"
+        },
+        {
           "title": "比特币跌破102000美元/枚，创6月23日以来新低，日内跌4.31%。",
           "url": "https://flash.jin10.com/detail/20251105010335607800",
           "source": "金十数据",
@@ -197,6 +209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时08分]"
+        },
+        {
+          "title": "周二（11月4日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至100.255点，北京时间15:42微幅下跌至99.743点，随后持续走高。 彭博美元指数涨0.38%，刷新日高至1226.13点，15:32刷新日低至1220.99点之后，也持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/2999387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时08分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
@@ -247,37 +271,26 @@
           "time_info": "[02时12分 ~ 03时08分]"
         },
         {
-          "title": "周二（11月4日）纽约尾盘，美元兑日元跌0.36%，报153.67日元，亚太早盘微幅上涨、北京时间09:29刷新日高至154.48日元，随后持续走低，14:00之后持续低位震荡、18:08刷新日低至153.32日元。 欧元兑日元跌0.71%，报176.41日元；英镑兑日元跌1.30%，报200.054日元。",
-          "url": "https://wallstreetcn.com/livenews/2999389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "美元兑加元USD/CAD站上1.41，日内涨0.32%。",
           "url": "https://flash.jin10.com/detail/20251105035246237800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
         {
-          "title": "周二（11月4日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至100.255点，北京时间15:42微幅下跌至99.743点，随后持续走高。 彭博美元指数涨0.38%，刷新日高至1226.13点，15:32刷新日低至1220.99点之后，也持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/2999387",
+          "title": "思佳讯第四财季营收11.0亿美元，同比增长7.3%。 第四财季调整后运营利润2.64亿美元，分析师预期2.442亿美元。 预计第一财季营收9.75亿-10.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2999411",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "06时08分"
         },
         {
           "title": "纽元兑美元NZD/USD日内跌幅达1.00%，现报0.5650。",
@@ -286,7 +299,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -308,9 +321,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "大型加密货币暴跌，以太坊跌破3100美元，跌幅达14%；比特币跌超7%，接近下破9.9万美元关口。",
+          "url": "https://flash.jin10.com/detail/20251105053556010800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "AMD三季度营收92.5亿美元，分析师预期87.4亿美元。 三季度资本开支2.58亿美元，分析师预期2.197亿美元。 预计四季度营收93亿-99亿美元，分析师预期92.1亿美元。 业绩展望不包括中国市场MI308发货带来的收入。",
+          "url": "https://wallstreetcn.com/livenews/2999406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
         },
         {
           "title": "市场消息：尼日利亚计划最早于本周发行23亿美元的欧洲债券。",
@@ -324,13 +359,24 @@
           "time_info": "00时10分"
         },
         {
+          "title": "AMD(AMD.O)2025年Q3营收92.46亿美元，去年同期68.19亿美元，市场预期87.4亿美元。AMD预计第四季度营收96亿美元。",
+          "url": "https://flash.jin10.com/detail/20251105051623431800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
           "title": "纽元/美元日内跌幅达1.0%，报0.5648。",
           "url": "https://wallstreetcn.com/livenews/2999378",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -344,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "加拿大政府赤字预期公布后，美元兑加元USD/CAD小幅走高。",
+          "url": "https://flash.jin10.com/detail/20251105051139748800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
         },
         {
           "title": "微软“新云”交易额超600亿美元",
@@ -399,12 +456,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "韩国10月外汇储备 4288.2亿美元，前值4220.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251105050002157800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "市场消息：嘉信理财将支持马斯克在特斯拉的1万亿美元薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251105045858317800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -414,8 +493,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -425,11 +504,23 @@
             13,
             20,
             14,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
+        },
+        {
+          "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
+          "url": "https://wallstreetcn.com/livenews/2999421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
         },
         {
           "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
@@ -649,6 +740,17 @@
           "time_info": "[00时10分 ~ 01时08分]"
         },
         {
+          "title": "美国参议院共和党成员们受邀11月5日前往白宫。 他们将与总统特朗普共进早餐。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/2999414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
           "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
           "url": "https://wallstreetcn.com/livenews/2999308",
           "source": "华尔街见闻-快讯",
@@ -706,6 +808,148 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
+        },
+        {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
+        },
+        {
+          "title": "Pinterest美股盘后下跌15%，该公司业绩欠佳，给出的指引也疲软。",
+          "url": "https://wallstreetcn.com/livenews/2999419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251105013105408800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 03时08分]"
+        },
+        {
+          "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/2999416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
+          "url": "https://wallstreetcn.com/livenews/2999413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/2999402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/2999272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251105050612809800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251105050517718800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "美股收盘：三大股指齐挫 纳指大跌2%",
+          "url": "https://flash.jin10.com/detail/20251105050113482800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251104224011768800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 7,
       "titles": [
@@ -717,8 +961,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
         },
         {
           "title": "【焦点复盘】三大指数再陷缩量调整，黄金等资源股持续低迷，资金逆势抱团银行等红利股",
@@ -728,8 +972,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
         },
         {
           "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
@@ -737,11 +981,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
         },
         {
           "title": "藏3万黄金的旧电器被老伴100元卖了",
@@ -754,8 +999,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 05时09分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 06时08分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月4日（周二）晚盘收盘下跌0.66%报907.7元/克；<br/>上海黄金交易所白银T+D 11月4日（周二）晚盘收盘下跌0.57%报11206.0元/千克。",
@@ -794,67 +1039,41 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26cate%3D5001%26pos%3D22%26realpos%3D21%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D21%26filter_type%3Drealtimehot%26lcate%3D5001%26dgr%3D0%26c_type%3D31%26display_time%3D1762272431%26pre_seqid%3D17622724311670341041936&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            2,
-            5
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 06时08分]"
         },
         {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251105013105408800",
+          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
+          "url": "https://flash.jin10.com/detail/20251105044443775800",
           "source": "金十数据",
           "ranks": [
-            1,
-            17
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 03时08分]"
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
-          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/2999272",
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251104224011768800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "06时08分"
         }
       ]
     },
@@ -872,8 +1091,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 05时09分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 06时08分]"
         },
         {
           "title": "标普500指数初步收跌约1.2%，科技板块跌2.2%，可选消费与电信板块跌1.7%。 纳斯达克100指数初步收跌约2.1%，成分股中，Palantir跌8.6%，CDW跌8.1%，美光科技跌7.1%，MSTR跌6.9%，新思科技与英特尔跌超6%，特斯拉跌4.6%，万豪国际则涨3.1%。 卡特彼勒初步收跌4.1%，英伟达跌4%，思科、波音、Salesforce、亚马逊至少跌1.8%，领跌道指成分股，家得宝则涨1.2%，Merck涨1.5%，Travelers Companies Inc.涨3.6%。 AI概念股中，SoundHound跌12%，Serve Robotics跌9.9%，Palantir跌8.6%，C3.ai跌7.6%，CoreWeave跌7.4%，英特尔跌6.1%。 半导体指数跌3.99%。",
@@ -882,7 +1101,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -901,34 +1120,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26cate%3D5001%26pos%3D22%26realpos%3D21%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D21%26filter_type%3Drealtimehot%26lcate%3D5001%26dgr%3D0%26c_type%3D31%26display_time%3D1762272431%26pre_seqid%3D17622724311670341041936&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 05时09分]"
-        },
-        {
-          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
-          "url": "https://flash.jin10.com/detail/20251105044443775800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai",
       "match_count": 1,
       "titles": [
@@ -939,7 +1130,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         }
@@ -954,11 +1145,12 @@
           "url": "https://wallstreetcn.com/livenews/2999388",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时08分]"
         }
       ]
     }
