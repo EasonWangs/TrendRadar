@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T17:09:55.260461+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2025-11-06T18:10:37.984912+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "融创境外债重组获批 96亿美元债务基本清“零”",
@@ -20,6 +20,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[05时10分 ~ 13时10分]"
+        },
+        {
+          "title": "「大空头」迈克尔·伯里斥资 10 亿美元做空英伟达和 Palantir，如何评价他的做空理由？",
+          "url": "https://www.zhihu.com/question/1969702492494325491",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 18时10分]"
         },
         {
           "title": "比特币回落至103000美元/枚下方，日内跌0.88%。",
@@ -64,19 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        },
-        {
-          "title": "「大空头」迈克尔·伯里斥资 10 亿美元做空英伟达和 Palantir，如何评价他的做空理由？",
-          "url": "https://www.zhihu.com/question/1969702492494325491",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 17时09分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1276元，较周二夜盘收盘涨24点。成交量405.38亿美元。",
@@ -348,6 +348,18 @@
           "time_info": "[05时10分 ~ 06时09分]"
         },
         {
+          "title": "欧元兑美元一周波动率自2024年9月以来首次跌破5%。",
+          "url": "https://wallstreetcn.com/livenews/3000462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时10分]"
+        },
+        {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
           "url": "https://flash.jin10.com/detail/20251106031759230800",
           "source": "金十数据",
@@ -396,6 +408,18 @@
           "time_info": "[11时30分 ~ 12时13分]"
         },
         {
+          "title": "WTI原油日内涨幅达1%，报60.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3000459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时10分]"
+        },
+        {
           "title": "据CBS新闻：预计与礼来公司和诺和诺德达成的协议将把药品价格降至每月150美元以下。",
           "url": "https://flash.jin10.com/detail/20251106020921035800",
           "source": "金十数据",
@@ -430,6 +454,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时10分]"
+        },
+        {
+          "title": "华虹半导体：第三季度母公司拥有人应占利润2.570万美元，同比下降42.6%",
+          "url": "https://wallstreetcn.com/livenews/3000447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时10分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1219，较上一交易日官方收盘价涨27点，较上日夜盘收盘涨57点。",
+          "url": "https://wallstreetcn.com/livenews/3000445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时10分]"
         },
         {
           "title": "Arm(ARM.O)第三季度营收中值预估为12.3亿美元，高于分析师预估的11.1亿美元。",
@@ -467,15 +515,15 @@
           "time_info": "14时12分"
         },
         {
-          "title": "欧元兑美元一周波动率自2024年9月以来首次跌破5%。",
-          "url": "https://wallstreetcn.com/livenews/3000462",
-          "source": "华尔街见闻-快讯",
+          "title": "杰富瑞：将Arm(ARM.O)目标价从173美元上调至205美元。",
+          "url": "https://flash.jin10.com/detail/20251106173111060800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "18时10分"
         },
         {
           "title": "软银曾考虑千亿美元收购Marvell并与Arm合并",
@@ -555,17 +603,6 @@
           "time_info": "09时36分"
         },
         {
-          "title": "WTI原油日内涨幅达1%，报60.21美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3000459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "周三（11月5日）纽约尾盘，ICE美元指数跌0.02%，报100.200点，日内交投区间为100.360-100.059点，北京时间21:15发布美国ADP小非农就业数据前下探100.150点、之后涨向100.350点，23:00发布美国ISM非制造业指数时显著反弹、并刷新日高。 彭博美元指数跌0.08%，报1225.05点，日内交投区间为1227.08-1224.82点。",
           "url": "https://wallstreetcn.com/livenews/3000081",
           "source": "华尔街见闻-快讯",
@@ -632,17 +669,6 @@
           "time_info": "06时09分"
         },
         {
-          "title": "华虹半导体：第三季度母公司拥有人应占利润2.570万美元，同比下降42.6%",
-          "url": "https://wallstreetcn.com/livenews/3000447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "WTI原油日内下跌1.00%，现报59.65美元/桶。",
           "url": "https://flash.jin10.com/detail/20251106010447677800",
           "source": "金十数据",
@@ -663,17 +689,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1219，较上一交易日官方收盘价涨27点，较上日夜盘收盘涨57点。",
-          "url": "https://wallstreetcn.com/livenews/3000445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "美国总统特朗普：重申对鲍威尔的批评。预计2美元/加仑的汽油价格将回归。",
@@ -707,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "汇丰银行：将Arm(ARM.O)目标价从95美元上调至105美元。",
+          "url": "https://flash.jin10.com/detail/20251106171937400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "沙特阿美将12月销往亚洲的阿拉伯轻质原油官方售价定为较阿曼/迪拜原油均价升水1美元/桶； 将12月销往美国的阿拉伯轻质原油官方售价定为较阿格斯含硫原油均价升水3.20美元/桶；将12月销往西北欧的阿拉伯轻质原油官方售价定为较布伦特原油结算价升水1.35美元/桶。",
@@ -792,7 +818,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -866,7 +892,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -887,11 +913,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时30分 ~ 17时09分]"
+          "appearance_count": 14,
+          "time_info": "[08时30分 ~ 18时10分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -953,8 +980,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 18时10分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -967,8 +994,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时10分 ~ 17时09分]"
+          "appearance_count": 17,
+          "time_info": "[05时10分 ~ 18时10分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -996,6 +1023,18 @@
           "time_info": "[11时29分 ~ 14时12分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 18时10分]"
+        },
+        {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
           "url": "https://news.ifeng.com/c/8o2w70KHTf3",
           "source": "凤凰网",
@@ -1006,18 +1045,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时30分 ~ 10时41分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时10分 ~ 17时09分]"
         },
         {
           "title": "为结束政府“停摆”美国会民主党领袖呼吁特朗普开始会谈",
@@ -1245,13 +1272,24 @@
           "time_info": "09时36分"
         },
         {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "特朗普回应被纽约新市长演讲叫板",
           "url": "https://www.toutiao.com/trending/7568666523620114483/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1534,18 +1572,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时30分 ~ 17时09分]"
+          "appearance_count": 14,
+          "time_info": "[08时30分 ~ 18时10分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -1634,6 +1673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "Metsera美股盘后涨6.8%。",
@@ -1756,6 +1806,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "高通(QCOM.O)美股股价盘前下跌2.7%，此前该公司表示预计明年可能因三星而损失部分业务。",
+          "url": "https://flash.jin10.com/detail/20251106172212943800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "Snap三季度营收15.1亿美元，分析师预期14.9亿美元。 三季度日活用户数4.77亿，分析师预期4.7631亿。 三季度调整后EBITDA为1.82亿美元，分析师预期1.242亿美元。 预计四季度营收16.8亿-17.1亿美元，分析师预期16.9亿美元。 Snap与Perplexity构建合作伙伴关系，将向SnapChat提供人工智能（AI）搜索功能。 Snap美股盘后涨15.99%。",
           "url": "https://wallstreetcn.com/livenews/3000106",
           "source": "华尔街见闻-快讯",
@@ -1811,11 +1872,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 18时10分]"
         },
         {
           "title": "黄金裔明天见",
@@ -2254,7 +2316,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
