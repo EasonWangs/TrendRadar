@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-08T06:08:56.706504+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-11-08T07:08:04.761471+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
           "url": "https://www.zhihu.com/question/1970064184793334914",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
         },
         {
           "title": "美联储理事米兰：稳定币的广泛使用可能会推高美元价值。",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时08分]"
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时08分]"
         },
         {
           "title": "美联储理事米兰：稳定币的兴起或将推动美元更广泛地使用。",
@@ -37,19 +38,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时08分]"
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时08分]"
         },
         {
-          "title": "阿根廷YPF三季度营收46.4亿美元，分析师预期45.6亿美元。 三季度净亏损1.98亿美元，分析师预期利润2.287亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3001413",
+          "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
+          "url": "https://wallstreetcn.com/livenews/3001422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "周五（11月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1262元，较周四纽约尾盘跌49点，日内整体交投于7.1212-7.1274元区间。",
+          "url": "https://wallstreetcn.com/livenews/3001421",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
+        },
+        {
+          "title": "雷军身家368亿美元超越马云",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26realpos%3D27%26pos%3D26%26lcate%3D5001%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E8%25BA%25AB%25E5%25AE%25B6368%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%25B6%2585%25E8%25B6%258A%25E9%25A9%25AC%25E4%25BA%2591%2523%26dgr%3D0%26display_time%3D1762545028%26pre_seqid%3D176254502797802419083116&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时09分 ~ 07时08分]"
         },
         {
           "title": "美元/加元日内跌幅达0.5%，报1.4045。",
@@ -90,6 +114,18 @@
           "time_info": "[00时09分 ~ 01时09分]"
         },
         {
+          "title": "大约有20家银行排队，为新墨西哥州与甲骨文(ORCL.N)相关的数据中心提供180亿美元贷款。",
+          "url": "https://flash.jin10.com/detail/20251108030956634800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 07时08分]"
+        },
+        {
           "title": "巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元的资金。",
           "url": "https://flash.jin10.com/detail/20251107234255549800",
           "source": "金十数据",
@@ -114,16 +150,27 @@
           "time_info": "[00时09分 ~ 01时09分]"
         },
         {
-          "title": "大约有20家银行排队，为新墨西哥州与甲骨文(ORCL.N)相关的数据中心提供180亿美元贷款。",
-          "url": "https://flash.jin10.com/detail/20251108030956634800",
+          "title": "阿根廷YPF三季度营收46.4亿美元，分析师预期45.6亿美元。 三季度净亏损1.98亿美元，分析师预期利润2.287亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3001413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "美国9月消费信贷 130.9亿美元，预期100亿美元，前值3.63亿美元。",
+          "url": "https://flash.jin10.com/detail/20251108040036723800",
           "source": "金十数据",
           "ranks": [
-            7,
-            20
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时08分]"
+          "time_info": "[05时07分 ~ 07时08分]"
         },
         {
           "title": "美国法官宣布：First Brands可以获取11亿美元破产贷款中剩余的6亿美元。",
@@ -137,18 +184,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时09分]"
-        },
-        {
-          "title": "雷军身家368亿美元超越马云",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D27%26stream_entry_id%3D31%26realpos%3D27%26pos%3D26%26lcate%3D5001%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E8%25BA%25AB%25E5%25AE%25B6368%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%25B6%2585%25E8%25B6%258A%25E9%25A9%25AC%25E4%25BA%2591%2523%26dgr%3D0%26display_time%3D1762545028%26pre_seqid%3D176254502797802419083116&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时08分]"
         },
         {
           "title": "大约20家银行排队，为新墨西哥州与甲骨文相关的数据中心提供180亿美元贷款。",
@@ -175,17 +210,6 @@
           "time_info": "[05时07分 ~ 06时08分]"
         },
         {
-          "title": "美国9月消费信贷 130.9亿美元，预期100亿美元，前值3.63亿美元。",
-          "url": "https://flash.jin10.com/detail/20251108040036723800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时08分]"
-        },
-        {
           "title": "美元指数本周跌超0.2%，冲高至100点整数位心理关口上方之后转跌",
           "url": "https://wallstreetcn.com/livenews/3001387",
           "source": "华尔街见闻-快讯",
@@ -196,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 06时08分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.419万亿美元，之前一周18.504万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3001410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1210元，较周四夜盘收盘跌22点。成交量361.95亿美元。",
@@ -258,6 +294,18 @@
           "time_info": "[05时07分 ~ 06时08分]"
         },
         {
+          "title": "白宫：美国与匈牙利围绕核能签署谅解备忘录（MOU）。 匈牙利同意购买美国液化天然气（LNG），合同价值6亿美元。 匈牙利有意帮助（美方）修建10座小型模块化反应堆（SMRs）。",
+          "url": "https://wallstreetcn.com/livenews/3001402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "美国9月消费信贷变动 130.93亿美元，预期 102.3亿美元，前值 3.63亿美元。",
           "url": "https://wallstreetcn.com/livenews/3001382",
           "source": "华尔街见闻-快讯",
@@ -315,28 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.419万亿美元，之前一周18.504万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3001410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "白宫：美国与匈牙利围绕核能签署谅解备忘录（MOU）。 匈牙利同意购买美国液化天然气（LNG），合同价值6亿美元。 匈牙利有意帮助（美方）修建10座小型模块化反应堆（SMRs）。",
-          "url": "https://wallstreetcn.com/livenews/3001402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
         },
         {
           "title": "至11月7日当周，ICE原糖期货累计下跌2.08%，ICE白糖期货累跌1.19%。 ICE阿拉比卡咖啡期货累涨4.94%，咖啡“C”期货累涨4.30%。罗布斯塔咖啡期货累涨2.62%。 纽约可可期货累跌1.87%，报6133美元/吨，11月5日曾涨至6713美元。伦敦可可期货累跌1.56%。 ICE棉花期货累跌3.04%。",
@@ -408,7 +434,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -418,8 +444,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -431,8 +457,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时08分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -442,8 +468,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -453,8 +479,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
+        },
+        {
+          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
+          "url": "https://wallstreetcn.com/livenews/3001426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
@@ -468,6 +505,19 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
+          "url": "https://wallstreetcn.com/livenews/3001393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时08分]"
+        },
+        {
           "title": "特朗普称佩洛西在股市“非法敛财”",
           "url": "https://flash.jin10.com/detail/20251107234753828800",
           "source": "金十数据",
@@ -478,18 +528,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时09分]"
-        },
-        {
-          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
-          "url": "https://wallstreetcn.com/livenews/3001393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时08分]"
         },
         {
           "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
@@ -553,6 +591,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时09分]"
+        },
+        {
+          "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
+          "url": "https://wallstreetcn.com/livenews/3001408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -651,15 +701,26 @@
           "time_info": "[03时07分 ~ 04时09分]"
         },
         {
-          "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
-          "url": "https://wallstreetcn.com/livenews/3001408",
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 07时08分]"
+        },
+        {
+          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3001419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
         },
         {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
@@ -786,8 +847,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
         },
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
@@ -795,11 +856,42 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
+        },
+        {
+          "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
+          "url": "https://wallstreetcn.com/articles/3758865",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
+        },
+        {
+          "title": "柬埔寨宣布在华存储黄金意味着什么",
+          "url": "https://www.toutiao.com/trending/7569973444196961828/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            10,
+            15,
+            9,
+            20,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -814,45 +906,6 @@
           "time_info": "[01时09分 ~ 06时08分]"
         },
         {
-          "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
-          "url": "https://wallstreetcn.com/articles/3758865",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
-        },
-        {
-          "title": "柬埔寨宣布在华存储黄金意味着什么",
-          "url": "https://www.toutiao.com/trending/7569973444196961828/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            10,
-            15,
-            9,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
-        },
-        {
-          "title": "周五（11月7日）纽约尾盘，现货黄金涨0.56%，报3999.29美元/盎司，北京时间00:00曾出现一波尖锐的冲高回落行情——最高达到4027.43美元，本周累计下跌0.07%，整体呈现出V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3001415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4017.09美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251108003501505800",
           "source": "金十数据",
@@ -863,6 +916,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时11分]"
+        },
+        {
+          "title": "周五（11月7日）纽约尾盘，现货黄金涨0.56%，报3999.29美元/盎司，北京时间00:00曾出现一波尖锐的冲高回落行情——最高达到4027.43美元，本周累计下跌0.07%，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3001415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -926,7 +991,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -949,8 +1014,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
+        },
+        {
+          "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 07时08分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -1031,11 +1107,12 @@
           "url": "https://wallstreetcn.com/livenews/3001405",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         }
       ]
     },
@@ -1053,8 +1130,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时08分]"
         },
         {
           "title": "稀土概念股涨跌各异，MP材料涨5.4%，UUUU涨1%，USAR则跌1%，NB跌2.4%。 巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元资金。 这笔融资将用于升级该公司位于巴西戈亚斯州的佩拉埃玛矿，根据美国国际开发金融公司网站8月15日的一份文档。美国国际开发金融公司在美国国务院外交政策指导下运作。",
