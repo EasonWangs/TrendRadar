@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T08:34:26.301397+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2025-11-10T09:38:33.651093+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 08时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 09时38分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -29,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 08时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 09时38分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -73,6 +74,50 @@
           "time_info": "[00时10分 ~ 06时09分]"
         },
         {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时34分 ~ 09时38分]"
+        },
+        {
+          "title": "最美词汇：特朗普对关税到底有什么误解？",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QSA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时34分 ~ 09时38分]"
+        },
+        {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普称政府停摆接近结束",
+          "url": "https://news.ifeng.com/c/8oA5auenpcB",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
           "url": "https://flash.jin10.com/detail/20251109213351299800",
           "source": "金十数据",
@@ -87,17 +132,6 @@
           "time_info": "[00时10分 ~ 05时07分]"
         },
         {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时34分"
-        },
-        {
           "title": "美国共和党的开支草案包含让美联储裁员的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3001713",
           "source": "华尔街见闻-快讯",
@@ -107,17 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "最美词汇：特朗普对关税到底有什么误解？",
-          "url": "https://news.ifeng.com/c/8o9xDTJ6QSA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时34分"
         },
         {
           "title": "美国参议院共和党披露一份立法草案，其中包括在（总统特朗普的）政府关门期间要求向退伍军人事务部（DVA）和军事建设项目提供资金支持。",
@@ -280,9 +303,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "特朗普被严重警告",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普称政府停摆接近结束",
+          "url": "https://flash.jin10.com/detail/20251110085906374800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "BBC高层因拼接特朗普视频辞职",
@@ -291,9 +336,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "拜登狠批特朗普：让国家蒙羞",
@@ -313,7 +369,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
         }
@@ -321,7 +377,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "比特币突破104000美元/枚，日内涨1.66%。",
@@ -379,6 +435,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时10分 ~ 05时07分]"
+        },
+        {
+          "title": "纽约期金向上触及4050美元/盎司，日内涨1.01%。",
+          "url": "https://flash.jin10.com/detail/20251110092214052800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "比特币站上105000美元/枚，日内涨2.64%。",
@@ -470,15 +537,70 @@
           "time_info": "[06时09分 ~ 07时07分]"
         },
         {
+          "title": "现货钯金突破1400美元/盎司，日内涨2.52%。",
+          "url": "https://flash.jin10.com/detail/20251110091733204800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "现货白银短线拉升，日内涨超1.00%，现报48.83美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110091212578800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0856，下调20点；上一交易日中间价7.0836，上一交易日官方收盘价7.1225，上日夜盘报收7.1210。",
+          "url": "https://wallstreetcn.com/livenews/3001821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "特朗普提出每人派发2000美元关税“分红”，贝森特称或以减税等形式实现",
           "url": "https://wallstreetcn.com/livenews/3001776",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "比特币升破106000美元。以太坊升破3600美元。",
+          "url": "https://wallstreetcn.com/livenews/3001801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "日本10月外汇储备 13474亿美元，前值13413亿美元。",
@@ -487,7 +609,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
         }
@@ -495,7 +617,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 10,
       "titles": [
         {
           "title": "黄金新政的底层逻辑",
@@ -509,8 +631,41 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 08时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 09时38分]"
+        },
+        {
+          "title": "英雄联盟黄金期结束了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%BB%84%E9%87%91%E6%9C%9F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "现货白银站上49美元/盎司，日内涨1.5%。现货黄金涨超1%，现报4044.32美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110092528803800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "现货黄金站上4040美元/盎司，日内涨0.97%。",
+          "url": "https://flash.jin10.com/detail/20251110092204620800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "黄金税收新规落地首周观察：银行投资金条“价稳量足”",
@@ -522,6 +677,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "现货黄金涨幅扩大至超1%，目前报4044美元/盎司。现货白银日内涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3001830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "现货黄金站上4030美元/盎司，日内涨0.74%。",
+          "url": "https://flash.jin10.com/detail/20251110091717756800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "现货黄金短线走高7美元，现报4027美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110091423390800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月10日（周一）早盘盘初上涨0.58%报921.44元/克；<br/>上海黄金交易所白银T+D 11月10日（周一）早盘盘初上涨0.56%报11490.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251110090128211800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "现货黄金站上4020美元/盎司，日内涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20251110084750108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
@@ -558,8 +768,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 08时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 09时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "预计四季度存储价格有望维持上涨趋势 存储芯片概念股涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2195307",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     }
