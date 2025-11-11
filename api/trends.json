@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T04:09:31.586247+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2025-11-12T05:08:32.085397+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
@@ -28,8 +28,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
+        },
+        {
+          "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
+          "url": "https://flash.jin10.com/detail/20251112043921399800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "比特币回落至103000美元/枚下方，日内跌2.86%。",
@@ -43,6 +54,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美元指数11日下跌",
+          "url": "https://flash.jin10.com/detail/20251112043736443800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
           "title": "LME期铜收涨31美元，报10827美元/吨。 LME期铝收涨5美元，报2874美元/吨。 LME期锌收跌14美元，报3066美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3002931",
           "source": "华尔街见闻-快讯",
@@ -54,15 +76,16 @@
           "time_info": "02时11分"
         },
         {
-          "title": "AMD预计到2030年数据中心市场规模将达1万亿美元",
-          "url": "https://flash.jin10.com/detail/20251112031951892800",
-          "source": "金十数据",
+          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
+          "url": "https://wallstreetcn.com/articles/3759085",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时08分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1178元，较周一夜盘收盘涨12点。成交量293.40亿美元。",
@@ -70,11 +93,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
         },
         {
           "title": "挪威：暂停主权财富基金道德准则使其免于抛售2300亿美元科技股",
@@ -90,16 +114,29 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
-          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
-          "url": "https://wallstreetcn.com/articles/3759085",
-          "source": "华尔街见闻",
+          "title": "AMD预计到2030年数据中心市场规模将达1万亿美元",
+          "url": "https://flash.jin10.com/detail/20251112031951892800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 04时09分]"
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
+          "url": "https://wallstreetcn.com/livenews/3002943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
         },
         {
           "title": "周二（11月11日），韩元兑美元最终下跌0.37%，报1461.86韩元，亚太盘初显著下挫，北京时间09:22以来持续低位震荡。",
@@ -133,18 +170,6 @@
           "ranks": [
             7,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
-        },
-        {
-          "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
-          "url": "https://wallstreetcn.com/livenews/3002943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -258,6 +283,50 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
+          "title": "AMD(AMD.O)高管：AMD预计未来五年内数据中心芯片年收入将达到1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251112041714164800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "匈牙利总理：俄美元首会晤仍在日程中",
+          "url": "https://flash.jin10.com/detail/20251112040502098800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "据《财富》杂志：Coinbase(COIN.O)取消了与稳定币初创公司BVNK的20亿美元交易。",
+          "url": "https://flash.jin10.com/detail/20251112040036419800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "周二（11月11日）纽约尾盘，美元兑日元跌0.03%，报154.10日元，日内交投区间为154.49-153.67日元，北京时间21:16转跌并短线跳水、短线形成V形走势。 欧元兑日元涨0.23%，英镑兑日元跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3002963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
           "title": "WTI原油日内涨超2.00%，现报61.14美元/桶。",
           "url": "https://flash.jin10.com/detail/20251112002018332800",
           "source": "金十数据",
@@ -267,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "周二（11月11日）纽约尾盘，ICE美元指数跌0.16%，报99.428点，日内交投区间为99.738-99.287点，北京时间21:19开启一波加速下跌的短线跳水行情。 彭博美元指数跌0.09%，报1217.60点，日内交投区间为1220.78-1216.52点，也从21:19转跌、并短线跳水。",
+          "url": "https://wallstreetcn.com/livenews/3002962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "布伦特原油站上65美元/桶，日内涨1.96%。",
@@ -316,7 +396,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -326,8 +406,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -337,8 +417,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "换了件“马甲”，他见上特朗普了(图)",
@@ -348,8 +428,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -359,8 +439,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -373,8 +453,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
@@ -386,19 +466,21 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
-          "title": "加州州长：特朗普的西海岸钻油计划是“死路一条”",
-          "url": "https://flash.jin10.com/detail/20251112031333905800",
-          "source": "金十数据",
+          "title": "特朗普回应高市早苗涉台言论",
+          "url": "https://www.douyin.com/hot/2302972",
+          "source": "抖音",
           "ranks": [
-            5
+            21,
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
@@ -413,16 +495,16 @@
           "time_info": "[00时10分 ~ 01时08分]"
         },
         {
-          "title": "特朗普回应高市早苗涉台言论",
-          "url": "https://www.douyin.com/hot/2302972",
-          "source": "抖音",
+          "title": "加州州长：特朗普的西海岸钻油计划是“死路一条”",
+          "url": "https://flash.jin10.com/detail/20251112031333905800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            20
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 03时08分]"
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -430,11 +512,12 @@
           "source": "微博",
           "ranks": [
             27,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 05时08分]"
         },
         {
           "title": "美国加利福利亚州长Newsom：总统特朗普的海上石油计划将让加州环保环境“到达时已死亡”（DOA）。",
@@ -508,6 +591,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
+          "url": "https://flash.jin10.com/detail/20251112035805783800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
           "title": "特朗普：参议院通过拨款法案是“重大胜利”",
           "url": "https://flash.jin10.com/detail/20251112012116484800",
           "source": "金十数据",
@@ -569,7 +663,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -580,7 +674,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -599,8 +693,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 04时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 05时08分]"
         },
         {
           "title": "黄金到底还能不能买",
@@ -734,8 +828,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -804,7 +898,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
@@ -815,8 +909,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.1%，保健板块涨约2.3%，日用消费品、能源、原材料、房地产板块至少涨约1.1%，电信板块涨0.5%，科技板块跌0.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌8.7%，美光科技、拉姆研究、迈威尔科技、Arm控股、铿腾电子、英伟达至多跌5%，Strategy（MSTR）跌2.6%，霍尼韦尔则涨2.3%，吉利德科学涨3.8%，安进涨4.5%，德康医疗涨5.9%。 Merck初步收涨4.8%，安进涨4.5%，耐克、强生、麦当劳、迪士尼等涨超2%，在道指成分股中领跑，英伟达表现最差。 芯片概念股中，Onto跌5.6%，相干公司Coherent跌5.5%，纳微半导体跌5.5%，美光跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3002971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "《新概念英语二》要怎么学才有效果?",
