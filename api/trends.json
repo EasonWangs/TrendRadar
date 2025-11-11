@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:11:52.858441+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-11-11T13:10:01.415979+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时36分 ~ 12时11分]"
+          "appearance_count": 8,
+          "time_info": "[09时36分 ~ 13时10分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -649,7 +649,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "巴菲特谢幕信：已捐出13亿美元股票 感叹活到95岁是幸运",
@@ -660,8 +660,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时31分 ~ 12时11分]"
+          "appearance_count": 10,
+          "time_info": "[08时31分 ~ 13时10分]"
+        },
+        {
+          "title": "巴菲特谢幕信：已捐13亿美元股票",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%A2%E5%B9%95%E4%BF%A1%EF%BC%9A%E5%B7%B2%E6%8D%9013%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时31分 ~ 13时10分]"
         },
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -672,24 +686,12 @@
             18,
             23,
             19,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 11时28分]"
-        },
-        {
-          "title": "巴菲特谢幕信：已捐13亿美元股票",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%A2%E5%B9%95%E4%BF%A1%EF%BC%9A%E5%B7%B2%E6%8D%9013%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时31分 ~ 12时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时10分 ~ 13时10分]"
         },
         {
           "title": "美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。 据媒体报道，瑞士接近与美国围绕15%的关税达成协议。",
@@ -723,6 +725,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 13时10分]"
+        },
+        {
+          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
+          "url": "https://wallstreetcn.com/articles/3759085",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 13时10分]"
         },
         {
           "title": "墨西哥股指维持超过0.1%的涨幅，墨西哥比索兑美元涨幅重新扩大至0.3%，逼近北京时间17:52刷新的日高18.3688比索。 墨西哥总统辛鲍姆的关税方案遭到党派和商界的反对。",
@@ -798,28 +823,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时12分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时11分]"
-        },
-        {
-          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
-          "url": "https://wallstreetcn.com/articles/3759085",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时11分]"
         },
         {
           "title": "西方石油(OXY.N)第三季度公司平均总产量达到1,465千桶油当量/日，超出指引的上限。经调整每股收益0.64美元，市场预期0.52美元。",
@@ -1046,6 +1049,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "现货白银日内涨幅达1%，重回51美元/盎司上方，续刷10月21日以来新高。",
+          "url": "https://flash.jin10.com/detail/20251111120252269800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "Beyond Meat三季度净营收7020万美元，分析师预期6910万美元。 三季度美国净营收3910万美元，分析师预期4060万美元。 三季度国际净营收3120万美元，分析师预期2830万美元。 三季度每股亏损1.44美元，上年同期亏损0.41美元。 三季度调整后每股亏损0.47美元，分析师预期亏损0.45美元。 三季度调整后EBITDA亏损2160万美元，上年同期亏损1980万美元。 三季度毛利润率10.3%，分析师预期12.8%。 预计四季度净营收6000万-6500万美元，分析师预期7010万美元。",
           "url": "https://wallstreetcn.com/livenews/3002349",
           "source": "华尔街见闻-快讯",
@@ -1203,8 +1217,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时31分 ~ 12时11分]"
+          "appearance_count": 10,
+          "time_info": "[08时31分 ~ 13时10分]"
+        },
+        {
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时31分 ~ 13时10分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -1216,8 +1243,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时10分 ~ 12时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时10分 ~ 13时10分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -1236,19 +1263,6 @@
           "time_info": "[00时10分 ~ 08时32分]"
         },
         {
-          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
-          "url": "https://www.cls.cn/detail/2196552",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时31分 ~ 12时11分]"
-        },
-        {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
@@ -1258,6 +1272,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 13时10分]"
         },
         {
           "title": "CoreWeave美股盘后跌约7%。",
@@ -1305,18 +1331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时08分]"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 12时11分]"
         },
         {
           "title": "普拉格动力（PLUG）美股盘后上涨4%，该公司净营收超过市场预期。",
@@ -1405,7 +1419,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -1479,7 +1493,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美政府关门有望结束，全球风险资产走高，纳指涨超1.7%，现货黄金涨近2%，比特币拉涨3%",
@@ -1570,7 +1584,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -1595,6 +1609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251111115538459800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
@@ -1703,7 +1728,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
