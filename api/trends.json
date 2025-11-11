@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T17:10:22.812222+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2025-11-11T18:10:03.806059+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时31分 ~ 08时32分]"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -138,7 +149,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         },
@@ -240,6 +251,29 @@
           "time_info": "[10时39分 ~ 12时11分]"
         },
         {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 18时10分]"
+        },
+        {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
           "url": "https://wallstreetcn.com/livenews/3002316",
           "source": "华尔街见闻-快讯",
@@ -285,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
+          "title": "特朗普拟推50年房贷！业内“差评如潮”：房贷终身制、到死还不完？",
+          "url": "https://www.cls.cn/detail/2196763",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
@@ -436,17 +481,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时10分"
         },
         {
           "title": "美国总统特朗普：不工作的空中交通管制员将被“停用”。",
@@ -705,7 +739,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "巴菲特谢幕信：已捐出13亿美元股票 感叹活到95岁是幸运",
@@ -729,8 +763,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 17时10分]"
+          "appearance_count": 12,
+          "time_info": "[11时28分 ~ 18时10分]"
+        },
+        {
+          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
+          "url": "https://wallstreetcn.com/articles/3759085",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 18时10分]"
         },
         {
           "title": "巴菲特谢幕信：已捐13亿美元股票",
@@ -762,19 +810,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时10分 ~ 14时13分]"
-        },
-        {
-          "title": "CoreWeave三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引，股价盘后重挫6%",
-          "url": "https://wallstreetcn.com/articles/3759085",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时28分 ~ 17时10分]"
         },
         {
           "title": "“承诺给300万美元”！俄方：成功挫败英乌策反行动",
@@ -1122,6 +1157,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "据葡萄牙财经媒体Negócios，微软将在葡萄牙数据中心投资100亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "Coreweave(CRWV.O)CEO：第三季度新增逾250亿美元收入订单。",
           "url": "https://flash.jin10.com/detail/20251111060529251800",
           "source": "金十数据",
@@ -1153,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "2024年华为专利许可收入约为6.3亿美元",
+          "url": "https://wallstreetcn.com/livenews/3002705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "美国总统特朗普：没有休假的空中交通管制员将获得1万美元奖金。",
@@ -1243,6 +1300,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "美、布两油短线走高0.4美元，现报60.30美元/桶和64.20美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251111171820147800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
           "title": "软银集团：已于10月以58.3亿美元的价格出售所持英伟达股份。",
           "url": "https://flash.jin10.com/detail/20251111144340905800",
           "source": "金十数据",
@@ -1282,7 +1350,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         },
@@ -1356,7 +1424,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -1447,6 +1515,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "英伟达美股盘前跌幅扩大至1%，触及盘中低点。",
+          "url": "https://wallstreetcn.com/livenews/3002712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "禾赛美股盘前涨超6%，公司第三季度的净收入7.95亿元，同比增加47.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -1645,7 +1735,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美政府关门有望结束，全球风险资产走高，纳指涨超1.7%，现货黄金涨近2%，比特币拉涨3%",
@@ -1730,6 +1820,17 @@
           "time_info": "[03时08分 ~ 04时10分]"
         },
         {
+          "title": "巴菲特“谢幕”：美国黄金时代结束",
+          "url": "https://www.toutiao.com/trending/7571340531448417798/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月11日（周二）收盘上涨2.06%报946.5元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）收盘上涨2.17%报11865.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251111153013417800",
           "source": "金十数据",
@@ -1802,7 +1903,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         },
@@ -1832,7 +1933,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
@@ -1841,7 +1942,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         },
@@ -1867,6 +1968,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 16时11分]"
+        },
+        {
+          "title": "科技股估值飙升带动软银Q3利润大涨，旗下基金清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -1901,6 +2013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "德国法院在针对OpenAI的版权案件中支持原告方。",
+          "url": "https://flash.jin10.com/detail/20251111171926095800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
@@ -1944,6 +2067,18 @@
           "time_info": "[02时11分 ~ 06时09分]"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 18时10分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
           "url": "https://wallstreetcn.com/livenews/3002234",
           "source": "华尔街见闻-快讯",
@@ -1981,17 +2116,6 @@
           "time_info": "[04时10分 ~ 05时08分]"
         },
         {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        },
-        {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
           "url": "https://flash.jin10.com/detail/20251111034728559800",
           "source": "金十数据",
@@ -2020,7 +2144,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         }
@@ -2028,7 +2152,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】沪指四连阳创年内收盘新高，涨价概念强者恒强，存储芯片概念再度爆发",
@@ -2068,6 +2192,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时08分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
+          "url": "https://www.cls.cn/detail/2197306",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "A股机器人概念股局部活跃，上纬新材20cm涨停，五洲新春、拓普集团、美力科技、松霖科技跟涨。",
@@ -2110,7 +2245,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
         }
