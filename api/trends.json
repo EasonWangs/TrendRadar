@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-12T07:17:39.381243+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2025-11-12T08:32:10.117635+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
           "url": "https://wallstreetcn.com/articles/3759093",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时32分]"
         },
         {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
@@ -345,6 +346,18 @@
           "time_info": "[00时10分 ~ 01时08分]"
         },
         {
+          "title": "墨西哥比索兑美元涨0.4%，报18.3053比索。 墨西哥综合指数收涨1.95%，报64321.27点，创收盘历史新高。 根据墨西哥官方公报，由于国际价格下跌以及国内市场出现供应过剩风险，墨西哥于11月11日开始对糖类进口实施新关税。",
+          "url": "https://wallstreetcn.com/livenews/3003004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 08时32分]"
+        },
+        {
           "title": "AMD首席执行官苏姿丰：从2026年开始，AMD(AMD.O)的定制芯片设计收入将达到450亿美元。",
           "url": "https://flash.jin10.com/detail/20251112021936730800",
           "source": "金十数据",
@@ -413,17 +426,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "墨西哥比索兑美元涨0.4%，报18.3053比索。 墨西哥综合指数收涨1.95%，报64321.27点，创收盘历史新高。 根据墨西哥官方公报，由于国际价格下跌以及国内市场出现供应过剩风险，墨西哥于11月11日开始对糖类进口实施新关税。",
-          "url": "https://wallstreetcn.com/livenews/3003004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
           "title": "“美元微笑论”创立者：特朗普任期余下时间美元将再跌近14%",
           "url": "https://wallstreetcn.com/livenews/3002979",
           "source": "华尔街见闻-快讯",
@@ -446,13 +448,24 @@
           "time_info": "01时08分"
         },
         {
+          "title": "IIF：外国投资者10月向新兴市场投资组合增投270亿美元",
+          "url": "https://wallstreetcn.com/livenews/3003025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
           "title": "周二（11月11日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1222元，较周一纽约尾盘涨6点，日内整体交投于7.1266-7.1173元区间。",
           "url": "https://wallstreetcn.com/livenews/3002997",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -471,19 +484,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "特朗普宣布美国不再资助乌克兰",
-          "url": "https://www.toutiao.com/trending/7571447279153971246/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时17分]"
-        },
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
           "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
@@ -496,15 +498,28 @@
           "time_info": "[00时09分 ~ 07时17分]"
         },
         {
+          "title": "特朗普宣布美国不再资助乌克兰",
+          "url": "https://www.toutiao.com/trending/7571447279153971246/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时32分]"
+        },
+        {
           "title": "换了件“马甲”，他见上特朗普了(图)",
           "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时32分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -526,11 +541,12 @@
             12,
             14,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时32分]"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
@@ -542,8 +558,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时32分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -552,11 +568,12 @@
           "ranks": [
             21,
             20,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 08时32分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -569,19 +586,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时07分 ~ 07时17分]"
-        },
-        {
-          "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
-          "url": "https://flash.jin10.com/detail/20251112070247139800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "appearance_count": 8,
+          "time_info": "[03时07分 ~ 08时32分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
@@ -594,6 +600,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时08分]"
+        },
+        {
+          "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
+          "url": "https://flash.jin10.com/detail/20251112070247139800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 08时32分]"
         },
         {
           "title": "加州州长：特朗普的西海岸钻油计划是“死路一条”",
@@ -619,6 +637,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普宣称美国不再资助乌克兰",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时31分 ~ 08时32分]"
         },
         {
           "title": "美国加利福利亚州长Newsom：总统特朗普的海上石油计划将让加州环保环境“到达时已死亡”（DOA）。",
@@ -681,6 +710,28 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
+          "title": "特朗普夸赞沙拉：他是个硬汉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时31分 ~ 08时32分]"
+        },
+        {
+          "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112075535490800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
           "url": "https://flash.jin10.com/detail/20251112012840941800",
           "source": "金十数据",
@@ -703,6 +754,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "美国总统特朗普明天将与金融业高管们举行晚宴，纳斯达克CEO、摩根大通CEO等将出席。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
           "title": "特朗普：参议院通过拨款法案是“重大胜利”",
           "url": "https://flash.jin10.com/detail/20251112012116484800",
           "source": "金十数据",
@@ -720,9 +782,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "据CBS记者：消息人士透露，部分金融业高管已获邀参加明晚在白宫举行的特朗普晚宴，纳斯达克首席执行官阿德娜·弗里德曼在列。此次晚宴距特朗普9月4日为科技公司首席执行官们举办的晚宴仅隔数月。周三的晚宴将以私人形式举行。",
+          "url": "https://flash.jin10.com/detail/20251112074930925800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "瑞银：特朗普提出的50年期抵押贷款将使整个贷款期的利息成本翻倍",
@@ -756,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美国总统特朗普：尽管面临市长和州长的极端反对与阻挠，伊利诺伊州芝加哥市的汽车盗窃、枪击案、抢劫案、暴力犯罪及其他各类案件均大幅下降。",
+          "url": "https://flash.jin10.com/detail/20251112073543613800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
@@ -815,9 +899,152 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时17分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.3吨，当前持仓量为1046.36吨。",
+          "url": "https://flash.jin10.com/detail/20251112071300101800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 08时32分]"
+        },
+        {
+          "title": "黄金到底还能不能买",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%BF%98%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 01时08分]"
+        },
+        {
+          "title": "现货黄金转跌，刷新日低至4110美元下方，北京时间21:38还曾交投于4145美元上方，之后行情“急转直下”。",
+          "url": "https://wallstreetcn.com/livenews/3002882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时08分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘收盘下跌0.39%报942.19元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘收盘上涨0.12%报11909.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251112023113887800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时09分]"
+        },
+        {
+          "title": "黄金开始大反攻",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BB%84%E9%87%91%E5%BC%80%E5%A7%8B%E5%A4%A7%E5%8F%8D%E6%94%BB&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26cate%3D5001%26dgr%3D0%26q%3D%25E9%25BB%2584%25E9%2587%2591%25E5%25BC%2580%25E5%25A7%258B%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%26realpos%3D27%26stream_entry_id%3D31%26pos%3D26%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1762906552%26pre_seqid%3D1762906552633032073137&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时31分 ~ 08时32分]"
+        },
+        {
+          "title": "现货黄金失守4100美元",
+          "url": "https://flash.jin10.com/detail/20251111232833576800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "澳洲联储助理主席Brad Jones：有早期迹象表明中央银行的黄金持有量出现分化。",
+          "url": "https://wallstreetcn.com/livenews/3003030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
+          "title": "现货黄金失守4110美元/盎司，日内跌幅0.14%。",
+          "url": "https://flash.jin10.com/detail/20251111232213519800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "现货黄金突破4140美元/盎司，日内涨0.33%。",
+          "url": "https://flash.jin10.com/detail/20251112073649171800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
+          "title": "现货黄金回落至4125美元下方，日内整体涨幅迅速收窄至0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3002869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 08时32分]"
+        },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
           "url": "https://wallstreetcn.com/livenews/3002988",
@@ -863,17 +1090,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -944,116 +1160,31 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 07时17分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.3吨，当前持仓量为1046.36吨。",
-          "url": "https://flash.jin10.com/detail/20251112071300101800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "黄金到底还能不能买",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%BF%98%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时08分]"
-        },
-        {
-          "title": "现货黄金转跌，刷新日低至4110美元下方，北京时间21:38还曾交投于4145美元上方，之后行情“急转直下”。",
-          "url": "https://wallstreetcn.com/livenews/3002882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时08分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘收盘下跌0.39%报942.19元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘收盘上涨0.12%报11909.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251112023113887800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
-        },
-        {
-          "title": "现货黄金失守4100美元",
-          "url": "https://flash.jin10.com/detail/20251111232833576800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "现货黄金失守4110美元/盎司，日内跌幅0.14%。",
-          "url": "https://flash.jin10.com/detail/20251111232213519800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "现货黄金回落至4125美元下方，日内整体涨幅迅速收窄至0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3002869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时32分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时31分 ~ 08时32分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -1086,7 +1217,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -1108,7 +1239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
@@ -1219,6 +1350,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时31分 ~ 08时32分]"
+        },
+        {
+          "title": "美债期货上涨，美元走软，美国就业前景低迷",
+          "url": "https://wallstreetcn.com/livenews/3002855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 1,
       "titles": [
@@ -1228,23 +1387,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债期货上涨，美元走软，美国就业前景低迷",
-          "url": "https://wallstreetcn.com/livenews/3002855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
