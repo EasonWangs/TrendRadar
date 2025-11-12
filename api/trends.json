@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T16:11:43.169856+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-11-12T17:11:05.386258+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -84,7 +84,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -282,6 +282,18 @@
           "time_info": "[05时08分 ~ 06时08分]"
         },
         {
+          "title": "中际旭创据悉正考虑在港股上市，拟募资至少30亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3003280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 17时11分]"
+        },
+        {
           "title": "AMD(AMD.O)：预计2027年数据中心收入将达到“数百亿美元”。",
           "url": "https://flash.jin10.com/detail/20251112023900381800",
           "source": "金十数据",
@@ -363,6 +375,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 03时08分]"
+        },
+        {
+          "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
+          "url": "https://wallstreetcn.com/articles/3759197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "WTI原油日内涨幅达1.5%，报60.94美元/桶。 布伦特原油日内涨幅达1.5%，报65.06美元/桶。",
@@ -508,17 +531,6 @@
           "time_info": "13时09分"
         },
         {
-          "title": "中际旭创据悉正考虑在港股上市，拟募资至少30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3003280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
           "title": "据《财富》杂志：Coinbase(COIN.O)取消了与稳定币初创公司BVNK的20亿美元交易。",
           "url": "https://flash.jin10.com/detail/20251112040036419800",
           "source": "金十数据",
@@ -651,6 +663,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1172，较上一交易日官方收盘价涨35点，较上日夜盘收盘涨6点。",
+          "url": "https://wallstreetcn.com/livenews/3003299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "美元兑日元短线小幅拉升，日内涨0.25%报154.54。",
           "url": "https://wallstreetcn.com/livenews/3003161",
           "source": "华尔街见闻-快讯",
@@ -720,7 +743,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -798,8 +821,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时09分 ~ 16时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时09分 ~ 17时11分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -846,6 +869,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时07分 ~ 09时36分]"
+        },
+        {
+          "title": "邵永灵：特朗普“打脸”高市早苗",
+          "url": "https://www.toutiao.com/trending/7571706495159520811/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时08分 ~ 17时11分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
@@ -908,18 +944,6 @@
           "time_info": "[10时39分 ~ 12时10分]"
         },
         {
-          "title": "邵永灵：特朗普“打脸”高市早苗",
-          "url": "https://www.toutiao.com/trending/7571706495159520811/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 16时11分]"
-        },
-        {
           "title": "特朗普夸赞沙拉：他是个硬汉",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
           "source": "百度热搜",
@@ -978,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 11时28分]"
+        },
+        {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
@@ -1295,7 +1330,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -1317,11 +1352,12 @@
             11,
             9,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时09分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[13时09分 ~ 17时11分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月12日（周三）早盘盘初下跌0.05%报945.37元/克；<br/>上海黄金交易所白银T+D 11月12日（周三）早盘盘初上涨0.33%报11934.0元/千克。",
@@ -1381,6 +1417,18 @@
           "time_info": "[08时31分 ~ 09时36分]"
         },
         {
+          "title": "黄金睡眠时间是这4个小时",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E6%98%AF%E8%BF%994%E4%B8%AA%E5%B0%8F%E6%97%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26band_rank%3D29%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26realpos%3D29%26cate%3D5001%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E7%259D%25A1%25E7%259C%25A0%25E6%2597%25B6%25E9%2597%25B4%25E6%2598%25AF%25E8%25BF%25994%25E4%25B8%25AA%25E5%25B0%258F%25E6%2597%25B6%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1762934946%26pre_seqid%3D176293494604902443252&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 17时11分]"
+        },
+        {
           "title": "现货黄金转跌，刷新日低至4110美元下方，北京时间21:38还曾交投于4145美元上方，之后行情“急转直下”。",
           "url": "https://wallstreetcn.com/livenews/3002882",
           "source": "华尔街见闻-快讯",
@@ -1403,6 +1451,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时09分]"
+        },
+        {
+          "title": "受降息和数据清晰度预期支撑 黄金站稳4100美元上方",
+          "url": "https://flash.jin10.com/detail/20251112163205846800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "现货黄金失守4100美元",
@@ -1513,17 +1572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
-        },
-        {
-          "title": "黄金睡眠时间是这4个小时",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%E6%98%AF%E8%BF%994%E4%B8%AA%E5%B0%8F%E6%97%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D30%26band_rank%3D29%26flag%3D1%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26realpos%3D29%26cate%3D5001%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E7%259D%25A1%25E7%259C%25A0%25E6%2597%25B6%25E9%2597%25B4%25E6%2598%25AF%25E8%25BF%25994%25E4%25B8%25AA%25E5%25B0%258F%25E6%2597%25B6%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1762934946%26pre_seqid%3D176293494604902443252&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
         }
       ]
     },
@@ -1542,8 +1590,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时09分 ~ 16时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时09分 ~ 17时11分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -1563,11 +1611,12 @@
           "url": "https://wallstreetcn.com/livenews/3003282",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 17时11分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -1600,7 +1649,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1622,7 +1671,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1796,7 +1845,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -1859,6 +1908,17 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
+          "title": "金十图示：2025年11月12日（周三）上海金午盘价为943.52元/克，较国际金价(942.06元/克)，高1.46元/克",
+          "url": "https://flash.jin10.com/detail/20251112161245995800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "金十图示：2025年11月12日（周三）上海金早盘价为947.47元/克，较国际金价(944.4元/克)，高3.07元/克",
           "url": "https://flash.jin10.com/detail/20251112110231179800",
           "source": "金十数据",
@@ -1888,17 +1948,6 @@
           "time_info": "[00时09分 ~ 07时17分]"
         },
         {
-          "title": "港股收盘，恒生指数收涨0.85%，恒生科技指数收涨0.16%。新消费概念股走强，沪上阿姨涨近29%，毛戈平、蜜雪集团涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3003288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
           "title": "标普500指数初步收涨0.1%，保健板块涨约2.3%，日用消费品、能源、原材料、房地产板块至少涨约1.1%，电信板块涨0.5%，科技板块跌0.6%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌8.7%，美光科技、拉姆研究、迈威尔科技、Arm控股、铿腾电子、英伟达至多跌5%，Strategy（MSTR）跌2.6%，霍尼韦尔则涨2.3%，吉利德科学涨3.8%，安进涨4.5%，德康医疗涨5.9%。 Merck初步收涨4.8%，安进涨4.5%，耐克、强生、麦当劳、迪士尼等涨超2%，在道指成分股中领跑，英伟达表现最差。 芯片概念股中，Onto跌5.6%，相干公司Coherent跌5.5%，纳微半导体跌5.5%，美光跌5%。",
           "url": "https://wallstreetcn.com/livenews/3002971",
           "source": "华尔街见闻-快讯",
@@ -1919,6 +1968,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "港股收盘，恒生指数收涨0.85%，恒生科技指数收涨0.16%。新消费概念股走强，沪上阿姨涨近29%，毛戈平、蜜雪集团涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3003288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 17时11分]"
         },
         {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
@@ -1947,7 +2008,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -1979,17 +2040,29 @@
           "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
           "source": "百度热搜",
           "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 17时11分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -2001,8 +2074,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时31分 ~ 16时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时31分 ~ 17时11分]"
+        },
+        {
+          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
+          "url": "https://flash.jin10.com/detail/20251112162921044800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -2011,7 +2095,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
