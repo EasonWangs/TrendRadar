@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T10:39:35.150367+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2025-11-12T11:28:19.880283+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -81,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 10时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 11时28分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -123,8 +123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 11时28分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
@@ -222,6 +222,18 @@
           "time_info": "[08时32分 ~ 09时36分]"
         },
         {
+          "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3003110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 11时28分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
           "url": "https://wallstreetcn.com/livenews/3002897",
           "source": "华尔街见闻-快讯",
@@ -232,6 +244,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 02时11分]"
+        },
+        {
+          "title": "特朗普亲吻去世盟友柯克的遗孀",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BA%25B2%25E5%2590%25BB%25E5%258E%25BB%25E4%25B8%2596%25E7%259B%259F%25E5%258F%258B%25E6%259F%25AF%25E5%2585%258B%25E7%259A%2584%25E9%2581%2597%25E5%25AD%2580%2523%26filter_type%3Drealtimehot%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D18%26band_rank%3D18%26pos%3D19%26flag%3D1%26lcate%3D5001%26cate%3D5001%26c_type%3D31%26display_time%3D1762915085%26pre_seqid%3D176291508569902659441&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 11时28分]"
         },
         {
           "title": "美国总统特朗普：众议长约翰逊与参议院多数党领袖John Thune在临时开支草案协议上“取得重大胜利”。",
@@ -268,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时09分]"
-        },
-        {
-          "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3003110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -413,17 +426,6 @@
           "time_info": "08时32分"
         },
         {
-          "title": "特朗普亲吻去世盟友柯克的遗孀",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%B2%E5%90%BB%E5%8E%BB%E4%B8%96%E7%9B%9F%E5%8F%8B%E6%9F%AF%E5%85%8B%E7%9A%84%E9%81%97%E5%AD%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25BA%25B2%25E5%2590%25BB%25E5%258E%25BB%25E4%25B8%2596%25E7%259B%259F%25E5%258F%258B%25E6%259F%25AF%25E5%2585%258B%25E7%259A%2584%25E9%2581%2597%25E5%25AD%2580%2523%26filter_type%3Drealtimehot%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D18%26band_rank%3D18%26pos%3D19%26flag%3D1%26lcate%3D5001%26cate%3D5001%26c_type%3D31%26display_time%3D1762915085%26pre_seqid%3D176291508569902659441&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
           "url": "https://flash.jin10.com/detail/20251112010443210800",
           "source": "金十数据",
@@ -479,6 +481,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "特朗普将于美国东部时间周三晚上7:30（北京时间周四早晨8:30）举行私人晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112101904646800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "一些航空公司首席执行官敦促特朗普政府官员为削减航班提供理由。",
           "url": "https://flash.jin10.com/detail/20251111231344801800",
           "source": "金十数据",
@@ -526,7 +539,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -564,6 +577,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时11分 ~ 07时17分]"
+        },
+        {
+          "title": "美元兑韩元USD/KRW升至4月9日以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20251112110227361800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "比特币回落至103000美元/枚下方，日内跌2.86%。",
@@ -855,6 +879,18 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
+          "title": "马来西亚林吉特兑美元上涨0.3%至4.122，创2024年9月30日来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3003104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 11时28分]"
+        },
+        {
           "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
           "url": "https://wallstreetcn.com/livenews/3002877",
           "source": "华尔街见闻-快讯",
@@ -931,7 +967,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -956,17 +992,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "马来西亚林吉特兑美元上涨0.3%至4.122，创2024年9月30日来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3003104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "美国天然气期货上涨近5%，至4.55美元/百万英热。",
@@ -1038,7 +1063,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -1134,6 +1159,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "现货黄金失守4120美元/盎司，日内跌幅0.16%。",
+          "url": "https://flash.jin10.com/detail/20251112105202129800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "澳洲联储助理主席Brad Jones：有早期迹象表明中央银行的黄金持有量出现分化。",
           "url": "https://wallstreetcn.com/livenews/3003030",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1220,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
@@ -1202,11 +1238,12 @@
             8,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 10时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 11时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -1333,11 +1370,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 10时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 11时28分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -1345,11 +1383,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时31分 ~ 10时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时31分 ~ 11时28分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -1450,6 +1489,18 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D24%26band_rank%3D24%26pos%3D25%26flag%3D1%26lcate%3D5001%26cate%3D5001%26c_type%3D31%26display_time%3D1762915085%26pre_seqid%3D176291508569902659441&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 11时28分]"
+        },
+        {
           "title": "金价回升 市场进一步看涨5000美元",
           "url": "https://www.toutiao.com/trending/7571451271312313910/",
           "source": "今日头条",
@@ -1459,17 +1510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26filter_type%3Drealtimehot%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D24%26band_rank%3D24%26pos%3D25%26flag%3D1%26lcate%3D5001%26cate%3D5001%26c_type%3D31%26display_time%3D1762915085%26pre_seqid%3D176291508569902659441&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         }
       ]
     },
@@ -1535,11 +1575,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时31分 ~ 10时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时31分 ~ 11时28分]"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
