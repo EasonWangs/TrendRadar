@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-11-13T00:11:16.258850+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-13T01:09:22.960523+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "现货白银日内涨幅达4.0%，报53.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251113004314289800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
         {
           "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
           "url": "https://wallstreetcn.com/articles/3759197",
@@ -15,30 +37,87 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "纽约银日内涨幅达4.0%，报52.78美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3003525",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时09分]"
         },
         {
           "title": "美元兑日元自2月以来首次涨至155，或引发东京口头干预",
           "url": "https://wallstreetcn.com/livenews/3003522",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时09分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达4.0%，报58.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3003542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "扎克伯格旗下Meta承诺，将开支超过10亿美元，在美国Wisconsin建设一个数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3003541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
+          "url": "https://wallstreetcn.com/articles/3759245",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "纽约期金向上触及4200美元/盎司，日内涨2.03%。",
+          "url": "https://flash.jin10.com/detail/20251113003247827800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "MetaPlatforms(META.O)宣布计划在威斯康星州投资10亿美元兴建数据中心。",
+          "url": "https://flash.jin10.com/detail/20251113003205988800",
+          "source": "金十数据",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "01时09分"
         },
         {
           "title": "布伦特原油向下触及63美元/桶至上周四以来低位，日内跌2.92%。",
@@ -47,9 +126,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "WTI原油日内大跌4.00%，现报58.52美元/桶。布伦特原油现跌3.46%。",
+          "url": "https://flash.jin10.com/detail/20251113003020565800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "WTI原油期货日内大跌4.00%，现报58.59美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251113003000638800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
           "title": "Cassava Technologies宣布三笔交易（包括英伟达提供股权投资），将利用超过1.5亿美元新资本提供Liquid Techcommunications。",
@@ -58,7 +159,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         },
@@ -69,9 +170,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国财长贝森特：到2030年，稳定币的规模可能从3000亿美元增长10倍。",
+          "url": "https://flash.jin10.com/detail/20251113001255813800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
           "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
@@ -80,9 +192,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "以太坊失守3400美元/枚，日内跌幅0.55%。",
+          "url": "https://flash.jin10.com/detail/20251113001042904800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
           "title": "阿拉比卡咖啡期货跌超5%，报3.7870美元/磅，投资者关注原油市场波动。",
@@ -91,9 +214,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "布伦特原油日内大跌3.00%，现报62.94美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251113000059838800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
           "title": "现货白银日内涨幅达2.0%，报52.22美元/盎司。",
@@ -102,7 +236,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         },
@@ -113,7 +247,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         },
@@ -124,7 +258,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         }
@@ -132,8 +266,30 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "现货黄金日内涨幅达1.5%，报4189.11美元/盎司。 纽约银日内涨幅达4.5%，报53.03美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3003543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "现货黄金站上4190美元/盎司，日内涨1.54%。",
+          "url": "https://flash.jin10.com/detail/20251113003128345800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
         {
           "title": "现货黄金向上触及4180美元/盎司，日内涨1.30%。",
           "url": "https://flash.jin10.com/detail/20251112233554214800",
@@ -141,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         },
@@ -152,7 +308,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         },
@@ -163,7 +319,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         },
@@ -174,7 +330,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         }
@@ -189,22 +345,24 @@
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
           "url": "https://wallstreetcn.com/livenews/3003527",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 01时09分]"
         },
         {
           "title": "美国财长贝森特：财政部支持对强化补充杠杆率的改革；相关调整可能提振对美债的需求。",
@@ -213,7 +371,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
         }
@@ -231,19 +389,48 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
           "url": "https://www.cls.cn/detail/2198609",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普的50年期房贷构想遇冷，房管局长改提“可转移抵押贷款”方案",
+          "url": "https://wallstreetcn.com/livenews/3003536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "特朗普政府新规：外国人可能被拒签的慢性疾病包括肥胖、高血压、心血管等",
+          "url": "https://wallstreetcn.com/livenews/3003514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         }
       ]
     },
@@ -259,8 +446,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         }
       ]
     },
@@ -273,28 +460,12 @@
           "url": "https://wallstreetcn.com/articles/3759214",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普政府新规：外国人可能被拒签的慢性疾病包括肥胖、高血压、心血管等",
-          "url": "https://wallstreetcn.com/livenews/3003514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         }
       ]
     }
