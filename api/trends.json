@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T19:08:07.432614+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2025-11-12T20:20:49.413391+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -43,6 +43,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时11分 ~ 07时17分]"
+        },
+        {
+          "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
+          "url": "https://wallstreetcn.com/articles/3759197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时10分 ~ 20时20分]"
         },
         {
           "title": "投行Evercore ISI：将AMD(AMD.O)目标价从270美元上调至283美元。",
@@ -120,19 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
-        },
-        {
-          "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
-          "url": "https://wallstreetcn.com/articles/3759197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时10分 ~ 19时08分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1178元，较周一夜盘收盘涨12点。成交量293.40亿美元。",
@@ -563,7 +563,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -662,7 +662,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -695,7 +695,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -761,7 +761,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -775,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "南非兰特兑美元走强，南非将通胀目标下调至3%。",
+          "url": "https://flash.jin10.com/detail/20251112200736513800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "周二（11月11日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1222元，较周一纽约尾盘涨6点，日内整体交投于7.1266-7.1173元区间。",
@@ -805,7 +816,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -819,12 +830,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "高盛：预计在未来十年，全球股市以美元计价的年均回报率将达到7.7%，接近历史平均水平，尽管当前估值偏高。",
+          "url": "https://flash.jin10.com/detail/20251112200236298800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -952,6 +974,20 @@
           "time_info": "[03时07分 ~ 09时36分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时10分 ~ 20时20分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
           "url": "https://flash.jin10.com/detail/20251112175252982800",
           "source": "金十数据",
@@ -969,22 +1005,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时10分 ~ 19时08分]"
         },
         {
           "title": "邵永灵：特朗普“打脸”高市早苗",
@@ -1366,6 +1389,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "特朗普将于11月13日签署“培育未来”行政令。",
+          "url": "https://flash.jin10.com/detail/20251112200610797800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
           "url": "https://wallstreetcn.com/livenews/3003054",
           "source": "华尔街见闻-快讯",
@@ -1435,7 +1469,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "水贝市场销售降至“冰点” 料商直言“有货难出” 黄金税收新政之下商家迎“大考”|传真",
@@ -1449,8 +1483,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时09分 ~ 19时08分]"
+          "appearance_count": 11,
+          "time_info": "[13时09分 ~ 20时20分]"
         },
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -1677,6 +1711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月12日（周三）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 11月12日（周三）晚盘盘初上涨0.95%报12063.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251112200550490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
@@ -2002,6 +2047,18 @@
           "time_info": "[10时39分 ~ 13时09分]"
         },
         {
+          "title": "第一批金价下跌卖出的人后悔了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D7%26pos%3D8%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26c_type%3D31%26band_rank%3D7%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26display_time%3D1762945127%26pre_seqid%3D176294512761201141890153&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 20时20分]"
+        },
+        {
           "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
           "url": "https://www.cls.cn/detail/2197016",
           "source": "财联社热门",
@@ -2011,17 +2068,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "第一批金价下跌卖出的人后悔了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D7%26pos%3D8%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26c_type%3D31%26band_rank%3D7%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26display_time%3D1762945127%26pre_seqid%3D176294512761201141890153&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
         },
         {
           "title": "金价回升 市场进一步看涨5000美元",
@@ -2140,8 +2186,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 20时20分]"
         },
         {
           "title": "《新概念英语二》要怎么学才有效果?",
@@ -2184,8 +2230,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时11分 ~ 19时08分]"
+          "appearance_count": 7,
+          "time_info": "[16时11分 ~ 20时20分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -2227,8 +2273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时31分 ~ 19时08分]"
+          "appearance_count": 17,
+          "time_info": "[08时31分 ~ 20时20分]"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
