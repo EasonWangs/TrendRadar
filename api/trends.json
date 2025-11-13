@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T14:12:58.122016+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2025-11-13T15:10:08.980358+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "总投资逾200亿美元，世界级铁矿西芒杜铁矿正式投产，中国在全球铁矿定价中获得更大话语权",
@@ -34,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时09分 ~ 14时12分]"
+          "appearance_count": 20,
+          "time_info": "[01时09分 ~ 15时10分]"
         },
         {
           "title": "稳定币发行商Circle三季度营收增长66%至7.4亿美元，盈利大超预期，USDC稳定币流通量同比翻番 | 财报见闻",
@@ -49,8 +49,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时08分 ~ 14时12分]"
+          "appearance_count": 12,
+          "time_info": "[07时08分 ~ 15时10分]"
+        },
+        {
+          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
+          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时10分]"
         },
         {
           "title": "95岁巴菲特宣布辞职：1490亿美元财富帝国谁来接掌？",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时36分 ~ 13时09分]"
-        },
-        {
-          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
-          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时12分]"
         },
         {
           "title": "思科(CSCO.O)CEO：第一季度来自超大规模企业的AI基础设施订单总额达13亿美元。",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "英国GDP数据公布后，英镑兑美元跌幅扩大至0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3003941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "美国国务院：已决定批准一项可能的对外军售，向丹麦出售AIM-9X Block II型战术导弹及相关装备，预计总额为3.184亿美元。",
@@ -327,7 +338,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -393,7 +404,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -437,7 +448,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -459,7 +470,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -475,6 +486,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "比特币突破103000美元/枚，日内涨1.35%。",
+          "url": "https://flash.jin10.com/detail/20251113135759259800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "现货白银日内涨幅达1.00%，现报53.80美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251113112113182800",
           "source": "金十数据",
@@ -486,6 +508,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "俄外长：俄仍愿意在布达佩斯举行俄美元首峰会",
+          "url": "https://flash.jin10.com/detail/20251113135324004800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "Cassava Technologies宣布三笔交易（包括英伟达提供股权投资），将利用超过1.5亿美元新资本提供Liquid Techcommunications。",
           "url": "https://wallstreetcn.com/livenews/3003517",
           "source": "华尔街见闻-快讯",
@@ -495,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "摩根士丹利：将思科(CSCO.O)目标股价从77美元上调至82美元。",
+          "url": "https://flash.jin10.com/detail/20251113135147001800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "周三（11月12日），韩元兑美元最终跌0.47%，报1468.78韩元。 日线图上，韩元不断跌向4月9日底部1487.45韩元和2009年7月13日底部1597.45韩元，6月30日还曾涨至1347.23韩元。",
@@ -629,6 +673,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "美国要求中国台湾对美投资至少3500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3003914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：强势美元政策是一项明智的政策。任何国家都需要稳健的货币。",
           "url": "https://flash.jin10.com/detail/20251113014902733800",
           "source": "金十数据",
@@ -709,8 +764,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
+          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时10分]"
+        },
         {
           "title": "特朗普罕见为中国留学生辩护",
           "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
@@ -723,15 +789,29 @@
           "time_info": "[09时36分 ~ 11时30分]"
         },
         {
-          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
-          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 14时12分]"
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
+        },
+        {
+          "title": "特朗普致信以总统求赦免内塔尼亚胡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时10分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
@@ -743,6 +823,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
+          "url": "https://flash.jin10.com/detail/20251113143255350800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -784,19 +875,6 @@
           "time_info": "[11时30分 ~ 13时09分]"
         },
         {
-          "title": "特朗普致信以总统求赦免内塔尼亚胡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 14时12分]"
-        },
-        {
           "title": "特朗普签署临时拨款法案，持续43天的美国政府史上最长“停摆”结束。",
           "url": "https://wallstreetcn.com/livenews/3003836",
           "source": "华尔街见闻-快讯",
@@ -808,6 +886,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时30分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 15时10分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -845,6 +935,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时09分]"
+        },
+        {
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "特朗普政府发布声明，称支持用于结束美国政府关门的立法草案，总统特朗普将（在参众两院都批准的草案上）签字——让该草案生效为法律。",
@@ -916,17 +1017,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
-          "url": "https://www.cls.cn/detail/2199299",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         },
         {
           "title": "特朗普签署法案 美国政府停摆宣告结束",
@@ -1173,8 +1263,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时31分 ~ 14时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时31分 ~ 15时10分]"
         },
         {
           "title": "中国黄金回应试戴金镯10秒被索赔1000",
@@ -1186,8 +1276,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 14时12分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时10分]"
         },
         {
           "title": "渣打银行：继续预计第四季度黄金均价为每盎司4000美元。",
@@ -1393,8 +1483,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时08分 ~ 14时12分]"
+          "appearance_count": 12,
+          "time_info": "[07时08分 ~ 15时10分]"
         },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
