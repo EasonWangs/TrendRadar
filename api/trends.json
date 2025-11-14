@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T06:08:04.597596+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2025-11-15T07:08:18.349936+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "三季度几乎满产！中芯国际赵海军：四季度仍供不应求，预计全年收入超90亿美元，但内存涨价太多了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "福特 CEO 称年薪 12 万美元仍招不到人，如何看待美国技能工人严重短缺的现状？",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "美国银行：投资者对美元的风险敞口转变为中性，为一季度以来首次。",
@@ -55,6 +55,19 @@
           "time_info": "01时08分"
         },
         {
+          "title": "本周原糖期货跌超5.3%，罗布斯塔咖啡跌超8.9%，纽约可可累跌11.6%逼近5000美元关口",
+          "url": "https://wallstreetcn.com/livenews/3005038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时08分]"
+        },
+        {
           "title": "巴克莱：若俄罗斯原油出口骤降，布伦特原油价格或突破85美元/桶",
           "url": "https://wallstreetcn.com/livenews/3005006",
           "source": "华尔街见闻-快讯",
@@ -66,18 +79,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时07分]"
-        },
-        {
-          "title": "本周原糖期货跌超5.3%，罗布斯塔咖啡跌超8.9%，纽约可可累跌11.6%逼近5000美元关口",
-          "url": "https://wallstreetcn.com/livenews/3005038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时08分]"
         },
         {
           "title": "美国白宫：在瑞士对美国的2000亿美元投资中，至少有670亿美元将于2026年实现。",
@@ -126,6 +127,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.393万亿美元，之前一周18.426万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3005052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "周五（11月14日），美联储隔夜逆回购协议（RRP）使用规模为15.59亿美元，上个交易日报37.61亿美元。",
@@ -212,6 +225,18 @@
           "time_info": "[00时10分 ~ 01时08分]"
         },
         {
+          "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
+          "url": "https://wallstreetcn.com/livenews/3005043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "LME期铜收跌104美元，报10852美元/吨。 LME期铝收跌38美元，报2858美元/吨。 LME期锌收跌34美元，报3020美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3004992",
           "source": "华尔街见闻-快讯",
@@ -224,15 +249,15 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
-          "title": "美联储：美国上周银行存款18.393万亿美元，之前一周18.426万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3005052",
+          "title": "周五（11月14日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.0991元，较周四纽约尾盘跌35点，日内整体交投于7.0907-7.1024元区间。",
+          "url": "https://wallstreetcn.com/livenews/3005062",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
         },
         {
           "title": "瑞士计划到2028年底前对美国进行2000亿美元的直接投资。",
@@ -279,17 +304,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
-          "url": "https://wallstreetcn.com/livenews/3005043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
           "title": "WTI原油短线波动不大，报60.02美元/桶。",
           "url": "https://flash.jin10.com/detail/20251115020217717800",
           "source": "金十数据",
@@ -310,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "伯克希尔披露43亿美元新购Alphabet股份，并出售更多苹果公司股份",
+          "url": "https://wallstreetcn.com/livenews/3005050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "瑞士将对一系列美国商品降低进口关税。 瑞士企业承诺，到2028年这段时间将在美国投资2000亿美元。 瑞士联邦经济事务秘书处（SECO）称，某些投资来自Pilatus和Stadler。 因公司数量有限，无法将信息和盘托出。",
@@ -380,8 +405,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
+        },
+        {
+          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
+          "url": "https://flash.jin10.com/detail/20251115034601291800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 07时08分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -393,18 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时08分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
@@ -431,6 +456,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 06时08分]"
+        },
+        {
+          "title": "特朗普政府下调美国大豆出口前景预测",
+          "url": "https://wallstreetcn.com/livenews/3005036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时07分 ~ 07时08分]"
         },
         {
           "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
@@ -469,18 +507,6 @@
           "time_info": "[01时08分 ~ 02时11分]"
         },
         {
-          "title": "特朗普政府下调美国大豆出口前景预测",
-          "url": "https://wallstreetcn.com/livenews/3005036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 06时08分]"
-        },
-        {
           "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
           "url": "https://wallstreetcn.com/livenews/3004988",
           "source": "华尔街见闻-快讯",
@@ -501,8 +527,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时08分]"
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 07时08分]"
         },
         {
           "title": "美国总统特朗普：要求司法部和美国联邦调查局（FBI）也调查摩根大通与爱泼斯坦的关系。",
@@ -686,8 +712,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时08分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -698,8 +724,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -709,8 +735,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -752,11 +778,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时07分 ~ 06时08分]"
+          "appearance_count": 4,
+          "time_info": "[05时07分 ~ 07时08分]"
         },
         {
           "title": "美联储理事米兰：美联储购买黄金与其职责不符。",
@@ -806,19 +833,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
           "url": "https://wallstreetcn.com/livenews/3005057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -919,8 +947,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         }
       ]
     }
