@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T10:39:25.655195+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2025-11-14T11:28:44.797559+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 10时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 11时28分]"
         },
         {
           "title": "鹰派言论引发风险资产抛售，纳指跌超2%，比特币跌破10万美元，人民币涨破7.10",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时31分 ~ 10时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时31分 ~ 11时28分]"
         },
         {
           "title": "纽元兑美元NZD/USD日内涨幅达0.50%，现报0.5682。",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -200,6 +200,18 @@
           "time_info": "[02时11分 ~ 03时08分]"
         },
         {
+          "title": "曝美国国防部改名预计耗资20亿美元",
+          "url": "https://www.toutiao.com/trending/7571795900885139462/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 11时28分]"
+        },
+        {
           "title": "周四（11月13日），韩元兑美元最终涨0.24%，报1465.26韩元。",
           "url": "https://wallstreetcn.com/livenews/3004311",
           "source": "华尔街见闻-快讯",
@@ -303,13 +315,24 @@
           "time_info": "00时10分"
         },
         {
+          "title": "美国被曝要求台投资3500亿至5500亿美元，台湾各界震惊",
+          "url": "https://news.ifeng.com/c/8oGlf1UZxyD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "韩国总统顾问：若外汇市场出现不稳定，韩国可调整每年200亿美元的支付额。",
           "url": "https://flash.jin10.com/detail/20251114100327242800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -490,6 +513,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "白宫确认将公布10月非农报告但失业率将成谜、美联储鹰派继续释放谨慎信号、欧洲谋划“美元备胎”计划......亚市早盘金银油价格齐涨，现货白银、美国原油多头占比维持高位，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251114104109848800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "周四（11月13日）纽约尾盘，现货白银跌1.71%，报52.3391美元/盎司，日内交投于54.3910-52.0741美元。 COMEX白银期货跌2.21%，报52.275美元/盎司。 COMEX铜期货跌0.96%，报5.0565美元/磅。 现货铂金跌2.07%，报1583.16美元/盎司；现货钯金跌2.78%，报1431.04美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3004405",
           "source": "华尔街见闻-快讯",
@@ -633,17 +667,6 @@
           "time_info": "01时09分"
         },
         {
-          "title": "曝美国国防部改名预计耗资20亿美元",
-          "url": "https://www.toutiao.com/trending/7571795900885139462/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
           "title": "比特币跌破99000美元/枚，日内跌2.65%。",
           "url": "https://flash.jin10.com/detail/20251114022544592800",
           "source": "金十数据",
@@ -746,8 +769,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "人事主管表示，特朗普政府已雇佣了5万名新员工，其中大部分从事国家安全相关工作。",
+          "url": "https://flash.jin10.com/detail/20251114112519082800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
         {
           "title": "特朗普政府考虑重新引入“食物金字塔”膳食指南",
           "url": "https://flash.jin10.com/detail/20251114081415527800",
@@ -804,6 +838,20 @@
           "time_info": "00时10分"
         },
         {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时31分 ~ 11时28分]"
+        },
+        {
           "title": "市场消息：特朗普签署行政令以扩大寄养服务。",
           "url": "https://flash.jin10.com/detail/20251114033236655800",
           "source": "金十数据",
@@ -850,19 +898,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时09分]"
-        },
-        {
-          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2200266",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时31分 ~ 10时39分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
@@ -947,6 +982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "特朗普送叙利亚领导人香水还问有几个妻子，美网民：缺乏外交礼仪",
+          "url": "https://v.ifeng.com/c/8oFBSDgaA5N",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案",
@@ -1043,7 +1089,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -1114,6 +1160,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "特朗普为内塔尼亚胡“求情”遭拒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E2%80%9C%E6%B1%82%E6%83%85%E2%80%9D%E9%81%AD%E6%8B%92",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国国务院将总部位于德国的“安提法东部”组织，以及位于意大利和希腊的另外三个组织列为特别指定的“全球恐怖分子”。此举旨在延续特朗普总统“历史性地致力于对抗安提法组织的政治暴力活动”的承诺。",
           "url": "https://flash.jin10.com/detail/20251114022043264800",
           "source": "金十数据",
@@ -1177,8 +1234,22 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 11时28分]"
+        },
+        {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时08分 ~ 10时39分]"
+          "time_info": "[08时31分 ~ 11时28分]"
         },
         {
           "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
@@ -1217,19 +1288,6 @@
           "time_info": "[07时08分 ~ 08时32分]"
         },
         {
-          "title": "美股大跌 特斯拉跌超6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时31分 ~ 10时39分]"
-        },
-        {
           "title": "美股全线下挫 特斯拉跌超6%",
           "url": "https://www.toutiao.com/trending/7571618548569735174/",
           "source": "今日头条",
@@ -1266,6 +1324,18 @@
           "time_info": "[06时09分 ~ 07时08分]"
         },
         {
+          "title": "美股为何大跌",
+          "url": "https://www.toutiao.com/trending/7572362509869387270/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 11时28分]"
+        },
+        {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251114013133969800",
           "source": "金十数据",
@@ -1286,17 +1356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "美股为何大跌",
-          "url": "https://www.toutiao.com/trending/7572362509869387270/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "美股创一个月最大单日跌幅",
@@ -1533,6 +1592,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "微软CEO：祝OpenAI甲骨文好运",
+          "url": "https://www.toutiao.com/trending/7572366525785443903/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 11时28分]"
+        },
+        {
           "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
           "url": "https://flash.jin10.com/detail/20251114091237375800",
           "source": "金十数据",
@@ -1586,17 +1657,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
-        },
-        {
-          "title": "微软CEO：祝OpenAI甲骨文好运",
-          "url": "https://www.toutiao.com/trending/7572366525785443903/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         }
       ]
     },
@@ -1622,9 +1682,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月14日（周五）上海金早盘价为955.38元/克，较国际金价(959.47元/克)，低4.09元/克",
+          "url": "https://flash.jin10.com/detail/20251114110518501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
