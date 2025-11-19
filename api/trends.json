@@ -1,11 +1,956 @@
 {
-  "generated_at": "2025-11-19T20:13:42.616775+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2025-11-19T21:17:42.415092+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 83,
+      "titles": [
+        {
+          "title": "沙特确认对美国投资增至1万亿美元",
+          "url": "https://www.toutiao.com/trending/7574223983499808282/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 13时09分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119120532267800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时12分]"
+        },
+        {
+          "title": "杰富瑞：将百度(BIDU.O)目标股价从157美元上调至159美元。",
+          "url": "https://flash.jin10.com/detail/20251119144951715800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "沙特确认对美国投资增至1万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%A1%AE%E8%AE%A4%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E5%A2%9E%E8%87%B31%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时11分 ~ 16时11分]"
+        },
+        {
+          "title": "美元兑日元USD/JPY创1月以来新高，报155.89。",
+          "url": "https://flash.jin10.com/detail/20251119174644672800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "WTI 12月原油期货收涨0.83美元，涨幅1.39%，报60.74美元/桶。 NYMEX 12月天然气期货收报4.3710美元/百万英热单位。 NYMEX 12月汽油期货收报1.9993美元/加仑，NYMEX 12月取暖油期货收报2.7011美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3006704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美元兑日元创1月以来新高，报155.9。",
+          "url": "https://wallstreetcn.com/livenews/3007109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "WTI原油跌破59美元/桶，日内跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD失守1.31，日内跌幅0.37%。",
+          "url": "https://flash.jin10.com/detail/20251119185853277800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "现货白银日内涨超2%，现报51.72美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3007108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "Target公司预计本财年调整后每股收益约7至8美元，此前预期为7至9美元。",
+          "url": "https://wallstreetcn.com/livenews/3007200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "消息人士：英伟达(NVDA.O)和微软(MSFT.O)正承诺投资Anthropic的下一轮融资。此前Anthropic已获得微软和英伟达150亿美元投资。",
+          "url": "https://flash.jin10.com/detail/20251119004320995800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "淡马锡：美元走弱致套保成本飙升，被迫转向自然对冲",
+          "url": "https://flash.jin10.com/detail/20251119144046607800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "现货白银日内涨超2.00%，现报51.72美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251119174416628800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1074元，较周一夜盘收盘涨9点。成交量405.16亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3006700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0872，下调16点；上一交易日中间价7.0856，上一交易日官方收盘价7.1125，上日夜盘报收7.1074。",
+          "url": "https://wallstreetcn.com/livenews/3006833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美元兑加元USD/CAD日内跌超0.50%，现报1.3985。",
+          "url": "https://flash.jin10.com/detail/20251119014952023800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时07分]"
+        },
+        {
+          "title": "金十整理：沙特与美国合作细则一览——防务、核能、AI与万亿美元投资勾勒新同盟关系",
+          "url": "https://flash.jin10.com/detail/20251119110504493800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时09分]"
+        },
+        {
+          "title": "华尔街日报：xAI正就融资150亿美元深入谈判 估值显著提升",
+          "url": "https://flash.jin10.com/detail/20251119121305471800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时12分]"
+        },
+        {
+          "title": "美元兑日元涨0.5%至156.25，创1月27日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3007174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 20时13分]"
+        },
+        {
+          "title": "印度卢比兑美元汇率升至88.49，创下自11月4日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20251119120905733800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时12分]"
+        },
+        {
+          "title": "周二（11月18日），美联储隔夜逆回购协议（RRP）使用规模为9.05亿美元，上个交易日报31.72亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3006689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时10分]"
+        },
+        {
+          "title": "Kraken完成新一轮融资，估值达200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3006745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "币圈“极度恐慌”，市场为比特币跌向“80000美元”做准备",
+          "url": "https://wallstreetcn.com/articles/3759577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时07分 ~ 08时32分]"
+        },
+        {
+          "title": "周二（11月18日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1108元，较周一纽约尾盘跌25点，日内整体交投于7.1073-7.1170元区间。",
+          "url": "https://wallstreetcn.com/livenews/3006770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 08时32分]"
+        },
+        {
+          "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
+          "url": "https://wallstreetcn.com/livenews/3006675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时10分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的9.05亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119021740286800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时10分]"
+        },
+        {
+          "title": "报道：xAI正就融资150亿美元深入谈判 估值显著提升",
+          "url": "https://wallstreetcn.com/livenews/3006936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时12分]"
+        },
+        {
+          "title": "华纳兄弟探索公司(WBD.O)涨5.4%，此前派拉蒙携中东主权基金联手，以710亿美元巨额要约竞购该公司。",
+          "url": "https://flash.jin10.com/detail/20251119021242436800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时10分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1096，较上一交易日官方收盘价涨29点，较上日夜盘收盘跌22点。",
+          "url": "https://wallstreetcn.com/livenews/3007073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 18时09分]"
+        },
+        {
+          "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
+          "url": "https://wallstreetcn.com/livenews/3006650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时11分]"
+        },
+        {
+          "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 02时11分]"
+        },
+        {
+          "title": "汇丰银行：将小鹏汽车(XPEV.N)目标价从29.60美元下调至28.60美元。",
+          "url": "https://flash.jin10.com/detail/20251119113110752800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时09分]"
+        },
+        {
+          "title": "美元兑加元USD/CAD跌破1.40，日内跌0.40%。",
+          "url": "https://flash.jin10.com/detail/20251119003559077800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "智利国家铜业委员会：预计2025年铜价平均为每磅4.45美元。",
+          "url": "https://flash.jin10.com/detail/20251119210642806800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "美国金融监管部门FDIC反诉Capital One，指控其少付近1亿美元银行救助金",
+          "url": "https://wallstreetcn.com/livenews/3006698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "智利国家铜业委员会：预计2026年铜价平均为每磅4.55美元。",
+          "url": "https://flash.jin10.com/detail/20251119210628840800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "现货白银向上触及51美元/盎司，日内涨1.59%。",
+          "url": "https://flash.jin10.com/detail/20251119031403281800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线上扬近30点，日本财务大臣片山皋月称未就外汇进行具体讨论。",
+          "url": "https://flash.jin10.com/detail/20251119174035167800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "据报道美国有结束俄乌冲突的计划后，乌克兰美元债券大幅上涨，2036年到期债券每1美元面值买价上涨2.6美分，升至50美分以上。",
+          "url": "https://flash.jin10.com/detail/20251119210547047800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "芯片初创公司TenStorrent洽谈融资至少8亿美元，由富达Fidelity牵头讨论。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3006736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "美国9月国际资本净流入 1901亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3006734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "Anthropic获微软和英伟达150亿美元投资 将采购300亿美元微软云计算能力",
+          "url": "https://flash.jin10.com/detail/20251118233634991800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国9月长期资本净流入 1798亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3006733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "阿布扎比Lunate公司目标为2026年基金筹集超170亿美元资金。",
+          "url": "https://wallstreetcn.com/livenews/3007091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "WTI原油跌破59美元/桶，日内跌2.56%。",
+          "url": "https://flash.jin10.com/detail/20251119210041709800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "迪拜航空主席：已达成一项购买150架空中客车飞机的协议，价值240亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119002700226800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "摩托罗拉系统将季度股息从每股1.09美元上调至每股1.21美元。",
+          "url": "https://flash.jin10.com/detail/20251119024729336800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美元兑日元USD/JPY涨0.3%至156，为1月下旬以来最高水平。日本财务大臣片山皋月发表讲话后累涨近50点。",
+          "url": "https://flash.jin10.com/detail/20251119182508527800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "快手：预计可灵AI 2025年全年收入约1.4亿美元",
+          "url": "https://wallstreetcn.com/livenews/3007220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "纽约期银日内涨超1.00%，现报51.03美元/盎司。现货白银日内涨幅扩大至1.00%，现报51.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251119103637508800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "Prosus在11月10-14日按均价61.7431欧元回购股票112.0709万，总体耗资0.692亿欧元（折合0.8023亿美元）。 Naspers同期按均价1240.6461南非兰特回购43.6848万股，总体耗资5.420亿兰特（折合0.317亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3006618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "数字营销公司SEMrush盘前暴涨66%，有消息称Adobe拟以19亿美元收购公司。",
+          "url": "https://wallstreetcn.com/livenews/3007219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "美国财政部：美国9月国际资本净流入为1901亿美元；美国9月外资净买入美国公债为-220亿美元；美国9长期资本净流入为1798亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119051617877800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "现货白银短线走高0.2美元，站上51美元/盎司，日内涨0.60%。",
+          "url": "https://flash.jin10.com/detail/20251119103344703800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "纽约期金向上触及4100美元/盎司，日内涨0.82%。",
+          "url": "https://flash.jin10.com/detail/20251119140116976800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "WTI原油日内下跌1.00%，现报59.92美元/桶；布伦特原油现跌0.8%。",
+          "url": "https://flash.jin10.com/detail/20251119192705422800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "巴克莱：将百度(BIDU.O)目标股价从81美元上调至100美元。",
+          "url": "https://flash.jin10.com/detail/20251119205409573800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "Vanda Pharmaceuticals Inc.（VNDA）上涨19.09%，报5.24美元，有望创最近五个月最佳单日表现。 该公司称，根据一项新的临床试验结果，其试验性药物替替匹坦（tradipitant）可显著减轻服用流行减肥药Wegovy的患者的恶心和呕吐症状。 研究达到了主要目标，服用替替匹坦的患者中，有呕吐症状的比例为29.3%，而服用安慰剂的患者为58.6%；同时该药物还减少了严重的恶心症状。 公司称，计划于2026年进行后期试验。",
+          "url": "https://wallstreetcn.com/livenews/3006641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "周二（11月18日）纽约尾盘，现货白银涨0.94%，报50.6972美元/盎司。 COMEX白银期货跌0.33%，报50.545美元/盎司，北京时间15:12曾跌至49.115美元刷新日低，随后逐步回升，04:00刷新日高至51.035美元。 COMEX铜期货跌0.53%，报4.9655美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/3006753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "WTI原油跌幅扩大至2%，现报59.44美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3007217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "布伦特原油日内涨超1.00%，现报64.22美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251119020044885800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美国8月外资净买入美国公债 250亿美元，前值582亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119051322953800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "Anthropic、英伟达、微软构建战略合作伙伴关系。 Anthropic承诺，将（向微软）采购价值300亿美元的Azure算力。 英伟达和微软向Anthropic做出投资承诺，英伟达将投资至多100亿美元、微软将出资至多50亿美元。 Anthropic表示，亚马逊仍将是其主要的云服务供应商。",
+          "url": "https://wallstreetcn.com/livenews/3006615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3006639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "美国8月长期资本净流入 1342亿美元，前值492亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119050804712800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "世卫组织（WHO）：预计工作人员规模到2026年6月份将减少2371人。 预计2026-27年预算缺口为10.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3006638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "派拉蒙携中东主权基金联手 以710亿美元巨额要约竞购华纳兄弟探索公司",
+          "url": "https://flash.jin10.com/detail/20251119015841150800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美国8月国际资本净流入 1871亿美元，前值21亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119050654695800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "资产管理巨头Brookfield计划启动1000亿美元人工智能基础设施项目。",
+          "url": "https://wallstreetcn.com/livenews/3007213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "周二（11月18日）纽约尾盘，美元兑日元涨0.17%，报155.52日元，日内交投区间为154.82-155.73日元，继续逼近2月3日顶部155.89日元和1月10日顶部158.87日元。 欧元兑日元涨0.10%，报180.16日元；英镑兑日元涨0.16%，报204.550日元。",
+          "url": "https://wallstreetcn.com/livenews/3006721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "沙特王储：将把对美国的投资增加到1万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119013712342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "TD Cowen：将美光科技(MU.O)目标股价从200美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20251119134923732800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "美国总统特朗普：沙特至少将6000亿美元投资于美国，用于工厂、公司以及华尔街的资金投入。",
+          "url": "https://flash.jin10.com/detail/20251119013635315800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "WTI原油期货跌破60美元/桶，日内跌1.12%。",
+          "url": "https://flash.jin10.com/detail/20251119191300292800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "周二（11月18日）纽约尾盘，ICE美元指数跌0.05%，报99.541点，日内交投区间为99.661-99.396点，北京时间23:32出现一波从日低快速反弹的行情。 彭博美元指数跌0.06%，报1219.19点，日内交投区间为1220.71-1218.31点。",
+          "url": "https://wallstreetcn.com/livenews/3006719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "瑞典AI编码初创公司Lovable快速崛起 估值将超60亿美元",
+          "url": "https://flash.jin10.com/detail/20251119001718357800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.00%，现报60.23美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251119015508426800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "以太坊站上3100美元/枚，日内涨2.27%。",
+          "url": "https://flash.jin10.com/detail/20251118232016624800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国总统特朗普：沙特已同意对美国投资6000亿美元，这个数字可能还会上升。",
+          "url": "https://flash.jin10.com/detail/20251119013435601800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "三菱日联：英伟达业绩不及预期可能推动美元走弱",
+          "url": "https://flash.jin10.com/detail/20251119171842731800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "布伦特原油向下触及63美元/桶，日内跌2.11%。",
+          "url": "https://flash.jin10.com/detail/20251119203939507800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "丰田拟在美国五个州投资9.12亿美元，提振混合动力汽车生产",
+          "url": "https://wallstreetcn.com/livenews/3006605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -51,11 +996,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时38分 ~ 20时13分]"
+          "appearance_count": 18,
+          "time_info": "[10时38分 ~ 21时17分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -67,11 +1013,12 @@
             10,
             8,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时27分 ~ 18时09分]"
+          "appearance_count": 14,
+          "time_info": "[11时27分 ~ 21时17分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -100,6 +1047,17 @@
           "time_info": "[16时10分 ~ 20时13分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 21时17分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
           "url": "https://flash.jin10.com/detail/20251119014948349800",
           "source": "金十数据",
@@ -120,17 +1078,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "特朗普怒怼提问记者",
-          "url": "https://www.douyin.com/hot/2310914",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
         },
         {
           "title": "特朗普政府：正采取行动来瓦解美国教育部。",
@@ -210,15 +1157,16 @@
           "time_info": "08时32分"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
+          "title": "特朗普怒怼提问记者",
+          "url": "https://www.douyin.com/hot/2310914",
+          "source": "抖音",
           "ranks": [
-            10
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时09分 ~ 20时13分]"
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 21时17分]"
         },
         {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
@@ -281,6 +1229,17 @@
           "time_info": "[03时07分 ~ 04时10分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时17分]"
+        },
+        {
           "title": "特朗普：沙特将获得F-35战机 已就此达成协议",
           "url": "https://flash.jin10.com/detail/20251119022122408800",
           "source": "金十数据",
@@ -315,17 +1274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时10分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时13分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -618,6 +1566,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "美国总统特朗普：王储要求解除对叙利亚的制裁。",
           "url": "https://flash.jin10.com/detail/20251119014529805800",
           "source": "金十数据",
@@ -877,7 +1836,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -891,6 +1850,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
@@ -917,832 +1887,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 72,
-      "titles": [
-        {
-          "title": "沙特确认对美国投资增至1万亿美元",
-          "url": "https://www.toutiao.com/trending/7574223983499808282/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 13时09分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119120532267800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 14时12分]"
-        },
-        {
-          "title": "杰富瑞：将百度(BIDU.O)目标股价从157美元上调至159美元。",
-          "url": "https://flash.jin10.com/detail/20251119144951715800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "沙特确认对美国投资增至1万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%A1%AE%E8%AE%A4%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E5%A2%9E%E8%87%B31%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时11分 ~ 16时11分]"
-        },
-        {
-          "title": "美元兑日元USD/JPY创1月以来新高，报155.89。",
-          "url": "https://flash.jin10.com/detail/20251119174644672800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "WTI 12月原油期货收涨0.83美元，涨幅1.39%，报60.74美元/桶。 NYMEX 12月天然气期货收报4.3710美元/百万英热单位。 NYMEX 12月汽油期货收报1.9993美元/加仑，NYMEX 12月取暖油期货收报2.7011美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3006704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "美元兑日元创1月以来新高，报155.9。",
-          "url": "https://wallstreetcn.com/livenews/3007109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "英镑兑美元GBP/USD失守1.31，日内跌幅0.37%。",
-          "url": "https://flash.jin10.com/detail/20251119185853277800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "现货白银日内涨超2%，现报51.72美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3007108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "Target公司预计本财年调整后每股收益约7至8美元，此前预期为7至9美元。",
-          "url": "https://wallstreetcn.com/livenews/3007200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "消息人士：英伟达(NVDA.O)和微软(MSFT.O)正承诺投资Anthropic的下一轮融资。此前Anthropic已获得微软和英伟达150亿美元投资。",
-          "url": "https://flash.jin10.com/detail/20251119004320995800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "淡马锡：美元走弱致套保成本飙升，被迫转向自然对冲",
-          "url": "https://flash.jin10.com/detail/20251119144046607800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "现货白银日内涨超2.00%，现报51.72美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251119174416628800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1074元，较周一夜盘收盘涨9点。成交量405.16亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3006700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0872，下调16点；上一交易日中间价7.0856，上一交易日官方收盘价7.1125，上日夜盘报收7.1074。",
-          "url": "https://wallstreetcn.com/livenews/3006833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美元兑加元USD/CAD日内跌超0.50%，现报1.3985。",
-          "url": "https://flash.jin10.com/detail/20251119014952023800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时07分]"
-        },
-        {
-          "title": "金十整理：沙特与美国合作细则一览——防务、核能、AI与万亿美元投资勾勒新同盟关系",
-          "url": "https://flash.jin10.com/detail/20251119110504493800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时09分]"
-        },
-        {
-          "title": "华尔街日报：xAI正就融资150亿美元深入谈判 估值显著提升",
-          "url": "https://flash.jin10.com/detail/20251119121305471800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时12分]"
-        },
-        {
-          "title": "美元兑日元涨0.5%至156.25，创1月27日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3007174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时13分]"
-        },
-        {
-          "title": "印度卢比兑美元汇率升至88.49，创下自11月4日以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20251119120905733800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时12分]"
-        },
-        {
-          "title": "周二（11月18日），美联储隔夜逆回购协议（RRP）使用规模为9.05亿美元，上个交易日报31.72亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3006689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 04时10分]"
-        },
-        {
-          "title": "Kraken完成新一轮融资，估值达200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3006745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时08分 ~ 07时08分]"
-        },
-        {
-          "title": "币圈“极度恐慌”，市场为比特币跌向“80000美元”做准备",
-          "url": "https://wallstreetcn.com/articles/3759577",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 08时32分]"
-        },
-        {
-          "title": "周二（11月18日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1108元，较周一纽约尾盘跌25点，日内整体交投于7.1073-7.1170元区间。",
-          "url": "https://wallstreetcn.com/livenews/3006770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时32分]"
-        },
-        {
-          "title": "沙特王储：同意在美国投资6000亿美元，将扩大至1万亿美元。特朗普：那个数字可以扩大。",
-          "url": "https://wallstreetcn.com/livenews/3006675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时10分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的9.05亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119021740286800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 04时10分]"
-        },
-        {
-          "title": "报道：xAI正就融资150亿美元深入谈判 估值显著提升",
-          "url": "https://wallstreetcn.com/livenews/3006936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时12分]"
-        },
-        {
-          "title": "华纳兄弟探索公司(WBD.O)涨5.4%，此前派拉蒙携中东主权基金联手，以710亿美元巨额要约竞购该公司。",
-          "url": "https://flash.jin10.com/detail/20251119021242436800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 04时10分]"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1096，较上一交易日官方收盘价涨29点，较上日夜盘收盘跌22点。",
-          "url": "https://wallstreetcn.com/livenews/3007073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 18时09分]"
-        },
-        {
-          "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
-          "url": "https://wallstreetcn.com/livenews/3006650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时11分]"
-        },
-        {
-          "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3006649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时11分]"
-        },
-        {
-          "title": "汇丰银行：将小鹏汽车(XPEV.N)目标价从29.60美元下调至28.60美元。",
-          "url": "https://flash.jin10.com/detail/20251119113110752800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时09分]"
-        },
-        {
-          "title": "美元兑加元USD/CAD跌破1.40，日内跌0.40%。",
-          "url": "https://flash.jin10.com/detail/20251119003559077800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "美国金融监管部门FDIC反诉Capital One，指控其少付近1亿美元银行救助金",
-          "url": "https://wallstreetcn.com/livenews/3006698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "现货白银向上触及51美元/盎司，日内涨1.59%。",
-          "url": "https://flash.jin10.com/detail/20251119031403281800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "美元兑日元USD/JPY短线上扬近30点，日本财务大臣片山皋月称未就外汇进行具体讨论。",
-          "url": "https://flash.jin10.com/detail/20251119174035167800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "芯片初创公司TenStorrent洽谈融资至少8亿美元，由富达Fidelity牵头讨论。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3006736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美国9月国际资本净流入 1901亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3006734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "Anthropic获微软和英伟达150亿美元投资 将采购300亿美元微软云计算能力",
-          "url": "https://flash.jin10.com/detail/20251118233634991800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国9月长期资本净流入 1798亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3006733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "阿布扎比Lunate公司目标为2026年基金筹集超170亿美元资金。",
-          "url": "https://wallstreetcn.com/livenews/3007091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "迪拜航空主席：已达成一项购买150架空中客车飞机的协议，价值240亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119002700226800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "摩托罗拉系统将季度股息从每股1.09美元上调至每股1.21美元。",
-          "url": "https://flash.jin10.com/detail/20251119024729336800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "美元兑日元USD/JPY涨0.3%至156，为1月下旬以来最高水平。日本财务大臣片山皋月发表讲话后累涨近50点。",
-          "url": "https://flash.jin10.com/detail/20251119182508527800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "纽约期银日内涨超1.00%，现报51.03美元/盎司。现货白银日内涨幅扩大至1.00%，现报51.21美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251119103637508800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "Prosus在11月10-14日按均价61.7431欧元回购股票112.0709万，总体耗资0.692亿欧元（折合0.8023亿美元）。 Naspers同期按均价1240.6461南非兰特回购43.6848万股，总体耗资5.420亿兰特（折合0.317亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3006618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国财政部：美国9月国际资本净流入为1901亿美元；美国9月外资净买入美国公债为-220亿美元；美国9长期资本净流入为1798亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119051617877800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "现货白银短线走高0.2美元，站上51美元/盎司，日内涨0.60%。",
-          "url": "https://flash.jin10.com/detail/20251119103344703800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "纽约期金向上触及4100美元/盎司，日内涨0.82%。",
-          "url": "https://flash.jin10.com/detail/20251119140116976800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "WTI原油日内下跌1.00%，现报59.92美元/桶；布伦特原油现跌0.8%。",
-          "url": "https://flash.jin10.com/detail/20251119192705422800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "Vanda Pharmaceuticals Inc.（VNDA）上涨19.09%，报5.24美元，有望创最近五个月最佳单日表现。 该公司称，根据一项新的临床试验结果，其试验性药物替替匹坦（tradipitant）可显著减轻服用流行减肥药Wegovy的患者的恶心和呕吐症状。 研究达到了主要目标，服用替替匹坦的患者中，有呕吐症状的比例为29.3%，而服用安慰剂的患者为58.6%；同时该药物还减少了严重的恶心症状。 公司称，计划于2026年进行后期试验。",
-          "url": "https://wallstreetcn.com/livenews/3006641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "周二（11月18日）纽约尾盘，现货白银涨0.94%，报50.6972美元/盎司。 COMEX白银期货跌0.33%，报50.545美元/盎司，北京时间15:12曾跌至49.115美元刷新日低，随后逐步回升，04:00刷新日高至51.035美元。 COMEX铜期货跌0.53%，报4.9655美元/磅。",
-          "url": "https://wallstreetcn.com/livenews/3006753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "布伦特原油日内涨超1.00%，现报64.22美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251119020044885800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国8月外资净买入美国公债 250亿美元，前值582亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119051322953800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "Anthropic、英伟达、微软构建战略合作伙伴关系。 Anthropic承诺，将（向微软）采购价值300亿美元的Azure算力。 英伟达和微软向Anthropic做出投资承诺，英伟达将投资至多100亿美元、微软将出资至多50亿美元。 Anthropic表示，亚马逊仍将是其主要的云服务供应商。",
-          "url": "https://wallstreetcn.com/livenews/3006615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3006639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "美国8月长期资本净流入 1342亿美元，前值492亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119050804712800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "世卫组织（WHO）：预计工作人员规模到2026年6月份将减少2371人。 预计2026-27年预算缺口为10.6亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3006638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "派拉蒙携中东主权基金联手 以710亿美元巨额要约竞购华纳兄弟探索公司",
-          "url": "https://flash.jin10.com/detail/20251119015841150800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国8月国际资本净流入 1871亿美元，前值21亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119050654695800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "周二（11月18日）纽约尾盘，美元兑日元涨0.17%，报155.52日元，日内交投区间为154.82-155.73日元，继续逼近2月3日顶部155.89日元和1月10日顶部158.87日元。 欧元兑日元涨0.10%，报180.16日元；英镑兑日元涨0.16%，报204.550日元。",
-          "url": "https://wallstreetcn.com/livenews/3006721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "沙特王储：将把对美国的投资增加到1万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251119013712342800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "TD Cowen：将美光科技(MU.O)目标股价从200美元上调至275美元。",
-          "url": "https://flash.jin10.com/detail/20251119134923732800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "美国总统特朗普：沙特至少将6000亿美元投资于美国，用于工厂、公司以及华尔街的资金投入。",
-          "url": "https://flash.jin10.com/detail/20251119013635315800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "WTI原油期货跌破60美元/桶，日内跌1.12%。",
-          "url": "https://flash.jin10.com/detail/20251119191300292800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "周二（11月18日）纽约尾盘，ICE美元指数跌0.05%，报99.541点，日内交投区间为99.661-99.396点，北京时间23:32出现一波从日低快速反弹的行情。 彭博美元指数跌0.06%，报1219.19点，日内交投区间为1220.71-1218.31点。",
-          "url": "https://wallstreetcn.com/livenews/3006719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "瑞典AI编码初创公司Lovable快速崛起 估值将超60亿美元",
-          "url": "https://flash.jin10.com/detail/20251119001718357800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.00%，现报60.23美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251119015508426800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "以太坊站上3100美元/枚，日内涨2.27%。",
-          "url": "https://flash.jin10.com/detail/20251118232016624800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国总统特朗普：沙特已同意对美国投资6000亿美元，这个数字可能还会上升。",
-          "url": "https://flash.jin10.com/detail/20251119013435601800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "三菱日联：英伟达业绩不及预期可能推动美元走弱",
-          "url": "https://flash.jin10.com/detail/20251119171842731800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "丰田拟在美国五个州投资9.12亿美元，提振混合动力汽车生产",
-          "url": "https://wallstreetcn.com/livenews/3006605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
@@ -1777,11 +1923,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时09分 ~ 20时13分]"
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 21时17分]"
         },
         {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
@@ -1990,6 +2137,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-19）",
+          "url": "https://flash.jin10.com/detail/20251119203949397800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251119013116709800",
           "source": "金十数据",
@@ -2014,8 +2172,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时31分 ~ 20时13分]"
+          "appearance_count": 21,
+          "time_info": "[08时31分 ~ 21时17分]"
         },
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -2224,7 +2382,7 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -2236,8 +2394,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时36分 ~ 20时13分]"
+          "appearance_count": 19,
+          "time_info": "[09时36分 ~ 21时17分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -2266,8 +2424,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时27分 ~ 20时13分]"
+          "appearance_count": 16,
+          "time_info": "[11时27分 ~ 21时17分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -2295,11 +2453,23 @@
             19,
             20,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时36分 ~ 20时13分]"
+          "appearance_count": 19,
+          "time_info": "[09时36分 ~ 21时17分]"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -2361,7 +2531,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -2373,8 +2543,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时36分 ~ 20时13分]"
+          "appearance_count": 15,
+          "time_info": "[09时36分 ~ 21时17分]"
         },
         {
           "title": "OpenAI与Target公司宣布合作伙伴关系。",
@@ -2383,9 +2553,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "OpenAI与Target公司宣布合作伙伴关系",
@@ -2394,7 +2575,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -2485,11 +2666,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时17分]"
         },
         {
           "title": "核电概念股Constellation Energy Corp.（CEG）在重启Three Mile Island方面获得10亿美元贷款。",
