@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T08:32:02.725174+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2025-11-19T09:36:58.191582+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -24,22 +24,12 @@
           "url": "https://www.cls.cn/detail/2204401",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
-        },
-        {
-          "title": "美国白宫：特朗普将于当地时间周三中午在华盛顿出席美沙投资论坛并发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3006804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            2,
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时36分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -103,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -119,6 +109,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时10分]"
+        },
+        {
+          "title": "美国白宫：特朗普将于当地时间周三中午在华盛顿出席美沙投资论坛并发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3006804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 09时36分]"
         },
         {
           "title": "美国总统特朗普：希望将AI标准纳入NDAA，或者（国会山）单独起草一份法案。",
@@ -145,17 +147,6 @@
           "time_info": "[03时07分 ~ 04时10分]"
         },
         {
-          "title": "特朗普：已确定下一任美联储主席人选",
-          "url": "https://www.cls.cn/detail/2204373",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
-        },
-        {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
           "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
           "source": "凤凰网",
@@ -163,8 +154,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时36分]"
+        },
+        {
+          "title": "特朗普：已确定下一任美联储主席人选",
+          "url": "https://www.cls.cn/detail/2204373",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时36分]"
         },
         {
           "title": "特朗普：沙特将获得F-35战机 已就此达成协议",
@@ -261,6 +264,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美国总统特朗普：加沙和平委员会将有来自多国的国家元首参与。",
+          "url": "https://flash.jin10.com/detail/20251119090005842800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
           "url": "https://wallstreetcn.com/livenews/3006687",
           "source": "华尔街见闻-快讯",
@@ -305,6 +319,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "美国总统特朗普：更多被扣押人员的遗体已交付给以色列家庭，还有两具待交付。",
+          "url": "https://flash.jin10.com/detail/20251119085926432800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
           "url": "https://flash.jin10.com/detail/20251119014714386800",
           "source": "金十数据",
@@ -333,9 +358,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们与沙特签署战略防御协议。",
+          "url": "https://flash.jin10.com/detail/20251119085626387800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "美国总统特朗普：沙特的F-35战机与以色列的相似。",
@@ -349,6 +385,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美国总统特朗普：沙特被指定为“主要非北约盟友”（Major Non-NATO Ally）。",
+          "url": "https://flash.jin10.com/detail/20251119085614958800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国总统特朗普：叙利亚已取得巨大进展。",
           "url": "https://flash.jin10.com/detail/20251119014545087800",
           "source": "金十数据",
@@ -358,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗愿意与我们达成协议。",
+          "url": "https://flash.jin10.com/detail/20251119085543422800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "被质疑为何不直接公开爱泼斯坦档案，特朗普发出威胁：吊销ABC电视台牌照",
@@ -371,6 +429,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "特朗普指定沙特阿拉伯为美国主要的非北约盟友，与沙特签署战略防御协议。",
+          "url": "https://wallstreetcn.com/livenews/3006823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国总统特朗普：王储要求解除对叙利亚的制裁。",
           "url": "https://flash.jin10.com/detail/20251119014529805800",
           "source": "金十数据",
@@ -380,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "特朗普：伊朗将想要和我们达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3006822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "美国总统特朗普：应吊销美国广播公司的执照。",
@@ -404,13 +484,35 @@
           "time_info": "07时08分"
         },
         {
+          "title": "特朗普：将与沙特阿拉伯签署人工智能协议。",
+          "url": "https://wallstreetcn.com/livenews/3006820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "英伟达(NVDA.O)首席执行官黄仁勋现身特朗普与沙特王储的晚宴。",
+          "url": "https://flash.jin10.com/detail/20251119084603202800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国财长贝森特：可以肯定地说，我不会成为美联储主席。 特朗普将在感恩节后会见三位美联储主席候选人。 特朗普可能在圣诞节前宣布下一任美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3006785",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -448,6 +550,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "视频画面显示，马斯克及多位嘉宾一同出席了特朗普与沙特王储的晚宴。",
+          "url": "https://flash.jin10.com/detail/20251119084229152800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国总统特朗普：我与家族企业毫无关系。",
           "url": "https://flash.jin10.com/detail/20251119014229852800",
           "source": "金十数据",
@@ -476,7 +589,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -490,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多、英伟达CEO黄仁勋出席特朗普与沙特王储的晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3006816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "哥伦比亚回应特朗普：哥已捣毁上万个毒品加工厂",
@@ -531,7 +655,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -564,7 +688,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -594,7 +718,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "WTI 12月原油期货收涨0.83美元，涨幅1.39%，报60.74美元/桶。 NYMEX 12月天然气期货收报4.3710美元/百万英热单位。 NYMEX 12月汽油期货收报1.9993美元/加仑，NYMEX 12月取暖油期货收报2.7011美元/加仑。",
@@ -628,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0872，下调16点；上一交易日中间价7.0856，上一交易日官方收盘价7.1125，上日夜盘报收7.1074。",
+          "url": "https://wallstreetcn.com/livenews/3006833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "美元兑加元USD/CAD日内跌超0.50%，现报1.3985。",
@@ -1096,8 +1231,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 08时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时10分 ~ 09时36分]"
         },
         {
           "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
@@ -1105,11 +1240,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 08时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 09时36分]"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -1122,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "美股科技股遭抛售 英伟达跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时36分]"
         },
         {
           "title": "半导体ETF收跌超2%，领跌美股行业ETF，银行ETF涨超0.8%，标普可选消费板块跌2.5%",
@@ -1146,17 +1293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时09分]"
-        },
-        {
-          "title": "美股科技股遭抛售 英伟达跌近3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%913%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
         },
         {
           "title": "美股4连跌",
@@ -1294,7 +1430,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -1326,8 +1462,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时36分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月19日（周三）早盘盘初上涨1.02%报928.95元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）早盘盘初上涨1.28%报11953.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251119090335279800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月18日（周二）晚盘收盘上涨0.94%报928.23元/克；<br/>上海黄金交易所白银T+D 11月18日（周二）晚盘收盘上涨1.09%报11931.0元/千克。",
@@ -1359,7 +1506,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -1389,7 +1536,7 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌正式发布Gemini3",
@@ -1399,22 +1546,57 @@
             5,
             3,
             16,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时11分 ~ 08时32分]"
+          "appearance_count": 11,
+          "time_info": "[02时11分 ~ 09时36分]"
+        },
+        {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 08时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时31分 ~ 09时36分]"
+        },
+        {
+          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1974260216498500253",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -1494,6 +1676,34 @@
       ]
     },
     {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "OpenAI：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20251118232058871800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "概念",
       "match_count": 2,
       "titles": [
@@ -1519,23 +1729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：所有受影响的服务现已完全恢复。",
-          "url": "https://flash.jin10.com/detail/20251118232058871800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         }
       ]
     },
