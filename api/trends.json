@@ -1,8 +1,81 @@
 {
-  "generated_at": "2025-11-20T00:10:39.501510+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T01:09:01.252146+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
+        },
+        {
+          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
+          "url": "https://flash.jin10.com/detail/20251120005103639800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
+        },
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 6,
@@ -12,22 +85,24 @@
           "url": "https://wallstreetcn.com/articles/3759659",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
           "url": "https://wallstreetcn.com/articles/3759658",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -37,8 +112,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "特朗普的经济顾问哈塞特：我们失去了对美国通胀的控制",
@@ -61,67 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
-          "url": "https://www.zhihu.com/question/1974273046480184125",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         }
       ]
     },
@@ -137,30 +162,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "40万的嫁衣是用黄金做的吗",
           "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
         },
         {
           "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
@@ -177,18 +204,41 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
+          "url": "https://wallstreetcn.com/livenews/3007331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
           "url": "https://www.cls.cn/detail/2205477",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
+        },
+        {
+          "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
+          "url": "https://flash.jin10.com/detail/20251120004043816800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "01时09分"
         },
         {
           "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
@@ -205,18 +255,41 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
           "url": "https://wallstreetcn.com/livenews/3007307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时09分]"
+        },
+        {
+          "title": "智利铜业委员会（Cochilco）：上调2025年铜价预期至4.45美元/磅，上调2026年预期至4.55美元/磅。 这些预期为该委员会历史上最高水平的预期。 之前预计均为4.30美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/3007318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "01时09分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内走低1%，现报0.5601。",
+          "url": "https://flash.jin10.com/detail/20251120001940930800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
           "title": "美元/瑞郎日内涨幅达0.5%，报0.8035。",
@@ -232,25 +305,8 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“涨价”成行情点火器，存储芯片、锂电材料概念股轮番走强，后续行情怎么看？",
@@ -260,8 +316,54 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
+        },
+        {
+          "title": "锂矿概念股走高，SQM认为锂需求增长、价格上涨",
+          "url": "https://wallstreetcn.com/livenews/3007335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "东方汇理：美联储独立性受损对美元和美债构成重大风险",
+          "url": "https://wallstreetcn.com/livenews/3007311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     }
