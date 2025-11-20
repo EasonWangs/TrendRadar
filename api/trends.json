@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:27:40.115036+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-11-20T12:10:15.951506+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 08时31分]"
+        },
+        {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时30分 ~ 12时10分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -148,18 +160,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "特朗普：应起诉鲍威尔",
-          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 11时27分]"
-        },
-        {
           "title": "特朗普政府宣布拆解教育部计划",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
           "source": "百度热搜",
@@ -198,6 +198,29 @@
           "time_info": "[02时11分 ~ 03时08分]"
         },
         {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 12时10分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 12时10分]"
+        },
+        {
           "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
           "url": "https://wallstreetcn.com/livenews/3007359",
           "source": "华尔街见闻-快讯",
@@ -222,29 +245,6 @@
           "time_info": "[00时10分 ~ 01时09分]"
         },
         {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 11时27分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 11时27分]"
-        },
-        {
           "title": "美国总统特朗普赞赏（飞机发动机制造商）GE Aerospace。",
           "url": "https://wallstreetcn.com/livenews/3007354",
           "source": "华尔街见闻-快讯",
@@ -255,6 +255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "利率不降就炒贝森特鱿鱼，特朗普对财长的玩笑影射鲍威尔",
@@ -592,8 +603,22 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 12时10分]"
+        },
         {
           "title": "人民币兑美元中间价报7.0905，下调33点；上一交易日中间价7.0872，上一交易日官方收盘价7.1096，上日夜盘报收7.1135。",
           "url": "https://wallstreetcn.com/livenews/3007537",
@@ -615,6 +640,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 12时10分]"
         },
         {
           "title": "佩斯科夫：俄美元首会晤准备工作尚未完成",
@@ -652,31 +689,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时08分]"
-        },
-        {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时27分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 11时27分]"
         },
         {
           "title": "纽元兑美元创4月份以来新低。",
@@ -806,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "东山精密可能在香港招股筹资约10亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3007630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "美元指数19日上涨",
@@ -1153,8 +1176,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时08分 ~ 11时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时08分 ~ 12时10分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时30分 ~ 12时10分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -1170,18 +1205,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时10分 ~ 11时27分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时30分 ~ 11时27分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -1399,7 +1422,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -1438,11 +1461,23 @@
             4,
             5,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 12时10分]"
+        },
+        {
+          "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251120114107161800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "现货黄金持续走弱，短线再跌20美元，失守4050美元/盎司，日内跌幅0.74%。",
@@ -1494,11 +1529,12 @@
           "url": "https://wallstreetcn.com/livenews/3007611",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时10分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月20日（周四）早盘盘初上涨0.7%报937.32元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）早盘盘初上涨1.11%报12132.0元/千克。",
@@ -1717,11 +1753,12 @@
             9,
             8,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时10分 ~ 11时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 12时10分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -1735,8 +1772,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时08分 ~ 11时27分]"
+          "appearance_count": 15,
+          "time_info": "[01时08分 ~ 12时10分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
