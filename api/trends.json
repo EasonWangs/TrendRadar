@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T03:07:47.569018+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-11-21T04:09:32.459338+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 04时09分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 04时09分]"
         },
         {
           "title": "比特币日内大跌5000美元，现报86400美元/枚，跌幅5.64%。",
@@ -77,6 +77,18 @@
           "time_info": "[02时11分 ~ 03时07分]"
         },
         {
+          "title": "周四（11月20日），美联储隔夜逆回购协议（RRP）使用规模为65.20亿美元，上个交易日报11.29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
           "title": "周四（11月20日），韩元兑美元最终跌0.41%，报1473.77韩元。 日内大部分时间，该货币对保持微幅下挫状态、持稳于1469韩元一线，北京时间22:33短暂涨穿1466韩元、随后转跌，00:10开始一波加速下跌的行情。",
           "url": "https://wallstreetcn.com/livenews/3008103",
           "source": "华尔街见闻-快讯",
@@ -89,15 +101,15 @@
           "time_info": "[02时11分 ~ 03时07分]"
         },
         {
-          "title": "周四（11月20日），美联储隔夜逆回购协议（RRP）使用规模为65.20亿美元，上个交易日报11.29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3008128",
+          "title": "WTI 12月原油期货收跌0.30美元，跌幅0.50%，报59.14美元/桶。 布伦特1月原油期货收跌0.13美元，跌幅0.20%，报63.38美元/桶。 NYMEX 12月天然气期货收报4.4740美元/百万英热单位。 NYMEX 12月汽油期货收报1.9184美元/加仑，NYMEX 12月取暖油期货收报2.5333美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3008148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时09分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的65.2亿美元。",
@@ -106,7 +118,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -128,9 +140,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1180元，较周三夜盘收盘跌45点。成交量393.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美元兑加元USD/CAD向上触及1.41，日内涨0.36%。",
@@ -161,7 +184,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -263,13 +286,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 04时09分]"
+        },
         {
           "title": "报道：特朗普悄然提名枪械管理局局长",
           "url": "https://flash.jin10.com/detail/20251121014055857800",
@@ -282,35 +327,24 @@
           "time_info": "02时11分"
         },
         {
+          "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
+          "url": "https://flash.jin10.com/detail/20251121034506288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望处决国会山成员。",
           "url": "https://wallstreetcn.com/livenews/3008134",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 03时07分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
-          "url": "https://wallstreetcn.com/livenews/3008133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -324,6 +358,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
+          "url": "https://wallstreetcn.com/livenews/3008133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "特朗普重提：我对普京挺失望",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%EF%BC%9A%E6%88%91%E5%AF%B9%E6%99%AE%E4%BA%AC%E6%8C%BA%E5%A4%B1%E6%9C%9B",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 04时09分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
@@ -349,15 +407,15 @@
           "time_info": "[01时07分 ~ 01时08分]"
         },
         {
-          "title": "特朗普重提：我对普京挺失望",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%EF%BC%9A%E6%88%91%E5%AF%B9%E6%99%AE%E4%BA%AC%E6%8C%BA%E5%A4%B1%E6%9C%9B",
-          "source": "百度热搜",
+          "title": "美国白宫：特朗普经常与马克龙交谈。",
+          "url": "https://flash.jin10.com/detail/20251121025918794800",
+          "source": "金十数据",
           "ranks": [
-            28
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
@@ -369,6 +427,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "特朗普政府重组能源部 取消清洁能源办公室",
+          "url": "https://flash.jin10.com/detail/20251121025822476800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
+          "url": "https://wallstreetcn.com/livenews/3008137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
+          "url": "https://flash.jin10.com/detail/20251121025425743800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望“处决”国会山成员。",
+          "url": "https://wallstreetcn.com/livenews/3008134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美国白宫：特朗普无意“处决”国会议员。",
+          "url": "https://flash.jin10.com/detail/20251121024653045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普有意对贩毒集团采取进一步行动，国家安全团队正在讨论此类选项。",
+          "url": "https://flash.jin10.com/detail/20251121024517824800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "研究结果显示：特朗普“大漂亮法案”将提振增长，但美联储维持高利率恐令效果打折",
@@ -418,7 +542,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -443,8 +567,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 04时09分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
@@ -456,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
+          "url": "https://flash.jin10.com/detail/20251121032845526800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -508,7 +643,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -548,6 +683,48 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
+          "url": "https://www.cls.cn/detail/2206386",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 04时09分]"
+        },
+        {
+          "title": "核电概念股Oklo跌9.8%，Nano Nuclear Energy跌3%，NuScale Power跌6.5%。 铀矿概念股Uranium Energy跌5%，Energy Fuels跌12%，Constellation Energy跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3008122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
+        },
+        {
+          "title": "欧洲半导体概念股涨跌各异。 Soitec法国巴黎股价收跌30.09%，最近五个交易日累计下跌34.61%，该公司给出的业绩指引让投资者感到失望。 最新业绩报告显示，该公司第二财季营收1.39亿欧元，分析师预期1.351亿欧元。 上半财年营收2.31亿欧元，分析师预期2.285亿欧元。 上半财年持续经营利润0.11亿欧元，分析师预期亏损0.28亿欧元。 预计第三财季增速将介于0%-10%区间的中上部。 意法半导体跌超2.1%。 阿斯麦控股则收涨0.75%，Nordic Semiconductor涨2.29%。",
+          "url": "https://wallstreetcn.com/livenews/3008135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 2,
       "titles": [
@@ -559,8 +736,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 04时09分]"
         },
         {
           "title": "Gemini3",
@@ -568,40 +745,41 @@
           "source": "微博",
           "ranks": [
             28,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时09分]"
         }
       ]
     },
     {
-      "keyword_group": "概念",
+      "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
         {
-          "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
-          "url": "https://www.cls.cn/detail/2206386",
-          "source": "财联社热门",
+          "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251121023415812800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 03时07分]"
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时09分]"
         },
         {
-          "title": "核电概念股Oklo跌9.8%，Nano Nuclear Energy跌3%，NuScale Power跌6.5%。 铀矿概念股Uranium Energy跌5%，Energy Fuels跌12%，Constellation Energy跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3008122",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金重新转涨，现报4080美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251121032241025800",
+          "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时09分"
         }
       ]
     },
@@ -624,19 +802,19 @@
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251121023415812800",
-          "source": "金十数据",
+          "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时09分"
         }
       ]
     },
@@ -649,11 +827,12 @@
           "url": "https://www.cls.cn/detail/2206544",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 04时09分]"
         }
       ]
     }
