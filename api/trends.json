@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T19:08:28.112968+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2025-11-20T20:14:04.738068+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时38分 ~ 19时08分]"
+          "appearance_count": 14,
+          "time_info": "[10时38分 ~ 20时14分]"
         },
         {
           "title": "德意志银行：将英伟达(NVDA.O)目标股价从180美元上调至215美元。",
@@ -92,6 +92,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "TCS获得TPG 10亿美元投资，用于人工智能数据中心业务。",
+          "url": "https://flash.jin10.com/detail/20251120193726646800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "WTI 12月原油期货收跌1.30美元，跌幅2.14%，报59.44美元/桶。 NYMEX 12月天然气期货收报4.5500美元/百万英热单位。 NYMEX 12月汽油期货收报1.9321美元/加仑，NYMEX 12月取暖油期货收报2.6357美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3007396",
           "source": "华尔街见闻-快讯",
@@ -120,7 +131,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -134,6 +145,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
+          "url": "https://www.cls.cn/detail/2206448",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 20时14分]"
         },
         {
           "title": "佩斯科夫：俄美元首会晤准备工作尚未完成",
@@ -364,6 +387,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "印度塔塔咨询(TCS)获TPG资本10亿美元投资，用于人工智能数据中心业务。",
+          "url": "https://wallstreetcn.com/livenews/3007924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的11.29亿美元。",
           "url": "https://flash.jin10.com/detail/20251120022152461800",
           "source": "金十数据",
@@ -430,15 +464,15 @@
           "time_info": "15时09分"
         },
         {
-          "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
-          "url": "https://www.cls.cn/detail/2206448",
-          "source": "财联社热门",
+          "title": "瑞银全球财富管理2026年展望：瑞银预计标普500指数年底目标为7,700点。 瑞银将欧洲股市评级上调至“有吸引力”。 瑞银预计英国富时100指数年底目标为10,000点。 瑞银更看好欧元和澳元，相较于美元。",
+          "url": "https://wallstreetcn.com/livenews/3007917",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时14分"
         },
         {
           "title": "沙特投资大臣：沙特阿拉伯与美国之间的交易总价值达到5570亿美元。",
@@ -483,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "瑞银全球财富管理：展望2026年，瑞银集团更青睐欧元和澳元，而非美元。",
+          "url": "https://flash.jin10.com/detail/20251120192227814800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "英伟达(NVDA.O)：英伟达(NVDA.O)2026财年Q3汽车业务收入5.92亿美元，同比增长32%。",
@@ -590,7 +635,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -604,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "富国银行：将Adobe(ADBE.O)目标价从470美元下调至420美元。",
+          "url": "https://flash.jin10.com/detail/20251120192112641800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "英伟达(NVDA.O)2026财年Q3数据中心营收为512亿美元，同比增长66%，上年同期为307.71亿美元，市场预期为486.21亿美元。",
@@ -829,11 +885,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 19时08分]"
+          "appearance_count": 12,
+          "time_info": "[12时09分 ~ 20时14分]"
         },
         {
           "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
@@ -1019,7 +1076,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1304,7 +1361,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1315,7 +1372,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1510,8 +1567,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时30分 ~ 19时08分]"
+          "appearance_count": 17,
+          "time_info": "[08时30分 ~ 20时14分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -2057,6 +2114,118 @@
       ]
     },
     {
+      "keyword_group": "gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 08时31分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            5,
+            6,
+            9,
+            12,
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[01时08分 ~ 19时08分]"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4,
+            5,
+            9,
+            8,
+            7,
+            11,
+            10,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时10分 ~ 20时14分]"
+        },
+        {
+          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
+          "url": "https://flash.jin10.com/detail/20251120005103639800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
+          "url": "https://wallstreetcn.com/livenews/3007512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 8,
       "titles": [
@@ -2156,110 +2325,20 @@
       ]
     },
     {
-      "keyword_group": "gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 08时31分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            5,
-            6,
-            9,
-            12,
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时08分]"
-        },
-        {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            5,
-            9,
-            8,
-            7,
-            11,
-            10,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时10分 ~ 19时08分]"
-        },
-        {
-          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
-          "url": "https://flash.jin10.com/detail/20251120005103639800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
-          "url": "https://www.zhihu.com/question/1974273046480184125",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "中信证券：Gemini 3 Pro多模态领先，关注应用新机会",
-          "url": "https://wallstreetcn.com/livenews/3007512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
+        {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 20时14分]"
+        },
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
           "url": "https://wallstreetcn.com/articles/3759753",
@@ -2285,17 +2364,6 @@
           "time_info": "18时09分"
         },
         {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "瑞银集团：将2026年中现货黄金价格上行预期上调至4900美元/盎司（此前为4700美元/盎司），下行预期维持在3700美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251120152540463800",
           "source": "金十数据",
@@ -2313,7 +2381,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -2343,7 +2411,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“涨价”成行情点火器，存储芯片、锂电材料概念股轮番走强，后续行情怎么看？",
@@ -2381,6 +2449,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "【焦点复盘】银行股护盘独木难支，指数再现缩量探底，锂矿概念强者恒强",
+          "url": "https://www.cls.cn/detail/2206386",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
@@ -2443,6 +2522,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外贸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "何立峰在湖北、湖南调研时强调 持续推动外贸提质增效 打通全国统一大市场建设卡点堵点",
+          "url": "https://wallstreetcn.com/livenews/3007916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         }
       ]
     }
