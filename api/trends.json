@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T17:09:27.538814+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-11-20T18:09:42.588022+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时36分 ~ 17时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时36分 ~ 18时09分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时38分 ~ 17时09分]"
+          "appearance_count": 11,
+          "time_info": "[10时38分 ~ 18时09分]"
         },
         {
           "title": "德意志银行：将英伟达(NVDA.O)目标股价从180美元上调至215美元。",
@@ -54,9 +54,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
+        },
+        {
+          "title": "以太坊失守3000美元/枚，日内跌幅0.91%。",
+          "url": "https://flash.jin10.com/detail/20251120174916975800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "人民币兑美元中间价报7.0905，下调33点；上一交易日中间价7.0872，上一交易日官方收盘价7.1096，上日夜盘报收7.1135。",
@@ -92,15 +103,15 @@
           "time_info": "04时09分"
         },
         {
-          "title": "报道：字节跳动的估值在股票拍卖中估飙升至4800亿美元",
-          "url": "https://wallstreetcn.com/livenews/3007828",
+          "title": "以太坊失守3000美元/枚，日内跌幅0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3007855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
+          "time_info": "18时09分"
         },
         {
           "title": "市场消息：字节跳动在股权拍卖中估值飙升至4800亿美元。",
@@ -109,9 +120,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
+        },
+        {
+          "title": "网易云音乐：第三季度净收入为人民币20亿元（275.9百万美元），同比减少1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3007853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "杰富瑞：将英伟达(NVDA.O)目标股价从240美元上调至250美元。",
@@ -136,6 +158,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 06时08分]"
+        },
+        {
+          "title": "报道：字节跳动的估值在股票拍卖中估飙升至4800亿美元",
+          "url": "https://wallstreetcn.com/livenews/3007828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时09分]"
         },
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
@@ -184,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时09分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1167，较上一交易日官方收盘价跌71点，较上日夜盘收盘跌32点。",
+          "url": "https://wallstreetcn.com/livenews/3007817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时09分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1135元，较周二夜盘收盘跌61点。成交量390.47亿美元。",
@@ -258,6 +304,18 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
+          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时09分]"
+        },
+        {
           "title": "WTI 12月原油期货收跌1.30美元，跌幅2.14%，报59.44美元/桶。 布伦特1月原油期货收报63.51美元/桶。 中东Abu Dhabi Murban原油期货跌2.39%，报64.83美元/桶。 NYMEX 12月天然气期货收报4.5500美元/百万英热单位。 NYMEX 12月汽油期货收报1.9321美元/加仑，NYMEX 12月取暖油期货收报2.6357美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3007396",
           "source": "华尔街见闻-快讯",
@@ -310,18 +368,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.1167，较上一交易日官方收盘价跌71点，较上日夜盘收盘跌32点。",
-          "url": "https://wallstreetcn.com/livenews/3007817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -412,17 +459,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
-        },
-        {
-          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3007806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "英伟达(NVDA.O)：英伟达(NVDA.O)2026财年Q3汽车业务收入5.92亿美元，同比增长32%。",
@@ -574,7 +610,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -640,7 +676,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -765,6 +801,18 @@
           "time_info": "[10时38分 ~ 16时11分]"
         },
         {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 18时09分]"
+        },
+        {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
           "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
           "source": "凤凰网",
@@ -786,18 +834,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 08时31分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时09分 ~ 17时09分]"
         },
         {
           "title": "特朗普：应起诉鲍威尔",
@@ -874,6 +910,19 @@
           "time_info": "03时08分"
         },
         {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 18时09分]"
+        },
+        {
           "title": "美国总统特朗普：在拜登执政期间，新创造的每四个职位中就有一个是联邦政府的职位，这表明政府规模扩张令人担忧。",
           "url": "https://flash.jin10.com/detail/20251120014205241800",
           "source": "金十数据",
@@ -940,19 +989,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时30分 ~ 11时27分]"
-        },
-        {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时09分 ~ 17时09分]"
         },
         {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
@@ -1394,284 +1430,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 07时08分]"
-        },
-        {
-          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 07时08分]"
-        },
-        {
-          "title": "40万的嫁衣是用黄金做的吗",
-          "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            10,
-            22,
-            11,
-            4,
-            5,
-            8,
-            13,
-            14,
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时10分 ~ 17时09分]"
-        },
-        {
-          "title": "现货黄金持续走弱，短线再跌20美元，失守4050美元/盎司，日内跌幅0.74%。",
-          "url": "https://flash.jin10.com/detail/20251120102051374800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "周三（11月19日）纽约尾盘，现货黄金涨0.28%，报4078.59美元/盎司，亚太盘初以来持续走高，北京时间23:15刷新日高至4132.86美元，之后快速回吐涨幅，并逼近10:04刷新的日低4055.68美元。 COMEX黄金期货涨0.36%，报4081.10美元/盎司，23:15也曾刷新日高至4134.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3007429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月19日（周三）晚盘收盘上涨0.39%报934.44元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）晚盘收盘上涨0.33%报12038.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251120023105297800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251120114107161800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时09分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持COMEX黄金净多头头寸减少9,305手合约，至149,311手合约。",
-          "url": "https://wallstreetcn.com/livenews/3007406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时08分]"
-        },
-        {
-          "title": "上海黄金交易所发布关于继续做好近期市场风险控制工作的通知",
-          "url": "https://wallstreetcn.com/livenews/3007611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月20日（周四）早盘盘初上涨0.7%报937.32元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）早盘盘初上涨1.11%报12132.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251120090057326800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月20日（周四）收盘下跌0.08%报930.0元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）收盘上涨0.26%报12030.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251120153046384800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "金十图示：2025年11月20日（周四）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251120115159185800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "瑞银：上调明年年中黄金目标价 乐观情景剑指4900美元",
-          "url": "https://flash.jin10.com/detail/20251120153041238800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "现货黄金短线下挫逾20美元，跌破4060美元/盎司，日内跌0.44%。现货白银向下触及51美元/盎司，日内跌0.70%。",
-          "url": "https://flash.jin10.com/detail/20251120100914770800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "纽约期金跌幅扩大至1%，现报4041.9美元/盎司。 现货黄金失守4040美元/盎司，日内跌超0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3007808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "瑞银集团：将2026年年中黄金目标价从每盎司4200美元上调至4500美元。",
-          "url": "https://flash.jin10.com/detail/20251120152410198800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3007293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至9月30日当周，COMEX黄金期货投机性净多头头寸减少9305手，149311手。",
-          "url": "https://flash.jin10.com/detail/20251120043340080800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "现货黄金站上4100美元/盎司，日内涨0.55%。",
-          "url": "https://flash.jin10.com/detail/20251120074731652800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "现货黄金突破4100美元/盎司",
-          "url": "https://wallstreetcn.com/livenews/3007486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "现货黄金失守4040美元/盎司，日内跌幅0.93%。",
-          "url": "https://flash.jin10.com/detail/20251120162318042800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.29吨，当前持仓量为1043.72吨。",
-          "url": "https://flash.jin10.com/detail/20251120071857698800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "现货黄金站上4090美元/盎司，日内涨0.31%。",
-          "url": "https://flash.jin10.com/detail/20251120071809331800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1682,8 +1442,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时30分 ~ 17时09分]"
+          "appearance_count": 14,
+          "time_info": "[08时30分 ~ 18时09分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1838,6 +1598,28 @@
           "time_info": "06时08分"
         },
         {
+          "title": "美股核电股盘前普涨，Oklo涨超5%，纳米核能涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3007836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3007835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "英伟达(NVDA.O)美股盘后涨超4%，其数据中心营收超预期。",
           "url": "https://flash.jin10.com/detail/20251120052132992800",
           "source": "金十数据",
@@ -1924,6 +1706,284 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时08分]"
+        },
+        {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时08分]"
+        },
+        {
+          "title": "40万的嫁衣是用黄金做的吗",
+          "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            10,
+            22,
+            11,
+            4,
+            5,
+            8,
+            13,
+            14,
+            18,
+            20,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时10分 ~ 18时09分]"
+        },
+        {
+          "title": "现货黄金持续走弱，短线再跌20美元，失守4050美元/盎司，日内跌幅0.74%。",
+          "url": "https://flash.jin10.com/detail/20251120102051374800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "周三（11月19日）纽约尾盘，现货黄金涨0.28%，报4078.59美元/盎司，亚太盘初以来持续走高，北京时间23:15刷新日高至4132.86美元，之后快速回吐涨幅，并逼近10:04刷新的日低4055.68美元。 COMEX黄金期货涨0.36%，报4081.10美元/盎司，23:15也曾刷新日高至4134.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3007429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月19日（周三）晚盘收盘上涨0.39%报934.44元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）晚盘收盘上涨0.33%报12038.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251120023105297800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251120114107161800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 13时09分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持COMEX黄金净多头头寸减少9,305手合约，至149,311手合约。",
+          "url": "https://wallstreetcn.com/livenews/3007406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "上海黄金交易所发布关于继续做好近期市场风险控制工作的通知",
+          "url": "https://wallstreetcn.com/livenews/3007611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时10分]"
+        },
+        {
+          "title": "纽约期金跌幅扩大至1%，现报4041.9美元/盎司。 现货黄金失守4040美元/盎司，日内跌超0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3007808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时09分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月20日（周四）早盘盘初上涨0.7%报937.32元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）早盘盘初上涨1.11%报12132.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251120090057326800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月20日（周四）收盘下跌0.08%报930.0元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）收盘上涨0.26%报12030.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251120153046384800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251120115159185800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "瑞银：上调明年年中黄金目标价 乐观情景剑指4900美元",
+          "url": "https://flash.jin10.com/detail/20251120153041238800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "现货黄金短线下挫逾20美元，跌破4060美元/盎司，日内跌0.44%。现货白银向下触及51美元/盎司，日内跌0.70%。",
+          "url": "https://flash.jin10.com/detail/20251120100914770800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "瑞银集团：将2026年年中黄金目标价从每盎司4200美元上调至4500美元。",
+          "url": "https://flash.jin10.com/detail/20251120152410198800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至9月30日当周，COMEX黄金期货投机性净多头头寸减少9305手，149311手。",
+          "url": "https://flash.jin10.com/detail/20251120043340080800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "现货黄金站上4100美元/盎司，日内涨0.55%。",
+          "url": "https://flash.jin10.com/detail/20251120074731652800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时31分"
+        },
+        {
+          "title": "现货黄金突破4100美元/盎司",
+          "url": "https://wallstreetcn.com/livenews/3007486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时31分"
+        },
+        {
+          "title": "现货黄金失守4040美元/盎司，日内跌幅0.93%。",
+          "url": "https://flash.jin10.com/detail/20251120162318042800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.29吨，当前持仓量为1043.72吨。",
+          "url": "https://flash.jin10.com/detail/20251120071857698800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时31分"
+        },
+        {
+          "title": "现货黄金站上4090美元/盎司，日内涨0.31%。",
+          "url": "https://flash.jin10.com/detail/20251120071809331800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时31分"
         }
       ]
     },
@@ -2044,6 +2104,24 @@
           "time_info": "[00时10分 ~ 08时31分]"
         },
         {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            5,
+            6,
+            9,
+            12,
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[01时08分 ~ 18时09分]"
+        },
+        {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -2060,25 +2138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时10分 ~ 17时09分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            5,
-            6,
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时08分 ~ 17时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时10分 ~ 18时09分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -2128,7 +2189,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
@@ -2142,6 +2203,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时09分 ~ 17时09分]"
+        },
+        {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价冲高回落跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "瑞银集团：将2026年中现货黄金价格上行预期上调至4900美元/盎司（此前为4700美元/盎司），下行预期维持在3700美元/盎司。",
@@ -2180,7 +2252,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“涨价”成行情点火器，存储芯片、锂电材料概念股轮番走强，后续行情怎么看？",
@@ -2229,6 +2301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "心智化是一个怎样的概念？",
+          "url": "https://www.zhihu.com/question/27209071",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
