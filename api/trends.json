@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T04:09:32.459338+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-11-21T05:08:22.621751+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "比特币日内大跌5000美元，现报86400美元/枚，跌幅5.64%。",
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模下滑至7.52万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251121043035015800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产下降至7.52万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "亚马逊(AMZN.O)：计划在密西西比州沃伦县投资30亿美元，创造数百个就业机会并支持经济增长。",
@@ -89,6 +111,18 @@
           "time_info": "[03时07分 ~ 04时09分]"
         },
         {
+          "title": "WTI 12月原油期货收跌0.30美元，跌幅0.50%，报59.14美元/桶。 布伦特1月原油期货收跌0.13美元，跌幅0.20%，报63.38美元/桶。 NYMEX 12月天然气期货收报4.4740美元/百万英热单位。 NYMEX 12月汽油期货收报1.9184美元/加仑，NYMEX 12月取暖油期货收报2.5333美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3008148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
           "title": "周四（11月20日），韩元兑美元最终跌0.41%，报1473.77韩元。 日内大部分时间，该货币对保持微幅下挫状态、持稳于1469韩元一线，北京时间22:33短暂涨穿1466韩元、随后转跌，00:10开始一波加速下跌的行情。",
           "url": "https://wallstreetcn.com/livenews/3008103",
           "source": "华尔街见闻-快讯",
@@ -101,15 +135,39 @@
           "time_info": "[02时11分 ~ 03时07分]"
         },
         {
-          "title": "WTI 12月原油期货收跌0.30美元，跌幅0.50%，报59.14美元/桶。 布伦特1月原油期货收跌0.13美元，跌幅0.20%，报63.38美元/桶。 NYMEX 12月天然气期货收报4.4740美元/百万英热单位。 NYMEX 12月汽油期货收报1.9184美元/加仑，NYMEX 12月取暖油期货收报2.5333美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3008148",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1180元，较周三夜盘收盘跌45点。成交量393.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "Kalshi按110亿美元估值融资10亿美元，由Sequoia与Capitalg领投，Andreessen Horowitz也有参投。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/3008163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时08分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的65.2亿美元。",
@@ -121,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，ICE原糖期货涨0.14%，ICE白糖期货持平。 ICE阿拉比卡咖啡期货涨0.41%，咖啡“C”期货跌0.09%。罗布斯塔咖啡期货涨2.19%。 纽约可可期货涨2.96%，报5255美元/吨，脱离11月19日底部5070美元——2024年10月25日（最低4853美元）以来最低位。伦敦可可期货涨2.38%。 ICE棉花期货持平。",
+          "url": "https://wallstreetcn.com/livenews/3008155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
@@ -143,17 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1180元，较周三夜盘收盘跌45点。成交量393.35亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3008140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         },
         {
           "title": "美元兑加元USD/CAD向上触及1.41，日内涨0.36%。",
@@ -286,17 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "特朗普“化缘”21万亿美元意味着啥",
-          "url": "https://www.toutiao.com/trending/7574747368273219114/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         }
       ]
     },
@@ -327,17 +374,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
-          "url": "https://flash.jin10.com/detail/20251121034506288800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望处决国会山成员。",
           "url": "https://wallstreetcn.com/livenews/3008134",
           "source": "华尔街见闻-快讯",
@@ -360,6 +396,18 @@
           "time_info": "02时11分"
         },
         {
+          "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
+          "url": "https://flash.jin10.com/detail/20251121034506288800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
           "url": "https://wallstreetcn.com/livenews/3008133",
           "source": "华尔街见闻-快讯",
@@ -380,8 +428,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
@@ -394,6 +442,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时07分]"
+        },
+        {
+          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
+          "url": "https://wallstreetcn.com/livenews/3008137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "特朗普带C罗参观白宫",
@@ -413,7 +473,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -435,18 +495,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
-          "url": "https://wallstreetcn.com/livenews/3008137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -457,7 +506,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -468,7 +517,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -479,7 +528,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -490,7 +539,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -542,8 +591,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
+        },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
           "url": "https://wallstreetcn.com/articles/3759753",
@@ -558,17 +620,26 @@
           "time_info": "[00时09分 ~ 03时07分]"
         },
         {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
+          "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251121043853690800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            4,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
+          "url": "https://wallstreetcn.com/livenews/3008168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
@@ -586,11 +657,12 @@
           "url": "https://flash.jin10.com/detail/20251121032845526800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -613,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，ICE美元指数跌0.03%，报100.193点，日内交投区间为100.360-100.028点，北京时间21:30发布美国就业数据时刷新日高，随后快速转跌，并在美股盘初刷新日低。 彭博美元指数涨0.09%，报1226.52点，日内交投区间为1223.76-1227.11点。",
+          "url": "https://wallstreetcn.com/livenews/3008162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "美股高开低走动能迅速消退 降息疑虑与避险情绪笼罩市场",
@@ -696,8 +779,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "核电概念股Oklo跌9.8%，Nano Nuclear Energy跌3%，NuScale Power跌6.5%。 铀矿概念股Uranium Energy跌5%，Energy Fuels跌12%，Constellation Energy跌1.2%。",
@@ -718,7 +801,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -736,8 +819,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "Gemini3",
@@ -746,11 +829,12 @@
           "ranks": [
             28,
             4,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 05时08分]"
         }
       ]
     },
@@ -775,11 +859,12 @@
           "url": "https://flash.jin10.com/detail/20251121032241025800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         }
       ]
     },
@@ -812,9 +897,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         }
       ]
     },
@@ -831,8 +916,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时09分 ~ 05时08分]"
         }
       ]
     }
