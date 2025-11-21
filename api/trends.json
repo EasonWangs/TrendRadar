@@ -1,34 +1,24 @@
 {
-  "generated_at": "2025-11-22T01:07:54.129785+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2025-11-22T02:11:23.417698+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
-          "url": "https://flash.jin10.com/detail/20251122003317235800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
           "url": "https://wallstreetcn.com/livenews/3008805",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -55,6 +45,43 @@
           "time_info": "[00时09分 ~ 01时07分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
+          "url": "https://flash.jin10.com/detail/20251122003317235800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时11分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
+        },
+        {
+          "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
+          "url": "https://flash.jin10.com/detail/20251122002520185800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时11分]"
+        },
+        {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
           "url": "https://wallstreetcn.com/livenews/3008796",
           "source": "华尔街见闻-快讯",
@@ -65,6 +92,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时07分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
+          "url": "https://wallstreetcn.com/livenews/3008806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时11分]"
         },
         {
           "title": "南非无视特朗普政府发出的威胁，起草二十国集团（G20）峰会公报。 G20表示，保护关键矿物（的供应）不至于遭受单边贸易（政策的）限制。",
@@ -79,27 +118,15 @@
           "time_info": "[00时09分 ~ 01时07分]"
         },
         {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
-        },
-        {
-          "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
-          "url": "https://flash.jin10.com/detail/20251122002520185800",
+          "title": "特朗普社媒帖子引发连锁威胁 民主党议员要求警察调查总统",
+          "url": "https://flash.jin10.com/detail/20251122012739675800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "02时11分"
         },
         {
           "title": "美国总统特朗普：下周四是就乌克兰计划达成共识的合适期限。",
@@ -122,17 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
-          "url": "https://wallstreetcn.com/livenews/3008806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
         },
         {
           "title": "美国总统特朗普：乌克兰正在失去土地。俄罗斯总统普京并不寻求更多冲突。",
@@ -193,7 +209,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
@@ -203,8 +219,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -214,8 +230,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -225,8 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -236,19 +252,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
         },
         {
-          "title": "美股V形反转，道指涨约1%",
-          "url": "https://wallstreetcn.com/livenews/3008815",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2025年11月21日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251122013041840800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "02时11分"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -256,11 +272,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
+        },
+        {
+          "title": "美股V形反转，道指涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3008815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "time_info": "[01时07分 ~ 02时11分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -270,8 +299,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -282,8 +311,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
+        },
+        {
+          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
+          "url": "https://www.cls.cn/detail/2207612",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时11分]"
         },
         {
           "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
@@ -298,15 +338,26 @@
           "time_info": "[00时09分 ~ 01时07分]"
         },
         {
-          "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
-          "url": "https://www.cls.cn/detail/2207612",
-          "source": "财联社热门",
+          "title": "美股三大股指均涨超1%，英伟达(NVDA.O)日内转涨，此前一度跌4%。",
+          "url": "https://flash.jin10.com/detail/20251122005849224800",
+          "source": "金十数据",
           "ranks": [
-            13
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美股延续涨势，道指涨1%。",
+          "url": "https://flash.jin10.com/detail/20251122004255320800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "高盛合伙人：美股出现多头缴械迹象",
@@ -334,29 +385,53 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "瑞银集团：预计2026年垃圾债供应量3530亿美元，贷款销售规模4270亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3008834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "周五（11月21日），韩元兑美元最终涨0.19%，报1470.98韩元。 本周，该货币对累计下跌1.18%，整体上从1450.89韩元持续走低至1478.01韩元。",
+          "url": "https://wallstreetcn.com/livenews/3008831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
         {
           "title": "美元兑日元USD/JPY短线波动不大，现报156.67。",
           "url": "https://flash.jin10.com/detail/20251122004132965800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时11分]"
         },
         {
           "title": "美元兑瑞郎USD/CHF日内涨幅扩大至0.50%，现报0.8097。",
           "url": "https://flash.jin10.com/detail/20251122004117528800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 02时11分]"
         },
         {
           "title": "诺基亚计划在美国进行40亿美元AI投资",
@@ -369,6 +444,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时07分]"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内涨幅达0.50%，现报0.5611。",
+          "url": "https://flash.jin10.com/detail/20251122010753925800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美国银行放松监管利好 杰富瑞预测2.6万亿美元贷款能力将释放",
+          "url": "https://flash.jin10.com/detail/20251122005416106800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
         },
         {
           "title": "礼来成为全球首家市值突破1万亿美元的医疗保健公司",
@@ -396,8 +493,41 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "玻利维亚政府计划新成立一家黄金银行，利用公共资金和私人资本来确保可持续的矿业发展和市场活动。",
+          "url": "https://wallstreetcn.com/livenews/3008833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "现货黄金持续走高，重回4100美元/盎司上方。",
+          "url": "https://flash.jin10.com/detail/20251122010009293800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "现货黄金短线拉升超10美元，突破4090美元/盎司，日内涨0.33%。",
+          "url": "https://flash.jin10.com/detail/20251122005151227800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
         {
           "title": "俄央行首次出售实物黄金“弥补预算”",
           "url": "https://www.toutiao.com/trending/7575157215598743059/",
@@ -405,7 +535,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
