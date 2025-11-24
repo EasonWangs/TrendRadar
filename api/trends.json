@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T16:11:55.666489+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-11-24T17:11:27.319237+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国财长贝森特：政府停摆给美国GDP造成110亿美元的永久性打击。",
@@ -147,6 +147,18 @@
           "time_info": "[00时08分 ~ 03时07分]"
         },
         {
+          "title": "贝森特：政府停摆造成110亿美元损失 但美国经济并无衰退风险",
+          "url": "https://www.cls.cn/detail/2208412",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 17时11分]"
+        },
+        {
           "title": "加拿大总理卡尼：印度总理莫迪和我启动了一项贸易协议的谈判，该协议有望使我们的贸易额增加一倍以上，达到700亿美元。",
           "url": "https://flash.jin10.com/detail/20251124043630436800",
           "source": "金十数据",
@@ -171,18 +183,6 @@
           "time_info": "[09时37分 ~ 10时43分]"
         },
         {
-          "title": "贝森特：政府停摆造成110亿美元损失 但美国经济并无衰退风险",
-          "url": "https://www.cls.cn/detail/2208412",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 16时11分]"
-        },
-        {
           "title": "市场消息：韩国现代重工赢得价值14.6亿美元的八艘超大型集装箱船订单。",
           "url": "https://flash.jin10.com/detail/20251124105908554800",
           "source": "金十数据",
@@ -201,7 +201,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -234,7 +234,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -256,7 +256,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -305,13 +305,35 @@
           "time_info": "15时09分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.1056，较上一交易日官方收盘价涨47点，较上日夜盘收盘跌6点。",
+          "url": "https://wallstreetcn.com/livenews/3009474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "消息人士：京东工业拟于下周启动IPO，寻求最多筹资5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3009472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "高盛：首次覆盖法拉利(RACE.N)并给予买入评级；目标价454美元。",
           "url": "https://flash.jin10.com/detail/20251124152049644800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -322,7 +344,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -330,7 +352,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -353,8 +375,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时37分 ~ 16时11分]"
+          "appearance_count": 10,
+          "time_info": "[09时37分 ~ 17时11分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -499,6 +521,18 @@
           "time_info": "[05时07分 ~ 07时07分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 17时11分]"
+        },
+        {
           "title": "特朗普抱怨乌克兰“毫无感激之心”",
           "url": "https://www.toutiao.com/trending/7576058791771524646/",
           "source": "今日头条",
@@ -509,17 +543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时33分 ~ 09时37分]"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 16时11分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
@@ -614,6 +637,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
+          "url": "https://wallstreetcn.com/livenews/3009492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
@@ -789,7 +834,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -819,7 +864,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -830,8 +875,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 16时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 17时11分]"
+        },
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
@@ -865,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         }
       ]
     },
@@ -941,6 +1008,18 @@
           "time_info": "[08时33分 ~ 15时09分]"
         },
         {
+          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时11分]"
+        },
+        {
           "title": "11月24日午间收评：创业板指高开低走跌0.77%，商业航天概念逆势爆发",
           "url": "https://wallstreetcn.com/livenews/3009329",
           "source": "华尔街见闻-快讯",
@@ -952,18 +1031,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时36分 ~ 13时09分]"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时11分]"
         }
       ]
     },
@@ -990,7 +1057,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
