@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T09:37:55.797317+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2025-11-24T10:43:19.360924+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,17 @@
           "time_info": "[00时08分 ~ 06时07分]"
         },
         {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时43分]"
+        },
+        {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
           "url": "https://wallstreetcn.com/livenews/3009151",
           "source": "华尔街见闻-快讯",
@@ -74,17 +85,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时07分]"
-        },
-        {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
@@ -145,6 +145,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 04时08分]"
+        },
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时43分]"
         },
         {
           "title": "美国国务卿鲁比奥：特朗普对我们今天向他提供的会谈报告感到满意。",
@@ -222,17 +234,6 @@
           "time_info": "[00时08分 ~ 02时10分]"
         },
         {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
           "title": "市场消息：特朗普预计最早将于当时时间周一公布控制医疗成本的总体框架方案。",
           "url": "https://flash.jin10.com/detail/20251124061816910800",
           "source": "金十数据",
@@ -261,7 +262,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -280,7 +281,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国财长贝森特：政府停摆给美国GDP造成110亿美元的永久性打击。",
@@ -334,6 +335,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时08分 ~ 07时07分]"
+        },
+        {
+          "title": "纽约期银日内跌幅达1.00%，现报49.41美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251124095739145800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "俄罗斯驻匈牙利大使叶夫根尼·斯坦尼斯拉沃夫表示，俄罗斯和匈牙利2025年的贸易额或将超过50亿美元，但仍然易受到制裁影响且无法达到2022年的水平。",
@@ -390,11 +402,12 @@
           "url": "https://wallstreetcn.com/livenews/3009254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时43分]"
         },
         {
           "title": "纽约期金失守4050美元/盎司，日内跌幅0.73%。",
@@ -403,9 +416,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "美国天然气期货日内跌超3.00%，现报4.600美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251124095230437800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "麦格理资产管理建议收购物流公司Qube 对后者估值75亿美元",
@@ -433,7 +457,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "俄央行宣布出售实物黄金意味着什么",
@@ -482,13 +506,24 @@
           "time_info": "[07时07分 ~ 08时33分]"
         },
         {
+          "title": "现货黄金失守4050美元/盎司，日内跌幅0.39%。",
+          "url": "https://flash.jin10.com/detail/20251124095216061800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月24日（周一）早盘盘初上涨0.06%报928.05元/克；<br/>上海黄金交易所白银T+D 11月24日（周一）早盘盘初上涨0.16%报11849.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251124090134126800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -499,7 +534,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -533,11 +568,12 @@
             17,
             28,
             23,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 09时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 10时43分]"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -546,7 +582,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -612,11 +648,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时43分]"
         }
       ]
     }
