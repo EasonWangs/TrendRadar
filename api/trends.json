@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T12:18:18.092895+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-11-24T13:09:57.534557+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时08分 ~ 08时33分]"
         },
         {
+          "title": "泽连斯基：感谢美国，感谢特朗普",
+          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时33分 ~ 13时09分]"
+        },
+        {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
           "url": "https://flash.jin10.com/detail/20251123222329110800",
           "source": "金十数据",
@@ -47,16 +59,16 @@
           "time_info": "[00时08分 ~ 06时07分]"
         },
         {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            9
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时33分 ~ 12时18分]"
+          "time_info": "[09时37分 ~ 13时09分]"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
@@ -71,18 +83,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时07分]"
-        },
-        {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 12时18分]"
         },
         {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
@@ -323,17 +323,6 @@
           "time_info": "[04时08分 ~ 07时07分]"
         },
         {
-          "title": "巴克莱：美元将在2026年前继续走强",
-          "url": "https://flash.jin10.com/detail/20251124114904487800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "北美周末首映票房达到1.5亿美元，《魔法坏女巫：为善》创百老汇音乐剧改编电影的票房纪录",
           "url": "https://wallstreetcn.com/livenews/3009182",
           "source": "华尔街见闻-快讯",
@@ -376,11 +365,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时09分]"
+        },
+        {
+          "title": "巴克莱：美元将在2026年前继续走强",
+          "url": "https://flash.jin10.com/detail/20251124114904487800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时18分]"
+          "time_info": "[12时18分 ~ 13时09分]"
         },
         {
           "title": "俄罗斯驻匈牙利大使叶夫根尼·斯坦尼斯拉沃夫表示，俄罗斯和匈牙利2025年的贸易额或将超过50亿美元，但仍然易受到制裁影响且无法达到2022年的水平。",
@@ -515,7 +517,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "俄央行宣布出售实物黄金意味着什么",
@@ -552,16 +554,39 @@
           "time_info": "[00时08分 ~ 07时07分]"
         },
         {
+          "title": "自由港印尼首席执行官：计划2026年阴极铜产量达47.8万吨。计划2026年黄金产量达26吨。",
+          "url": "https://flash.jin10.com/detail/20251124123744570800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "自由港印尼首席执行官：预计2025年黄金销量为33吨，占计划销量的50%。",
+          "url": "https://flash.jin10.com/detail/20251124123335231800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "金十图示：2025年11月24日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251124063957645800",
           "source": "金十数据",
           "ranks": [
             1,
-            29
+            29,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 08时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 13时09分]"
         },
         {
           "title": "澳大利亚对美黄金与牛肉出口激增，贸易逆差创21年新低",
@@ -569,11 +594,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时09分]"
         },
         {
           "title": "现货黄金失守4050美元/盎司，日内跌幅0.39%。",
@@ -651,11 +677,12 @@
             23,
             6,
             13,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 12时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 13时09分]"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -733,11 +760,12 @@
             7,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时33分 ~ 13时09分]"
         },
         {
           "title": "11月24日午间收评：创业板指高开低走跌0.77%，商业航天概念逆势爆发",
@@ -745,11 +773,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时09分]"
         }
       ]
     },
@@ -762,11 +791,12 @@
           "url": "https://wallstreetcn.com/livenews/3009336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 13时09分]"
         }
       ]
     },
