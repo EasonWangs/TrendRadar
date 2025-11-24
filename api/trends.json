@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T04:09:38.924510+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-11-25T05:08:17.400272+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "中美元首通电话",
@@ -16,19 +16,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
-          "title": "亚马逊：对修建数据中心园区追加150亿美元。 计划对美国印第安纳州（北部）投资150亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3009743",
+          "title": "美元指数24日下跌",
+          "url": "https://flash.jin10.com/detail/20251125043627852800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "博通收涨11%，创4月份以来最佳单日表现，市值增加1780亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3009766",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时08分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1045元，较上周五夜盘收盘涨5点。成交量413.47亿美元。",
@@ -36,11 +58,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 05时08分]"
         },
         {
           "title": "LME期铜收跌4美元，报10773美元/吨。 LME期铝收涨26美元，报2812美元/吨。 LME期锌收涨11美元，报3000美元/吨。 LME期铅收跌2美元，报1984美元/吨。 LME期镍收涨244美元，报14699美元/吨。 LME期锡收涨489美元，报37384美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -54,6 +77,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时09分]"
+        },
+        {
+          "title": "亚马逊：对修建数据中心园区追加150亿美元。 计划对美国印第安纳州（北部）投资150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3009743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，报50.51美元/盎司。",
@@ -93,6 +128,19 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
+          "title": "WTI原油日内涨幅达1.0%，报58.65美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3009726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 05时08分]"
+        },
+        {
           "title": "芝加哥小麦期货V形反转，重返11.26美元上方，逼近北京时间09:00刷新的日高11.2875美元，22:31还曾跌至11.1625美元刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3009676",
           "source": "华尔街见闻-快讯",
@@ -105,16 +153,16 @@
           "time_info": "[00时09分 ~ 01时08分]"
         },
         {
-          "title": "WTI原油日内涨幅达1.0%，报58.65美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3009726",
+          "title": "WTI 1月原油期货收涨0.78美元，涨幅1.34%，报58.84美元/桶。 布伦特1月原油期货收涨0.81美元，涨幅1.29%，报63.37美元/桶。 NYMEX 12月天然气期货收报4.5490美元/百万英热单位。 NYMEX 12月汽油期货收报1.8966美元/加仑，NYMEX 12月取暖油期货收报2.4061美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3009738",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时09分]"
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
@@ -177,15 +225,15 @@
           "time_info": "[00时09分 ~ 01时08分]"
         },
         {
-          "title": "WTI 1月原油期货收涨0.78美元，涨幅1.34%，报58.84美元/桶。 布伦特1月原油期货收涨0.81美元，涨幅1.29%，报63.37美元/桶。 NYMEX 12月天然气期货收报4.5490美元/百万英热单位。 NYMEX 12月汽油期货收报1.8966美元/加仑，NYMEX 12月取暖油期货收报2.4061美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3009738",
+          "title": "周一（11月24日）纽约尾盘，欧元兑美元涨0.08%，英镑兑美元涨0.06%，美元兑瑞郎跌0.02%。 商品货币对中，澳元兑美元涨0.19%，纽元兑美元大致持平，美元兑加元涨0.04%。 瑞典克朗兑美元跌0.04%，挪威克朗兑美元涨0.21%，丹麦克朗兑美元涨0.07%。 波兰兹罗提兑美元涨0.15%，匈牙利福林兑美元涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3009759",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时08分"
         },
         {
           "title": "欧洲央行管委内格尔：欧元兑美元EUR/USD目前1.16的水平无需担忧。",
@@ -221,6 +269,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "周一（11月24日）纽约尾盘，美元兑日元涨0.26%，报156.81日元，北京时间05:54微跌至156.33日元刷新日低，随后持续震荡上行，23:10涨至157.19日元——重新逼近11月20日顶部157.89日元，之后回吐涨幅。 欧元兑日元涨0.34%，报180.74日元；英镑兑日元涨0.35%，报205.577日元。",
+          "url": "https://wallstreetcn.com/livenews/3009753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
           "title": "WTI原油日内涨超1.00%，现报58.49美元/桶。",
           "url": "https://flash.jin10.com/detail/20251125010310445800",
           "source": "金十数据",
@@ -238,9 +297,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，ICE美元指数跌0.03%，报100.150点，日内交投区间为100.297-100.011点。 彭博美元指数涨0.02%，报1226.64点，日内交投区间为1225.27-1227.98点。",
+          "url": "https://wallstreetcn.com/livenews/3009750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "高盛：预计明年西欧天然气市场有望在每兆瓦时20欧元（每百万英热单位10美元）的高位实现平衡。",
@@ -249,7 +319,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -276,6 +346,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国国防部：美国国防部批准向英国出售海军多频段终端，价值2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251125040407684800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
           "title": "美国联邦存款保险公司季度报告：美国银行业在2025年第三季度报告了793亿美元的利润，比上一季度增长了13.5%。",
           "url": "https://flash.jin10.com/detail/20251124230101301800",
           "source": "金十数据",
@@ -296,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "市场消息：亚马逊(AMZN.O)计划在印第安纳州北部投资150亿美元，用于建设新的数据中心园区并推动人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20251125040327542800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "芝加哥大豆期货短线走低，跌穿11.18美元刷新日低，日内跌约0.7%。",
@@ -323,7 +415,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -333,8 +425,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -344,8 +436,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -355,8 +447,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -366,8 +458,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -377,8 +469,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -390,8 +482,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -401,8 +493,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 04时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 05时08分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
+        },
+        {
+          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
+          "url": "https://wallstreetcn.com/articles/3760011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "习近平同特朗普通话",
@@ -416,30 +535,26 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
+          "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
+          "url": "https://flash.jin10.com/detail/20251125043457425800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
-          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
-          "url": "https://wallstreetcn.com/articles/3760011",
-          "source": "华尔街见闻",
+          "title": "美国白宫发言人：本周未安排特朗普与泽连斯基的会晤。",
+          "url": "https://flash.jin10.com/detail/20251125043443628800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "华尔街日报：特朗普顾问就新的医疗保健提案进行讨论",
@@ -467,15 +582,81 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
+          "title": "美国白宫发言人：总统特朗普一直在向普京和泽连斯基施加压力。",
+          "url": "https://flash.jin10.com/detail/20251125043414683800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
           "title": "美国总统特朗普将于北京时间今天凌晨五点左右在椭圆形办公室签署一项行政命令。",
           "url": "https://flash.jin10.com/detail/20251125031849084800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
+          "url": "https://wallstreetcn.com/livenews/3009755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国与乌克兰在上周末进行了富有成效的会谈。 美国总统特朗普仍然对达成俄乌和平协议的可能性持乐观态度。 在乌克兰（和平协议）问题上，只剩下几点分歧了。 美国向北约出售成吨的武器，不能永远那样做。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3009752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美国白宫发言人：美国总统特朗普对达成协议持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20251125042651353800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美国政府内部备忘录显示，美国总统特朗普政府下令对所有在前总统拜登任内入境的难民进行全面审查，拜登时期的难民绿卡申请处理程序已被冻结。",
+          "url": "https://flash.jin10.com/detail/20251125042430186800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "泽连斯基：结束俄乌冲突步骤清单趋近可行 将与特朗普商讨敏感议题",
+          "url": "https://flash.jin10.com/detail/20251125041922730800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
@@ -510,11 +691,12 @@
           "url": "https://wallstreetcn.com/articles/3759998",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -524,8 +706,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -536,8 +718,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
@@ -669,7 +851,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -752,8 +934,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "【焦点复盘】市场现久违普涨反弹，商业航天概念大放异彩，千问APP引爆阿里概念",
@@ -763,8 +945,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时08分]"
         },
         {
           "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
@@ -790,9 +972,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率全面下跌",
+          "url": "https://wallstreetcn.com/livenews/3009761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     }
