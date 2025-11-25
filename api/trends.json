@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T04:09:14.812035+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-11-26T05:08:42.205658+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "外交部：中美元首通话是美方发起的",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "中美元首 11 月 24 日晚通电话，哪些信息值得关注？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "中美元首通话释放了哪些信号",
@@ -35,22 +35,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 05时08分]"
         },
         {
           "title": "英伟达跌超6% 较高点损失1万亿美元",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%856%25+%E8%BE%83%E9%AB%98%E7%82%B9%E6%8D%9F%E5%A4%B11%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "大外交｜中美元首通话重点聚焦台湾问题，专家：中方望美方约束自身及盟友行为",
@@ -61,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 05时08分]"
         },
         {
           "title": "中方如何评价中美元首通话的成果？外交部：美方发起通话，氛围积极",
@@ -73,8 +75,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 05时08分]"
+        },
+        {
+          "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3010403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "中美元首此次通话极为重要极不寻常",
@@ -83,11 +96,36 @@
           "ranks": [
             29,
             19,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 04时09分]"
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 05时08分]"
+        },
+        {
+          "title": "外交部：此次中美元首通话由美方发起",
+          "url": "https://www.toutiao.com/trending/7576560877021695507/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 05时08分]"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，欧元兑美元涨0.36%，报1.1563，北京时间02:07刷新日高至1.1586。 英镑兑美元涨0.45%，报1.3164，04:01刷新日高至1.3214，之后迅速回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3010392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "光辉战机摔了后12亿美元订单被叫停",
@@ -101,18 +139,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时09分 ~ 04时09分]"
-        },
-        {
-          "title": "外交部：此次中美元首通话由美方发起",
-          "url": "https://www.toutiao.com/trending/7576560877021695507/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 04时09分]"
         },
         {
           "title": "LME期铜收涨45美元，报10818美元/吨。 LME期铝收跌12美元，报2800美元/吨。 LME期锌收跌7美元，报2993美元/吨。 LME期铅收跌4美元，报1980美元/吨。 LME期镍收涨173美元，报14872美元/吨。 LME期锡收涨163美元，报37547美元/吨。 LME期钴收平，报48570美元/吨。",
@@ -140,6 +166,32 @@
           "time_info": "[00时10分 ~ 01时09分]"
         },
         {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的23.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20251126021955815800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
+        },
+        {
+          "title": "周二（11月25日），美联储隔夜逆回购协议（RRP）使用规模为23.14亿美元，上个交易日报10.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3010357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
+        },
+        {
           "title": "英镑兑美元GBP/USD向上触及1.32，日内涨0.72%。",
           "url": "https://flash.jin10.com/detail/20251126012500410800",
           "source": "金十数据",
@@ -150,18 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时08分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的23.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20251126021955815800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
         },
         {
           "title": "欧元/美元日内涨幅达0.5%，报1.1579。",
@@ -188,16 +228,16 @@
           "time_info": "[02时11分 ~ 03时08分]"
         },
         {
-          "title": "周二（11月25日），美联储隔夜逆回购协议（RRP）使用规模为23.14亿美元，上个交易日报10.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3010357",
+          "title": "据知情人士透露，贝恩资本对相干公司（Coherent Corp.）股票实施大宗交易，计划套现至多11.4亿美元。 这家私募持续减持该激光设备制造商。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3010371",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "美元指数DXY日内跌超0.50%，现报99.70。",
@@ -212,6 +252,30 @@
           "time_info": "[00时10分 ~ 01时09分]"
         },
         {
+          "title": "美国10月预算赤字2844亿美元 净关税收入314亿美元",
+          "url": "https://flash.jin10.com/detail/20251126033433726800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "美国10月预算赤字2844亿美元，分析师预期赤字2300亿美元。（MNI）",
+          "url": "https://wallstreetcn.com/livenews/3010369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
           "title": "摩根大通：2026年美元料将走弱，但美联储加息风险或动摇该观点",
           "url": "https://wallstreetcn.com/livenews/3010339",
           "source": "华尔街见闻-快讯",
@@ -222,6 +286,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0845元，较周一夜盘收盘涨200点。成交量509.21亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3010367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "Prosus在11月17-21日期间按均价58.0010欧元回购股票110万股，整体耗资0.620亿欧元（折合0.716亿美元）。 Naspers同期按均价1194.3368南非兰特回购41.3705万股，整体耗资4.941亿兰特（折合0.287亿美元）。",
@@ -283,48 +359,37 @@
           "time_info": "[04时08分 ~ 04时09分]"
         },
         {
-          "title": "据知情人士透露，贝恩资本对相干公司（Coherent Corp.）股票实施大宗交易，计划套现至多11.4亿美元。 这家私募持续减持该激光设备制造商。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3010371",
+          "title": "周二（11月25日）纽约尾盘，美元兑日元跌0.50%，报156.11日元，日内交投区间为156.98-155.80日元，全天持续震荡走低。 欧元兑日元跌0.11%，英镑兑日元大致持平。",
+          "url": "https://wallstreetcn.com/livenews/3010390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时08分"
         },
         {
-          "title": "美国10月预算赤字2844亿美元 净关税收入314亿美元",
-          "url": "https://flash.jin10.com/detail/20251126033433726800",
+          "title": "美国新财年首月赤字2840亿美元 停摆阴霾下财政前景堪忧",
+          "url": "https://flash.jin10.com/detail/20251126041343297800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时08分"
         },
         {
-          "title": "美国10月预算赤字2844亿美元，分析师预期赤字2300亿美元。（MNI）",
-          "url": "https://wallstreetcn.com/livenews/3010369",
+          "title": "周二（11月25日）纽约尾盘，ICE美元指数下跌0.45%，报99.695点，日内交投区间为100.261-99.654点。 彭博美元指数跌0.38%，报1222.17点，日内交投区间为1227.56-1221.15点，北京时间14:00以来持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3010388",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0845元，较周一夜盘收盘涨200点。成交量509.21亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3010367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时08分"
         },
         {
           "title": "英国政府批准从2026年4月起将主要最低工资标准上调4.1%，至每小时12.71英镑（16.67美元）。",
@@ -385,7 +450,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -395,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -408,8 +473,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -419,8 +484,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -431,74 +496,32 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
-          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
-          "url": "https://wallstreetcn.com/livenews/3010379",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫否认特朗普考虑撤掉联邦调查局局长卡什·帕特尔。",
+          "url": "https://flash.jin10.com/detail/20251126044053857800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "05时08分"
         },
         {
-          "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
-          "url": "https://flash.jin10.com/detail/20251126034622447800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
-          "url": "https://wallstreetcn.com/livenews/3010377",
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://wallstreetcn.com/livenews/3010364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
-          "url": "https://wallstreetcn.com/livenews/3010375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
-          "url": "https://flash.jin10.com/detail/20251126033731178800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国总统特朗普：为了促成这项和平计划的最终达成，我已指示中东问题特使威特科夫前往莫斯科与俄罗斯总统普京会面。",
-          "url": "https://flash.jin10.com/detail/20251126033648402800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
         },
         {
           "title": "泽连斯基拟于27日与特朗普会面，以达成和平协议",
@@ -512,6 +535,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普：已指派美官员与俄乌双方就和平计划展开磋商",
+          "url": "https://wallstreetcn.com/livenews/3010379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "报道：哈塞特成为特朗普美联储主席人选的领跑者",
@@ -540,16 +575,64 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
-          "title": "特朗普：俄乌和平协议已“非常接近达成”",
-          "url": "https://wallstreetcn.com/livenews/3010364",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
+          "url": "https://flash.jin10.com/detail/20251126034622447800",
+          "source": "金十数据",
           "ranks": [
             2,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "美国总统特朗普的特使Witkoff向俄罗斯总统普京建议，宜在乌克兰总统泽连斯基11月27日前往美国之前与特朗普通话。 Witkoff向普京建议，应赞赏特朗普主张的加沙“和平协议”。 11月14日，Witkoff与普京顾问Ushakov通电话。",
+          "url": "https://wallstreetcn.com/livenews/3010377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3010375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
+          "url": "https://flash.jin10.com/detail/20251126033731178800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
+          "title": "美国总统特朗普：为了促成这项和平计划的最终达成，我已指示中东问题特使威特科夫前往莫斯科与俄罗斯总统普京会面。",
+          "url": "https://flash.jin10.com/detail/20251126033648402800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "特朗普主动和高市通话所为何事",
@@ -564,6 +647,30 @@
           "time_info": "[00时09分 ~ 03时08分]"
         },
         {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.douyin.com/hot/2316962",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 05时08分]"
+        },
+        {
+          "title": "美国总统特朗普：由美国起草的最初的28点和平计划经过双方的进一步完善，目前仅剩少数几个分歧点。",
+          "url": "https://flash.jin10.com/detail/20251126033621704800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
           "title": "特朗普：认为我们正非常接近就乌克兰问题达成协议。",
           "url": "https://flash.jin10.com/detail/20251126012401595800",
           "source": "金十数据",
@@ -574,6 +681,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "美国总统特朗普：期待能尽快与泽连斯基和普京会面，但前提是结束这场战争的协议已经敲定或处于最后阶段。",
+          "url": "https://flash.jin10.com/detail/20251126033601685800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
@@ -588,6 +707,18 @@
           "time_info": "[00时10分 ~ 01时09分]"
         },
         {
+          "title": "特朗普考虑罢免卡什·帕特尔的FBI局长职务",
+          "url": "https://flash.jin10.com/detail/20251126030058119800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时08分]"
+        },
+        {
           "title": "台评论员称高市可能被特朗普骂了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -599,15 +730,16 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.douyin.com/hot/2316962",
-          "source": "抖音",
+          "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
+          "url": "https://flash.jin10.com/detail/20251126025659614800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时08分 ~ 04时09分]"
+          "time_info": "[04时09分 ~ 05时08分]"
         },
         {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
@@ -620,28 +752,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时11分]"
-        },
-        {
-          "title": "美国总统特朗普：由美国起草的最初的28点和平计划经过双方的进一步完善，目前仅剩少数几个分歧点。",
-          "url": "https://flash.jin10.com/detail/20251126033621704800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "美国总统特朗普：期待能尽快与泽连斯基和普京会面，但前提是结束这场战争的协议已经敲定或处于最后阶段。",
-          "url": "https://flash.jin10.com/detail/20251126033601685800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         },
         {
           "title": "外媒：泽连斯基希望在感恩节期间与特朗普会面 敲定和平协议",
@@ -677,17 +787,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "特朗普考虑罢免卡什·帕特尔的FBI局长职务",
-          "url": "https://flash.jin10.com/detail/20251126030058119800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基希望尽快与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20251126001302280800",
           "source": "金十数据",
@@ -697,17 +796,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "据MS NOW：特朗普考虑罢免卡什·帕特尔的FBI局长职务。",
-          "url": "https://flash.jin10.com/detail/20251126025659614800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
         },
         {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
@@ -764,11 +852,12 @@
           "url": "https://www.cls.cn/detail/2210782",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -778,8 +867,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 04时09分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 05时08分]"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -844,19 +933,42 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月14日当周，COMEX黄金投机者将净多头头寸减少了24,350份合约，降至109,577份。",
+          "url": "https://flash.jin10.com/detail/20251126042957112800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 11月25日（周二）晚盘收盘上涨0.17%报941.6元/克；<br/>上海黄金交易所白银T+D 11月25日（周二）晚盘收盘下跌0.33%报12089.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251126023110155800",
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：10月14日当周，投机者所持COMEX黄金净多头头寸减少24,350手合约，至109,577手合约。 所持WTI原油净空头头寸增加7,089手合约，至49,576手合约。",
+          "url": "https://wallstreetcn.com/livenews/3010389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "现货黄金短线走高超15美元，现报4149美元/盎司。",
@@ -879,6 +991,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI：持续改进ChatGPT的训练，以识别并回应心理或情绪困扰的迹象。",
+          "url": "https://flash.jin10.com/detail/20251126040323241800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
+          "url": "https://wallstreetcn.com/livenews/3010381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     },
@@ -922,8 +1062,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时08分]"
         }
       ]
     },
