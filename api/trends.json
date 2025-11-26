@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T19:08:36.613340+08:00",
-  "total_titles_processed": 1766,
+  "generated_at": "2025-11-26T20:14:19.179182+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "外交部：中美元首通话是美方发起的",
@@ -160,7 +160,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -185,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD已基本回吐英国预算责任办公室（OBR）公布最新英国经济和财政预估后的涨幅，最新报1.3163。",
+          "url": "https://flash.jin10.com/detail/20251126200404000800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "波音(BA.N)获得美国陆军价值46.9亿美元的合同，用于生产阿帕奇AH-64E攻击直升机、长弓机组训练器以及相关组件、备件和配件。",
@@ -453,6 +464,18 @@
           "time_info": "[04时09分 ~ 05时08分]"
         },
         {
+          "title": "特海国际第三季度收入为2.14亿美元，同比增长7.8%",
+          "url": "https://wallstreetcn.com/livenews/3010829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时14分]"
+        },
+        {
           "title": "美元指数DXY日内跌超0.50%，现报99.70。",
           "url": "https://flash.jin10.com/detail/20251125234220834800",
           "source": "金十数据",
@@ -650,7 +673,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -666,15 +689,15 @@
           "time_info": "10时40分"
         },
         {
-          "title": "特海国际第三季度收入为2.14亿美元，同比增长7.8%",
-          "url": "https://wallstreetcn.com/livenews/3010829",
+          "title": "英镑兑美元短线拉升约35点，现报1.3187。英国债券上涨，10年期收益率下跌5个基点至4.45%。英国预算责任办公室(OBR)称，2029-2030财年预算盈余预计为217亿英镑，3月时预测为99亿英镑。",
+          "url": "https://wallstreetcn.com/livenews/3010857",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时14分"
         },
         {
           "title": "美国新财年首月赤字2840亿美元 停摆阴霾下财政前景堪忧",
@@ -738,7 +761,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -796,6 +819,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "现货白银日内涨幅达2%，报52.49美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "纽元兑美元日内涨幅扩大至1%，市场预计新西兰联储宽松周期可能接近尾声。",
@@ -1021,7 +1055,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -1061,6 +1095,21 @@
           "time_info": "[08时31分 ~ 15时09分]"
         },
         {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[06时15分 ~ 20时14分]"
+        },
+        {
           "title": "特朗普电话后，日本沮丧了三次",
           "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
           "source": "凤凰网",
@@ -1070,22 +1119,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时31分 ~ 19时08分]"
-        },
-        {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时15分 ~ 19时08分]"
+          "appearance_count": 17,
+          "time_info": "[08时31分 ~ 20时14分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -1126,8 +1161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时08分]"
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 20时14分]"
         },
         {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
@@ -1199,11 +1234,12 @@
           "ranks": [
             4,
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 19时08分]"
+          "appearance_count": 7,
+          "time_info": "[16时10分 ~ 20时14分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -1341,6 +1377,18 @@
           "time_info": "08时31分"
         },
         {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时09分 ~ 20时14分]"
+        },
+        {
           "title": "美财长：特朗普明年或来华出席APEC",
           "url": "https://www.toutiao.com/trending/7575803503240609801/",
           "source": "今日头条",
@@ -1466,18 +1514,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时09分]"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 19时08分]"
         },
         {
           "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
@@ -1769,7 +1805,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1827,6 +1863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
+        },
+        {
+          "title": "俄罗斯副外长里亚布科夫：特朗普政府一直在释放改善美俄关系的信号，但仍然向乌克兰提供武器和情报 俄美外交正常化工作仍在继续，但恢复航空和其他领域方面没有取得重大进展。 俄罗斯在乌克兰问题的关键议题上没有做出任何让步。",
+          "url": "https://wallstreetcn.com/livenews/3010854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "特朗普：我们准备进军芝加哥，我们可以在4周内让芝加哥成为一座安全的城市。",
@@ -1961,6 +2008,28 @@
           "time_info": "15时09分"
         },
         {
+          "title": "特朗普宣布“特赦”，火鸡突然大叫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045220",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在与特朗普和欧洲的和平协议框架下向前迈进。",
           "url": "https://flash.jin10.com/detail/20251126010120453800",
           "source": "金十数据",
@@ -1988,6 +2057,193 @@
           "source": "金十数据",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "现货黄金短线上涨13美元，现报4163.21美元/盎司，创11月14日以来新高，日内涨0.78%。",
+          "url": "https://flash.jin10.com/detail/20251126102653245800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月14日当周，COMEX黄金投机者将净多头头寸减少了24,350份合约，降至109,577份。",
+          "url": "https://flash.jin10.com/detail/20251126042957112800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251126115951722800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月25日（周二）晚盘收盘上涨0.17%报941.6元/克；<br/>上海黄金交易所白银T+D 11月25日（周二）晚盘收盘下跌0.33%报12089.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251126023110155800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
+        },
+        {
+          "title": "现货黄金上涨近1%，至每盎司4169.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3010603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时09分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：10月14日当周，投机者所持COMEX黄金净多头头寸减少24,350手合约，至109,577手合约。 所持WTI原油净空头头寸增加7,089手合约，至49,576手合约。",
+          "url": "https://wallstreetcn.com/livenews/3010389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 06时16分]"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，现货黄金跌0.14%，报4130.59美元/盎司，日内交投于4159.30-4109.68美元区间。 COMEX黄金期货涨0.81%，报4127.20美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时08分]"
+        },
+        {
+          "title": "数据显示：墨西哥9月份的黄金产量总计5,911公斤。",
+          "url": "https://flash.jin10.com/detail/20251126200310692800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月26日（周三）晚盘盘初上涨0.28%报945.5元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）晚盘盘初上涨0.82%报12280.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251126200145859800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1%，报4172.34美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "现货黄金短线走高超15美元，现报4149美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251126011437663800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "美国10年期国债收益率跌穿4%整数位心理关口，为10月份下旬以来首次。 现货黄金涨约0.3%，刷新日高至4159.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3010340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美联储鸽派压倒鹰派，降息预期在数日内拔升，现货黄金多头占比接近70%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251126103939927800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月26日（周三）早盘盘初上涨0.15%报941.38元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）早盘盘初下跌0.07%报12121.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251126090056769800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1040.86吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20251126072240018800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月26日（周三）收盘上涨0.12%报941.1元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）收盘上涨0.67%报12210.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251126153103001800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2155,7 +2411,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -2195,160 +2451,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "现货黄金短线上涨13美元，现报4163.21美元/盎司，创11月14日以来新高，日内涨0.78%。",
-          "url": "https://flash.jin10.com/detail/20251126102653245800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至10月14日当周，COMEX黄金投机者将净多头头寸减少了24,350份合约，降至109,577份。",
-          "url": "https://flash.jin10.com/detail/20251126042957112800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "金十图示：2025年11月26日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251126115951722800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月25日（周二）晚盘收盘上涨0.17%报941.6元/克；<br/>上海黄金交易所白银T+D 11月25日（周二）晚盘收盘下跌0.33%报12089.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251126023110155800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时08分]"
-        },
-        {
-          "title": "现货黄金上涨近1%，至每盎司4169.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3010603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时09分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：10月14日当周，投机者所持COMEX黄金净多头头寸减少24,350手合约，至109,577手合约。 所持WTI原油净空头头寸增加7,089手合约，至49,576手合约。",
-          "url": "https://wallstreetcn.com/livenews/3010389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时16分]"
-        },
-        {
-          "title": "周二（11月25日）纽约尾盘，现货黄金跌0.14%，报4130.59美元/盎司，日内交投于4159.30-4109.68美元区间。 COMEX黄金期货涨0.81%，报4127.20美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3010413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时08分]"
-        },
-        {
-          "title": "现货黄金短线走高超15美元，现报4149美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251126011437663800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "美国10年期国债收益率跌穿4%整数位心理关口，为10月份下旬以来首次。 现货黄金涨约0.3%，刷新日高至4159.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3010340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美联储鸽派压倒鹰派，降息预期在数日内拔升，现货黄金多头占比接近70%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251126103939927800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月26日（周三）早盘盘初上涨0.15%报941.38元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）早盘盘初下跌0.07%报12121.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251126090056769800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1040.86吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20251126072240018800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月26日（周三）收盘上涨0.12%报941.1元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）收盘上涨0.67%报12210.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251126153103001800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai",
       "match_count": 6,
       "titles": [
@@ -2358,11 +2460,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时14分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -2471,7 +2574,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         }
@@ -2590,11 +2693,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时31分 ~ 19时08分]"
+          "appearance_count": 17,
+          "time_info": "[08时31分 ~ 20时14分]"
         },
         {
           "title": "两年期美债收益率跌超4个基点，报道称哈塞特在美联储主席候选人中领先优势明显",
