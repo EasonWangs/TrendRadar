@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T06:08:00.316449+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-11-28T07:08:13.976771+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -30,52 +30,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
-          "title": "美元指数27日下跌",
-          "url": "https://flash.jin10.com/detail/20251128052349567800",
+          "title": "WTI原油日内涨幅达1.00%，现报59.23美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251128031602962800",
           "source": "金十数据",
           "ranks": [
-            1
+            3,
+            8,
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "周四（11月27日）纽约尾盘，欧元兑美元大致持平，报1.1597，英镑兑美元大致持平，报1.3240，美元兑瑞郎涨0.06%，报0.8048。 商品货币对中，澳元兑美元涨0.23%，纽元兑美元涨0.47%，美元兑加元跌0.10%。 瑞典克朗兑美元涨0.20%，挪威克朗兑美元涨0.42%，丹麦克朗兑美元大致持平。 波兰兹罗提兑美元涨0.10%，匈牙利福林兑美元涨0.18%。",
-          "url": "https://wallstreetcn.com/livenews/3011669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "周四（11月27日）纽约尾盘，美元兑日元跌0.13%，报156.27日元，日内交投区间为156.49-155.73日元，亚太时段呈现出W形走势，之后持稳于156.30日元附近。 欧元兑日元跌0.11%，英镑兑日元跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3011668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "周四（11月27日）纽约尾盘，ICE美元指数跌0.04%，报99.558点，日内交投区间为99.709-99.406点，北京时间14:00-17:26出现一波持续上涨的行情。 彭博美元指数跌0.04%，报1219.40点，日内交投区间为1220.71-1217.89点。",
-          "url": "https://wallstreetcn.com/livenews/3011666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 07时08分]"
         },
         {
           "title": "布伦特1月原油期货收涨0.21美元，涨幅超过0.33%，报63.34美元/桶。",
@@ -106,19 +76,6 @@
           "time_info": "[02时11分 ~ 05时07分]"
         },
         {
-          "title": "WTI原油日内涨幅达1.00%，现报59.23美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251128031602962800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时08分 ~ 06时08分]"
-        },
-        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0800元，较周三夜盘收盘跌46点。成交量412.77亿美元。",
           "url": "https://wallstreetcn.com/livenews/3011642",
           "source": "华尔街见闻-快讯",
@@ -132,6 +89,42 @@
           "time_info": "[04时08分 ~ 06时08分]"
         },
         {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20251128052349567800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "周四（11月27日）纽约尾盘，欧元兑美元大致持平，报1.1597，英镑兑美元大致持平，报1.3240，美元兑瑞郎涨0.06%，报0.8048。 商品货币对中，澳元兑美元涨0.23%，纽元兑美元涨0.47%，美元兑加元跌0.10%。 瑞典克朗兑美元涨0.20%，挪威克朗兑美元涨0.42%，丹麦克朗兑美元大致持平。 波兰兹罗提兑美元涨0.10%，匈牙利福林兑美元涨0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3011669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "周四（11月27日）纽约尾盘，美元兑日元跌0.13%，报156.27日元，日内交投区间为156.49-155.73日元，亚太时段呈现出W形走势，之后持稳于156.30日元附近。 欧元兑日元跌0.11%，英镑兑日元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3011668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "机构：美元可能在2026年因美联储的降息而下跌",
           "url": "https://flash.jin10.com/detail/20251127233316773800",
           "source": "金十数据",
@@ -142,6 +135,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时07分]"
+        },
+        {
+          "title": "周四（11月27日）纽约尾盘，ICE美元指数跌0.04%，报99.558点，日内交投区间为99.709-99.406点，北京时间14:00-17:26出现一波持续上涨的行情。 彭博美元指数跌0.04%，报1219.40点，日内交投区间为1220.71-1217.89点。",
+          "url": "https://wallstreetcn.com/livenews/3011666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "WTI原油站上59美元/桶，日内涨0.95%。",
@@ -172,6 +177,20 @@
           "time_info": "[03时07分 ~ 06时08分]"
         },
         {
+          "title": "秘鲁央行在即期市场买入7800万美元。",
+          "url": "https://flash.jin10.com/detail/20251128024331640800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 07时08分]"
+        },
+        {
           "title": "最近24小时，MarketVector数字资产100小盘指数上涨3.55%，暂报19017.39点，北京时间02:00过后出现一波短线拉升行情，之后持续高位震荡。 目前，比特币涨1.74%，暂报91435美元；以太坊涨0.04%，Solana跌0.9%，狗狗币跌1.39%。",
           "url": "https://wallstreetcn.com/livenews/3011615",
           "source": "华尔街见闻-快讯",
@@ -186,19 +205,6 @@
           "time_info": "[02时11分 ~ 05时07分]"
         },
         {
-          "title": "秘鲁央行在即期市场买入7800万美元。",
-          "url": "https://flash.jin10.com/detail/20251128024331640800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时08分 ~ 06时08分]"
-        },
-        {
           "title": "据知情人士透露，印度电商平台Meesho Ltd.寻求通过IPO融资至多540亿卢比（折合6.05亿美元）。 日本软银集团有投资该公司。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3011587",
           "source": "华尔街见闻-快讯",
@@ -209,6 +215,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时07分]"
+        },
+        {
+          "title": "周四（11月27日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报7.0744元，较周三纽约尾盘跌54点，日内整体交投于7.0653-7.0818元区间。",
+          "url": "https://wallstreetcn.com/livenews/3011674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "现货铂金涨约1.6%，亚太早盘短线曾上扬约100美元",
+          "url": "https://wallstreetcn.com/livenews/3011673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
@@ -227,8 +255,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -239,8 +267,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -251,19 +279,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
-        },
-        {
-          "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
-          "url": "https://flash.jin10.com/detail/20251128052114993800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -278,6 +295,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时07分 ~ 06时08分]"
+        },
+        {
+          "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
+          "url": "https://flash.jin10.com/detail/20251128052114993800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -318,18 +347,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
           "url": "https://wallstreetcn.com/articles/3760217",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "四川发现81吨特大金矿 探矿权人背后现紫金矿业身影 四川黄金实控人有注入承诺",
@@ -343,8 +373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月27日（周四）晚盘收盘上涨0.13%报942.34元/克；<br/>上海黄金交易所白银T+D 11月27日（周四）晚盘收盘上涨0.69%报12453.0元/千克。",
@@ -373,12 +403,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时11分 ~ 05时07分]"
+        },
+        {
+          "title": "周四（11月27日）纽约尾盘，现货黄金跌0.11%，报4157.61美元/盎司，交投区间为4168.85-4142.79美元。 COMEX黄金期货跌0.28%，报4153.60美元/盎司；2月合约跌0.30%，报4189.60美元，北京时间12:08跌至4174.60美元刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3011671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -388,8 +429,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
+        },
+        {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 07时08分]"
         },
         {
           "title": "DeepSeek发布可自验证数学模型DeepSeekMath-V2",
@@ -418,8 +470,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -448,8 +500,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "“紫火”概念战机运用了哪些黑科技",
@@ -457,11 +509,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 02时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 07时08分]"
         }
       ]
     },
