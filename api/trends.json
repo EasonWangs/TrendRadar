@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T14:12:51.515284+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2025-11-27T15:09:48.507585+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时30分 ~ 14时12分]"
+          "appearance_count": 10,
+          "time_info": "[08时30分 ~ 15时09分]"
         },
         {
           "title": "中美元首近十年来首提军国主义",
@@ -359,6 +359,18 @@
           "time_info": "[01时08分 ~ 02时10分]"
         },
         {
+          "title": "赖清德追加400亿美元军费意欲何为",
+          "url": "https://www.toutiao.com/trending/7577237122201964086/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时09分]"
+        },
+        {
           "title": "布伦特原油日内涨幅扩大至1.00%，现报62.45美元/桶；WTI原油涨近1%。",
           "url": "https://flash.jin10.com/detail/20251127032156605800",
           "source": "金十数据",
@@ -390,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "纽约期银向上触及54美元/盎司，日内涨0.74%。现货白银短线走高0.2美元，现报53.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251127145626658800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "美国投资公司协会（ICI）：截至11月25日的6天内，货币市场基金总资产增至7.57万亿美元。",
@@ -502,17 +525,6 @@
           "time_info": "09时36分"
         },
         {
-          "title": "赖清德追加400亿美元军费意欲何为",
-          "url": "https://www.toutiao.com/trending/7577237122201964086/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
           "title": "龙湖集团2028年1月到期美元债势创2025年4月7日以来最大跌幅，该公司4.5%债券每1美元跌2.1美分，至86.3美分。",
           "url": "https://wallstreetcn.com/livenews/3011119",
           "source": "华尔街见闻-快讯",
@@ -582,7 +594,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -619,8 +631,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时09分 ~ 14时12分]"
+          "appearance_count": 21,
+          "time_info": "[00时09分 ~ 15时09分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -629,11 +641,12 @@
           "ranks": [
             5,
             2,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时36分 ~ 14时12分]"
+          "appearance_count": 8,
+          "time_info": "[09时36分 ~ 15时09分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -646,8 +659,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时09分 ~ 14时12分]"
+          "appearance_count": 21,
+          "time_info": "[00时09分 ~ 15时09分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -676,6 +689,20 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
+          "url": "https://www.cls.cn/detail/2212154",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时30分 ~ 15时09分]"
+        },
+        {
           "title": "特朗普电话后日本沮丧了三次",
           "url": "https://www.toutiao.com/trending/7576542938412007450/",
           "source": "今日头条",
@@ -691,18 +718,31 @@
           "time_info": "[09时36分 ~ 13时09分]"
         },
         {
-          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
-          "url": "https://www.cls.cn/detail/2212154",
-          "source": "财联社热门",
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
           "ranks": [
-            12,
-            10,
+            13,
             11,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时30分 ~ 14时12分]"
+          "time_info": "[10时39分 ~ 15时09分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时39分 ~ 15时09分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -732,6 +772,20 @@
           "time_info": "[08时30分 ~ 12时10分]"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            10,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 15时09分]"
+        },
+        {
           "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
           "url": "https://flash.jin10.com/detail/20251127034310737800",
           "source": "金十数据",
@@ -741,33 +795,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 14时12分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时39分 ~ 14时12分]"
         },
         {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
@@ -821,19 +848,6 @@
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 13时09分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
@@ -844,6 +858,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时39分 ~ 13时09分]"
+        },
+        {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 15时09分]"
         },
         {
           "title": "加拿大总理卡尼：周二与美国总统特朗普通电话。 与美国的贸易谈判还没有重启，加方已经做好准备。",
@@ -880,28 +917,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时31分 ~ 09时36分]"
-        },
-        {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 14时12分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时12分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -1054,6 +1069,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "特朗普称袭击国民警卫队是恐怖行为",
+          "url": "https://www.toutiao.com/trending/7577218266121224202/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "美国总统特朗普：（就国民警卫队成员遭枪击事件）国土安全部确信嫌疑人于2021年从阿富汗入境美国。",
           "url": "https://flash.jin10.com/detail/20251127101757243800",
           "source": "金十数据",
@@ -1100,8 +1126,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时30分 ~ 14时12分]"
+          "appearance_count": 10,
+          "time_info": "[08时30分 ~ 15时09分]"
         },
         {
           "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
@@ -1113,8 +1139,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时30分 ~ 14时12分]"
+          "appearance_count": 10,
+          "time_info": "[08时30分 ~ 15时09分]"
         },
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -1150,7 +1176,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -1346,6 +1372,17 @@
           "time_info": "[06时08分 ~ 07时08分]"
         },
         {
+          "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
+          "url": "https://wallstreetcn.com/articles/3760217",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时09分]"
+        },
+        {
           "title": "生命树造城者央视开年黄金档",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E9%80%A0%E5%9F%8E%E8%80%85%E5%A4%AE%E8%A7%86%E5%BC%80%E5%B9%B4%E9%BB%84%E9%87%91%E6%A1%A3%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1366,17 +1403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
-          "url": "https://wallstreetcn.com/articles/3760217",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月26日（周三）晚盘收盘上涨0.15%报944.3元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）晚盘收盘上涨1.91%报12413.0元/千克。",
@@ -1439,8 +1465,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时09分 ~ 14时12分]"
+          "appearance_count": 21,
+          "time_info": "[00时09分 ~ 15时09分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1503,7 +1529,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】市场现深强沪弱分化行情，算力硬件、抗流感概念持续火热",
@@ -1519,15 +1545,27 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "A股收盘：创业板指冲高回落跌0.44%，有机硅、固态电池概念股走强",
+          "url": "https://wallstreetcn.com/livenews/3011359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
           "url": "https://wallstreetcn.com/livenews/3011294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时09分]"
         },
         {
           "title": "A股商业航天概念午后拉升，中天火箭直线涨停，天宜新材涨超10%，超捷股份、上海沪工、霍莱沃、航宇科技等跟涨。",
@@ -1536,9 +1574,38 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月27日（周四）上海金午盘价为942.44元/克，较国际金价(946.08元/克)，低3.64元/克",
+          "url": "https://flash.jin10.com/detail/20251127150233224800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
+          "url": "https://flash.jin10.com/detail/20251127110218289800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时10分]"
         }
       ]
     },
@@ -1573,6 +1640,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
+          "url": "https://www.toutiao.com/trending/7576229938517852170/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 1,
       "titles": [
@@ -1589,24 +1673,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时08分 ~ 11时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
-          "url": "https://flash.jin10.com/detail/20251127110218289800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时10分]"
         }
       ]
     }
