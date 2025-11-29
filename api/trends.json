@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T07:08:21.223965+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2025-11-29T08:30:40.517853+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "美、布两油短线下挫0.6美元，现分别报58.44美元/桶和62.8美元/桶。",
@@ -13,11 +13,26 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时30分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的75.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20251129021813347800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时07分 ~ 08时30分]"
         },
         {
           "title": "WTI 1月原油期货收报58.55美元/桶。 NYMEX 12月汽油期货收报1.8959美元/加仑，NYMEX 12月取暖油期货收报2.3330美元/加仑。",
@@ -31,15 +46,15 @@
           "time_info": "04时08分"
         },
         {
-          "title": "周五（11月28日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.0708元，较周四纽约尾盘涨36点，日内整体交投于7.0796-7.0669元区间，最近三个交易日持续上探7.06元。",
-          "url": "https://wallstreetcn.com/livenews/3012398",
+          "title": "纽约期银周五涨约6.5%突破57美元创历史新高，11月累涨16%",
+          "url": "https://wallstreetcn.com/livenews/3012402",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "08时30分"
         },
         {
           "title": "周五（11月28日），美联储隔夜逆回购协议（RRP）使用规模为75.61亿美元，上个交易日报22.17亿美元。",
@@ -56,17 +71,19 @@
           "time_info": "[03时07分 ~ 06时07分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的75.61亿美元。",
-          "url": "https://flash.jin10.com/detail/20251129021813347800",
-          "source": "金十数据",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0740元，较周四夜盘收盘涨60点。成交量436.42亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012374",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            20,
-            21
+            7,
+            12,
+            21,
+            24,
+            29
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时07分 ~ 07时08分]"
+          "time_info": "[04时08分 ~ 08时30分]"
         },
         {
           "title": "美联储11月26日当周贴现窗贷款余额77.9亿美元，之前一周61.0亿美元。",
@@ -74,11 +91,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 07时08分]"
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 08时30分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.432万亿美元，之前一周18.505万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 08时30分]"
         },
         {
           "title": "纽约期银向上触及56美元/盎司，日内涨4.46%。现货白银日内暴涨2美元，现报55.35美元/盎司，涨幅3.75%。",
@@ -117,16 +148,16 @@
           "time_info": "[00时09分 ~ 01时07分]"
         },
         {
-          "title": "美联储：美国上周银行存款18.432万亿美元，之前一周18.505万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3012394",
+          "title": "周五（11月28日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.0708元，较周四纽约尾盘涨36点，日内整体交投于7.0796-7.0669元区间，最近三个交易日持续上探7.06元。",
+          "url": "https://wallstreetcn.com/livenews/3012398",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7
+            3,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时07分 ~ 07时08分]"
+          "time_info": "[07时08分 ~ 08时30分]"
         },
         {
           "title": "纽约金日内涨幅达1.0%，报4244.6美元/盎司。",
@@ -190,20 +221,6 @@
           "time_info": "[05时07分 ~ 06时07分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0740元，较周四夜盘收盘涨60点。成交量436.42亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3012374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
-        },
-        {
           "title": "周五（11月28日），韩元兑美元最终跌0.37%，报1467.70韩元。 11月3-13日，韩元持续走低，略微回升之后，11月14-24日再度持续下挫——最低跌至1479.47韩元。",
           "url": "https://wallstreetcn.com/livenews/3012353",
           "source": "华尔街见闻-快讯",
@@ -216,6 +233,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时10分 ~ 05时07分]"
+        },
+        {
+          "title": "标普将 Tether 资产评级下调至最低等，质疑其挂钩美元能力，如何看待储备资产的配置风险？",
+          "url": "https://www.zhihu.com/question/1977385646940189319",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 08时30分]"
         },
         {
           "title": "纽约银日内涨幅达6.0%，报56.85美元/盎司。 现货白银日内涨幅达5.5%，报56.32美元/盎司。",
@@ -255,16 +285,16 @@
           "time_info": "[01时07分 ~ 02时10分]"
         },
         {
-          "title": "标普将 Tether 资产评级下调至最低等，质疑其挂钩美元能力，如何看待储备资产的配置风险？",
-          "url": "https://www.zhihu.com/question/1977385646940189319",
-          "source": "知乎",
+          "title": "美元指数11月份跌超0.3%，重新逼近百月均线",
+          "url": "https://wallstreetcn.com/livenews/3012383",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            13
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 01时07分]"
+          "time_info": "[07时08分 ~ 08时30分]"
         },
         {
           "title": "纽约期金突破4250美元/盎司，日内涨1.14%。",
@@ -322,17 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "美元指数11月份跌超0.3%，重新逼近百月均线",
-          "url": "https://wallstreetcn.com/livenews/3012383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报59.24美元/桶。",
@@ -404,7 +423,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -445,6 +464,46 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129031455925800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时30分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251129031224808800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            26,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时30分]"
+        },
+        {
+          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
+          "url": "https://wallstreetcn.com/livenews/3012382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时07分 ~ 08时30分]"
+        },
+        {
           "title": "美股三大股指收涨 英特尔涨超10%",
           "url": "https://flash.jin10.com/detail/20251129020833506800",
           "source": "金十数据",
@@ -480,19 +539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时07分]"
-        },
-        {
-          "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
-          "url": "https://wallstreetcn.com/livenews/3012382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时07分 ~ 07时08分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
@@ -535,28 +581,26 @@
           "time_info": "[04时08分 ~ 07时08分]"
         },
         {
-          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129031455925800",
-          "source": "金十数据",
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
           "ranks": [
-            21,
-            22
+            11
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
-          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251129031224808800",
-          "source": "金十数据",
+          "title": "美股三大指数收涨 英特尔暴涨10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%9A%B4%E6%B6%A810%25",
+          "source": "百度热搜",
           "ranks": [
-            25,
-            26
+            15
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -573,7 +617,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -581,11 +625,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时30分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -593,23 +638,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时08分]"
-        },
-        {
-          "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
-          "url": "https://flash.jin10.com/detail/20251129033942381800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时30分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -625,27 +659,44 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "美国总统特朗普：任何由美国前总统拜登使用自动笔签署的文件（约占其签署文件的92%）即日起全部终止生效，不再具有任何法律效力。",
+          "url": "https://flash.jin10.com/detail/20251129033942381800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时30分]"
+        },
+        {
           "title": "美媒：特朗普上周与马杜罗通话 讨论举行会晤的可能性",
           "url": "https://flash.jin10.com/detail/20251129033025451800",
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时30分]"
         },
         {
-          "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
-          "url": "https://flash.jin10.com/detail/20251129034311624800",
+          "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
+          "url": "https://flash.jin10.com/detail/20251129024908174800",
           "source": "金十数据",
           "ranks": [
-            1
+            5,
+            15,
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时07分 ~ 07时08分]"
+          "appearance_count": 6,
+          "time_info": "[03时07分 ~ 08时30分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -662,29 +713,29 @@
           "time_info": "[02时10分 ~ 07时08分]"
         },
         {
+          "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
+          "url": "https://flash.jin10.com/detail/20251129034311624800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时07分 ~ 08时30分]"
+        },
+        {
           "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
           "url": "https://wallstreetcn.com/livenews/3012397",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 07时08分]"
-        },
-        {
-          "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
-          "url": "https://flash.jin10.com/detail/20251129024908174800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时07分 ~ 07时08分]"
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 08时30分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -694,11 +745,36 @@
             4,
             9,
             18,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时30分]"
+        },
+        {
+          "title": "美媒爆：特朗普已与马杜罗通话 内容涉及两人在美会晤可能性",
+          "url": "https://flash.jin10.com/detail/20251129081534337800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
+          "url": "https://flash.jin10.com/detail/20251129032541398800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 08时30分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -715,18 +791,6 @@
           "time_info": "[03时06分 ~ 07时08分]"
         },
         {
-          "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
-          "url": "https://flash.jin10.com/detail/20251129032541398800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 07时08分]"
-        },
-        {
           "title": "日本学者点破特朗普真实想法",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%E7%82%B9%E7%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E5%AE%9E%E6%83%B3%E6%B3%95%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -738,24 +802,24 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时08分 ~ 06时07分]"
+        },
+        {
+          "title": "马斯克特朗普共进感恩节晚餐",
+          "url": "https://www.toutiao.com/trending/7577103581065805862/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
-          "url": "https://wallstreetcn.com/livenews/3012399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
         {
           "title": "上海黄金交易所黄金T+D 11月28日（周五）晚盘收盘上涨0.71%报954.0元/克；<br/>上海黄金交易所白银T+D 11月28日（周五）晚盘收盘上涨4.59%报13145.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251129023037410800",
@@ -763,11 +827,57 @@
           "ranks": [
             9,
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时07分 ~ 07时08分]"
+          "appearance_count": 6,
+          "time_info": "[03时07分 ~ 08时30分]"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1045.43吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20251129081522217800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "现货黄金11月份涨5.9%，一度突破4240美元",
+          "url": "https://wallstreetcn.com/livenews/3012401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3012399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 08时30分]"
+        },
+        {
+          "title": "黄金加速上涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8A%A0%E9%80%9F%E4%B8%8A%E6%B6%A8%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
           "title": "现货黄金日内涨幅达1.0%，报4198.98美元/盎司。",
@@ -792,11 +902,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时30分]"
         },
         {
           "title": "【每日收评】三大指数探底回升全线收红，两市成交额不足1.6万亿，商业航天概念再迎爆发",
@@ -804,11 +915,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时30分]"
         }
       ]
     },
@@ -826,8 +938,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 08时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         }
       ]
     },
@@ -842,11 +971,12 @@
           "ranks": [
             3,
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时07分 ~ 07时08分]"
+          "appearance_count": 4,
+          "time_info": "[05时07分 ~ 08时30分]"
         }
       ]
     }
