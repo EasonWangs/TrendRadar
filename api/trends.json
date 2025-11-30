@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T20:12:10.421091+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-11-30T21:13:47.159163+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“特朗普交易”遭重创",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时11分 ~ 20时12分]"
+          "appearance_count": 11,
+          "time_info": "[14时11分 ~ 21时13分]"
         },
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -102,6 +102,17 @@
           "time_info": "[00时08分 ~ 07时08分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 21时13分]"
+        },
+        {
           "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
           "url": "https://m.thepaper.cn/newsDetail_forward_32064050",
           "source": "澎湃新闻",
@@ -174,17 +185,6 @@
           "time_info": "[00时08分 ~ 08时35分]"
         },
         {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 20时12分]"
-        },
-        {
           "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
           "url": "https://flash.jin10.com/detail/20251129202442952800",
           "source": "金十数据",
@@ -201,11 +201,23 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 20时12分]"
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 21时13分]"
+        },
+        {
+          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
+          "url": "https://flash.jin10.com/detail/20251130201511290800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -214,11 +226,12 @@
           "ranks": [
             4,
             13,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 20时12分]"
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 21时13分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -287,8 +300,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时07分 ~ 20时12分]"
+          "appearance_count": 7,
+          "time_info": "[17时07分 ~ 21时13分]"
         },
         {
           "title": "MrBeast50万美元拆盲盒",
@@ -326,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时45分 ~ 20时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时45分 ~ 21时13分]"
         },
         {
           "title": "机构密集调研商业航天概念股！龙头11天7板，11月份接待量居前热门股名单来了",
@@ -352,8 +365,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时45分 ~ 20时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时45分 ~ 21时13分]"
         },
         {
           "title": "可控核聚变概念股赫然在列！11月接待机构调研次数居前热门股名单一览",
@@ -367,8 +380,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时08分 ~ 20时12分]"
+          "appearance_count": 28,
+          "time_info": "[00时08分 ~ 21时13分]"
         }
       ]
     },
@@ -438,11 +451,12 @@
             14,
             16,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时08分 ~ 20时12分]"
+          "appearance_count": 28,
+          "time_info": "[00时08分 ~ 21时13分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -456,6 +470,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时07分 ~ 09时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         }
       ]
     },
@@ -474,8 +505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时09分 ~ 20时12分]"
+          "appearance_count": 9,
+          "time_info": "[16时09分 ~ 21时13分]"
         }
       ]
     },
