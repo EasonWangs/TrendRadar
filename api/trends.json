@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T15:08:40.703472+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-11-30T16:10:14.281861+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -29,11 +29,12 @@
             20,
             22,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时08分 ~ 15时08分]"
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 16时10分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -175,11 +176,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 15时08分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 16时10分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -193,6 +195,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时18分 ~ 14时11分]"
+        },
+        {
+          "title": "美两党布局中期选举 特朗普拼经济",
+          "url": "https://www.toutiao.com/trending/7578382556505050643/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 16时10分]"
         }
       ]
     },
@@ -212,6 +225,17 @@
           "time_info": "[00时08分 ~ 09时37分]"
         },
         {
+          "title": "机构密集调研商业航天概念股！龙头11天7板，11月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2214838",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 16时10分]"
+        },
+        {
           "title": "可控核聚变概念股赫然在列！11月接待机构调研次数居前热门股名单一览",
           "url": "https://www.cls.cn/detail/2214875",
           "source": "财联社热门",
@@ -222,19 +246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 15时08分]"
-        },
-        {
-          "title": "机构密集调研商业航天概念股！龙头11天7板，11月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2214838",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 15时08分]"
+          "appearance_count": 21,
+          "time_info": "[00时08分 ~ 16时10分]"
         },
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -246,8 +259,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 15时08分]"
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 16时10分]"
         }
       ]
     },
@@ -322,11 +335,12 @@
             2,
             11,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 15时08分]"
+          "appearance_count": 21,
+          "time_info": "[00时08分 ~ 16时10分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -361,8 +375,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时35分 ~ 15时08分]"
+          "appearance_count": 12,
+          "time_info": "[08时35分 ~ 16时10分]"
         },
         {
           "title": "黄金再次反弹 为何华尔街坚定看涨",
@@ -376,6 +390,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 03时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 16时10分]"
         }
       ]
     },
