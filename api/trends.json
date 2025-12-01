@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T14:14:06.447695+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2025-12-01T15:11:12.725498+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时53分 ~ 14时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 15时11分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时53分 ~ 14时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 15时11分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -92,8 +92,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时40分 ~ 14时14分]"
+          "appearance_count": 14,
+          "time_info": "[08时40分 ~ 15时11分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很可能”达成",
@@ -118,8 +118,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 14时14分]"
+          "appearance_count": 13,
+          "time_info": "[09时38分 ~ 15时11分]"
         },
         {
           "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
@@ -178,6 +178,17 @@
           "time_info": "[00时08分 ~ 04时09分]"
         },
         {
+          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
+          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 15时11分]"
+        },
+        {
           "title": "芝商所上周五经历数小时故障，白银刷新历史新高！特朗普已敲定下任美联储主席人选，美乌新会谈“富有成效但仍有工作要做”....美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251201103320124800",
           "source": "金十数据",
@@ -202,17 +213,6 @@
           "time_info": "[11时40分 ~ 12时28分]"
         },
         {
-          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
-          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
-        },
-        {
           "title": "特朗普：俄乌和平协议很有可能达成",
           "url": "https://www.toutiao.com/trending/7578340057447514175/",
           "source": "今日头条",
@@ -220,8 +220,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 15时11分]"
         },
         {
           "title": "特朗普称美乌很可能达成协议",
@@ -414,7 +414,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "媒体报道爱马仕继承人手中 150 亿美元股份被骗，究竟发生了什么？这笔股份能追回来吗？",
@@ -426,8 +426,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时53分 ~ 14时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 15时11分]"
         },
         {
           "title": "爱马仕继承人150亿美元财富失踪",
@@ -435,11 +435,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 14时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 15时11分]"
         },
         {
           "title": "比特币跌破8.6万美元，24小时跌幅近6%。",
@@ -451,28 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        },
-        {
-          "title": "WTI原油向上触及60美元/桶，为11月20日以来首次，日内涨2.46%。",
-          "url": "https://flash.jin10.com/detail/20251201141100019800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "印度卢比兑美元跌破88.49，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3012832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时14分"
         },
         {
           "title": "现货钯金日内涨幅扩大至2.00%，现报1482.22美元/盎司。",
@@ -497,15 +476,15 @@
           "time_info": "09时38分"
         },
         {
-          "title": "布伦特原油日内涨幅扩大至2.00%，现报64.16美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251201135425760800",
+          "title": "印度卢比兑美元一度跌至89.7575的历史低位。有交易员称，印度央行可能在抛售美元，以抑制卢比跌势。",
+          "url": "https://flash.jin10.com/detail/20251201142848033800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时14分"
+          "time_info": "15时11分"
         },
         {
           "title": "贵金属板块开盘大涨，白银有色涨停，湖南白银、豫光金铅、盛达资源、江西铜业、山金国际等涨超6%，消息上，现货白银史上首次突破57美元/盎司，创历史新高。",
@@ -518,6 +497,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 10时54分]"
+        },
+        {
+          "title": "WTI原油向上触及60美元/桶，为11月20日以来首次，日内涨2.46%。",
+          "url": "https://flash.jin10.com/detail/20251201141100019800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时11分]"
+        },
+        {
+          "title": "印度卢比兑美元跌破88.49，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3012832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时11分]"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至2.00%，现报64.16美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251201135425760800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时11分]"
+        },
+        {
+          "title": "WTI原油期货日内涨幅达2.00%，现报59.73美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251201134614760800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时11分]"
         },
         {
           "title": "爱马仕继承人的150亿美元去哪了",
@@ -543,6 +570,17 @@
           "time_info": "[10时54分 ~ 11时41分]"
         },
         {
+          "title": "汇丰：将赛默飞世尔(TMO.N)评级从“持有”上调至“买入”，目标价从550美元上调至670美元。",
+          "url": "https://flash.jin10.com/detail/20251201142349439800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "布伦特原油站上64美元/桶，日内涨1.76%。",
           "url": "https://flash.jin10.com/detail/20251201123952176800",
           "source": "金十数据",
@@ -554,15 +592,15 @@
           "time_info": "13时15分"
         },
         {
-          "title": "WTI原油期货日内涨幅达2.00%，现报59.73美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251201134614760800",
+          "title": "汇丰：将埃克森美孚石油(XOM.N)目标价从121美元上调至126美元。",
+          "url": "https://flash.jin10.com/detail/20251201142124566800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时14分"
+          "time_info": "15时11分"
         },
         {
           "title": "印尼央行官员：明年印尼盾兑美元汇率会涨至1美元兑16,500卢比，甚至是1美元兑16,400卢比，承诺进一步稳定印尼盾汇率。",
@@ -576,6 +614,17 @@
           "time_info": "11时41分"
         },
         {
+          "title": "汇丰：将雪佛龙(CVX.N)评级从“持有”上调至“买入”，目标价从166美元上调至169美元。",
+          "url": "https://flash.jin10.com/detail/20251201142106266800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0759，上调30点；上一交易日中间价7.0789，上一交易日官方收盘价7.0794，上日夜盘报收7.0740。",
           "url": "https://wallstreetcn.com/livenews/3012659",
           "source": "华尔街见闻-快讯",
@@ -585,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "布伦特原油涨超2%，现报63.80美元/桶；WTI原油涨超2%，现报59.95美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3012834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "美元指数跌至两周低点99.352。",
@@ -648,7 +708,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         }
@@ -656,7 +716,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "黄金疯涨背后的逻辑",
@@ -664,22 +724,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 14时14分]"
-        },
-        {
-          "title": "泰国央行：要求金融机构加强对与黄金相关的外汇交易的管控。",
-          "url": "https://flash.jin10.com/detail/20251201141126589800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时14分"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 15时11分]"
         },
         {
           "title": "泰国央行：将采取措施应对泰铢波动，以减轻影响。 将密切监控泰铢汇率。 要求金融机构加强对与黄金相关的外汇交易的管控。",
@@ -688,7 +738,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -704,6 +754,18 @@
           "time_info": "09时38分"
         },
         {
+          "title": "泰国央行：要求金融机构加强对与黄金相关的外汇交易的管控。",
+          "url": "https://flash.jin10.com/detail/20251201141126589800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时11分]"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251201115514730800",
           "source": "金十数据",
@@ -714,6 +776,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时15分]"
+        },
+        {
+          "title": "泰国央行：考虑要求主要黄金交易商报告的交易数据。",
+          "url": "https://flash.jin10.com/detail/20251201141231655800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "泰国央行：将采取措施应对泰铢波动，以减轻影响。 将密切监控泰铢汇率。 要求金融机构加强对与黄金相关的外汇交易的管控。 建议要求主要黄金交易商报告交易数据。",
+          "url": "https://wallstreetcn.com/livenews/3012833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "现货黄金延续涨势，突破4250美元/盎司，日内涨0.76%。",
@@ -733,7 +817,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         }
@@ -780,8 +864,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时07分 ~ 14时14分]"
+          "appearance_count": 17,
+          "time_info": "[05时07分 ~ 15时11分]"
         },
         {
           "title": "A股商业航天概念开盘活跃，雷科防务6天5板，通宇通讯3连板，顺灏股份2连板，超卓航科涨超10%，航天发展、利君股份等多股高开，据国家航天局消息，该局已于近期设立商业航天司，相关业务正在逐步开展，标志着我国商业航天产业迎来专职监管机构。",
@@ -832,11 +916,12 @@
             9,
             26,
             18,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时08分 ~ 14时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 15时11分]"
         }
       ]
     },
