@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T06:08:11.319212+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-12-02T07:08:29.593533+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "爱马仕继承人150亿美元财富失踪",
@@ -30,8 +30,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
+        },
+        {
+          "title": "现货白银周二小幅低开，现报57.84美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202070122711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "WTI 1月原油期货收涨0.77美元，涨幅超过1.31%，报59.32美元/桶。 中东Abu Dhabi Murban原油期货涨1.37%，报65.17美元/桶。 NYMEX 1月天然气期货收涨超1.46%，报4.9210美元/百万英热单位，投资者从喜忧参半的天气预报中寻找冬季取暖需求线索。 NYMEX 1月汽油期货收报1.8689美元/加仑，NYMEX 1月取暖油期货收报2.34美元/加仑。",
@@ -43,6 +54,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
+          "url": "https://www.cls.cn/detail/2216428",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时07分 ~ 07时08分]"
         },
         {
           "title": "美国五角大楼：美国国务院批准向沙特潜在出售一批培训及相关设备，预计金额为5亿美元。",
@@ -70,6 +94,19 @@
           "time_info": "[02时11分 ~ 05时08分]"
         },
         {
+          "title": "周一（12月1日）纽约尾盘，欧元兑美元涨0.08%，报1.1608，北京时间14:00之前大致持平，之后持续走高，21:05刷新日高至1.1652，之后逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3013210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
           "title": "加密货币市场跌势连绵，近10亿美元杠杆头寸被平仓",
           "url": "https://wallstreetcn.com/livenews/3013194",
           "source": "华尔街见闻-快讯",
@@ -83,16 +120,17 @@
           "time_info": "[04时08分 ~ 06时08分]"
         },
         {
-          "title": "周一（12月1日）纽约尾盘，欧元兑美元涨0.08%，报1.1608，北京时间14:00之前大致持平，之后持续走高，21:05刷新日高至1.1652，之后逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3013210",
+          "title": "周一（12月1日）纽约尾盘，美元兑日元跌0.44%，报155.49日元，日内交投区间为156.24-154.67日元，北京时间21:44刷新日低之后，逐步收复失地。 欧元兑日元跌0.35%，英镑兑日元跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3013209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11
+            2,
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时08分]"
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0725元，较上周五夜盘收盘涨15点。成交量351.93亿美元。",
@@ -120,18 +158,6 @@
           "time_info": "[01时09分 ~ 02时11分]"
         },
         {
-          "title": "周一（12月1日）纽约尾盘，美元兑日元跌0.44%，报155.49日元，日内交投区间为156.24-154.67日元，北京时间21:44刷新日低之后，逐步收复失地。 欧元兑日元跌0.35%，英镑兑日元跌0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3013209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时08分]"
-        },
-        {
           "title": "周一（12月1日），美联储隔夜逆回购协议（RRP）使用规模为32.40亿美元，上个交易日报75.61亿美元。",
           "url": "https://wallstreetcn.com/livenews/3013180",
           "source": "华尔街见闻-快讯",
@@ -144,18 +170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时10分 ~ 06时08分]"
-        },
-        {
-          "title": "英伟达锁定EDA霸主！20亿美元入股新思科技扩大合作版图",
-          "url": "https://www.cls.cn/detail/2216428",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时07分 ~ 06时08分]"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报58.1美元/盎司。纽约银日内涨幅达2.5%，报58.62美元/盎司。",
@@ -265,13 +279,35 @@
           "time_info": "02时11分"
         },
         {
+          "title": "周一（12月1日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0719元，较上周五纽约尾盘跌11点，日内整体交投于7.0645-7.0732元区间。",
+          "url": "https://wallstreetcn.com/livenews/3013230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，现货白银涨2.67%，报58.0014美元/盎司，北京时间00:46涨至58.8434美元刷新日高。 COMEX白银期货涨2.27%，报68.460美元/盎司，00:46涨至59.435美元创盘中历史新高。 COMEX铜期货大致持平，报5.2725美元/磅。 现货铂金跌0.33%，报1665.64美元/盎司；现货钯金跌1.81%，报1427.12美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "美元指数1日下跌",
           "url": "https://flash.jin10.com/detail/20251202051345483800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -323,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -336,11 +372,12 @@
             17,
             16,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -352,8 +389,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
@@ -622,7 +659,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -634,8 +671,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
@@ -646,19 +683,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
-          "title": "公用事业ETF收跌超2.3%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3013222",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强",
+          "url": "https://www.cls.cn/detail/2216490",
+          "source": "财联社热门",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
@@ -685,6 +722,18 @@
           "time_info": "[05时08分 ~ 06时08分]"
         },
         {
+          "title": "公用事业ETF收跌超2.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3013222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 阿里巴巴涨超4%",
           "url": "https://flash.jin10.com/detail/20251202050101474800",
           "source": "金十数据",
@@ -701,22 +750,46 @@
           "url": "https://wallstreetcn.com/livenews/3013217",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "周一（12月1日），降息赢家指数涨0.17%，报100.08点，跳空低开之后，在美股盘初快速转涨。",
           "url": "https://wallstreetcn.com/livenews/3013216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌4.78%，报86595美元，日内大部分时间交投于57000美元下方。 CME以太币期货DCR主力合约跌8.35%，报2794美元， 美股加密货币与加密货币关联指数跌3.96%，报68.48点。 最近24小时，MarketVector数字资产100小盘指数跌6.00%，暂报17764.31点。",
+          "url": "https://wallstreetcn.com/livenews/3013229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
+        },
+        {
+          "title": "（美股）费城金银指数大致收平，报324.58点。 纽约证交所ARCA金矿开采商指数收涨0.26%，报2323.69点；北京时间22:30之前维持微幅上涨状态——持稳于2320点附近，（开盘时）达到2350.23点，随后快速转而跌至2308.78点刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3013227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股收盘）",
@@ -725,7 +798,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -780,8 +853,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -793,8 +866,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -806,14 +879,14 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
@@ -826,8 +899,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "巴里克矿业考虑将旗下北美黄金资产IPO。",
@@ -852,6 +925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，现货黄金跌0.18%，报4231.34美元/盎司，亚太盘初跌至4206.05美元刷新日低，之后反弹，美股开盘之前涨至4264.62美元刷新日高，之后走低。 COMEX黄金期货涨0.30%，报4267.60美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
