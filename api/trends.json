@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T18:09:59.864468+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-03T19:08:38.285548+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 98,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时31分 ~ 18时09分]"
+          "appearance_count": 16,
+          "time_info": "[08时31分 ~ 19时08分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -95,8 +95,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时10分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 19时08分]"
         },
         {
           "title": "特朗普点名日本",
@@ -104,11 +104,12 @@
           "source": "微博",
           "ranks": [
             6,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时10分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 19时08分]"
         },
         {
           "title": "特朗普威胁：将实施陆地打击",
@@ -119,8 +120,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时10分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 19时08分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 19时08分]"
         },
         {
           "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
@@ -132,18 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时10分 ~ 18时09分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -218,7 +220,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -248,6 +250,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时08分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时08分]"
         },
         {
           "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
@@ -412,6 +427,19 @@
           "time_info": "[04时10分 ~ 05时08分]"
         },
         {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时08分]"
+        },
+        {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
           "url": "https://wallstreetcn.com/livenews/3013853",
           "source": "华尔街见闻-快讯",
@@ -436,6 +464,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时36分 ~ 11时32分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时08分]"
+        },
+        {
+          "title": "特朗普开会被拍到多次闭眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时08分]"
         },
         {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
@@ -498,18 +549,6 @@
           "time_info": "[04时10分 ~ 05时08分]"
         },
         {
-          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
-          "url": "https://www.cls.cn/detail/2218308",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时09分]"
-        },
-        {
           "title": "美国总统特朗普：医保领域将有新动向，但这不会一帆风顺。与民主党人就医保进行谈判。",
           "url": "https://flash.jin10.com/detail/20251203010418509800",
           "source": "金十数据",
@@ -568,18 +607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时08分]"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时09分]"
         },
         {
           "title": "巴西总统府：巴西总统卢拉与美国总统特朗普就贸易、经济及打击有组织犯罪进行了会谈。",
@@ -760,17 +787,6 @@
           "time_info": "[16时10分 ~ 16时11分]"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://www.douyin.com/hot/2324828",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时09分]"
-        },
-        {
           "title": "特朗普女婿为何出现在俄美会谈",
           "url": "https://www.toutiao.com/trending/7579438166952824330/",
           "source": "今日头条",
@@ -781,18 +797,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时41分 ~ 11时32分]"
-        },
-        {
-          "title": "特朗普开会被拍到多次闭眼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E8%A2%AB%E6%8B%8D%E5%88%B0%E5%A4%9A%E6%AC%A1%E9%97%AD%E7%9C%BC",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时09分]"
         },
         {
           "title": "美媒：特朗普取消本周的美联储主席遴选面试",
@@ -878,9 +882,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
+          "url": "https://www.cls.cn/detail/2218431",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
@@ -1103,13 +1118,24 @@
           "time_info": "08时32分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203182214815800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "克里姆林宫：对美国总统特朗普寻求解决问题的政治意愿及他所作的努力表示感谢。",
           "url": "https://flash.jin10.com/detail/20251203173619981800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -1151,17 +1177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "伦铜日内涨幅达2%，现报11375.60美元/吨，续创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3014376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
         },
         {
           "title": "特朗普积极暗示美联储主席人选 美元汇率闻讯下跌",
@@ -1236,6 +1251,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 13时09分]"
+        },
+        {
+          "title": "伦铜日内涨幅达2%，现报11375.60美元/吨，续创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3014376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时08分]"
         },
         {
           "title": "英国拟延长10亿美元债务担保 助力南非绿色转型",
@@ -1484,7 +1511,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -1800,8 +1827,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时31分 ~ 18时09分]"
+          "appearance_count": 16,
+          "time_info": "[08时31分 ~ 19时08分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1970,6 +1997,162 @@
       ]
     },
     {
+      "keyword_group": "openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时08分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 19时08分]"
+        },
+        {
+          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 05时08分]"
+        },
+        {
+          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
+          "url": "https://wallstreetcn.com/articles/3760498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 10时41分]"
+        },
+        {
+          "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3013807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时21分]"
+        },
+        {
+          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
+          "url": "https://wallstreetcn.com/livenews/3013805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时21分]"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
+          "url": "https://flash.jin10.com/detail/20251203185658782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
+          "url": "https://flash.jin10.com/detail/20251203185148537800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "OpenAI：目前出现了一些问题。",
+          "url": "https://flash.jin10.com/detail/20251203185037298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
+          "url": "https://flash.jin10.com/detail/20251203184353377800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
+          "url": "https://www.cls.cn/detail/2217688",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
+          "url": "https://flash.jin10.com/detail/20251203044535141800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 13,
       "titles": [
@@ -2124,107 +2307,6 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 06时08分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 18时09分]"
-        },
-        {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 05时08分]"
-        },
-        {
-          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
-          "url": "https://wallstreetcn.com/articles/3760498",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 10时41分]"
-        },
-        {
-          "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3013807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时21分]"
-        },
-        {
-          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
-          "url": "https://wallstreetcn.com/livenews/3013805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时21分]"
-        },
-        {
-          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
-          "url": "https://www.cls.cn/detail/2217688",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
-          "url": "https://flash.jin10.com/detail/20251203044535141800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
       "match_count": 5,
       "titles": [
@@ -2266,6 +2348,17 @@
           "time_info": "[06时07分 ~ 10时41分]"
         },
         {
+          "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
+          "url": "https://www.cls.cn/detail/2218494",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时08分]"
+        },
+        {
           "title": "A股商业航天概念再度拉升，上海瀚讯、招标股份双双涨停，中环海陆涨超10%，顺灏股份此前涨停，上海沪工、陕西华达、航天发展、航天智装跟涨。",
           "url": "https://wallstreetcn.com/livenews/3014188",
           "source": "华尔街见闻-快讯",
@@ -2276,17 +2369,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时12分 ~ 15时10分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
-          "url": "https://www.cls.cn/detail/2218494",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
         }
       ]
     },
@@ -2368,8 +2450,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时09分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 19时08分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -2431,6 +2513,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
+          "url": "https://flash.jin10.com/detail/20251203190054995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     }
