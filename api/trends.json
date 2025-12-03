@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T12:14:21.127869+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-03T13:09:07.808782+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -33,6 +33,20 @@
           "time_info": "[00时42分 ~ 08时32分]"
         },
         {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时31分 ~ 13时09分]"
+        },
+        {
           "title": "特朗普“点名”日本",
           "url": "https://news.ifeng.com/c/8omI9QpRNFm",
           "source": "凤凰网",
@@ -40,21 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 12时14分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时31分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 13时09分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -63,11 +64,12 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时31分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时31分 ~ 13时09分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -79,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 13时09分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -673,6 +675,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "特朗普与巴西总统讨论合作打击有组织犯罪等议题",
+          "url": "https://wallstreetcn.com/livenews/3014160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
           "url": "https://flash.jin10.com/detail/20251203041325787800",
           "source": "金十数据",
@@ -943,17 +956,6 @@
       "match_count": 43,
       "titles": [
         {
-          "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
-          "url": "https://flash.jin10.com/detail/20251203115215694800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。 NYMEX 1月天然气期货收跌超1.64%，报4.84美元/百万英热单位。 NYMEX 1月汽油期货收报1.8303美元/加仑，NYMEX 1月取暖油期货收报2.3127美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3013891",
           "source": "华尔街见闻-快讯",
@@ -992,6 +994,31 @@
           "time_info": "[01时21分 ~ 03时08分]"
         },
         {
+          "title": "印度卢比兑美元短暂跌至90.14，创历史新低。",
+          "url": "https://flash.jin10.com/detail/20251203115215694800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时09分]"
+        },
+        {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时09分]"
+        },
+        {
           "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
           "url": "https://wallstreetcn.com/livenews/3013901",
           "source": "华尔街见闻-快讯",
@@ -1015,18 +1042,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 06时08分]"
-        },
-        {
-          "title": "新西兰联储上调贸易加权指数中的美元权重",
-          "url": "https://wallstreetcn.com/livenews/3014135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时14分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的56.2亿美元。",
@@ -1064,6 +1079,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时36分 ~ 11时32分]"
+        },
+        {
+          "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
+          "url": "https://wallstreetcn.com/livenews/3014152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时09分]"
         },
         {
           "title": "比特币一度涨至93000美元上方，创近两周高位。",
@@ -1113,6 +1140,18 @@
           "time_info": "[10时41分 ~ 11时32分]"
         },
         {
+          "title": "印度卢比兑美元汇率跌破90关口。",
+          "url": "https://flash.jin10.com/detail/20251203113249561800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时09分]"
+        },
+        {
           "title": "美国汽油价格自2021年以来首次跌破每加仑3美元",
           "url": "https://wallstreetcn.com/livenews/3013814",
           "source": "华尔街见闻-快讯",
@@ -1123,6 +1162,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时21分]"
+        },
+        {
+          "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
+          "url": "https://wallstreetcn.com/livenews/3014145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时09分]"
         },
         {
           "title": "再创新高，美国货币市场基金规模首次突破8万亿美元",
@@ -1172,17 +1223,6 @@
           "time_info": "09时36分"
         },
         {
-          "title": "现货白银一度升0.8%至纪录高点每盎司58.94美元。",
-          "url": "https://wallstreetcn.com/livenews/3014152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "纽约期金失守4200美元/盎司，日内跌幅1.76%。",
           "url": "https://flash.jin10.com/detail/20251202235856284800",
           "source": "金十数据",
@@ -1216,17 +1256,6 @@
           "time_info": "00时42分"
         },
         {
-          "title": "印度卢比兑美元汇率跌破90关口。",
-          "url": "https://flash.jin10.com/detail/20251203113249561800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "CrowdStrike三季度营收12.3亿美元，分析师预期12.1亿美元。 预计全年营收48.0亿-48.1亿美元，公司原本预计47.5亿-48.1亿美元。 预计四季度营收12.9亿-13.0亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3013913",
           "source": "华尔街见闻-快讯",
@@ -1236,17 +1265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
-        },
-        {
-          "title": "印度卢比兑美元跌破90关口，继续创记录新低。",
-          "url": "https://wallstreetcn.com/livenews/3014145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
@@ -1442,18 +1460,6 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时08分]"
-        },
-        {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
@@ -1462,8 +1468,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时31分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时31分 ~ 13时09分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1475,8 +1481,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时31分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时31分 ~ 13时09分]"
+        },
+        {
+          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 07时08分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1621,7 +1639,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中金：黄金牛市尚未结束，建议维持超配",
@@ -1633,17 +1651,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
-        },
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1048.3吨，较前一个交易日减少1.71吨。",
-          "url": "https://flash.jin10.com/detail/20251203115112123800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月21日当周，COMEX黄金期货投机性净多头寸减少17,442手，至92,134手。COMEX白银期货投机性净多头寸减少6,425手，至18,537手。COMEX铜期货投机性净多头寸减少852手，至59,880手。",
@@ -1669,16 +1676,40 @@
           "time_info": "[03时08分 ~ 04时10分]"
         },
         {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1048.3吨，较前一个交易日减少1.71吨。",
+          "url": "https://flash.jin10.com/detail/20251203115112123800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时09分]"
+        },
+        {
           "title": "大冰回应“黄金左脸”：曾被打聋右耳",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%86%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E9%87%91%E5%B7%A6%E8%84%B8%E2%80%9D%EF%BC%9A%E6%9B%BE%E8%A2%AB%E6%89%93%E8%81%8B%E5%8F%B3%E8%80%B3",
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 13时09分]"
+        },
+        {
+          "title": "分析师：资产配置风向可能转变 黄金上涨势头面临挑战",
+          "url": "https://flash.jin10.com/detail/20251203122443710800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
@@ -1754,6 +1785,18 @@
           "time_info": "[02时34分 ~ 05时08分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时09分]"
+        },
+        {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
           "url": "https://wallstreetcn.com/articles/3760498",
           "source": "华尔街见闻",
@@ -1787,17 +1830,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时21分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
