@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T14:12:34.933467+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-12-03T15:10:13.529931+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -33,6 +33,17 @@
           "time_info": "[00时42分 ~ 08时32分]"
         },
         {
+          "title": "特朗普“点名”日本",
+          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 15时10分]"
+        },
+        {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
           "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
@@ -43,19 +54,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时31分 ~ 14时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时31分 ~ 15时10分]"
         },
         {
           "title": "特朗普“点名”日本",
-          "url": "https://news.ifeng.com/c/8omI9QpRNFm",
-          "source": "凤凰网",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
           "ranks": [
-            2
+            7,
+            4,
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 14时12分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 15时10分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -71,20 +85,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时31分 ~ 14时12分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.toutiao.com/trending/7579444252149763593/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 14时12分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -632,6 +632,17 @@
           "time_info": "[02时34分 ~ 03时08分]"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
+        },
+        {
           "title": "特朗普女婿为何出现在俄美会谈",
           "url": "https://www.toutiao.com/trending/7579438166952824330/",
           "source": "今日头条",
@@ -955,7 +966,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "WTI 1月原油期货收跌0.68美元，跌幅超过1.14%，报58.64美元/桶。 中东Abu Dhabi Murban原油期货跌1.21%，报64.36美元/桶。 NYMEX 1月天然气期货收跌超1.64%，报4.84美元/百万英热单位。 NYMEX 1月汽油期货收报1.8303美元/加仑，NYMEX 1月取暖油期货收报2.3127美元/加仑。",
@@ -967,28 +978,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "英国拟延长10亿美元债务担保 助力南非绿色转型",
-          "url": "https://flash.jin10.com/detail/20251203140515236800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "离岸人民币兑美元即期午后涨84点至7.0585，创2024年10月9日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3014213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         },
         {
           "title": "周二（12月2日），美联储隔夜逆回购协议（RRP）使用规模为56.20亿美元，上个交易日报32.40亿美元。",
@@ -1003,6 +992,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时08分]"
+        },
+        {
+          "title": "德国外长：德国将通过“乌克兰优先需求清单”（PURL）机制分两批为乌克兰再采购价值2亿美元的军事装备。",
+          "url": "https://flash.jin10.com/detail/20251203145255166800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         },
         {
           "title": "法国巴黎银行：预计2026年欧元上涨，日元下跌，美元持稳",
@@ -1043,6 +1043,18 @@
           "time_info": "[11时32分 ~ 13时09分]"
         },
         {
+          "title": "英国拟延长10亿美元债务担保 助力南非绿色转型",
+          "url": "https://flash.jin10.com/detail/20251203140515236800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时10分]"
+        },
+        {
           "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
           "url": "https://wallstreetcn.com/livenews/3013901",
           "source": "华尔街见闻-快讯",
@@ -1066,6 +1078,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 06时08分]"
+        },
+        {
+          "title": "离岸人民币兑美元即期午后涨84点至7.0585，创2024年10月9日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3014213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时10分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的56.2亿美元。",
@@ -1236,6 +1260,18 @@
           "time_info": "[00时42分 ~ 01时21分]"
         },
         {
+          "title": "欧元兑美元短线波动不大，报道称欧盟在推动关键产品70%为“欧洲制造”",
+          "url": "https://wallstreetcn.com/livenews/3014184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时10分]"
+        },
+        {
           "title": "人民币兑美元中间价报7.0754，上调40点；上一交易日中间价7.0794，上一交易日官方收盘价7.0712，上日夜盘报收7.0725。",
           "url": "https://wallstreetcn.com/livenews/3014029",
           "source": "华尔街见闻-快讯",
@@ -1269,6 +1305,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "新台币兑美元上涨0.3%至31.340。",
+          "url": "https://wallstreetcn.com/livenews/3014226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "美国货币市场基金资产规模首次突破8万亿美元",
           "url": "https://flash.jin10.com/detail/20251202235549187800",
           "source": "金十数据",
@@ -1297,7 +1344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -1344,17 +1391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
-        },
-        {
-          "title": "欧元兑美元短线波动不大，报道称欧盟在推动关键产品70%为“欧洲制造”",
-          "url": "https://wallstreetcn.com/livenews/3014184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         },
         {
           "title": "印度阿达尼集团计划到2030年斥资150亿美元扩建印度机场。",
@@ -1514,8 +1550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时31分 ~ 14时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时31分 ~ 15时10分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1527,8 +1563,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时31分 ~ 14时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时31分 ~ 15时10分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -1688,6 +1724,20 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "大冰回应“黄金左脸”：曾被打聋右耳",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%86%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E9%87%91%E5%B7%A6%E8%84%B8%E2%80%9D%EF%BC%9A%E6%9B%BE%E8%A2%AB%E6%89%93%E8%81%8B%E5%8F%B3%E8%80%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 15时10分]"
+        },
+        {
           "title": "中金：黄金牛市尚未结束，建议维持超配",
           "url": "https://flash.jin10.com/detail/20251203075836860800",
           "source": "金十数据",
@@ -1708,19 +1758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
-        },
-        {
-          "title": "大冰回应“黄金左脸”：曾被打聋右耳",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%86%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E9%87%91%E5%B7%A6%E8%84%B8%E2%80%9D%EF%BC%9A%E6%9B%BE%E8%A2%AB%E6%89%93%E8%81%8B%E5%8F%B3%E8%80%B3",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 14时12分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月2日（周二）晚盘收盘下跌0.74%报948.61元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）晚盘收盘上涨1.42%报13605.0元/千克。",
@@ -1786,7 +1823,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -1831,6 +1868,20 @@
           "time_info": "[00时42分 ~ 06时08分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 15时10分]"
+        },
+        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -1840,19 +1891,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时34分 ~ 05时08分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 14时12分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -2023,18 +2061,30 @@
           "url": "https://wallstreetcn.com/livenews/3014188",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 15时10分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
+        },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
           "url": "https://flash.jin10.com/detail/20251203101800307800",
@@ -2061,8 +2111,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
+          "url": "https://flash.jin10.com/detail/20251203144426116800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
         {
           "title": "摩根大通预计美债收益率明年将上升，降息预期料减弱",
           "url": "https://wallstreetcn.com/livenews/3013963",
