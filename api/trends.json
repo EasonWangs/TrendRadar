@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T08:32:46.182770+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-12-04T09:37:27.039065+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             17,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 08时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 09时37分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -41,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 08时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 09时37分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -63,9 +64,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 09时37分]"
         },
         {
           "title": "马杜罗证实近日曾与特朗普通话",
@@ -74,7 +75,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -402,13 +403,25 @@
           "time_info": "[06时08分 ~ 07时07分]"
         },
         {
+          "title": "内塔尼亚胡为赦免请特朗普“帮帮忙”",
+          "url": "https://www.toutiao.com/trending/7579542336116657700/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 09时37分]"
+        },
+        {
           "title": "美国国务院备忘录显示，特朗普政府下令加强对H-1B签证申请人的审查。",
           "url": "https://wallstreetcn.com/livenews/3014715",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -496,7 +509,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -540,7 +553,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -573,18 +586,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
-        },
-        {
-          "title": "内塔尼亚胡为赦免请特朗普“帮帮忙”",
-          "url": "https://www.toutiao.com/trending/7579542336116657700/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         }
@@ -592,7 +594,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
@@ -601,9 +603,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 09时37分]"
         },
         {
           "title": "比特币一度升破94000美元，日内涨超2%。",
@@ -623,7 +625,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -862,7 +864,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -878,13 +880,24 @@
           "time_info": "06时08分"
         },
         {
+          "title": "人民币兑美元中间价报7.0733，上调21点；上一交易日中间价7.0754，上一交易日官方收盘价7.0661，上日夜盘报收7.0640。",
+          "url": "https://wallstreetcn.com/livenews/3014746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
           "title": "LME期铜创历史新高 因供应收紧且美元走软",
           "url": "https://flash.jin10.com/detail/20251204074510102800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -895,7 +908,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -972,9 +985,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "高盛对2026年铝、锂和铁矿石的前景持悲观态度。 高盛表示，铜价突破11,000美元的上涨行情将是短暂的。",
+          "url": "https://wallstreetcn.com/livenews/3014729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         },
         {
           "title": "Anthropic首席执行官警告称，一些人工智能巨头正在不计后果地在数据中心和芯片上投入数千亿美元，整个行业正押注于尚不确定的经济回报。",
@@ -994,7 +1018,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         }
@@ -1039,8 +1063,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时11分 ~ 08时32分]"
+          "appearance_count": 7,
+          "time_info": "[02时11分 ~ 09时37分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -1052,6 +1076,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 09时37分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 09时37分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -1089,18 +1138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时07分]"
-        },
-        {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 08时32分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股盘中）",
@@ -1187,17 +1224,6 @@
           "time_info": "06时08分"
         },
         {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
-        },
-        {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3014632",
           "source": "华尔街见闻-快讯",
@@ -1266,8 +1292,82 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
+          "url": "https://www.cls.cn/detail/2218494",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时07分]"
+        },
+        {
+          "title": "大额存单概念正在淡化，稀缺额度锚定高端客户",
+          "url": "https://wallstreetcn.com/livenews/3014668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
+          "url": "https://wallstreetcn.com/livenews/3014762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "微软(MSFT.O)：The Information的报道错误地将增长目标与销售配额这两个概念混为一谈。",
+          "url": "https://flash.jin10.com/detail/20251204011306577800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "机器人概念股走高，报道称特朗普政府考虑支持该行业",
+          "url": "https://wallstreetcn.com/livenews/3014574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "日本工业机器人概念股走强",
+          "url": "https://flash.jin10.com/detail/20251204083735730800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -1316,64 +1416,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
-          "url": "https://www.cls.cn/detail/2218494",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时07分]"
         },
         {
-          "title": "大额存单概念正在淡化，稀缺额度锚定高端客户",
-          "url": "https://wallstreetcn.com/livenews/3014668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "微软(MSFT.O)：The Information的报道错误地将增长目标与销售配额这两个概念混为一谈。",
-          "url": "https://flash.jin10.com/detail/20251204011306577800",
+          "title": "金十数据整理：今年OpenAI收购/整合动作频频 战略布局持续扩展加深",
+          "url": "https://flash.jin10.com/detail/20251204084109046800",
           "source": "金十数据",
           "ranks": [
-            9,
-            22
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时08分]"
-        },
-        {
-          "title": "机器人概念股走高，报道称特朗普政府考虑支持该行业",
-          "url": "https://wallstreetcn.com/livenews/3014574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
@@ -1401,15 +1460,37 @@
           "time_info": "[06时08分 ~ 07时07分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月4日（周四）早盘盘初上涨0.01%报953.09元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）早盘盘初上涨0.03%报13646.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251204090048740800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.72吨，当前持仓量为1046.58吨。",
           "url": "https://flash.jin10.com/detail/20251204074759954800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "开源证券：情绪消费时代，关注高端黄金和时尚黄金品牌",
+          "url": "https://flash.jin10.com/detail/20251204081751971800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         }
       ]
     },
@@ -1424,11 +1505,12 @@
           "ranks": [
             4,
             3,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 08时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 09时37分]"
         }
       ]
     },
@@ -1443,9 +1525,26 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 09时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
+          "url": "https://flash.jin10.com/detail/20251204082809199800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时32分"
+          "time_info": "09时37分"
         }
       ]
     },
