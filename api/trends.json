@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T09:37:27.039065+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2025-12-04T10:40:54.039992+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 09时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 10时40分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -42,8 +42,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 09时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 10时40分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 10时40分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -56,17 +67,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 04时10分]"
-        },
-        {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时37分]"
         },
         {
           "title": "马杜罗证实近日曾与特朗普通话",
@@ -426,6 +426,17 @@
           "time_info": "08时32分"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
           "url": "https://flash.jin10.com/detail/20251204055451717800",
           "source": "金十数据",
@@ -468,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普剩余任期内，美中关系将保持良好态势。（FOX NEWS）",
+          "url": "https://wallstreetcn.com/livenews/3014812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "美国财政部经济顾问拉沃尼亚：我们需要美联储的帮助，但经济终将复苏。特朗普在美联储官员任命时间上一直吊着我们的胃口。",
@@ -594,7 +616,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
@@ -604,8 +626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时37分]"
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 10时40分]"
         },
         {
           "title": "比特币一度升破94000美元，日内涨超2%。",
@@ -886,7 +908,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -900,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "路透调查：到2026年2月底，预计印度卢比兑美元将涨至88.91，5月底至88.83，11月底至89.65。",
+          "url": "https://flash.jin10.com/detail/20251204100612833800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "派拉蒙天舞已将其收购华纳兄弟探索公司(WBD.O)的分手费提高至50亿美元，较此前的21亿美元增加一倍以上。",
@@ -922,6 +955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报59.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251204094605840800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "Snowflake与Anthropic宣布2亿美元规模的合作。",
@@ -990,13 +1034,24 @@
           "time_info": "08时32分"
         },
         {
+          "title": "宗馥莉据悉寻求就18亿美元资产纠纷进一步上诉。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3014796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "高盛对2026年铝、锂和铁矿石的前景持悲观态度。 高盛表示，铜价突破11,000美元的上涨行情将是短暂的。",
           "url": "https://wallstreetcn.com/livenews/3014729",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -1063,8 +1118,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 09时37分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 10时40分]"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时06分 ~ 10时40分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -1078,19 +1146,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时06分 ~ 09时37分]"
-        },
-        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -1099,8 +1154,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时32分 ~ 09时37分]"
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 10时40分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -1292,74 +1347,86 @@
       ]
     },
     {
-      "keyword_group": "概念",
-      "match_count": 6,
+      "keyword_group": "黄金",
+      "match_count": 7,
       "titles": [
         {
-          "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
-          "url": "https://www.cls.cn/detail/2218494",
-          "source": "财联社热门",
+          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251204023019079800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 05时08分]"
+        },
+        {
+          "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
+          "url": "https://wallstreetcn.com/livenews/3014644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时07分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月4日（周四）早盘盘初上涨0.01%报953.09元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）早盘盘初上涨0.03%报13646.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251204090048740800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时07分]"
-        },
-        {
-          "title": "大额存单概念正在淡化，稀缺额度锚定高端客户",
-          "url": "https://wallstreetcn.com/livenews/3014668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
-          "url": "https://wallstreetcn.com/livenews/3014762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
         {
-          "title": "微软(MSFT.O)：The Information的报道错误地将增长目标与销售配额这两个概念混为一谈。",
-          "url": "https://flash.jin10.com/detail/20251204011306577800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.72吨，当前持仓量为1046.58吨。",
+          "url": "https://flash.jin10.com/detail/20251204074759954800",
           "source": "金十数据",
           "ranks": [
-            9,
-            22
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时08分]"
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
-          "title": "机器人概念股走高，报道称特朗普政府考虑支持该行业",
-          "url": "https://wallstreetcn.com/livenews/3014574",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金短线下挫10美元，向下触及4200美元/盎司，日内跌0.07%。",
+          "url": "https://flash.jin10.com/detail/20251204100649105800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            21
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
-          "title": "日本工业机器人概念股走强",
-          "url": "https://flash.jin10.com/detail/20251204083735730800",
+          "title": "受降息预期影响 亚洲早盘黄金小幅走高",
+          "url": "https://flash.jin10.com/detail/20251204094343079800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "开源证券：情绪消费时代，关注高端黄金和时尚黄金品牌",
+          "url": "https://flash.jin10.com/detail/20251204081751971800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         }
@@ -1367,7 +1434,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -1424,71 +1491,120 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "OpenAI拟与SpaceX竞争 曾探讨与火箭公司进行交易",
+          "url": "https://flash.jin10.com/detail/20251204093928191800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指日线二连阴失守10日均线，商业航天盘中现多次巨震，超硬材料概念异军突起",
+          "url": "https://www.cls.cn/detail/2218494",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时07分]"
+        },
+        {
+          "title": "大额存单概念正在淡化，稀缺额度锚定高端客户",
+          "url": "https://wallstreetcn.com/livenews/3014668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "机器人概念股开盘领涨，睿能科技6天5板，骏亚科技、龙溪股份涨停，日盈电子、斯菱股份创历史新高，长盈精密、恒立液压、方正电机、襄阳轴承涨幅靠前，消息面上，特斯拉Optimus官方发布“擎天柱”人形机器人跑步视频，并配文称在实验室刷新了个人纪录。",
+          "url": "https://wallstreetcn.com/livenews/3014762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "微软(MSFT.O)：The Information的报道错误地将增长目标与销售配额这两个概念混为一谈。",
+          "url": "https://flash.jin10.com/detail/20251204011306577800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "机器人概念股走高，报道称特朗普政府考虑支持该行业",
+          "url": "https://wallstreetcn.com/livenews/3014574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时08分]"
+        },
+        {
+          "title": "日本工业机器人概念股走强",
+          "url": "https://flash.jin10.com/detail/20251204083735730800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 5,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251204023019079800",
+          "title": "金十图示：2025年12月04日（周四）上海金早盘价为952.5元/克，较国际金价(955.12元/克)，低2.62元/克",
+          "url": "https://flash.jin10.com/detail/20251204101723963800",
           "source": "金十数据",
           "ranks": [
-            5,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时08分]"
-        },
-        {
-          "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
-          "url": "https://wallstreetcn.com/livenews/3014644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时08分 ~ 07时07分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月4日（周四）早盘盘初上涨0.01%报953.09元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）早盘盘初上涨0.03%报13646.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251204090048740800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "10时40分"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.72吨，当前持仓量为1046.58吨。",
-          "url": "https://flash.jin10.com/detail/20251204074759954800",
+          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
+          "url": "https://flash.jin10.com/detail/20251204082809199800",
           "source": "金十数据",
           "ranks": [
-            11
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时32分"
-        },
-        {
-          "title": "开源证券：情绪消费时代，关注高端黄金和时尚黄金品牌",
-          "url": "https://flash.jin10.com/detail/20251204081751971800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时37分"
         }
@@ -1506,11 +1622,12 @@
             4,
             3,
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 09时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 10时40分]"
         }
       ]
     },
@@ -1528,23 +1645,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时32分 ~ 09时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
-          "url": "https://flash.jin10.com/detail/20251204082809199800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         }
       ]
     },
