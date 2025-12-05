@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T16:11:27.165722+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-12-05T17:09:38.417789+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
@@ -584,6 +584,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "中国香港11月外汇储备 4294亿美元，前值由4260亿美元修正为4261亿美元。",
+          "url": "https://flash.jin10.com/detail/20251205163011541800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "【报道：百度AI芯片业务昆仑芯计划在香港IPO】路透援引消息人士称，昆仑芯最近融资2.83亿美元，估值为29.7亿美元。",
           "url": "https://wallstreetcn.com/livenews/3015608",
           "source": "华尔街见闻-快讯",
@@ -626,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "中国台湾11月外汇存底 5997.91亿美元，前值6002亿美元。",
+          "url": "https://flash.jin10.com/detail/20251205162002198800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "纽约期银向上触及58美元/盎司，日内涨0.89%。",
@@ -716,6 +738,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0706，较上一交易日官方收盘价跌16点，较上日夜盘收盘涨4点。",
+          "url": "https://wallstreetcn.com/livenews/3015756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "WTI原油期货日内涨幅达1.00%，现报59.54美元/桶。",
           "url": "https://flash.jin10.com/detail/20251204235204449800",
           "source": "金十数据",
@@ -755,7 +788,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -774,7 +807,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -1031,6 +1064,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "与特朗普意见不合，白宫宴会厅设计师换人",
+          "url": "https://wallstreetcn.com/livenews/3015772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "据国际文传电讯社：克里姆林宫表示，目前尚无俄罗斯总统普京与美国总统特朗普通话的计划。",
           "url": "https://flash.jin10.com/detail/20251205133653740800",
           "source": "金十数据",
@@ -1275,7 +1319,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -1294,8 +1338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时32分 ~ 16时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时32分 ~ 17时09分]"
         },
         {
           "title": "美股收盘：小盘股指数再创历史新高",
@@ -1468,7 +1512,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】双创指数缩量涨逾1%，两市成交额创4个月地量，摩尔线程概念大放异彩",
@@ -1504,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "恒生指数收涨0.58%，恒生科技指数涨0.84%。保险股领涨，中国平安涨近7%，中国人寿涨超5%。百度集团涨逾5%，领涨科网股；新能源车概念股反弹，小鹏汽车、蔚来涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3015750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
