@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T19:07:43.217207+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2025-12-06T20:12:13.260883+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "如何评价网飞 827 亿美元收购华纳兄弟、 HBO 及 HBO Max？会对影视行业带来什么影响？",
@@ -46,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时30分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[08时30分 ~ 20时12分]"
         },
         {
           "title": "商业航天迎重磅刺激！SpaceX冲击8000亿美元估值 瞄准明年IPO",
@@ -61,8 +61,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时30分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[08时30分 ~ 20时12分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时08分 ~ 20时12分]"
         },
         {
           "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
@@ -76,19 +89,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时08分 ~ 09时36分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时07分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈按8000亿美元估值出售股票。 该公司CFO最近数日向投资者们通报了股票出售事宜。（华尔街日报）",
@@ -241,6 +241,19 @@
           "time_info": "[06时08分 ~ 08时30分]"
         },
         {
+          "title": "据消息人士透露，由于估值分歧，安宏资本收购惠而浦印度公司股份的10亿美元交易谈判已经破裂。",
+          "url": "https://flash.jin10.com/detail/20251206175320999800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 20时12分]"
+        },
+        {
           "title": "巴西雷亚尔兑美元跌幅扩大至2.7%，身陷囹圄的前巴西总统Bolsonaro选择自己儿子Flavio Bolsonaro为总统候选人。",
           "url": "https://wallstreetcn.com/livenews/3016095",
           "source": "华尔街见闻-快讯",
@@ -316,18 +329,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 03时08分]"
-        },
-        {
-          "title": "据消息人士透露，由于估值分歧，安宏资本收购惠而浦印度公司股份的10亿美元交易谈判已经破裂。",
-          "url": "https://flash.jin10.com/detail/20251206175320999800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时07分]"
         },
         {
           "title": "美国原油期货收涨至60美元关口上方，纽约天然气本周涨9%",
@@ -431,6 +432,31 @@
           "time_info": "[07时08分 ~ 09时36分]"
         },
         {
+          "title": "卡塔尔能源部长：油价在70至80美元之间，足以带来足够收入，用于投资满足未来能源需求；若超过90美元，则过高。",
+          "url": "https://flash.jin10.com/detail/20251206170435277800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 20时12分]"
+        },
+        {
+          "title": "乌兹别克斯坦央行：外汇储备在11月达到612亿美元（此前为593亿美元）。",
+          "url": "https://flash.jin10.com/detail/20251206181506068800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 20时12分]"
+        },
+        {
           "title": "阿根廷将发行美元国债以偿还到期债务",
           "url": "https://wallstreetcn.com/livenews/3016252",
           "source": "华尔街见闻-快讯",
@@ -441,18 +467,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 17时08分]"
-        },
-        {
-          "title": "卡塔尔能源部长：油价在70至80美元之间，足以带来足够收入，用于投资满足未来能源需求；若超过90美元，则过高。",
-          "url": "https://flash.jin10.com/detail/20251206170435277800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时07分]"
         },
         {
           "title": "巴西11月官方储备资产较之前一个月增长34.8亿美元，环比增幅1%，至3606亿美元，创2024年11月以来新高。",
@@ -575,15 +589,15 @@
           "time_info": "[09时36分 ~ 10时38分]"
         },
         {
-          "title": "乌兹别克斯坦央行：外汇储备在11月达到612亿美元（此前为593亿美元）。",
-          "url": "https://flash.jin10.com/detail/20251206181506068800",
-          "source": "金十数据",
+          "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
+          "url": "https://wallstreetcn.com/livenews/3016301",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时07分"
+          "time_info": "20时12分"
         },
         {
           "title": "美、布两油短线持续走高，WTI原油向上触及60美元/桶，日内涨近1%，布油现涨约0.8%。",
@@ -633,7 +647,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -761,17 +775,6 @@
           "time_info": "[11时27分 ~ 15时08分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
-          "url": "https://flash.jin10.com/detail/20251206183915607800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
           "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
           "url": "https://flash.jin10.com/detail/20251206125008162800",
           "source": "金十数据",
@@ -827,6 +830,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时27分 ~ 15时08分]"
+        },
+        {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时08分 ~ 20时12分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
@@ -946,6 +962,31 @@
           "time_info": "[09时36分 ~ 11时27分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-06）",
+          "url": "https://flash.jin10.com/detail/20251206183915607800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 20时12分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 20时12分]"
+        },
+        {
           "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
           "url": "https://flash.jin10.com/detail/20251206083946203800",
           "source": "金十数据",
@@ -970,19 +1011,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时10分 ~ 04时09分]"
-        },
-        {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 19时07分]"
         },
         {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
@@ -1057,6 +1085,17 @@
           "time_info": "[02时10分 ~ 03时08分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
+        },
+        {
           "title": "加拿大总理办公室：卡尼先会见了墨西哥总统谢因鲍姆，接下来将与特朗普会面。",
           "url": "https://flash.jin10.com/detail/20251206004910784800",
           "source": "金十数据",
@@ -1103,18 +1142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时07分]"
         },
         {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
@@ -1165,8 +1192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时30分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[08时30分 ~ 20时12分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -1193,8 +1220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时30分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[08时30分 ~ 20时12分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -1207,8 +1234,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时30分 ~ 19时07分]"
+          "appearance_count": 18,
+          "time_info": "[08时30分 ~ 20时12分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -1561,8 +1588,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时27分 ~ 19时07分]"
+          "appearance_count": 14,
+          "time_info": "[11时27分 ~ 20时12分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -1585,8 +1612,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时07分]"
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 20时12分]"
         }
       ]
     },
@@ -1604,8 +1631,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时27分 ~ 19时07分]"
+          "appearance_count": 14,
+          "time_info": "[11时27分 ~ 20时12分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
@@ -1650,8 +1677,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 19时07分]"
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 20时12分]"
         },
         {
           "title": "丰田发布传奇LFA的后续车型：全新全电动雷克萨斯概念超级跑车",
@@ -1705,6 +1732,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
+          "url": "https://wallstreetcn.com/articles/3760844",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 20时12分]"
         }
       ]
     },
