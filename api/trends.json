@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T18:07:47.739613+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-12-07T19:07:27.937778+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -105,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时36分 ~ 18时07分]"
+          "appearance_count": 11,
+          "time_info": "[11时36分 ~ 19时07分]"
         },
         {
           "title": "涉案金额超10亿美元，明尼苏达州系列社会福利诈骗案震动美国",
@@ -120,6 +120,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时09分 ~ 09时37分]"
+        },
+        {
+          "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
+          "url": "https://wallstreetcn.com/articles/3760864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时09分 ~ 19时07分]"
         },
         {
           "title": "马斯克旗下 SpaceX 考虑 2026 年 IPO，最新估值达 8 千亿美元，较今年 7 月翻倍，对此你怎么看？",
@@ -149,19 +163,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时35分 ~ 12时18分]"
-        },
-        {
-          "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
-          "url": "https://wallstreetcn.com/articles/3760864",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时09分 ~ 18时07分]"
         },
         {
           "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
@@ -205,12 +206,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时46分 ~ 13时08分]"
+        },
+        {
+          "title": "埃及央行：埃及11月外汇储备增至502.16亿美元，10月为500.71亿美元。",
+          "url": "https://flash.jin10.com/detail/20251207182730672800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -279,17 +291,6 @@
           "time_info": "[13时08分 ~ 17时08分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
-          "url": "https://flash.jin10.com/detail/20251207175156547800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
@@ -305,6 +306,18 @@
           "time_info": "[13时08分 ~ 17时08分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207175156547800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时07分]"
+        },
+        {
           "title": "年终总结特朗普重返白宫",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB",
           "source": "bilibili 热搜",
@@ -314,6 +327,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时07分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -333,18 +358,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -358,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "特朗普威胁封锁委领空 马杜罗咋办",
+          "url": "https://www.toutiao.com/trending/7581027611489340991/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
@@ -396,6 +421,19 @@
           "time_info": "[16时09分 ~ 18时07分]"
         },
         {
+          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
+          "url": "https://wallstreetcn.com/articles/3760861",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 19时07分]"
+        },
+        {
           "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
           "url": "https://flash.jin10.com/detail/20251207101618516800",
           "source": "金十数据",
@@ -409,18 +447,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时46分 ~ 14时10分]"
-        },
-        {
-          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
-          "url": "https://wallstreetcn.com/articles/3760861",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 18时07分]"
         },
         {
           "title": "中国央行连续第13个月增持黄金",
@@ -461,11 +487,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 18时07分]"
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 19时07分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -588,8 +615,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时08分 ~ 18时07分]"
+          "appearance_count": 26,
+          "time_info": "[00时08分 ~ 19时07分]"
         }
       ]
     }
