@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T06:08:25.626867+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2025-12-09T07:08:28.192712+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
+          "url": "https://wallstreetcn.com/livenews/3017188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "美国总统特朗普：农业设备已经变得太贵了。",
@@ -329,6 +340,17 @@
           "time_info": "[05时08分 ~ 06时08分]"
         },
         {
+          "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
+          "url": "https://flash.jin10.com/detail/20251209063630862800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
           "url": "https://flash.jin10.com/detail/20251209024442293800",
           "source": "金十数据",
@@ -349,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "市场消息：美国法官裁定特朗普禁止风能项目的行政令是非法的。",
+          "url": "https://flash.jin10.com/detail/20251209062839282800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "美国总统特朗普：正采取行动保护农民。",
@@ -379,7 +412,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -420,7 +453,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -431,19 +464,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时08分]"
-        },
-        {
-          "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
-          "url": "https://flash.jin10.com/detail/20251209055332882800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "LME期铜收涨15美元，报11636美元/吨。 LME期铝收跌10美元，报2888美元/吨。 LME期锌收涨23美元，报3121美元/吨。 LME期铅收跌4美元，报1998美元/吨。 LME期镍收跌10美元，报14840美元/吨。 LME期锡收跌184美元，报39884美元/吨。 LME期钴收平，报52220美元/吨。",
@@ -457,6 +479,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时09分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
+          "url": "https://flash.jin10.com/detail/20251209055332882800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，美元兑日元涨0.37%，报155.90日元，日内交投区间为154.90-155.99日元，亚太早盘小幅下跌，之后持续走高。 欧元兑日元涨0.35%，报181.45日元；英镑兑日元涨0.34%，报207.752日元。",
@@ -558,6 +592,18 @@
           "time_info": "[04时09分 ~ 05时08分]"
         },
         {
+          "title": "联合国机构呼吁2026年筹集330亿美元人道资金",
+          "url": "https://flash.jin10.com/detail/20251209051719160800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "Medline Inc.寻求2025年进行53.7亿美元规模的美国IPO。",
           "url": "https://wallstreetcn.com/livenews/3017151",
           "source": "华尔街见闻-快讯",
@@ -568,6 +614,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "美国联邦贸易委员会表示，7-ELEVEN将支付450万美元罚款，以了结联邦贸易委员会反垄断命令违规案件。",
+          "url": "https://flash.jin10.com/detail/20251209051654641800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "初创公司UnConventional按45亿美元估值进行种子轮融资。",
@@ -604,26 +662,15 @@
           "time_info": "04时09分"
         },
         {
-          "title": "联合国机构呼吁2026年筹集330亿美元人道资金",
-          "url": "https://flash.jin10.com/detail/20251209051719160800",
-          "source": "金十数据",
+          "title": "周一（12月8日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报7.0717元，较上周五纽约尾盘跌25点，日内整体交投于7.0647-7.0729元区间。",
+          "url": "https://wallstreetcn.com/livenews/3017181",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美国联邦贸易委员会表示，7-ELEVEN将支付450万美元罚款，以了结联邦贸易委员会反垄断命令违规案件。",
-          "url": "https://flash.jin10.com/detail/20251209051654641800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
         },
         {
           "title": "派拉蒙天舞：若拟议交易在特定情况下终止，派拉蒙将向华纳兄弟探索支付50亿美元的终止费。",
@@ -643,7 +690,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -772,7 +819,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -786,8 +833,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -798,52 +845,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3017174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
-          "url": "https://wallstreetcn.com/livenews/3017172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
-          "url": "https://flash.jin10.com/detail/20251209054521705800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3017167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
@@ -858,48 +873,132 @@
           "time_info": "[05时08分 ~ 06时08分]"
         },
         {
+          "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
+          "url": "https://wallstreetcn.com/livenews/3017172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
+          "url": "https://flash.jin10.com/detail/20251209054521705800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
           "url": "https://wallstreetcn.com/livenews/3017165",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251209050623264800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251209050617161800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，欧元兑美元大致持平，报1.1641，亚太尾盘涨至1.1672刷新日高，之后震荡走低，美股盘初显著下跌，欧股收盘前刷新日低至1.1617。",
           "url": "https://wallstreetcn.com/livenews/3017155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "英伟达美股盘后涨幅扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
+          "url": "https://wallstreetcn.com/livenews/3017179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌2.34%，报311.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌2.17%，刷新日低至2235.45点；美股开盘之前维持微跌状态——持稳于2280点附近，之后转而短暂地微幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3017176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -908,7 +1007,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -960,7 +1059,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "欧洲央行批评意大利修订黄金储备提案，担忧央行独立性受损",
@@ -996,6 +1095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，现货黄金跌0.19%，报4189.69美元/盎司，日内交投于4218.96-4176.42美元区间。 COMEX黄金期货跌0.56%，报4219.20美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3017175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "国际金银短线异动，现货黄金短线走低17美元，向下触及4180美元/盎司，日内跌0.38%。现货白银短线下挫0.4美元，现报57.74美元/盎司。",
@@ -1104,19 +1214,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时08分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
           "url": "https://wallstreetcn.com/livenews/3017166",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         }
       ]
     },
@@ -1150,8 +1261,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时08分]"
         }
       ]
     }
