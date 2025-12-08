@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:11:49.832930+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2025-12-08T16:12:37.503858+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时08分 ~ 15时11分]"
+          "appearance_count": 22,
+          "time_info": "[00时08分 ~ 16时12分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -177,6 +177,17 @@
           "time_info": "[14时13分 ~ 15时11分]"
         },
         {
+          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
+          "url": "https://wallstreetcn.com/articles/3760898",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 16时12分]"
+        },
+        {
           "title": "中国11月出口同比（按美元计）同比 5.9%，预估为4%，前值为-1.1%。 中国11月进口同比（按美元计）同比 1.9%，前值为1%。 中国11月贸易顺差 1,116.8亿美元，预估为顺差 1,031亿美元，前值为顺差 900.7亿美元。",
           "url": "https://wallstreetcn.com/livenews/3016668",
           "source": "华尔街见闻-快讯",
@@ -236,15 +247,15 @@
           "time_info": "09时37分"
         },
         {
-          "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
-          "url": "https://wallstreetcn.com/articles/3760898",
-          "source": "华尔街见闻",
+          "title": "每月购债450亿美元？美联储本周还有比降息更重要的事：会否扩表……",
+          "url": "https://www.cls.cn/detail/2222636",
+          "source": "财联社热门",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "16时12分"
         },
         {
           "title": "据华尔街日报：消息人士称，IBM(IBM.N)正就收购数据流平台Confluent进行高级谈判，一项约110亿美元的交易可能于周一达成。",
@@ -269,6 +280,17 @@
           "time_info": "13时10分"
         },
         {
+          "title": "伊朗诈骗案主谋获死刑，受害者达数万人，涉及金额约3.5亿美元",
+          "url": "https://news.ifeng.com/c/8ousuwo2uQb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0764，下调15点；上一交易日中间价7.0749，上一交易日官方收盘价7.0706，上日夜盘报收7.0720。",
           "url": "https://wallstreetcn.com/livenews/3016547",
           "source": "华尔街见闻-快讯",
@@ -280,13 +302,24 @@
           "time_info": "09时37分"
         },
         {
+          "title": "印度今年的IPO规模已达到创纪录的1.77万亿印度卢比（约合196亿美元），超过去年的1.73万亿印度卢比。",
+          "url": "https://flash.jin10.com/detail/20251208153344661800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "万达商管拟明年1月5日召开债券持有人会议，寻求一笔4亿美元债展期至2028年2月",
           "url": "https://wallstreetcn.com/livenews/3016764",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -371,7 +404,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -466,11 +499,12 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 15时11分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 16时12分]"
         },
         {
           "title": "特朗普责成高级顾问应对牛肉价格飙涨",
@@ -629,6 +663,28 @@
           "time_info": "09时37分"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "特朗普政府战略调整，赖清德当局战略冒进",
+          "url": "https://news.ifeng.com/c/8ouw16T8NSP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普已就如何降低牛肉价格组织了政策会议。",
           "url": "https://flash.jin10.com/detail/20251208090025604800",
           "source": "金十数据",
@@ -731,7 +787,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
@@ -760,6 +816,17 @@
           "time_info": "[01时07分 ~ 06时07分]"
         },
         {
+          "title": "流感自救抓住“黄金48小时”",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E8%87%AA%E6%95%91%E6%8A%93%E4%BD%8F%E2%80%9C%E9%BB%84%E9%87%9148%E5%B0%8F%E6%97%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时12分]"
+        },
+        {
           "title": "大佬密集预警，黄金涨势会刹车吗？",
           "url": "https://flash.jin10.com/detail/20251207202650333800",
           "source": "金十数据",
@@ -771,17 +838,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 05时07分]"
-        },
-        {
-          "title": "流感自救抓住“黄金48小时”",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E8%87%AA%E6%95%91%E6%8A%93%E4%BD%8F%E2%80%9C%E9%BB%84%E9%87%9148%E5%B0%8F%E6%97%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 15时11分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）黄金ETF持仓报告",
@@ -826,7 +882,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -840,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月8日（周一）收盘上涨0.05%报953.5元/克；<br/>上海黄金交易所白银T+D 12月8日（周一）收盘上涨1.13%报13650.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251208153055051800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "“超级央行周”来袭，现货白银上周涨势强劲，剑指60美元整数大关，多头占比较高位略有回落；现货黄金维持高位震荡，多头占比升至70%以上，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -943,11 +1010,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 16时12分]"
         },
         {
           "title": "OpenAI“红色警报”拉响，30岁ChatGPT负责人走向台前",
