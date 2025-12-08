@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:10:37.560010+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-12-08T14:13:37.398345+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -25,8 +25,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 13时10分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 14时13分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -51,11 +51,12 @@
             16,
             17,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 13时10分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 14时13分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -66,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时32分 ~ 13时10分]"
+          "appearance_count": 9,
+          "time_info": "[08时32分 ~ 14时13分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -77,8 +78,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 14时13分]"
+        },
+        {
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时37分 ~ 13时10分]"
+          "time_info": "[10时41分 ~ 14时13分]"
         },
         {
           "title": "特朗普责成高级顾问应对牛肉价格飙涨",
@@ -104,15 +116,17 @@
           "time_info": "[11时35分 ~ 12时17分]"
         },
         {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
           "ranks": [
-            11
+            16,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时41分 ~ 13时10分]"
+          "time_info": "[11时35分 ~ 14时13分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -185,18 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时33分 ~ 09时37分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 13时10分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -362,7 +364,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
@@ -372,8 +374,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 13时10分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 14时13分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -581,6 +583,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "LME三个月期铜涨至11771美元/吨，再创纪录新高。",
+          "url": "https://flash.jin10.com/detail/20251208134857680800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，IBM(IBM.N)正就收购数据流平台Confluent进行高级谈判，一项约110亿美元的交易可能于周一达成。",
           "url": "https://flash.jin10.com/detail/20251208110341448800",
           "source": "金十数据",
@@ -598,7 +611,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
@@ -694,7 +707,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
@@ -749,6 +762,17 @@
           "time_info": "[07时07分 ~ 13时10分]"
         },
         {
+          "title": "流感自救抓住“黄金48小时”",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E8%87%AA%E6%95%91%E6%8A%93%E4%BD%8F%E2%80%9C%E9%BB%84%E9%87%9148%E5%B0%8F%E6%97%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时13分]"
+        },
+        {
           "title": "中国央行连续第13个月增持黄金",
           "url": "https://www.douyin.com/hot/2329192",
           "source": "抖音",
@@ -760,17 +784,6 @@
           "time_info": "[05时06分 ~ 06时07分]"
         },
         {
-          "title": "流感自救抓住“黄金48小时”",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%81%E6%84%9F%E8%87%AA%E6%95%91%E6%8A%93%E4%BD%8F%E2%80%9C%E9%BB%84%E9%87%9148%E5%B0%8F%E6%97%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 13时10分]"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 12月8日（周一）早盘盘初下跌0.28%报950.36元/克；<br/>上海黄金交易所白银T+D 12月8日（周一）早盘盘初上涨1.26%报13668.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251208090132091800",
           "source": "金十数据",
@@ -780,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "现货黄金短线走高近10美元，现报4214美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251208133546800800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "“超级央行周”来袭，现货白银上周涨势强劲，剑指60美元整数大关，多头占比较高位略有回落；现货黄金维持高位震荡，多头占比升至70%以上，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -796,7 +820,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "火箭箭体结构件已实现小批量交付 商业航天概念股20CM涨停 本周机构密集调研相关上市公司",
@@ -806,11 +830,12 @@
             11,
             8,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时32分 ~ 13时10分]"
+          "appearance_count": 9,
+          "time_info": "[08时32分 ~ 14时13分]"
         },
         {
           "title": "A股商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
@@ -846,6 +871,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3016725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "A股海南自贸概念震荡走强，新大洲A涨停，海南发展此前封板，凯撒旅业、康芝药业、海峡股份、海南海药、海马汽车跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3016720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -853,6 +900,18 @@
       "keyword_group": "openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 14时13分]"
+        },
         {
           "title": "OpenAI“红色警报”拉响，30岁ChatGPT负责人走向台前",
           "url": "https://www.cls.cn/detail/2222099",
@@ -863,24 +922,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 12时17分]"
-        },
-        {
-          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
-          "url": "https://www.cls.cn/detail/2222331",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "欧莱雅将所持高德美股份增持至20%。",
+          "url": "https://wallstreetcn.com/livenews/3016758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
         {
           "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
           "url": "https://wallstreetcn.com/livenews/3016623",
