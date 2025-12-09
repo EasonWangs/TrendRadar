@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-10T03:07:59.625181+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-12-10T04:08:38.106268+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "派拉蒙计划以1084亿美元收购华纳",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B4%BE%E6%8B%89%E8%92%99%E8%AE%A1%E5%88%92%E4%BB%A51084%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            24,
+            15,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
+        },
         {
           "title": "现货白银首次站上60美元/盎司",
           "url": "https://flash.jin10.com/detail/20251209234805329800",
@@ -19,18 +34,15 @@
           "time_info": "00时10分"
         },
         {
-          "title": "派拉蒙计划以1084亿美元收购华纳",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B4%BE%E6%8B%89%E8%92%99%E8%AE%A1%E5%88%92%E4%BB%A51084%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3",
-          "source": "bilibili 热搜",
+          "title": "WTI 1月原油期货收跌0.63美元，跌幅1.07%，报58.25美元/桶。 NYMEX 1月天然气期货收报4.5740美元/百万英热单位。 NYMEX 1月汽油期货收报1.7897美元/加仑，NYMEX 1月取暖油期货收报2.2601美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3017866",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            24,
-            15,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "美国银行：供应过剩料将在2026年把石油价格压低至60美元下方。",
@@ -77,6 +89,19 @@
           "time_info": "02时11分"
         },
         {
+          "title": "周二（12月9日），韩元兑美元最终涨0.02%，报1469.62韩元。 日内交投于1472.40-1465.73韩元区间，北京时间14:50出现一波显著的拉升行情。",
+          "url": "https://wallstreetcn.com/livenews/3017836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时08分]"
+        },
+        {
           "title": "纽约银日内涨幅达4.5%，报61.05美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3017818",
           "source": "华尔街见闻-快讯",
@@ -113,18 +138,6 @@
           "time_info": "[01时10分 ~ 02时11分]"
         },
         {
-          "title": "周二（12月9日），韩元兑美元最终涨0.02%，报1469.62韩元。 日内交投于1472.40-1465.73韩元区间，北京时间14:50出现一波显著的拉升行情。",
-          "url": "https://wallstreetcn.com/livenews/3017836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时07分]"
-        },
-        {
           "title": "纽约白银期货涨穿60美元整数位心理关口，创历史新高",
           "url": "https://wallstreetcn.com/livenews/3017788",
           "source": "华尔街见闻-快讯",
@@ -149,6 +162,19 @@
           "time_info": "[01时10分 ~ 02时11分]"
         },
         {
+          "title": "摩根大通资产管理寻求将8.4亿美元规模的多只市政债券基金转化为ETFs（交易所交易基金）。",
+          "url": "https://wallstreetcn.com/livenews/3017831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时08分]"
+        },
+        {
           "title": "Prosus于12月1-5日当周按均价52.7230欧元回购股票266.8285万股，合计将近1.407亿欧元（折合超1.637亿美元）。 同期，Naspers按均价1063.7397南非兰特回购87.0370万股，合计超9.258亿兰特（折合0.544亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3017784",
           "source": "华尔街见闻-快讯",
@@ -161,16 +187,28 @@
           "time_info": "[00时10分 ~ 01时10分]"
         },
         {
-          "title": "摩根大通资产管理寻求将8.4亿美元规模的多只市政债券基金转化为ETFs（交易所交易基金）。",
-          "url": "https://wallstreetcn.com/livenews/3017831",
+          "title": "周二（12月9日），美联储隔夜逆回购协议（RRP）使用规模为32.11亿美元，上个交易日报17.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017844",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            22
+            10,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时11分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 04时08分]"
+        },
+        {
+          "title": "联合国贸发会议：今年全球贸易额将达35万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3017854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
         },
         {
           "title": "现货白银涨幅扩大至4%，刷新历史高位，逼近60.50美元。 内盘沪银夜盘涨超3.6%，最高达到14149元人民币/千克。",
@@ -183,6 +221,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时11分]"
+        },
+        {
+          "title": "摩根大通股价跌幅扩大至4%，该行预计2026年支出将达1050亿美元",
+          "url": "https://wallstreetcn.com/livenews/3017843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
+        },
+        {
+          "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.175%（11月12日为4.074%），投标倍数2.55（前次为2.43）。",
+          "url": "https://wallstreetcn.com/livenews/3017842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
+        },
+        {
+          "title": "LME期铜收跌148美元，报11487美元/吨。 LME期铝收跌32美元，报2856美元/吨。 LME期锌收跌31美元，报3090美元/吨。 LME期铅收跌20美元，报1978美元/吨。 LME期镍收跌106美元，报14734美元/吨。 LME期锡收跌26美元，报39858美元/吨。 LME期钴收平，报52220美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3017839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
+        },
+        {
+          "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话；富国银行、花旗集团股价走低。 摩根大通Marianne Lake预计，四季度IB费用同比增幅将处于0%-10%区间的低端。 四季度市场收入同比增幅将处于10%-20%区间的低端。 预计2026年全年开支为1050亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
         },
         {
           "title": "现货钯金突破1500美元/盎司，日内涨1.86%。",
@@ -207,59 +293,26 @@
           "time_info": "00时10分"
         },
         {
-          "title": "周二（12月9日），美联储隔夜逆回购协议（RRP）使用规模为32.11亿美元，上个交易日报17.03亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3017844",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0633元，较周一夜盘收盘涨97点。成交量287.58亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时08分"
         },
         {
-          "title": "联合国贸发会议：今年全球贸易额将达35万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3017854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "摩根大通股价跌幅扩大至4%，该行预计2026年支出将达1050亿美元",
-          "url": "https://wallstreetcn.com/livenews/3017843",
-          "source": "华尔街见闻-快讯",
+          "title": "美国天然气期货日内大跌6.00%，现报4.617美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251210032239665800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.175%（11月12日为4.074%），投标倍数2.55（前次为2.43）。",
-          "url": "https://wallstreetcn.com/livenews/3017842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "LME期铜收跌148美元，报11487美元/吨。 LME期铝收跌32美元，报2856美元/吨。 LME期锌收跌31美元，报3090美元/吨。 LME期铅收跌20美元，报1978美元/吨。 LME期镍收跌106美元，报14734美元/吨。 LME期锡收跌26美元，报39858美元/吨。 LME期钴收平，报52220美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3017839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时08分"
         },
         {
           "title": "美国12月EIA当年布伦特原油均价预期 68.91美元/千立方英尺，前值68.76美元/千立方英尺。",
@@ -295,17 +348,6 @@
           "time_info": "01时10分"
         },
         {
-          "title": "摩根大通股价下跌3%，该公司高管在高盛活动上讲话；富国银行、花旗集团股价走低。 摩根大通Marianne Lake预计，四季度IB费用同比增幅将处于0%-10%区间的低端。 四季度市场收入同比增幅将处于10%-20%区间的低端。 预计2026年全年开支为1050亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3017837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
           "title": "美国12月EIA当年WTI原油均价预期 65.32美元/桶，前值65.15美元/桶。",
           "url": "https://flash.jin10.com/detail/20251210013818276800",
           "source": "金十数据",
@@ -323,7 +365,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -345,7 +387,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -375,7 +417,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -387,8 +429,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -400,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -409,11 +451,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -425,8 +468,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
@@ -437,8 +480,35 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
+        },
+        {
+          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/1981659657740234762",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "time_info": "[01时09分 ~ 04时08分]"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            19,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -453,17 +523,15 @@
           "time_info": "[01时09分 ~ 03时07分]"
         },
         {
-          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/1981659657740234762",
-          "source": "知乎",
+          "title": "壳牌：墨西哥湾（美国总统特朗普称“美国湾”）石油平台因Hoops输油管道故障停运而关闭。",
+          "url": "https://wallstreetcn.com/livenews/3017862",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            15,
-            13
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "欧盟重罚X平台遭特朗普抨击",
@@ -478,19 +546,6 @@
           "time_info": "[01时09分 ~ 03时07分]"
         },
         {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 02时11分]"
-        },
-        {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
           "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
           "source": "凤凰网",
@@ -498,8 +553,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时10分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 04时08分]"
         },
         {
           "title": "特朗普政府：维持大豆库存等预期不变",
@@ -518,11 +573,23 @@
           "url": "https://wallstreetcn.com/livenews/3017841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
+        },
+        {
+          "title": "泽连斯基回应特朗普：已准备好举行选举",
+          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "04时08分"
         },
         {
           "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
@@ -542,7 +609,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -575,7 +642,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -594,7 +661,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -604,8 +671,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -615,8 +682,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 04时08分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -627,19 +694,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
+          "url": "https://wallstreetcn.com/livenews/3017863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时08分"
         },
         {
           "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3017849",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅收窄至不足1.7%，重新逼近7710点，美股开盘后一度跌2.01%、刷新日低至7680.18点。 热门中概股里，文远知行目前跌5.4%，贝壳跌4.4%，理想跌4.2%，百度跌4%，小鹏跌3.7%，名创优品、阿特斯太阳能至少跌2.9%。",
@@ -681,7 +760,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -691,6 +770,18 @@
       "keyword_group": "openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
+          "url": "https://wallstreetcn.com/livenews/3017848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
+        },
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
           "url": "https://wallstreetcn.com/livenews/3017827",
@@ -704,24 +795,13 @@
           "time_info": "[02时11分 ~ 03时07分]"
         },
         {
-          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
-          "url": "https://wallstreetcn.com/livenews/3017848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
           "url": "https://flash.jin10.com/detail/20251210024251829800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -732,7 +812,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -752,8 +832,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -773,7 +853,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         },
@@ -799,11 +879,12 @@
           "url": "https://wallstreetcn.com/livenews/3017850",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 04时08分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -812,7 +893,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -830,8 +911,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         },
         {
           "title": "民企成为这份外贸成绩单“主力军”",
@@ -841,8 +922,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 03时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 04时08分]"
         }
       ]
     },
