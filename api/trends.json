@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T21:20:19.327358+08:00",
-  "total_titles_processed": 2041,
+  "generated_at": "2025-12-09T22:09:55.344468+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -21,6 +21,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时40分 ~ 17时11分]"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时10分 ~ 22时09分]"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -48,21 +63,6 @@
           "time_info": "[00时10分 ~ 03时07分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时10分 ~ 21时20分]"
-        },
-        {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
           "url": "https://news.ifeng.com/c/8owNK695xvD",
           "source": "凤凰网",
@@ -85,17 +85,6 @@
           "time_info": "[09时36分 ~ 09时37分]"
         },
         {
-          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
-          "url": "https://flash.jin10.com/detail/20251209210853362800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
           "url": "https://wallstreetcn.com/livenews/3017134",
           "source": "华尔街见闻-快讯",
@@ -105,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "匈牙利外长西雅尔多表示，匈牙利总理欧尔班与美国总统特朗普已同意就一种新型金融合作展开谈判，这种合作有望提供金融保障。",
+          "url": "https://flash.jin10.com/detail/20251209215314638800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
@@ -197,6 +197,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 10时41分]"
+        },
+        {
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
         },
         {
           "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
@@ -320,6 +332,18 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时09分]"
+        },
+        {
           "title": "特朗普女婿，“杀回来了”",
           "url": "https://news.ifeng.com/c/8owSp96lgRc",
           "source": "凤凰网",
@@ -413,6 +437,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时11分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
         },
         {
           "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
@@ -521,17 +557,6 @@
           "time_info": "[09时36分 ~ 09时37分]"
         },
         {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 21时20分]"
-        },
-        {
           "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
           "url": "https://flash.jin10.com/detail/20251209154623905800",
           "source": "金十数据",
@@ -565,6 +590,17 @@
           "time_info": "16时11分"
         },
         {
+          "title": "特朗普政府秘密制定计划，为马杜罗下台做准备",
+          "url": "https://flash.jin10.com/detail/20251209214613634800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
           "url": "https://flash.jin10.com/detail/20251209024442293800",
           "source": "金十数据",
@@ -596,17 +632,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
-          "url": "https://wallstreetcn.com/livenews/3017706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
         },
         {
           "title": "美国总统特朗普：正采取行动保护农民。",
@@ -659,7 +684,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -684,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
@@ -887,7 +923,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -927,6 +963,32 @@
           "time_info": "16时11分"
         },
         {
+          "title": "派拉蒙计划以1084亿美元收购华纳",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B4%BE%E6%8B%89%E8%92%99%E8%AE%A1%E5%88%92%E4%BB%A51084%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            22,
+            16,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 22时09分]"
+        },
+        {
+          "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
+          "url": "https://flash.jin10.com/detail/20251209215045442800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "中投公司：截至去年末总资产1.57万亿美元 净资产1.37万亿美元",
           "url": "https://wallstreetcn.com/livenews/3017501",
           "source": "华尔街见闻-快讯",
@@ -958,20 +1020,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
-        },
-        {
-          "title": "派拉蒙计划以1084亿美元收购华纳",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B4%BE%E6%8B%89%E8%92%99%E8%AE%A1%E5%88%92%E4%BB%A51084%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            22,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 21时20分]"
         },
         {
           "title": "LME期铜收涨15美元，报11636美元/吨。 LME期铝收跌10美元，报2888美元/吨。 LME期锌收涨23美元，报3121美元/吨。 LME期铅收跌4美元，报1998美元/吨。 LME期镍收跌10美元，报14840美元/吨。 LME期锡收跌184美元，报39884美元/吨。 LME期钴收平，报52220美元/吨。",
@@ -1134,6 +1182,18 @@
           "time_info": "[18时10分 ~ 19时08分]"
         },
         {
+          "title": "景顺11月总资产规模2.15万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209210221197800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 22时09分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0730元，较上周五夜盘收盘跌10点。成交量296.26亿美元。",
           "url": "https://wallstreetcn.com/livenews/3017126",
           "source": "华尔街见闻-快讯",
@@ -1252,17 +1312,6 @@
           "time_info": "20时14分"
         },
         {
-          "title": "景顺11月总资产规模2.15万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251209210221197800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
           "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
           "url": "https://flash.jin10.com/detail/20251209033517914800",
           "source": "金十数据",
@@ -1302,7 +1351,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -1338,6 +1387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "国际航空运输协会展望：2026年航空业收入预计增长4.5%，达到1.053万亿美元，增速将超过运营成本4.2%的增幅。2026年航空业预计实现创纪录的410亿美元净利润，高于2025年预计的395亿美元。",
@@ -1412,7 +1472,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -1481,6 +1541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
+        },
+        {
+          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
+          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "宁波拓普集团或可通过在香港上市筹集约10亿美元。（IFR国际金融评论）",
@@ -1618,7 +1689,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1626,11 +1697,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时32分 ~ 21时20分]"
+          "appearance_count": 19,
+          "time_info": "[08时32分 ~ 22时09分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1820,6 +1892,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "美股三大股指期货集体转跌，纳指期货跌0.14%，标普500指数期货跌0.05%，道指期货跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3017732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "英伟达美股盘前涨幅收窄至1%。",
           "url": "https://wallstreetcn.com/livenews/3017613",
           "source": "华尔街见闻-快讯",
@@ -1829,6 +1912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209213810953800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
@@ -1892,7 +1986,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -1933,7 +2027,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "所有商品都将“像黄金一样”！美银Hartnett：做多大宗商品是明年最佳“火热交易”",
@@ -1996,6 +2090,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 01时09分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "现货黄金跌破4180美元/盎司，日内跌0.25%。",
@@ -2131,11 +2236,12 @@
           "ranks": [
             13,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 21时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 22时09分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -2410,7 +2516,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         }
