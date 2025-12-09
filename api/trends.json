@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:10:20.360540+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2025-12-09T19:08:53.731395+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -70,6 +70,20 @@
           "time_info": "[09时36分 ~ 09时37分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 19时08分]"
+        },
+        {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
           "url": "https://wallstreetcn.com/livenews/3017134",
           "source": "华尔街见闻-快讯",
@@ -112,19 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 18时10分]"
         },
         {
           "title": "美议员急了：特朗普你得拉一把日本啊",
@@ -640,6 +641,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209181308403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://flash.jin10.com/detail/20251209013000707800",
           "source": "金十数据",
@@ -709,7 +721,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -747,17 +759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
-        },
-        {
-          "title": "据日经新闻称，优步将在未来五年内向日本投资20亿美元。",
-          "url": "https://flash.jin10.com/detail/20251209175433307800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
         },
         {
           "title": "中投公司：截至去年末总资产1.57万亿美元 净资产1.37万亿美元",
@@ -817,6 +818,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "据日经新闻称，优步将在未来五年内向日本投资20亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209175433307800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 19时08分]"
         },
         {
           "title": "机构：到2030年中国具身智能机器人用户支出规模预计将飙升至770亿美元",
@@ -894,6 +907,18 @@
           "time_info": "[04时09分 ~ 05时08分]"
         },
         {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将1月巴士拉中质原油面向北美和南美市场的官方售价定为较阿格斯含硫原油每桶低水1.15美元。（外媒更正：非升水）",
+          "url": "https://flash.jin10.com/detail/20251209174236544800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 19时08分]"
+        },
+        {
           "title": "美国将为受关税政策影响农民提供120亿美元救助",
           "url": "https://wallstreetcn.com/livenews/3017145",
           "source": "华尔街见闻-快讯",
@@ -904,6 +929,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将明年1月份巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶低水1.05美元。（外媒更正：非升水）",
+          "url": "https://flash.jin10.com/detail/20251209174143937800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 19时08分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0730元，较上周五夜盘收盘跌10点。成交量296.26亿美元。",
@@ -1025,28 +1062,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将1月巴士拉中质原油面向北美和南美市场的官方售价定为较阿格斯含硫原油每桶低水1.15美元。（外媒更正：非升水）",
-          "url": "https://flash.jin10.com/detail/20251209174236544800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将明年1月份巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶低水1.05美元。（外媒更正：非升水）",
-          "url": "https://flash.jin10.com/detail/20251209174143937800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
           "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
           "url": "https://flash.jin10.com/detail/20251209033517914800",
           "source": "金十数据",
@@ -1075,7 +1090,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -1119,7 +1134,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -1144,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "布鲁克菲尔德与卡塔尔联手启动200亿美元AI基建投资",
+          "url": "https://flash.jin10.com/detail/20251209181911754800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "土耳其总统埃尔多安：土耳其与匈牙利双边贸易额接近60亿美元的目标。",
@@ -1207,7 +1233,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         },
@@ -1221,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "宁波拓普集团或可通过在香港上市筹集约10亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3017601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国财政部：在最新两周报告期，投资基金买入515.19亿美元2030年11月30日到期的5年期国债，而上月为518.32亿美元。",
@@ -1265,6 +1302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "国际航协：预计明年全球航司实现总净利润410亿美元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3017598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "澳元兑美元AUD/USD持续反弹，完全收复澳洲联储利率决议公布后的跌幅，现报0.6632。",
@@ -1325,7 +1373,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1336,8 +1384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时32分 ~ 18时10分]"
+          "appearance_count": 15,
+          "time_info": "[08时32分 ~ 19时08分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1525,6 +1573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "周一（12月8日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨2.01%，报91405美元。 CME以太币期货DCR主力合约涨4.13%，报3154.50美元。 美股加密货币与加密货币关联指数涨1.91%，报70.39点。 最近24小时，MarketVector数字资产100小盘指数涨2.69%，暂报4159.64点。",
@@ -1785,7 +1844,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】创指3连阳收复30日线，多只CPO概念股齐创历史新高，福建本地股再现批量涨停",
@@ -1843,6 +1902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "【焦点复盘】市场再陷缩量普跌，资金持续抱团英伟达链，商业航天概念表现分化",
+          "url": "https://www.cls.cn/detail/2224158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "A股商业航天概念股午后再度走强，航天机电涨停，走出8天5板，乾照光电涨近10%，创出历史新高。",
@@ -1903,11 +1973,12 @@
           "url": "https://wallstreetcn.com/articles/3760956",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 19时08分]"
         },
         {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
@@ -1988,7 +2059,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
         }
