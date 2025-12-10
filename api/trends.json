@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:36:15.937780+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-12-10T12:17:04.754677+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "派拉蒙计划以1084亿美元收购华纳",
@@ -38,8 +38,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时08分 ~ 11时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时08分 ~ 12时17分]"
+        },
+        {
+          "title": "SpaceX据悉以1.5万亿美元估值进行IPO 白银首次站上60美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2224727",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时33分 ~ 12时17分]"
         },
         {
           "title": "Anglo与Teck投资者支持交易，将成立市值500亿美元的矿业巨头",
@@ -64,19 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
-        },
-        {
-          "title": "SpaceX据悉以1.5万亿美元估值进行IPO 白银首次站上60美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2224727",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 11时36分]"
         },
         {
           "title": "现货白银首次站上60美元/盎司",
@@ -121,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "报道：全球铝生产商向日本买家寻求190-203美元/吨的第一季度溢价",
+          "url": "https://wallstreetcn.com/livenews/3018141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         },
         {
           "title": "美利率决议前市场谨慎，摩根大通警告拖累道指，白银突破60美元创新高，加密货币涨",
@@ -251,6 +262,18 @@
           "time_info": "[01时10分 ~ 02时11分]"
         },
         {
+          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
+          "url": "https://www.cls.cn/detail/2224862",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 12时17分]"
+        },
+        {
           "title": "摩根大通资产管理寻求将8.4亿美元规模的多只市政债券基金转化为ETFs（交易所交易基金）。",
           "url": "https://wallstreetcn.com/livenews/3017831",
           "source": "华尔街见闻-快讯",
@@ -333,17 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时08分]"
-        },
-        {
-          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
-          "url": "https://www.cls.cn/detail/2224862",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
         },
         {
           "title": "现货白银涨幅扩大至4%，刷新历史高位，逼近60.50美元。 内盘沪银夜盘涨超3.6%，最高达到14149元人民币/千克。",
@@ -721,7 +733,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -737,6 +749,17 @@
           "time_info": "[00时10分 ~ 08时33分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时33分 ~ 12时17分]"
+        },
+        {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
           "url": "https://news.ifeng.com/c/8ox8rZbN56k",
           "source": "凤凰网",
@@ -750,17 +773,6 @@
           "time_info": "[00时10分 ~ 07时08分]"
         },
         {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 11时36分]"
-        },
-        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -768,11 +780,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时10分 ~ 11时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时17分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -942,6 +955,18 @@
           "time_info": "[05时19分 ~ 06时08分]"
         },
         {
+          "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
+          "url": "https://flash.jin10.com/detail/20251210111006441800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时17分]"
+        },
+        {
           "title": "特朗普政府：维持大豆库存等预期不变",
           "url": "https://wallstreetcn.com/livenews/3017823",
           "source": "华尔街见闻-快讯",
@@ -978,6 +1003,28 @@
           "time_info": "[05时19分 ~ 06时08分]"
         },
         {
+          "title": "特朗普再度抨击鲍威尔：他不喜欢我",
+          "url": "https://www.toutiao.com/trending/7582002774414622726/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -998,17 +1045,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
-          "url": "https://flash.jin10.com/detail/20251210111006441800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
         },
         {
           "title": "美国总统特朗普：我们将为美联储主席的人选考虑两个（couple of）人选。 我非常清楚自己想要谁主持美联储。",
@@ -1321,8 +1357,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 11时36分]"
+          "appearance_count": 8,
+          "time_info": "[08时33分 ~ 12时17分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时08分 ~ 12时17分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -1348,19 +1397,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时10分 ~ 09时38分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时08分 ~ 11时36分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -1546,11 +1582,12 @@
           "url": "https://wallstreetcn.com/articles/3761054",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 12时17分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月9日（周二）晚盘收盘上涨0.27%报950.8元/克；<br/>上海黄金交易所白银T+D 12月9日（周二）晚盘收盘上涨3.62%报14100.0元/千克。",
@@ -1592,7 +1629,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -1766,11 +1803,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时33分 ~ 11时36分]"
+          "appearance_count": 8,
+          "time_info": "[08时33分 ~ 12时17分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -1849,8 +1887,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时10分 ~ 11时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时17分]"
         },
         {
           "title": "民企成为这份外贸成绩单“主力军”",
@@ -1860,8 +1898,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时10分 ~ 11时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 12时17分]"
         }
       ]
     },
@@ -1874,11 +1912,12 @@
           "url": "https://flash.jin10.com/detail/20251210111107526800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时17分]"
         }
       ]
     }
