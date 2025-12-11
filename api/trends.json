@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-12-11T15:11:46.197328+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-12-11T16:12:07.638569+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 71,
+      "match_count": 77,
       "titles": [
-        {
-          "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如何看待这一趋势？",
-          "url": "https://www.zhihu.com/question/1981351408461713790",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时33分 ~ 15时11分]"
-        },
         {
           "title": "中国贸易顺差破万亿美元",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
@@ -32,6 +19,20 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时10分 ~ 15时11分]"
+        },
+        {
+          "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如何看待这一趋势？",
+          "url": "https://www.zhihu.com/question/1981351408461713790",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时33分 ~ 16时12分]"
         },
         {
           "title": "2025 年 1-11 月贸易顺差突破 1 万亿美元创历史新高，对美进出口跌幅持续扩大，如果看待这一趋势？",
@@ -68,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时33分 ~ 15时11分]"
+          "appearance_count": 12,
+          "time_info": "[08时33分 ~ 16时12分]"
         },
         {
           "title": "美元指数DXY向下触及99，日内跌0.24%。",
@@ -389,7 +390,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -471,6 +472,17 @@
           "time_info": "14时13分"
         },
         {
+          "title": "美国银行全球研究：将甲骨文(ORCL.N)目标价从368美元下调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251211155200386800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "法院命令显示，美国法官驳回特朗普政府要求驳回加州对40亿美元高铁资金撤销案的动议。",
           "url": "https://flash.jin10.com/detail/20251211015008871800",
           "source": "金十数据",
@@ -521,7 +533,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -532,7 +544,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -546,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "石药创新计划通过香港上市筹资5亿美元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3019061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报62.46美元/盎司。",
@@ -614,6 +637,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "巴克莱：将甲骨文(ORCL.N)目标价从330美元下调至310美元。",
+          "url": "https://flash.jin10.com/detail/20251211154226469800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "甲骨文(ORCL.N)第二财季营收161亿美元，去年同期140.59亿美元。",
           "url": "https://flash.jin10.com/detail/20251211050638378800",
           "source": "金十数据",
@@ -631,9 +665,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "摩根士丹利：维持Meta Platforms增持评级，目标价下调至750美元。",
+          "url": "https://wallstreetcn.com/livenews/3019051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "美联储对未来进一步降息态度不如预期谨慎 美元保持疲软",
+          "url": "https://flash.jin10.com/detail/20251211153930388800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "WTI 1月原油期货收报58.46美元/桶。 布伦特原油期货收报62.21美元/桶。 NYMEX 1月天然气期货收报4.5950美元/百万英热单位。 NYMEX 1月汽油期货收报1.7815美元/加仑，NYMEX 1月取暖油期货收报2.2730美元/加仑。",
@@ -667,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "摩根士丹利：维持Meta Platforms(META.O)增持评级，目标价下调至750美元。",
+          "url": "https://flash.jin10.com/detail/20251211153340031800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "若SpaceX明年以1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
@@ -730,7 +797,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -815,7 +882,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -838,8 +905,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时36分 ~ 15时11分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 16时12分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            8,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时33分 ~ 16时12分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -853,19 +936,15 @@
           "time_info": "[00时10分 ~ 08时33分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            11,
-            9,
-            8,
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时33分 ~ 15时11分]"
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -1008,6 +1087,17 @@
           "time_info": "[05时09分 ~ 06时09分]"
         },
         {
+          "title": "特朗普：被扣押油轮上的石油归美国了",
+          "url": "https://www.toutiao.com/trending/7581744403334086710/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
@@ -1018,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时33分 ~ 09时37分]"
+        },
+        {
+          "title": "美称特朗普重视与华建立建设性关系",
+          "url": "https://www.toutiao.com/trending/7581424867501768730/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "美国总统特朗普：我们能够实现比传统数据好得多的成绩。可以在没有通货膨胀的情况下实现巨大增长。",
@@ -1408,8 +1509,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时33分 ~ 15时11分]"
+          "appearance_count": 12,
+          "time_info": "[08时33分 ~ 16时12分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1609,7 +1710,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
@@ -1637,6 +1738,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时10分 ~ 09时37分]"
+        },
+        {
+          "title": "东北阿姨1984年买的黄金一克47元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E9%98%BF%E5%A7%A81984%E5%B9%B4%E4%B9%B0%E7%9A%84%E9%BB%84%E9%87%91%E4%B8%80%E5%85%8B47%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 16时12分]"
         },
         {
           "title": "美联储如期降息25基点，道指扩大涨幅，黄金宽幅震荡，原油V形反转",
@@ -1673,18 +1787,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时33分 ~ 10时43分]"
-        },
-        {
-          "title": "东北阿姨1984年买的黄金一克47元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E9%98%BF%E5%A7%A81984%E5%B9%B4%E4%B9%B0%E7%9A%84%E9%BB%84%E9%87%91%E4%B8%80%E5%85%8B47%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 15时11分]"
         },
         {
           "title": "“特朗普黄金卡”开始接受申请",
@@ -1790,6 +1892,17 @@
           "time_info": "08时33分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月11日（周四）收盘上涨0.05%报952.21元/克；<br/>上海黄金交易所白银T+D 12月11日（周四）收盘上涨1.65%报14452.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251211153100752800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "现货黄金上下扫荡，短线再次走高超20美元，现报4209美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251211035722395800",
           "source": "金十数据",
@@ -1839,7 +1952,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -1889,7 +2002,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -1991,6 +2104,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
+          "url": "https://wallstreetcn.com/livenews/3018647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "两年期美债收益率于美联储降息日跌超7.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3018697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "市场认为鲍威尔更关注劳动力市场疲软 欧元区国债收益率随美债走低",
+          "url": "https://flash.jin10.com/detail/20251211154449329800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 2,
       "titles": [
@@ -2015,35 +2168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
-          "url": "https://wallstreetcn.com/livenews/3018647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 06时09分]"
-        },
-        {
-          "title": "两年期美债收益率于美联储降息日跌超7.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3018697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
         }
       ]
     }
