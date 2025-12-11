@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T06:08:39.263201+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2025-12-12T07:08:27.873935+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时08分]"
         },
         {
           "title": "WTI 1月原油期货收报57.60美元/桶。 NYMEX 1月天然气期货收报4.2310美元/百万英热单位。 NYMEX 1月汽油期货收报1.7598美元/加仑，NYMEX 1月取暖油期货收报2.2289美元/加仑。",
@@ -31,37 +32,15 @@
           "time_info": "04时10分"
         },
         {
-          "title": "美联储12月10日当周贴现窗贷款余额83.4亿美元，之前一周78.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3019424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美元指数11日下跌",
-          "url": "https://flash.jin10.com/detail/20251212053829596800",
+          "title": "博通(AVGO.O)盘后股价跌超5%，公司第一财季毛利润率将因AI产品而收缩1%。预计未来六个季度AI芯片销售至少730亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212064459745800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "开市客Costco第一财季总营收673.1亿美元，同比增长8.3%，分析师预期670.7亿美元。 第一财季销售额659.8亿美元，同比增长8.2%，分析师预期657.7亿美元。 第一财季美国同店销售增长5.9%，分析师预期增长5.41%。",
-          "url": "https://wallstreetcn.com/livenews/3019423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
         },
         {
           "title": "现货白银站上63美元/盎司，再创新高",
@@ -75,17 +54,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "美国至12月5日当周外国央行持有美国国债 54.29亿美元，前值38.29亿美元。",
-          "url": "https://flash.jin10.com/detail/20251212053139036800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
           "title": "纽约银日内涨幅达6.0%，报64.69美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3019381",
           "source": "华尔街见闻-快讯",
@@ -97,6 +65,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时09分 ~ 05时09分]"
+        },
+        {
+          "title": "美联储12月10日当周贴现窗贷款余额83.4亿美元，之前一周78.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0570元，较周三夜盘收盘涨91点。成交量322.95亿美元。",
@@ -122,6 +102,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时08分]"
+        },
+        {
+          "title": "美元指数11日下跌",
+          "url": "https://flash.jin10.com/detail/20251212053829596800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "开市客Costco第一财季总营收673.1亿美元，同比增长8.3%，分析师预期670.7亿美元。 第一财季销售额659.8亿美元，同比增长8.2%，分析师预期657.7亿美元。 第一财季美国同店销售增长5.9%，分析师预期增长5.41%。",
+          "url": "https://wallstreetcn.com/livenews/3019423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "周四（12月11日），韩元兑美元最终跌0.10%，报1471.81韩元，亚太时段持续走低。",
@@ -161,6 +165,18 @@
           "time_info": "[03时09分 ~ 04时10分]"
         },
         {
+          "title": "美国至12月5日当周外国央行持有美国国债 54.29亿美元，前值38.29亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212053139036800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "纽约联储：操作台计划于12月12日至1月14日期间，再进行约400亿美元的储备管理购买。",
           "url": "https://flash.jin10.com/detail/20251212042437533800",
           "source": "金十数据",
@@ -183,6 +199,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时08分]"
+        },
+        {
+          "title": "美国上亿美元打造“遣返移民机队”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8A%E4%BA%BF%E7%BE%8E%E5%85%83%E6%89%93%E9%80%A0%E2%80%9C%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91%E6%9C%BA%E9%98%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 07时08分]"
         },
         {
           "title": "美元贬值将成为2026年焦点",
@@ -221,18 +250,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时09分 ~ 05时09分]"
-        },
-        {
-          "title": "美国上亿美元打造“遣返移民机队”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%8A%E4%BA%BF%E7%BE%8E%E5%85%83%E6%89%93%E9%80%A0%E2%80%9C%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91%E6%9C%BA%E9%98%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时10分 ~ 06时08分]"
         },
         {
           "title": "周四（12月11日）纽约尾盘，ICE美元指数跌0.45%，报98.348点，日内交投区间为98.763-98.134点，全天处于下跌状态，北京时间14:00-00:00持续走低。 彭博美元指数跌0.23%，报1206.71点，日内交投区间为1211.53-1204.45点。",
@@ -283,6 +300,18 @@
           "time_info": "[05时09分 ~ 06时08分]"
         },
         {
+          "title": "博通(AVGO.O)：预计人工智能半导体收入将同比增长一倍，达到82亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212051627093800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "纽约金日内涨幅达2.0%，报4309.8美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3019347",
           "source": "华尔街见闻-快讯",
@@ -293,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 03时09分]"
+        },
+        {
+          "title": "博通(AVGO.O)025财年Q4营收180.1亿美元，去年同期140.5亿美元。明年Q1营收展望为191亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212051603850800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "WTI 1月原油期货收跌0.86美元，跌幅1.47%，报57.60美元/桶。 布伦特2月原油期货收跌0.93美元，跌幅1.49%，报61.28美元/桶。 NYMEX 1月天然气期货收报4.2310美元/百万英热单位。 NYMEX 1月汽油期货收报1.7598美元/加仑，NYMEX 1月取暖油期货收报2.2289美元/加仑。",
@@ -360,9 +401,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "博通：预计未来六个季度AI芯片销售“至少”730亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3019445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "现货钯金日内涨幅扩大至2.00%，现报1499.25美元/盎司。",
@@ -385,28 +437,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
-        },
-        {
-          "title": "博通(AVGO.O)：预计人工智能半导体收入将同比增长一倍，达到82亿美元。",
-          "url": "https://flash.jin10.com/detail/20251212051627093800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "博通(AVGO.O)025财年Q4营收180.1亿美元，去年同期140.5亿美元。明年Q1营收展望为191亿美元。",
-          "url": "https://flash.jin10.com/detail/20251212051603850800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
         },
         {
           "title": "Rivian(RIVN.O)：Rivian自动驾驶功能将于2026年初推出，定价为一次性支付2500美元或每月49.99美元。",
@@ -437,7 +467,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -451,6 +481,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "巴克莱：维持我们对2026年布伦特原油价格60美元区间中段左右的预测。我们的石油供需平衡预期在2026年将略微宽松。",
+          "url": "https://flash.jin10.com/detail/20251212054658247800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "博通：预计AI芯片开支动能将在2026财年增长。 上个季度，第四家客户是Anthropic，从对方获得110亿美元额外的订单。 本公司已经从第五家AI芯片客户锁定10亿美元订单。",
+          "url": "https://wallstreetcn.com/livenews/3019434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "巴克莱：预计布伦特原油2026年均价预计为每桶65美元。预计明年石油供应将过剩190万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251212054533378800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "伦铜日内涨幅扩大至2.00%，现报11793.40美元/吨。",
@@ -497,6 +560,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "周四（12月11日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报7.0522元，较周三纽约尾盘涨88点，日内整体交投于7.0650-7.0480元区间。",
+          "url": "https://wallstreetcn.com/livenews/3019430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "美国白宫：美国制造的产品成本可能会（比进口商品）“高出1—2美元”。",
           "url": "https://flash.jin10.com/detail/20251212024430802800",
           "source": "金十数据",
@@ -506,6 +580,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "权道亨 (Do Kwon)因涉及400亿美元欺诈案被判入狱15年。",
+          "url": "https://wallstreetcn.com/livenews/3019428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，现货白银涨2.79%，报63.5380美元/盎司，北京时间02:30曾涨至64.3120美元。 COMEX白银期货涨4.92%，报64.030美元/盎司，02:30也曾涨至64.720美元。 COMEX铜期货涨2.52%，报5.4885美元/磅。 现货铂金涨2.70%，现货钯金涨1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3019427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "现货白银冲上64美元 续刷新高",
@@ -555,7 +651,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -565,8 +661,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时08分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -578,8 +674,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时08分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -593,15 +689,15 @@
           "time_info": "02时11分"
         },
         {
-          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
-          "url": "https://flash.jin10.com/detail/20251212054106500800",
+          "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
+          "url": "https://flash.jin10.com/detail/20251212062505540800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "07时08分"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -628,6 +724,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时10分 ~ 06时08分]"
+        },
+        {
+          "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
+          "url": "https://flash.jin10.com/detail/20251212054106500800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，（美联储）应该在降息方面做得更多。",
@@ -800,6 +908,28 @@
           "time_info": "[04时10分 ~ 05时09分]"
         },
         {
+          "title": "特朗普政府在加州边境建立新的军事化区域",
+          "url": "https://flash.jin10.com/detail/20251212061317117800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "印第安纳州否决选区重划方案，特朗普遭遇重大打击",
+          "url": "https://flash.jin10.com/detail/20251212061240422800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
           "url": "https://flash.jin10.com/detail/20251212040044595800",
           "source": "金十数据",
@@ -894,7 +1024,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -913,7 +1043,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -924,8 +1054,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时08分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
@@ -956,9 +1086,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "博通美股盘后跌幅扩大至5.18%。",
+          "url": "https://wallstreetcn.com/livenews/3019447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -973,6 +1114,18 @@
           "time_info": "[05时09分 ~ 06时08分]"
         },
         {
+          "title": "博通(AVGO.O)美股盘后涨4%。",
+          "url": "https://flash.jin10.com/detail/20251212051638252800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
           "url": "https://wallstreetcn.com/livenews/3019299",
           "source": "华尔街见闻-快讯",
@@ -985,26 +1138,26 @@
           "time_info": "[00时11分 ~ 01时12分]"
         },
         {
-          "title": "博通(AVGO.O)美股盘后涨4%。",
-          "url": "https://flash.jin10.com/detail/20251212051638252800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
           "title": "美股七巨头收盘播报｜谷歌A收跌超2.4%，英伟达跌超1.5%，微软涨1%",
           "url": "https://wallstreetcn.com/livenews/3019411",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "美债收益率于美股盘中持续走高",
+          "url": "https://wallstreetcn.com/livenews/3019443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1013,9 +1166,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "博通美股盘后跌3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3019441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
@@ -1024,7 +1199,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -1035,7 +1210,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -1068,15 +1243,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
+          "url": "https://wallstreetcn.com/livenews/3019429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
+          "url": "https://wallstreetcn.com/livenews/3019426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：对迪士尼卡通人物的需求“高得离谱”。",
@@ -1099,6 +1296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
+          "url": "https://wallstreetcn.com/livenews/3019450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "迪士尼CEO：与OpenAI的协议是一项“优质投资”。",
@@ -1206,6 +1414,45 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 12月11日（周四）晚盘收盘上涨0.99%报964.3元/克；<br/>上海黄金交易所白银T+D 12月11日（周四）晚盘收盘上涨2.61%报14850.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251212023057005800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "现货黄金站上4280美元/盎司，日内涨1.22%。",
+          "url": "https://flash.jin10.com/detail/20251212010856933800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
+          "url": "https://wallstreetcn.com/livenews/3019425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 2,
       "titles": [
@@ -1226,34 +1473,6 @@
           "source": "金十数据",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 12月11日（周四）晚盘收盘上涨0.99%报964.3元/克；<br/>上海黄金交易所白银T+D 12月11日（周四）晚盘收盘上涨2.61%报14850.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251212023057005800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "现货黄金站上4280美元/盎司，日内涨1.22%。",
-          "url": "https://flash.jin10.com/detail/20251212010856933800",
-          "source": "金十数据",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1305,8 +1524,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时08分]"
         },
         {
           "title": "周四（12月11日，美联储降息次日），降息赢家指数涨0.91%，报101.10点。 “特朗普关税输家”指数涨1.72%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.11%。",
@@ -1315,7 +1534,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         }
