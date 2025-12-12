@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T21:19:10.010228+08:00",
-  "total_titles_processed": 2128,
+  "generated_at": "2025-12-12T22:09:54.046194+08:00",
+  "total_titles_processed": 2219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 103,
+      "match_count": 106,
       "titles": [
         {
           "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时11分 ~ 08时33分]"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时08分 ~ 22时09分]"
         },
         {
           "title": "机构：美元疲软可能仍是2026年新兴市场的催化剂",
@@ -127,21 +139,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
         {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
+          "title": "美联储哈玛克：美元走弱反映了投资者的“正常”转变。",
+          "url": "https://flash.jin10.com/detail/20251212215706771800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时08分 ~ 21时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "纽约银日内涨幅达6.0%，报64.69美元/盎司。",
@@ -624,6 +635,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "乌克兰通过世界银行项目获得2.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20251212215336478800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "当美联储“独自降息”，其他央行甚至开始加息，美元贬值将成为2026年焦点",
           "url": "https://wallstreetcn.com/articles/3761194",
           "source": "华尔街见闻",
@@ -633,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "澳新银行：铜价有望在明年年底攀升至每吨1.2万美元",
+          "url": "https://flash.jin10.com/detail/20251212214948415800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "Rivian(RIVN.O)：Rivian自动驾驶功能将于2026年初推出，定价为一次性支付2500美元或每月49.99美元。",
@@ -762,7 +795,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -872,7 +905,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1214,11 +1247,12 @@
             6,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时10分 ~ 21时19分]"
+          "appearance_count": 13,
+          "time_info": "[13时10分 ~ 22时09分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -1246,6 +1280,31 @@
           "time_info": "[10时42分 ~ 20时14分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 22时09分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时11分 ~ 22时09分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -1257,31 +1316,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时11分 ~ 07时08分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 21时19分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时11分 ~ 21时19分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -2062,7 +2096,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -2132,6 +2166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3020018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -2291,6 +2336,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212214655733800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "周四（12月11日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘涨0.78%，报93510美元，全天U形反转。 CME以太币期货DCR主力合约跌2.56%，报3277美元。 美股加密货币与加密货币关联指数跌0.17%，报71.76点，北京时间22:30跳空低开之后逐步收复失地。 最近24小时，MarketVector数字资产100小盘指数跌2.23%，暂报4071.03点。",
           "url": "https://wallstreetcn.com/livenews/3019429",
           "source": "华尔街见闻-快讯",
@@ -2345,6 +2401,19 @@
           "time_info": "[08时32分 ~ 15时11分]"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时08分 ~ 22时09分]"
+        },
+        {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
           "url": "https://www.cls.cn/detail/2227268",
           "source": "财联社热门",
@@ -2389,18 +2458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时08分 ~ 21时19分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -2545,7 +2602,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -2637,7 +2694,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2703,7 +2760,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2728,6 +2785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "高盛：明年黄金目标价看至4900美元",
+          "url": "https://www.toutiao.com/trending/7582891140597157427/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "金十图示：2025年12月12日（周五）黄金ETF持仓报告",
@@ -2780,11 +2848,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时09分 ~ 21时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时09分 ~ 22时09分]"
         },
         {
           "title": "【焦点复盘】创业板指放量涨近1%，全市场超百股涨超10%，电网、可控核聚变概念携手爆发",
@@ -2794,11 +2863,12 @@
             12,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时09分 ~ 21时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时09分 ~ 22时09分]"
         },
         {
           "title": "商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
@@ -2873,8 +2943,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时42分 ~ 21时19分]"
+          "appearance_count": 17,
+          "time_info": "[10时42分 ~ 22时09分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
