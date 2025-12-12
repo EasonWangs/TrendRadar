@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T20:14:27.350077+08:00",
-  "total_titles_processed": 2032,
+  "generated_at": "2025-12-12T21:19:10.010228+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 100,
+      "match_count": 103,
       "titles": [
         {
           "title": "甲骨文业绩不及预期，资本开支比预期多约150亿美元，盘后重挫超10% | 财报见闻",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -72,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -119,6 +119,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "美、布两油短线波动不大，现分别报57.37美元/桶和61.49美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251212203349952800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 21时19分]"
         },
         {
           "title": "纽约银日内涨幅达6.0%，报64.69美元/盎司。",
@@ -353,17 +376,6 @@
           "time_info": "[02时10分 ~ 04时10分]"
         },
         {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 20时14分]"
-        },
-        {
           "title": "周四（12月11日），美联储隔夜逆回购协议（RRP）使用规模为28.74亿美元，上个交易日报50.45亿美元。",
           "url": "https://wallstreetcn.com/livenews/3019368",
           "source": "华尔街见闻-快讯",
@@ -563,7 +575,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -744,6 +756,17 @@
           "time_info": "19时09分"
         },
         {
+          "title": "德商银行：若哈塞特主导非理性降息 美元恐承压",
+          "url": "https://flash.jin10.com/detail/20251212201505152800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "现货白银站上63美元/盎司，再创新高，日内涨超2%。 纽约期银日内大涨4.00%，现报63.48美元/盎司。 沪银主力合约日内大涨3.58%，现报14870元/千克。",
           "url": "https://wallstreetcn.com/livenews/3019320",
           "source": "华尔街见闻-快讯",
@@ -843,6 +866,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美元兑日元USD/JPY短线小幅走高，现报155.95。",
+          "url": "https://flash.jin10.com/detail/20251212200712332800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "诺和诺德旗下药物司美格鲁肽在印度上市，定价落在每周24美元的低位区间。",
           "url": "https://wallstreetcn.com/livenews/3019766",
           "source": "华尔街见闻-快讯",
@@ -937,7 +971,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1183,8 +1217,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时10分 ~ 20时14分]"
+          "appearance_count": 12,
+          "time_info": "[13时10分 ~ 21时19分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -1225,17 +1259,6 @@
           "time_info": "[00时11分 ~ 07时08分]"
         },
         {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时42分 ~ 15时11分]"
-        },
-        {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
           "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
           "source": "凤凰网",
@@ -1245,8 +1268,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时11分 ~ 20时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时11分 ~ 21时19分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -1257,8 +1280,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时11分 ~ 20时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时11分 ~ 21时19分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时42分 ~ 15时11分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -2186,7 +2220,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -2208,7 +2242,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -2274,7 +2308,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -2357,6 +2391,18 @@
           "time_info": "00时11分"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 21时19分]"
+        },
+        {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://wallstreetcn.com/livenews/3019450",
           "source": "华尔街见闻-快讯",
@@ -2379,18 +2425,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时42分 ~ 11时36分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 20时14分]"
         },
         {
           "title": "随着与谷歌的竞赛升级 OpenAI推出更先进的模型GPT-5.2",
@@ -2511,7 +2545,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -2597,6 +2631,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "现货黄金短线波动不大，现报4333.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251212202157997800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "现货黄金失守4270美元/盎司，日内跌幅0.24%。",
           "url": "https://flash.jin10.com/detail/20251212085440402800",
           "source": "金十数据",
@@ -2650,6 +2695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "世界黄金协会：11月全球实物黄金ETF流入达52亿美元",
+          "url": "https://wallstreetcn.com/livenews/3019955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "现货黄金站上4280美元/盎司，日内涨1.22%。",
@@ -2719,6 +2775,32 @@
           "time_info": "[12时18分 ~ 17时11分]"
         },
         {
+          "title": "【每日收评】三大指数探底回升全线收红，商业航天概念延续强势，两市成交额重回2万亿之上",
+          "url": "https://www.cls.cn/detail/2227958",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时09分 ~ 21时19分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指放量涨近1%，全市场超百股涨超10%，电网、可控核聚变概念携手爆发",
+          "url": "https://www.cls.cn/detail/2228044",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时09分 ~ 21时19分]"
+        },
+        {
           "title": "商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3019519",
           "source": "华尔街见闻-快讯",
@@ -2728,31 +2810,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升全线收红，商业航天概念延续强势，两市成交额重回2万亿之上",
-          "url": "https://www.cls.cn/detail/2227958",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 20时14分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指放量涨近1%，全市场超百股涨超10%，电网、可控核聚变概念携手爆发",
-          "url": "https://www.cls.cn/detail/2228044",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 20时14分]"
         },
         {
           "title": "A股商业航天概念再度拉升，华菱线缆、中超控股2连板，东方通信、长城电工、航天长峰涨停，创远信科、亚光科技、超捷股份、天力复合、国瓷材料涨超10%。",
@@ -2816,8 +2873,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时42分 ~ 20时14分]"
+          "appearance_count": 16,
+          "time_info": "[10时42分 ~ 21时19分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
