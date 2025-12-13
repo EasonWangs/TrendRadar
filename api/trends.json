@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T16:10:43.659866+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2025-12-13T17:08:50.785245+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -66,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时09分 ~ 16时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时09分 ~ 17时08分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -91,11 +91,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时30分 ~ 16时10分]"
+          "appearance_count": 9,
+          "time_info": "[11时30分 ~ 17时08分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -148,11 +149,12 @@
           "ranks": [
             2,
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时11分 ~ 16时10分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 17时08分]"
         },
         {
           "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
@@ -439,6 +441,18 @@
           "time_info": "[15时07分 ~ 15时08分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 17时08分]"
+        },
+        {
           "title": "柬埔寨首相：已同特朗普通话",
           "url": "https://www.toutiao.com/trending/7582445595785707526/",
           "source": "今日头条",
@@ -472,15 +486,15 @@
           "time_info": "00时09分"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "17时08分"
         },
         {
           "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
@@ -544,7 +558,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -584,8 +598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时30分 ~ 16时10分]"
+          "appearance_count": 14,
+          "time_info": "[08时30分 ~ 17时08分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -599,6 +613,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 08时31分]"
+        },
+        {
+          "title": "华尔街齐唱空：高盛、德银押注美联储降息，2026年美元跌势难挡",
+          "url": "https://wallstreetcn.com/articles/3761277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 17时08分]"
         },
         {
           "title": "备忘录显示，SpaceX正为公司2026年可能的IPO做准备，将内部股票发行价格定在每股421美元，隐含估值约达8000亿美元。",
@@ -629,17 +654,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时31分 ~ 15时08分]"
-        },
-        {
-          "title": "华尔街齐唱空：高盛、德银押注美联储降息，2026年美元跌势难挡",
-          "url": "https://wallstreetcn.com/articles/3761277",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 16时10分]"
         },
         {
           "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
@@ -1066,8 +1080,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时08分 ~ 16时10分]"
+          "appearance_count": 15,
+          "time_info": "[07时08分 ~ 17时08分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -1355,8 +1369,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时08分 ~ 16时10分]"
+          "appearance_count": 15,
+          "time_info": "[07时08分 ~ 17时08分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
