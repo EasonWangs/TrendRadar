@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T19:09:03.933371+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2025-12-15T20:18:27.248194+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "比特币下跌1.6%，刷新日低，逼近88500美元。",
@@ -36,6 +36,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时09分 ~ 07时08分]"
+        },
+        {
+          "title": "布伦特原油向下触及61美元/桶，日内跌0.78%。",
+          "url": "https://flash.jin10.com/detail/20251215194559264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "芯片设备制造商应用材料盘前上涨超2%，富国银行将公司目标价格从255美元上调至290美元。",
+          "url": "https://wallstreetcn.com/livenews/3020974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "印度11月对美国出口额为69.2亿美元，10月为63亿美元。",
@@ -69,6 +91,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "WTI原油向下触及57美元/桶，日内跌0.70%。",
+          "url": "https://flash.jin10.com/detail/20251215194147167800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "一品红：拟最高或达15亿美元出售参股公司美国Arthrosi公司13.45%股权",
+          "url": "https://wallstreetcn.com/livenews/3020969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "王曼昱收获1500冠军积分和8万美元",
@@ -456,7 +500,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
@@ -483,6 +527,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时10分 ~ 18时11分]"
+        },
+        {
+          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
+          "url": "https://wallstreetcn.com/articles/3761400",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 20时18分]"
         },
         {
           "title": "美术馆回应黄金凤冠被男童触碰损坏",
@@ -529,17 +584,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时08分 ~ 13时12分]"
-        },
-        {
-          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
-          "url": "https://wallstreetcn.com/articles/3761400",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 19时09分]"
         },
         {
           "title": "降息预期升温下，黄金逐步走出盘整区间，白银不断创新高；日本央行本周加息迫在眉睫，多个货币兑日元空头占比接近90%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -646,6 +690,17 @@
           "time_info": "14时14分"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "印度贸易秘书：11月进口下降，系黄金、石油和煤炭货运量减少所致。",
           "url": "https://flash.jin10.com/detail/20251215155221976800",
           "source": "金十数据",
@@ -748,7 +803,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -771,8 +826,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时46分 ~ 19时09分]"
+          "appearance_count": 17,
+          "time_info": "[10时46分 ~ 20时18分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
@@ -798,8 +853,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 19时09分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 20时18分]"
         },
         {
           "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
@@ -810,8 +865,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时13分 ~ 19时09分]"
+          "appearance_count": 12,
+          "time_info": "[14时13分 ~ 20时18分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -829,6 +884,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 07时08分]"
+        },
+        {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时12分 ~ 20时18分]"
         },
         {
           "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
@@ -859,17 +925,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时07分 ~ 07时08分]"
-        },
-        {
-          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
-          "url": "https://news.ifeng.com/c/8p6WipSN2un",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时12分 ~ 19时09分]"
         },
         {
           "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
@@ -950,9 +1005,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "特朗普指着台下女子说你好像伊万卡",
+          "url": "https://www.toutiao.com/trending/7583883670654681098/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
@@ -1130,6 +1196,51 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "预计2026年商业航天业务营收实现较快增长 商业航天概念股20CM涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2229039",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时35分 ~ 13时12分]"
+        },
+        {
+          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
+          "url": "https://www.cls.cn/detail/2229902",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 20时18分]"
+        },
+        {
+          "title": "臻镭科技：公司关注到近期“商业航天概念股”因商业航天相关政策及有关事件的影响涨幅明显，公司股票价格短期波动幅度较大；公司卫星领域的营收主要受商业航天行业发展和客户需求影响，存在一定不可预见性，敬请广大投资者明辨信息。",
+          "url": "https://wallstreetcn.com/livenews/3020962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1156,39 +1267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "预计2026年商业航天业务营收实现较快增长 商业航天概念股20CM涨停 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2229039",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时35分 ~ 13时12分]"
-        },
-        {
-          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
-          "url": "https://www.cls.cn/detail/2229902",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 19时09分]"
         }
       ]
     }
