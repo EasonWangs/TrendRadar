@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T21:19:32.488538+08:00",
-  "total_titles_processed": 2033,
+  "generated_at": "2025-12-18T22:10:43.667884+08:00",
+  "total_titles_processed": 2129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "甲骨文百亿美元数据中心融资受阻，Blue Owl退出，公司称交易仍按计划进行",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时08分 ~ 21时19分]"
+          "appearance_count": 17,
+          "time_info": "[07时08分 ~ 22时10分]"
         },
         {
           "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
@@ -36,18 +36,6 @@
           "time_info": "[00时10分 ~ 10时41分]"
         },
         {
-          "title": "外交部回应美110亿美元对台军售",
-          "url": "https://www.toutiao.com/trending/7585011293208182790/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时11分 ~ 21时19分]"
-        },
-        {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
           "url": "https://wallstreetcn.com/articles/3761566",
           "source": "华尔街见闻",
@@ -59,6 +47,33 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[08时29分 ~ 18时09分]"
+        },
+        {
+          "title": "外交部回应美110亿美元对台军售",
+          "url": "https://www.toutiao.com/trending/7585011293208182790/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时11分 ~ 22时10分]"
+        },
+        {
+          "title": "外交部回应美110亿美元对台军售",
+          "url": "https://www.cls.cn/detail/2233416",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 22时10分]"
         },
         {
           "title": "美光财报会实录：明年HBM订单排满 预计三年后潜在市场达千亿美元",
@@ -75,20 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时10分 ~ 20时14分]"
-        },
-        {
-          "title": "外交部回应美110亿美元对台军售",
-          "url": "https://www.cls.cn/detail/2233416",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时19分]"
         },
         {
           "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
@@ -635,7 +636,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -646,7 +647,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -712,9 +713,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD日内涨幅达0.50%，现报1.3444。",
+          "url": "https://flash.jin10.com/detail/20251218220606493800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "英镑兑美元跌幅扩大，下跌0.3%至1.3341。",
@@ -781,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美国CPI数据低于预期，美元指数短线走低",
+          "url": "https://wallstreetcn.com/livenews/3023173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "纽约期银涨穿67美元，在纽约中午创历史新高",
@@ -948,6 +971,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "欧洲央行利率决议后，欧洲斯托克600指数维持涨势，现涨0.29%。德国30年期国债收益率上行2个基点至3.50%，为2011年7月以来最高。欧元兑美元跌幅收窄，下跌0.1%至1.1726。",
+          "url": "https://wallstreetcn.com/livenews/3023163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "杰富瑞：将苹果(AAPL.O)目标价从246.99美元上调至283.36美元。",
           "url": "https://flash.jin10.com/detail/20251217232739250800",
           "source": "金十数据",
@@ -1012,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "欧元兑美元短线拉升约10点，现报1.1731。",
+          "url": "https://wallstreetcn.com/livenews/3023159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     },
@@ -1285,8 +1330,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时19分]"
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 22时10分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -1754,7 +1799,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1765,8 +1810,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时08分 ~ 21时19分]"
+          "appearance_count": 18,
+          "time_info": "[06时08分 ~ 22时10分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -1792,6 +1837,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时12分 ~ 05时08分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3023190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
@@ -1888,6 +1944,17 @@
           "time_info": "[06时08分 ~ 07时08分]"
         },
         {
+          "title": "美股科技股盘前走高，英伟达美股盘前涨超2%，AMD涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3023184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
@@ -1954,6 +2021,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218220135518800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
           "url": "https://flash.jin10.com/detail/20251218050114407800",
           "source": "金十数据",
@@ -1979,7 +2057,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX黄金投机者将净多头头寸增加11,832手，至119,808手。",
@@ -2090,6 +2168,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "CPI黄金竞猜中奖名单公布",
+          "url": "https://flash.jin10.com/detail/20251218220711758800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月18日（周四）晚盘盘初下跌0.12%报973.5元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）晚盘盘初下跌0.14%报15442.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251218200434392800",
           "source": "金十数据",
@@ -2118,7 +2207,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2194,8 +2283,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时12分 ~ 21时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时12分 ~ 22时10分]"
         },
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
@@ -2340,6 +2429,21 @@
           "time_info": "15时10分"
         },
         {
+          "title": "【焦点复盘】市场现沪强深弱分化行情，商业航天概念卷土重来，“犒赏经济”概念乘风而起",
+          "url": "https://www.cls.cn/detail/2233572",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 22时10分]"
+        },
+        {
           "title": "12月18日午间收评：创业板指半日跌1.81%，商业航天概念再度爆发",
           "url": "https://wallstreetcn.com/livenews/3022813",
           "source": "华尔街见闻-快讯",
@@ -2351,20 +2455,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 13时10分]"
-        },
-        {
-          "title": "【焦点复盘】市场现沪强深弱分化行情，商业航天概念卷土重来，“犒赏经济”概念乘风而起",
-          "url": "https://www.cls.cn/detail/2233572",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 21时19分]"
         },
         {
           "title": "商业航天概念持续走高，星辰科技30cm涨停，中国卫星封涨停，天银机电、北摩高科、西部材料、天箭科技等多股此前封板，航天环宇、邵阳液压、西测测试、中科星图涨超10%。",
@@ -2503,8 +2593,20 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 22时10分]"
+        },
         {
           "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
           "url": "https://flash.jin10.com/detail/20251218110237653800",
@@ -2517,15 +2619,15 @@
           "time_info": "11时35分"
         },
         {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=20&Refer=top",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时10分"
         }
       ]
     },
@@ -2550,11 +2652,12 @@
           "url": "https://wallstreetcn.com/articles/3761610",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时08分 ~ 21时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 22时10分]"
         }
       ]
     }
