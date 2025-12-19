@@ -1,33 +1,45 @@
 {
-  "generated_at": "2025-12-20T02:11:44.854039+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-20T03:07:26.667845+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "现货白银日内暴涨2.00美元，现报67.44美元/盎司，续刷历史新高，涨幅3.06%。",
-          "url": "https://flash.jin10.com/detail/20251220020832172800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
         {
           "title": "12月19日，离岸投资者买入价值大约60亿美元的哥伦比亚本币比索债券，创单日历史新高。",
           "url": "https://wallstreetcn.com/livenews/3024116",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时07分]"
+        },
+        {
+          "title": "周五（12月19日），美联储隔夜逆回购协议（RRP）使用规模为30.47亿美元，上个交易日报117.08亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3024119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美国佐治亚电力公司：佐治亚州公共服务委员会已批准其采购9,900兆瓦（MW）发电资源的计划。该计划将为典型住宅用户每年带来约102美元的电费节省。",
+          "url": "https://flash.jin10.com/detail/20251220022921994800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
@@ -35,11 +47,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时07分]"
+        },
+        {
+          "title": "现货白银日内暴涨2.00美元，现报67.44美元/盎司，续刷历史新高，涨幅3.06%。",
+          "url": "https://flash.jin10.com/detail/20251220020832172800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时11分]"
+          "time_info": "[02时11分 ~ 03时07分]"
         },
         {
           "title": "现货白银历史首次突破67美元/盎司",
@@ -66,6 +91,18 @@
           "time_info": "[00时09分 ~ 01时09分]"
         },
         {
+          "title": "LME期铜收涨104美元，报11882美元/吨。 LME期铝收涨29美元，报2945美元/吨。 LME期锌收涨8美元，报3072美元/吨。 LME期铅收涨21美元，报1984美元/吨。 LME期镍收涨162美元，报14803美元/吨。 LME期锡收涨300美元，报43227美元/吨。 LME期钴收平，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3024110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时07分]"
+        },
+        {
           "title": "现货白银日内涨超2.00%，现报66.75美元/盎司。纽约期银向上触及67美元/盎司，日内涨2.73%。",
           "url": "https://flash.jin10.com/detail/20251219235926225800",
           "source": "金十数据",
@@ -90,6 +127,30 @@
           "time_info": "[00时09分 ~ 01时09分]"
         },
         {
+          "title": "标普全球报告指出，在所谓的“全球建设狂潮”中，今年已有超过610亿美元的资金涌入数据中心市场，略高于去年的608亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3024101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时07分]"
+        },
+        {
+          "title": "周五（12月19日），韩元兑美元最终跌0.28%，报1477.49韩元，本周累涨0.02%，周一和周二形成冲高回落走势，周三至周五大致低位持稳。",
+          "url": "https://wallstreetcn.com/livenews/3024100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时07分]"
+        },
+        {
           "title": "现货铂金上涨逾3%，至1,982.03美元/盎司",
           "url": "https://flash.jin10.com/detail/20251220003215300800",
           "source": "金十数据",
@@ -99,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "LME期铜收涨104美元，报11882美元/吨。 LME期铝收涨29美元，报2945美元/吨。 LME期锌收涨8美元，报3072美元/吨。 LME期铅收涨21美元，报1984美元/吨。 LME期镍收涨162美元，报14803美元/吨。 LME期锡收涨300美元，报43227美元/吨。 LME期钴收平，报52790美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3024110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时11分"
         },
         {
           "title": "国际货币基金组织：执行董事会批准向斯里兰卡提供2.06亿美元紧急财政支持。",
@@ -123,15 +173,15 @@
           "time_info": "01时09分"
         },
         {
-          "title": "标普全球报告指出，在所谓的“全球建设狂潮”中，今年已有超过610亿美元的资金涌入数据中心市场，略高于去年的608亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3024101",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储在固定利率逆回购操作中总计接纳了12个对手方的30.47亿美元。",
+          "url": "https://flash.jin10.com/detail/20251220021703918800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "03时07分"
         },
         {
           "title": "韦德布什：维持对Meta Platforms(META.O)跑赢大市评级，将目标价从920.00美元下调至880.00美元。",
@@ -143,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "周五（12月19日），韩元兑美元最终跌0.28%，报1477.49韩元，本周累涨0.02%，周一和周二形成冲高回落走势，周三至周五大致低位持稳。",
-          "url": "https://wallstreetcn.com/livenews/3024100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时11分"
         },
         {
           "title": "字节跳动有望在2025年实现500亿美元利润 紧追Meta",
@@ -214,8 +253,32 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "据美联社：美国总统特朗普讲话已被推迟。",
+          "url": "https://flash.jin10.com/detail/20251220023126806800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
+        },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
           "url": "https://news.ifeng.com/c/8pDUNvScYT5",
@@ -224,20 +287,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
           "ranks": [
-            10,
+            26,
+            22,
+            28,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -247,8 +312,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -259,21 +324,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
         },
         {
-          "title": "特朗普年终演讲为何不提中国",
-          "url": "https://www.toutiao.com/trending/7585539719539199497/",
-          "source": "今日头条",
+          "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
+          "url": "https://wallstreetcn.com/livenews/3024107",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
-            22,
-            28
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 03时07分]"
         },
         {
           "title": "南亚股市收盘播报｜印度中盘股收涨1.2%，卢比尾盘飙涨，特朗普贸易代表批评欧盟和印度",
@@ -312,15 +376,15 @@
           "time_info": "[01时09分 ~ 02时11分]"
         },
         {
-          "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
-          "url": "https://wallstreetcn.com/livenews/3024107",
-          "source": "华尔街见闻-快讯",
+          "title": "据Politico：一位熟悉情况的国务院官员和外交人员工会负责人透露，特朗普政府正在召回一些由前总统拜登任命的职业大使。约有二十多位大使被要求离任。",
+          "url": "https://flash.jin10.com/detail/20251220022718174800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "03时07分"
         },
         {
           "title": "特朗普给联邦政府加假不影响国债标售计划，财政部称安排照旧",
@@ -337,7 +401,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -345,11 +409,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月19日（周五）晚盘收盘上涨0.49%报978.9元/克；<br/>上海黄金交易所白银T+D 12月19日（周五）晚盘收盘上涨3.17%报15700.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251220023132979800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "现货黄金突破4350美元/盎司，日内涨0.42%。",
@@ -401,8 +477,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -423,7 +499,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         },
@@ -434,7 +510,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
         }
@@ -453,8 +529,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
         },
         {
           "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
@@ -466,8 +542,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时07分]"
         }
       ]
     },
@@ -483,8 +559,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 02时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时07分]"
         }
       ]
     },
