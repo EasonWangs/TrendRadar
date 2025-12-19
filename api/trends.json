@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T06:09:32.506778+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2025-12-20T07:08:45.686644+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "12月19日，离岸投资者买入价值大约60亿美元的哥伦比亚本币比索债券，创单日历史新高。",
@@ -31,17 +31,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "美联储：美国上周银行存款18.519万亿美元，之前一周18.484万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3024172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "美国佐治亚电力公司：佐治亚州公共服务委员会已批准其采购9,900兆瓦（MW）发电资源的计划。该计划将为典型住宅用户每年带来约102美元的电费节省。",
           "url": "https://flash.jin10.com/detail/20251220022921994800",
           "source": "金十数据",
@@ -51,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "周五（12月19日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报7.0342元，较周四纽约尾盘跌15点。 本周，离岸人民币累计上涨大约195点，涨幅0.28%，整体交投于7.0586-7.0309元区间，周二至周五持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3024183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
@@ -102,6 +102,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 06时09分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.519万亿美元，之前一周18.484万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3024172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时08分]"
         },
         {
           "title": "现货白银历史首次突破67美元/盎司",
@@ -179,6 +191,39 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
+          "title": "高盛维持2026年夏季亨利枢纽天然气价格为4.50美元/百万英热的预测。",
+          "url": "https://flash.jin10.com/detail/20251220034828087800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
+          "title": "勃林格殷格翰：宣布与美国政府达成广泛协议，以降低美国患者的药品成本并扩大其在美国的业务布局。将在2028年前投资100亿美元，以扩大在美国的制药研发和制造业务。",
+          "url": "https://flash.jin10.com/detail/20251220034751925800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
+          "title": "默克：与美国政府达成协议，以扩大药品获取渠道并降低美国民众的药品成本。承诺在美国投资逾700亿美元。",
+          "url": "https://flash.jin10.com/detail/20251220033958580800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
           "title": "赛诺菲将在美国把药品价格降低61%，计划投资200亿美元升级美国工厂设施。 获三年进口关税豁免期，协议为赛诺菲进口产品提供三年免税期。",
           "url": "https://wallstreetcn.com/livenews/3024137",
           "source": "华尔街见闻-快讯",
@@ -239,26 +284,16 @@
           "time_info": "[04时09分 ~ 05时08分]"
         },
         {
-          "title": "高盛维持2026年夏季亨利枢纽天然气价格为4.50美元/百万英热的预测。",
-          "url": "https://flash.jin10.com/detail/20251220034828087800",
-          "source": "金十数据",
+          "title": "周五（12月19日）纽约尾盘，欧元兑美元跌0.05%，报1.1718，本周累计下跌0.17%。 英镑兑美元涨0.02%，报1.3384，本周累涨0.10%。 美元兑瑞郎涨0.11%，报0.7951，本周累跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3024156",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            14,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
-        },
-        {
-          "title": "勃林格殷格翰：宣布与美国政府达成广泛协议，以降低美国患者的药品成本并扩大其在美国的业务布局。将在2028年前投资100亿美元，以扩大在美国的制药研发和制造业务。",
-          "url": "https://flash.jin10.com/detail/20251220034751925800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
+          "time_info": "[06时09分 ~ 07时08分]"
         },
         {
           "title": "离岸投资者斥资60亿美元购入哥伦比亚比索债券",
@@ -271,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时08分]"
-        },
-        {
-          "title": "默克：与美国政府达成协议，以扩大药品获取渠道并降低美国民众的药品成本。承诺在美国投资逾700亿美元。",
-          "url": "https://flash.jin10.com/detail/20251220033958580800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
         },
         {
           "title": "现货铂金上涨逾3%，至1,982.03美元/盎司",
@@ -317,6 +341,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "纽约期银周五创历史新高逼近68美元，本周涨约8.7%，铂金累涨超13.1%、钯金累涨约14.8%",
+          "url": "https://wallstreetcn.com/livenews/3024177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "韦德布什：维持对Meta Platforms(META.O)跑赢大市评级，将目标价从920.00美元下调至880.00美元。",
           "url": "https://flash.jin10.com/detail/20251220001526866800",
           "source": "金十数据",
@@ -337,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "周五（12月19日）纽约尾盘，欧元兑美元跌0.05%，报1.1718，本周累计下跌0.17%。 英镑兑美元涨0.02%，报1.3384，本周累涨0.10%。 美元兑瑞郎涨0.11%，报0.7951，本周累跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3024156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
         },
         {
           "title": "基因泰克：美国政府豁免基因泰克投资组合关税。基因泰克宣布对美国制造业投资500亿美元。",
@@ -463,18 +487,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
           "url": "https://news.ifeng.com/c/8pDUNvScYT5",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -528,8 +553,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
         },
         {
           "title": "美国总统特朗普：保险公司必须赚更少的钱。",
@@ -539,8 +564,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
+          "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
+          "url": "https://flash.jin10.com/detail/20251220033347525800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时09分 ~ 07时08分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -554,6 +591,17 @@
           "time_info": "[00时09分 ~ 04时09分]"
         },
         {
+          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
+          "url": "https://wallstreetcn.com/livenews/3024186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
           "url": "https://flash.jin10.com/detail/20251220023126806800",
           "source": "金十数据",
@@ -563,18 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
-          "url": "https://flash.jin10.com/detail/20251220033347525800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时09分 ~ 06时09分]"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
@@ -615,6 +651,39 @@
           "time_info": "[05时08分 ~ 06时09分]"
         },
         {
+          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
+          "url": "https://flash.jin10.com/detail/20251220040213570800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
+          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
+          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
+          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
+          "url": "https://flash.jin10.com/detail/20251220035945921800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
+        },
+        {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
           "url": "https://wallstreetcn.com/livenews/3024107",
           "source": "华尔街见闻-快讯",
@@ -628,26 +697,26 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
-          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
-          "url": "https://flash.jin10.com/detail/20251220040213570800",
+          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
+          "url": "https://flash.jin10.com/detail/20251220034545979800",
           "source": "金十数据",
           "ranks": [
-            6
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
         },
         {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "title": "特朗普与九家药企达成协议 大幅降低药价",
+          "url": "https://flash.jin10.com/detail/20251220034432259800",
           "source": "金十数据",
           "ranks": [
-            7
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时08分 ~ 07时08分]"
         },
         {
           "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
@@ -660,17 +729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时08分]"
-        },
-        {
-          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
-          "url": "https://flash.jin10.com/detail/20251220035945921800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
         },
         {
           "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
@@ -709,28 +767,6 @@
           "time_info": "[00时09分 ~ 01时09分]"
         },
         {
-          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
-          "url": "https://flash.jin10.com/detail/20251220034545979800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
-        },
-        {
-          "title": "特朗普与九家药企达成协议 大幅降低药价",
-          "url": "https://flash.jin10.com/detail/20251220034432259800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
-        },
-        {
           "title": "特朗普下令暂停“绿卡抽签”",
           "url": "https://www.toutiao.com/trending/7584652634205585450/",
           "source": "今日头条",
@@ -741,6 +777,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时11分]"
+        },
+        {
+          "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3024182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "据Politico：一位熟悉情况的国务院官员和外交人员工会负责人透露，特朗普政府正在召回一些由前总统拜登任命的职业大使。约有二十多位大使被要求离任。",
@@ -845,7 +892,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -857,8 +904,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "男子用白鹿黄金海报炼10g金豆后破防",
@@ -872,8 +919,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 06时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月19日（周五）晚盘收盘上涨0.49%报978.9元/克；<br/>上海黄金交易所白银T+D 12月19日（周五）晚盘收盘上涨3.17%报15700.0元/千克。",
@@ -910,6 +957,17 @@
           "time_info": "[04时08分 ~ 04时09分]"
         },
         {
+          "title": "周五（12月19日）纽约尾盘，现货黄金涨0.13%，报4338.32美元/盎司，本周累计上涨0.91%，整体震荡于4271.92-4374.65美元区间。 COMEX黄金期货涨0.08%，报4368.40美元/盎司，本周累涨0.92%。",
+          "url": "https://wallstreetcn.com/livenews/3024175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "现货白银日内涨幅达2.5%，报67.18美元/盎司，创历史新高。 纽约银日内涨幅达3.0%，报67.22美元/盎司。 现货黄金日内涨幅达0.5%，报4354.09美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3024077",
           "source": "华尔街见闻-快讯",
@@ -924,7 +982,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -934,30 +992,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3024174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时08分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3024168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时08分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -970,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时09分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
+          "url": "https://wallstreetcn.com/livenews/3024176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -1009,8 +1080,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 06时09分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 07时08分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -1019,9 +1090,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时08分]"
         }
       ]
     },
@@ -1029,6 +1100,18 @@
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
+        {
+          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
+          "url": "https://wallstreetcn.com/articles/3761670",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 07时08分]"
+        },
         {
           "title": "2/10年期美债收益率于美国CPI数据发布当周跌超3个基点",
           "url": "https://wallstreetcn.com/livenews/3024148",
@@ -1040,18 +1123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时09分]"
-        },
-        {
-          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
-          "url": "https://wallstreetcn.com/articles/3761670",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时09分]"
         }
       ]
     },
@@ -1068,8 +1139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         },
         {
           "title": "【每日收评】三大指数震荡反弹小幅收红，海南概念股午后走强，多只高位股尾盘跳水",
@@ -1081,8 +1152,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 07时08分]"
         }
       ]
     }
