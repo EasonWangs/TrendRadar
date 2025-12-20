@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:10:21.354273+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2025-12-20T17:08:56.327225+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时30分 ~ 16时10分]"
+          "appearance_count": 10,
+          "time_info": "[11时30分 ~ 17时08分]"
         },
         {
           "title": "解放军报详解美对台111亿美元军售案",
@@ -30,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时12分 ~ 16时10分]"
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 17时08分]"
         },
         {
           "title": "字节跳动全年利润500亿美元？知情人士回应",
@@ -44,11 +45,12 @@
             15,
             19,
             20,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 16时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 17时08分]"
         },
         {
           "title": "解放军报详解美对台111亿美元军售案",
@@ -59,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 16时10分]"
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 17时08分]"
         },
         {
           "title": "12月19日，离岸投资者买入价值大约60亿美元的哥伦比亚本币比索债券，创单日历史新高。",
@@ -132,11 +134,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时10分]"
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时08分]"
         },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
@@ -627,8 +630,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时31分 ~ 16时10分]"
+          "appearance_count": 13,
+          "time_info": "[08时31分 ~ 17时08分]"
         },
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -1115,8 +1118,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时31分 ~ 16时10分]"
+          "appearance_count": 13,
+          "time_info": "[08时31分 ~ 17时08分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -1129,8 +1132,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时31分 ~ 16时10分]"
+          "appearance_count": 13,
+          "time_info": "[08时31分 ~ 17时08分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -1161,6 +1164,19 @@
           "time_info": "[10时39分 ~ 16时10分]"
         },
         {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 17时08分]"
+        },
+        {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3024174",
           "source": "华尔街见闻-快讯",
@@ -1173,18 +1189,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时09分 ~ 09时36分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 16时10分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -1287,7 +1291,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -1333,6 +1337,22 @@
           "time_info": "[08时31分 ~ 12时13分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
+          "url": "https://flash.jin10.com/detail/20251220113809000800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9,
+            11,
+            13,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 17时08分]"
+        },
+        {
           "title": "Clocktower首席策略师王凯文：黄金牛市基础未变，白银潜在空间更为可观",
           "url": "https://wallstreetcn.com/livenews/3024216",
           "source": "华尔街见闻-快讯",
@@ -1360,19 +1380,17 @@
           "time_info": "03时07分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
-          "url": "https://flash.jin10.com/detail/20251220113809000800",
-          "source": "金十数据",
+          "title": "男子偷170万元黄金藏祖坟墓碑后",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7170%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E8%97%8F%E7%A5%96%E5%9D%9F%E5%A2%93%E7%A2%91%E5%90%8E",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            9,
-            11,
+            18,
             13,
-            20
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时10分]"
+          "time_info": "[14时10分 ~ 17时08分]"
         },
         {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1052.54吨，较前一个交易日维持不变。",
@@ -1398,18 +1416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时09分]"
-        },
-        {
-          "title": "男子偷170万元黄金藏祖坟墓碑后",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7170%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E8%97%8F%E7%A5%96%E5%9D%9F%E5%A2%93%E7%A2%91%E5%90%8E",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 16时10分]"
         },
         {
           "title": "周五（12月19日）纽约尾盘，现货黄金涨0.13%，报4338.32美元/盎司，本周累计上涨0.91%，整体震荡于4271.92-4374.65美元区间。 COMEX黄金期货涨0.08%，报4368.40美元/盎司，本周累涨0.92%。",
@@ -1445,6 +1451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "男子偷170万元黄金藏祖坟墓碑后",
+          "url": "https://www.toutiao.com/trending/7585151455397642246/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     },
@@ -1460,11 +1477,12 @@
             10,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时09分 ~ 16时10分]"
+          "appearance_count": 15,
+          "time_info": "[06时09分 ~ 17时08分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
