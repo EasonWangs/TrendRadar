@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T12:13:00.582269+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-12-20T13:08:49.011362+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "解放军报详解美对台111亿美元军售案",
@@ -15,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时08分]"
+        },
+        {
+          "title": "今年利润有望达500亿美元？接近字节跳动的知情人士回应：数据不实，偏差较大",
+          "url": "https://wallstreetcn.com/articles/3761747",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时30分 ~ 13时08分]"
         },
         {
           "title": "12月19日，离岸投资者买入价值大约60亿美元的哥伦比亚本币比索债券，创单日历史新高。",
@@ -37,11 +50,12 @@
           "ranks": [
             1,
             4,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 13时08分]"
         },
         {
           "title": "WTI 1月原油期货收报56.66美元/桶。 NYMEX 1月天然气期货收报3.9840美元/百万英热单位。 NYMEX 1月汽油期货收报1.7082美元/加仑，NYMEX 1月取暖油期货收报2.1219美元/加仑。",
@@ -77,18 +91,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 03时07分]"
-        },
-        {
-          "title": "今年利润有望达500亿美元？接近字节跳动的知情人士回应：数据不实，偏差较大",
-          "url": "https://wallstreetcn.com/articles/3761747",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时30分 ~ 12时13分]"
         },
         {
           "title": "周五（12月19日），美联储隔夜逆回购协议（RRP）使用规模为30.47亿美元，上个交易日报117.08亿美元。",
@@ -191,6 +193,20 @@
           "time_info": "[05时08分 ~ 06时09分]"
         },
         {
+          "title": "Clocktower首席策略师王凯文：美元步入“史上最大熊市”，未来5-8年贬值幅度或近40%",
+          "url": "https://wallstreetcn.com/livenews/3024214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            15,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 13时08分]"
+        },
+        {
           "title": "高盛维持2026年夏季亨利枢纽天然气价格为4.50美元/百万英热的预测。",
           "url": "https://flash.jin10.com/detail/20251220034828087800",
           "source": "金十数据",
@@ -240,6 +256,19 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
+          "title": "字节跳动全年利润500亿美元？知情人士回应：数据不实，偏差较大",
+          "url": "https://flash.jin10.com/detail/20251220103535246800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 13时08分]"
+        },
+        {
           "title": "纽约期银周五创历史新高逼近68美元，本周涨约8.7%，铂金累涨超13.1%、钯金累涨约14.8%",
           "url": "https://wallstreetcn.com/livenews/3024177",
           "source": "华尔街见闻-快讯",
@@ -279,19 +308,6 @@
           "time_info": "[02时11分 ~ 04时09分]"
         },
         {
-          "title": "Clocktower首席策略师王凯文：美元步入“史上最大熊市”，未来5-8年贬值幅度或近40%",
-          "url": "https://wallstreetcn.com/livenews/3024214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 12时13分]"
-        },
-        {
           "title": "默克：与美国政府达成协议，以扩大药品获取渠道并降低美国民众的药品成本。承诺在美国投资逾700亿美元。",
           "url": "https://flash.jin10.com/detail/20251220033958580800",
           "source": "金十数据",
@@ -325,18 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时09分]"
-        },
-        {
-          "title": "字节跳动全年利润500亿美元？知情人士回应：数据不实，偏差较大",
-          "url": "https://flash.jin10.com/detail/20251220103535246800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 12时13分]"
         },
         {
           "title": "报道：字节跳动2025年利润有望达到500亿美元",
@@ -487,6 +491,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "解放军报详解美对台111亿美元军售案",
+          "url": "https://www.toutiao.com/trending/7585459828026396202/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
           "url": "https://wallstreetcn.com/livenews/3024048",
           "source": "华尔街见闻-快讯",
@@ -635,8 +650,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时31分 ~ 12时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时31分 ~ 13时08分]"
         },
         {
           "title": "金十提示：美国总统特朗普讲话结束。",
@@ -665,6 +680,20 @@
           "time_info": "[05时08分 ~ 09时36分]"
         },
         {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 13时08分]"
+        },
+        {
           "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
           "url": "https://flash.jin10.com/detail/20251220033347525800",
           "source": "金十数据",
@@ -675,19 +704,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时09分 ~ 07时08分]"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 12时13分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -1064,7 +1080,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -1075,8 +1091,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时31分 ~ 12时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时31分 ~ 13时08分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -1099,8 +1115,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时31分 ~ 12时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时31分 ~ 13时08分]"
+        },
+        {
+          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
+          "url": "https://wallstreetcn.com/livenews/3024223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 13时08分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -1115,19 +1145,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时09分 ~ 09时36分]"
-        },
-        {
-          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
-          "url": "https://wallstreetcn.com/livenews/3024223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 12时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -1203,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时36分 ~ 10时39分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -1318,11 +1346,12 @@
           "ranks": [
             10,
             13,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 13时08分]"
         },
         {
           "title": "周五（12月19日）纽约尾盘，现货黄金涨0.13%，报4338.32美元/盎司，本周累计上涨0.91%，整体震荡于4271.92-4374.65美元区间。 COMEX黄金期货涨0.08%，报4368.40美元/盎司，本周累涨0.92%。",
@@ -1338,6 +1367,18 @@
           "time_info": "[07时08分 ~ 09时36分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
+          "url": "https://flash.jin10.com/detail/20251220113809000800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时08分]"
+        },
+        {
           "title": "美术馆创始人回应黄金凤冠事件",
           "url": "https://www.douyin.com/hot/2341124",
           "source": "抖音",
@@ -1347,17 +1388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
-          "url": "https://flash.jin10.com/detail/20251220113809000800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         },
         {
           "title": "现货白银日内涨幅达2.5%，报67.18美元/盎司，创历史新高。 纽约银日内涨幅达3.0%，报67.22美元/盎司。 现货黄金日内涨幅达0.5%，报4354.09美元/盎司。",
@@ -1387,8 +1417,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时09分 ~ 12时13分]"
+          "appearance_count": 10,
+          "time_info": "[06时09分 ~ 13时08分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
