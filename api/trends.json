@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-21T07:08:02.215566+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-12-21T08:36:14.005984+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
           "url": "https://flash.jin10.com/detail/20251220214727409800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 08时36分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
           "url": "https://flash.jin10.com/detail/20251220214239757800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 08时36分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -39,6 +41,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 07时08分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时35分 ~ 08时36分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -110,28 +123,30 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时08分]"
-        },
-        {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时36分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时36分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -140,11 +155,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时36分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -152,11 +168,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时36分]"
         }
       ]
     },
@@ -169,11 +186,12 @@
           "url": "https://wallstreetcn.com/articles/3761747",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时36分]"
         },
         {
           "title": "解放军报详解美对台111亿美元军售案",
@@ -181,11 +199,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时36分]"
         },
         {
           "title": "马斯克赢得560亿美元薪酬方案",
@@ -242,8 +261,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时36分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -254,8 +273,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 08时36分]"
         }
       ]
     },
@@ -269,11 +288,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 08时36分]"
         },
         {
           "title": "机构密集调研智能驾驶概念股！龙头4连板，近一个月接待量居前热门股名单来了",
@@ -284,8 +304,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时10分 ~ 07时08分]"
+          "appearance_count": 10,
+          "time_info": "[02时10分 ~ 08时36分]"
         }
       ]
     },
