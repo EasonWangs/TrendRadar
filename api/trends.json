@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T17:12:44.645156+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-12-22T18:09:38.394226+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时08分 ~ 17时12分]"
+          "appearance_count": 24,
+          "time_info": "[00时08分 ~ 18时09分]"
         },
         {
           "title": "3500亿美元交易额创纪录，推升对日本并购市场前景的乐观情绪",
@@ -248,6 +248,18 @@
           "time_info": "[12时23分 ~ 13时11分]"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0382，较上一交易日官方收盘价涨28点，较上日夜盘收盘涨26点。",
+          "url": "https://wallstreetcn.com/livenews/3024823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
+        },
+        {
           "title": "现货白银周一早盘升至67.5美元/盎司，再创历史新高。",
           "url": "https://flash.jin10.com/detail/20251222080954615800",
           "source": "金十数据",
@@ -358,17 +370,6 @@
           "time_info": "09时38分"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.0382，较上一交易日官方收盘价涨28点，较上日夜盘收盘涨26点。",
-          "url": "https://wallstreetcn.com/livenews/3024823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "现货铂金自2008年以来首次升破2,000美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3024547",
           "source": "华尔街见闻-快讯",
@@ -460,7 +461,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -484,6 +485,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时08分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时09分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -515,20 +530,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[02时10分 ~ 16时12分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时12分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -637,6 +638,21 @@
           "time_info": "[05时07分 ~ 07时08分]"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时11分 ~ 18时09分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
           "url": "https://flash.jin10.com/detail/20251221182933074800",
           "source": "金十数据",
@@ -671,30 +687,15 @@
           "time_info": "11时38分"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18,
-            19,
-            15
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 17时12分]"
-        },
-        {
-          "title": "飞机闯入特朗普官邸上空被紧急拦截",
-          "url": "https://www.toutiao.com/trending/7586445374106796082/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 17时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
@@ -704,8 +705,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 18时09分]"
+        },
+        {
+          "title": "飞机闯入特朗普官邸上空被紧急拦截",
+          "url": "https://www.toutiao.com/trending/7586445374106796082/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时11分 ~ 17时12分]"
+          "time_info": "[16时12分 ~ 18时09分]"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -720,6 +734,17 @@
           "time_info": "[10时48分 ~ 11时38分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://flash.jin10.com/detail/20251222105005973800",
           "source": "金十数据",
@@ -729,6 +754,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
+          "url": "https://flash.jin10.com/detail/20251222174043679800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222173421961800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "研究显示：特朗普关税政策重创德国汽车出口",
@@ -776,9 +823,24 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
+        },
+        {
+          "title": "海南封关黄金被疯抢",
+          "url": "https://www.toutiao.com/trending/7586505964669373971/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21,
+            23,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时13分 ~ 18时09分]"
         },
         {
           "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
@@ -815,20 +877,6 @@
           "time_info": "16时12分"
         },
         {
-          "title": "海南封关黄金被疯抢",
-          "url": "https://www.toutiao.com/trending/7586505964669373971/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 17时12分]"
-        },
-        {
           "title": "金十图示：2025年12月22日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251222064313510800",
           "source": "金十数据",
@@ -852,6 +900,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 14时13分]"
+        },
+        {
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 18时09分]"
         },
         {
           "title": "黄金",
@@ -889,18 +950,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时11分]"
-        },
-        {
-          "title": "黄金白银价格创新高",
-          "url": "https://www.douyin.com/hot/2344085",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 17时12分]"
         },
         {
           "title": "地缘政治紧张加剧，黄金白银创下历史新高",
@@ -993,6 +1042,116 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "公司L4系统具备向Robotaxi延伸的潜力 无人驾驶概念股单日涨超12% 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2235756",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时34分 ~ 14时13分]"
+        },
+        {
+          "title": "L4系统具备向Robotaxi延伸的潜力 无人驾驶概念股单日涨超12% 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2235756",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "智能驾驶概念继续活跃，浙江世宝5连板，万集科技、民德电子、威帝股份、多伦科技、经纬恒润等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3024568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
+          "url": "https://www.cls.cn/detail/2235498",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 08时35分]"
+        },
+        {
+          "title": "【午报】沪指重新站上3900点，海南概念股全线爆发，科技股方向震荡走强",
+          "url": "https://www.cls.cn/detail/2236161",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 18时09分]"
+        },
+        {
+          "title": "机构密集调研智能驾驶概念股！龙头4连板，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2235518",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时34分 ~ 08时35分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
+          "url": "https://www.cls.cn/detail/2236551",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "【数据看盘】银行ETF近三周份额大减超过50亿份 多家机构与实力游资激烈博弈商业航天概念股",
+          "url": "https://www.cls.cn/detail/2236593",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3024712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -1080,96 +1239,25 @@
       ]
     },
     {
-      "keyword_group": "概念",
-      "match_count": 7,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "公司L4系统具备向Robotaxi延伸的潜力 无人驾驶概念股单日涨超12% 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2235756",
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
           "source": "财联社热门",
           "ranks": [
             13,
             9,
+            7,
             5,
-            6
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时34分 ~ 14时13分]"
+          "time_info": "[11时38分 ~ 18时09分]"
         },
-        {
-          "title": "L4系统具备向Robotaxi延伸的潜力 无人驾驶概念股单日涨超12% 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2235756",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
-          "title": "智能驾驶概念继续活跃，浙江世宝5连板，万集科技、民德电子、威帝股份、多伦科技、经纬恒润等多股高开。",
-          "url": "https://wallstreetcn.com/livenews/3024568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
-          "url": "https://www.cls.cn/detail/2235498",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 08时35分]"
-        },
-        {
-          "title": "机构密集调研智能驾驶概念股！龙头4连板，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2235518",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时34分 ~ 08时35分]"
-        },
-        {
-          "title": "【午报】沪指重新站上3900点，海南概念股全线爆发，科技股方向震荡走强",
-          "url": "https://www.cls.cn/detail/2236161",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 17时12分]"
-        },
-        {
-          "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
-          "url": "https://wallstreetcn.com/livenews/3024712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
@@ -1184,32 +1272,6 @@
           "time_info": "[00时08分 ~ 07时08分]"
         },
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时38分 ~ 17时12分]"
-        },
-        {
-          "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
-          "url": "https://wallstreetcn.com/livenews/3024841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
           "url": "https://www.cls.cn/detail/2236150",
           "source": "财联社热门",
@@ -1219,8 +1281,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时11分 ~ 17时12分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 18时09分]"
+        },
+        {
+          "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
+          "url": "https://wallstreetcn.com/livenews/3024841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -1264,8 +1338,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 17时12分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 18时09分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
