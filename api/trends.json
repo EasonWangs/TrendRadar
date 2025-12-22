@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T11:38:54.459137+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2025-12-22T12:23:59.801314+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时08分 ~ 11时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时08分 ~ 12时23分]"
         },
         {
           "title": "3500亿美元交易额创纪录，推升对日本并购市场前景的乐观情绪",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时10分 ~ 07时08分]"
+        },
+        {
+          "title": "英镑兑美元GBP/USD站上1.34，日内涨0.16%。",
+          "url": "https://flash.jin10.com/detail/20251222121147900800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "现货铂金突破2000美元大关",
@@ -82,6 +93,18 @@
           "time_info": "[10时48分 ~ 11时38分]"
         },
         {
+          "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
+          "url": "https://wallstreetcn.com/articles/3761794",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 12时23分]"
+        },
+        {
           "title": "WTI原油期货日内涨超1.00%，现报57.09美元/桶。",
           "url": "https://flash.jin10.com/detail/20251222103428242800",
           "source": "金十数据",
@@ -100,18 +123,6 @@
           "ranks": [
             8,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 11时38分]"
-        },
-        {
-          "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
-          "url": "https://wallstreetcn.com/articles/3761794",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -154,6 +165,18 @@
           "time_info": "[10时48分 ~ 11时38分]"
         },
         {
+          "title": "LME铜价升至纪录高位，接近每吨12,000美元。",
+          "url": "https://wallstreetcn.com/livenews/3024648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时23分]"
+        },
+        {
           "title": "现货白银周一早盘升至67.5美元/盎司，再创历史新高。",
           "url": "https://flash.jin10.com/detail/20251222080954615800",
           "source": "金十数据",
@@ -163,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时35分"
+        },
+        {
+          "title": "泰铢兑美元汇率升至31.2950，为自2021年6月中旬以来首次。",
+          "url": "https://flash.jin10.com/detail/20251222115151744800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "现货钯金日内涨幅达4.00%，现报1760.14美元/盎司。",
@@ -198,15 +232,15 @@
           "time_info": "09时38分"
         },
         {
-          "title": "LME铜价升至纪录高位，接近每吨12,000美元。",
-          "url": "https://wallstreetcn.com/livenews/3024648",
-          "source": "华尔街见闻-快讯",
+          "title": "现货白银站上69美元关口",
+          "url": "https://flash.jin10.com/detail/20251222113503491800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "12时23分"
         },
         {
           "title": "现货铂金自2008年以来首次升破2,000美元/盎司。",
@@ -278,7 +312,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -315,8 +349,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时07分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[03时07分 ~ 12时23分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -329,8 +363,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时10分 ~ 11时38分]"
+          "appearance_count": 15,
+          "time_info": "[02时10分 ~ 12时23分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -442,7 +476,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -459,15 +493,37 @@
           "time_info": "[10时48分 ~ 11时38分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://flash.jin10.com/detail/20251222105005973800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         },
         {
           "title": "特朗普与爱泼斯坦合影被美司法部秒删",
@@ -487,9 +543,95 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月22日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251222064313510800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 08时35分]"
+        },
+        {
+          "title": "海南封关免税黄金与热带鲜果成新宠",
+          "url": "https://www.toutiao.com/trending/7585174613400240164/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 04时09分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时23分]"
+        },
+        {
+          "title": "“降息预期+地缘冲突”推动，黄金、白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月22日（周一）早盘盘初上涨0.84%报982.3元/克；<br/>上海黄金交易所白银T+D 12月22日（周一）早盘盘初上涨4.49%报15900.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251222090106561800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "现货黄金突破4350美元/盎司，日内涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20251222073151121800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时35分"
+        },
+        {
+          "title": "现货黄金突破4390美元/盎司，日内涨1.19%。",
+          "url": "https://flash.jin10.com/detail/20251222112015743800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     },
@@ -529,7 +671,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -559,69 +701,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月22日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251222064313510800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时35分]"
-        },
-        {
-          "title": "海南封关免税黄金与热带鲜果成新宠",
-          "url": "https://www.toutiao.com/trending/7585174613400240164/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时10分 ~ 04时09分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月22日（周一）早盘盘初上涨0.84%报982.3元/克；<br/>上海黄金交易所白银T+D 12月22日（周一）早盘盘初上涨4.49%报15900.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251222090106561800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "现货黄金突破4350美元/盎司，日内涨0.26%。",
-          "url": "https://flash.jin10.com/detail/20251222073151121800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时35分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
       "match_count": 4,
       "titles": [
@@ -636,8 +715,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时34分 ~ 11时38分]"
+          "appearance_count": 6,
+          "time_info": "[08时34分 ~ 12时23分]"
         },
         {
           "title": "智能驾驶概念继续活跃，浙江世宝5连板，万集科技、民德电子、威帝股份、多伦科技、经纬恒润等多股高开。",
@@ -704,8 +783,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时08分 ~ 11时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 12时23分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -744,11 +823,12 @@
           "url": "https://www.cls.cn/detail/2235916",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 12时23分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
