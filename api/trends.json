@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T18:09:53.828772+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2025-12-23T19:08:43.105281+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 84,
+      "match_count": 93,
       "titles": [
         {
           "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 18时09分]"
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 19时08分]"
         },
         {
           "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
@@ -47,6 +48,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时37分 ~ 14时12分]"
+        },
+        {
+          "title": "美元兑加元USD/CAD失守1.37，日内跌幅0.33%。",
+          "url": "https://flash.jin10.com/detail/20251223185327923800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
@@ -93,6 +105,28 @@
           "time_info": "13时11分"
         },
         {
+          "title": "美元迈向2017年以来最大年度跌幅 期权市场显示还有进一步下跌空间",
+          "url": "https://wallstreetcn.com/livenews/3025568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）三个月期铜突破每吨12000美元，再创历史新高。",
+          "url": "https://flash.jin10.com/detail/20251223184649248800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "梅赛德斯-奔驰支付1.5亿美元 和解美国柴油车排放纠纷",
           "url": "https://wallstreetcn.com/livenews/3025141",
           "source": "华尔街见闻-快讯",
@@ -110,20 +144,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
         {
-          "title": "美元兑加元跌至近5个月低点报1.3706。",
-          "url": "https://wallstreetcn.com/livenews/3025529",
+          "title": "伦铜升至1.2万美元/吨上方，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3025564",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "19时08分"
         },
         {
           "title": "美元兑日元USD/JPY失守156，日内跌幅0.58%。",
@@ -235,6 +269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时11分 ~ 17时11分]"
+        },
+        {
+          "title": "美元兑加元跌至近5个月低点报1.3706。",
+          "url": "https://wallstreetcn.com/livenews/3025529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时08分]"
         },
         {
           "title": "富国银行(WFC.N)计划参与日交易量达3.9万亿美元的期权市场清算。",
@@ -526,6 +572,17 @@
           "time_info": "11时36分"
         },
         {
+          "title": "市场消息：银行在英国央行短期回购操作中借入创纪录的982亿美元",
+          "url": "https://flash.jin10.com/detail/20251223184235121800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "加拿大养老金计划投资委员会（CPP）和高盛将在欧洲数据中心投资26亿美元。",
           "url": "https://wallstreetcn.com/livenews/3025183",
           "source": "华尔街见闻-快讯",
@@ -554,7 +611,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -598,7 +655,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -612,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "东方雨虹：美国全资子公司疑遭电信诈骗 涉案金额约171.83万美元",
+          "url": "https://wallstreetcn.com/livenews/3025559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "现货钯金日内涨超2.00%，现报1811.37美元/盎司。",
@@ -774,7 +842,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -867,6 +935,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "伦锡日内涨超2.00%，现报43570.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20251223180510339800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3025481",
           "source": "华尔街见闻-快讯",
@@ -887,6 +966,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "美元兑瑞典克朗USD/SEK下跌0.5%至9.1852，触及2022年2月以来最低。",
+          "url": "https://flash.jin10.com/detail/20251223180443241800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美元兑瑞典克朗下跌0.5%至9.1852，触及2022年2月以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3025543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "中信证券：2027年全球液冷市场空间将达到218亿美元",
@@ -980,7 +1081,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -1006,6 +1107,18 @@
           "time_info": "[09时37分 ~ 17时11分]"
         },
         {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 19时08分]"
+        },
+        {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
           "source": "今日头条",
@@ -1016,11 +1129,12 @@
             9,
             21,
             17,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 11,
+          "time_info": "[09时37分 ~ 19时08分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -1032,18 +1146,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时09分 ~ 08时32分]"
-        },
-        {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 18时09分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -1078,8 +1180,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时09分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时08分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -1201,6 +1303,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223184540612800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -1288,6 +1401,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时36分 ~ 13时11分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时08分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时08分]"
         },
         {
           "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
@@ -1468,28 +1604,6 @@
           "time_info": "07时08分"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
           "title": "美国总统特朗普：国防工业需要优先考虑生产支出。",
           "url": "https://flash.jin10.com/detail/20251223062600931800",
           "source": "金十数据",
@@ -1532,6 +1646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美国总统特朗普公布“特朗普级”战舰后，亨廷顿英格尔斯工业股价盘前上涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20251223184036942800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普：我们正在建造三艘大型航空母舰。",
@@ -1875,6 +2000,17 @@
           "time_info": "08时32分"
         },
         {
+          "title": "特朗普的战列舰狂想",
+          "url": "https://www.toutiao.com/trending/7586959074525187625/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "美国总统特朗普：马杜罗想做什么，由他自己决定；马杜罗下台是明智之举。",
           "url": "https://flash.jin10.com/detail/20251223070109720800",
           "source": "金十数据",
@@ -1912,8 +2048,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时32分 ~ 18时09分]"
+          "appearance_count": 12,
+          "time_info": "[08时32分 ~ 19时08分]"
         },
         {
           "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
@@ -1937,8 +2073,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时37分 ~ 18时09分]"
+          "appearance_count": 11,
+          "time_info": "[09时37分 ~ 19时08分]"
         },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -2619,8 +2755,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时09分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时08分]"
         },
         {
           "title": "量子计算概念股普遍走高，D-Wave涨超20%，该公司称将参加CES 2026（2026年消费电子展，1月6-9日举行），高管Murry Thom将在1月7日演示（相关信息）。 Ionq涨12.9%，ARQQ涨6.6%，昆腾QMCO涨3.7%，甲骨文涨2.6%，量子ETF涨1.5%，英伟达涨1%。",
@@ -2707,7 +2843,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -2737,6 +2873,18 @@
           "time_info": "[03时07分 ~ 04时09分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时08分]"
+        },
+        {
           "title": "金十图示：2025年12月23日（周二）上海金早盘价为1010.37元/克，较国际金价(1013.6元/克)，低3.23元/克",
           "url": "https://flash.jin10.com/detail/20251223101900275800",
           "source": "金十数据",
@@ -2746,17 +2894,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
         },
         {
           "title": "金价银价同日创新高",
