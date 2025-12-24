@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T05:07:47.674159+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-25T06:09:11.591903+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "美元恐创2003年以来“最惨一年”",
@@ -17,22 +17,13 @@
             21,
             19,
             17,
-            14
+            14,
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0160元，较周二夜盘收盘涨120点。成交量489.31亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3026325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
         },
         {
           "title": "美国投资公司协会（ICI）：12月23日当周，美国货币市场资产7.673万亿美元，创历史新高。",
@@ -40,11 +31,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时09分]"
+        },
+        {
+          "title": "周三（12月24日）纽约尾盘，欧元兑美元跌0.13%，英镑兑美元跌0.09%，美元兑瑞郎涨0.05%。 商品货币对中，澳元兑美元涨0.05%，纽元兑美元跌0.11%，美元兑加元跌0.10%。 瑞典克朗兑美元大致持平，挪威克朗兑美元涨0.27%，丹麦克朗兑美元跌0.14%。 波兰兹罗提兑美元涨0.02%，匈牙利福林兑美元涨0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3026348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "WTI 2月原油期货收报58.35美元/桶。 布伦特2月原油期货收报62.24美元/桶。 中东Abu Dhabi Murban原油期货跌0.21%，报62.91美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3026319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时09分]"
         },
         {
           "title": "LME期铜收涨102美元，报12162美元/吨。 LME期铝收涨22美元，报2960美元/吨。 LME期锌收涨23美元，报42815美元/吨。 LME期铅收涨12美元，报1994美元/吨。 LME期镍收涨47美元，报15786美元/吨。 LME期锡收涨23美元，报42815美元/吨。 LME期钴收平，报52790美元/吨。",
@@ -60,16 +76,27 @@
           "time_info": "[02时11分 ~ 05时07分]"
         },
         {
-          "title": "WTI 2月原油期货收报58.35美元/桶。 布伦特2月原油期货收报62.24美元/桶。 中东Abu Dhabi Murban原油期货跌0.21%，报62.91美元/桶。 NYMEX 1月天然气期货收报4.2420美元/百万英热单位。 NYMEX 1月汽油期货收报1.7471美元/加仑，NYMEX 1月取暖油期货收报2.1576美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3026319",
+          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://flash.jin10.com/detail/20251225051502192800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0160元，较周二夜盘收盘涨120点。成交量489.31亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3026325",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            8
+            5,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时07分]"
+          "time_info": "[04时09分 ~ 06时09分]"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -141,11 +168,34 @@
           "source": "金十数据",
           "ranks": [
             11,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时07分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时09分]"
+        },
+        {
+          "title": "周三（12月24日）纽约尾盘，ICE美元指数涨0.01%，报97.949点，日内交投区间为97.749-98.012点，整体呈现出三波V形走势。 彭博美元指数跌0.10%，报1200.68点，日内交投区间为1201.41-1199.07点。",
+          "url": "https://wallstreetcn.com/livenews/3026344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "据CNBC：英伟达(NVDA.O)将以大约200亿美元收购人工智能芯片初创公司Groq，成为其有史以来最大的一笔收购交易。",
+          "url": "https://flash.jin10.com/detail/20251225045906463800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "圣诞前夕交易清淡，标普500指数创新高，英特尔跌近4%，金属涨势暂缓，美元连跌三日",
@@ -157,6 +207,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "美元指数24日基本收平",
+          "url": "https://flash.jin10.com/detail/20251225045209388800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "Snowflake(SNOW.N)股价下跌2.2%。，报道称Snowflake正洽谈以约10亿美元收购应用监控初创公司Observe。",
@@ -206,7 +278,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
@@ -217,8 +289,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
         },
         {
           "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
@@ -230,8 +302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
         },
         {
           "title": "现货黄金突破4500美元创新高 避险共识下机构现分歧：到顶了还是仍看涨？",
@@ -243,21 +315,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251225023041029800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
         },
         {
           "title": "男子偷发小100克黄金淡定陪同报警",
@@ -269,8 +328,22 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时07分 ~ 06时09分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251225023041029800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            18,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时07分 ~ 05时07分]"
+          "time_info": "[03时08分 ~ 06时09分]"
         },
         {
           "title": "现货黄金跌破4450美元",
@@ -318,12 +391,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "现货黄金在亚太早盘涨穿4500美元创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3026331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股行业ETF普遍收涨",
@@ -331,11 +415,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时09分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -343,11 +428,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时09分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览（美股收盘）",
@@ -413,6 +499,17 @@
           "time_info": "[00时09分 ~ 01时08分]"
         },
         {
+          "title": "（美股）费城金银指数收跌0.68%，报358.01点，脱离收盘历史最高位，连续两个交易日撤离盘中历史最高位。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.37%，报2545.80点。",
+          "url": "https://wallstreetcn.com/livenews/3026332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
           "title": "美股交投清淡 三大指数均持稳",
           "url": "https://flash.jin10.com/detail/20251224230659751800",
           "source": "金十数据",
@@ -437,8 +534,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -452,51 +573,30 @@
           "time_info": "[00时09分 ~ 03时08分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
-          "url": "https://wallstreetcn.com/articles/3761983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
-          "url": "https://wallstreetcn.com/livenews/3026328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时07分]"
-        },
-        {
           "title": "特朗普回应克林顿大尺度照被公布",
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
           "ranks": [
             7,
             21,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时07分 ~ 05时07分]"
+          "appearance_count": 6,
+          "time_info": "[03时07分 ~ 06时09分]"
+        },
+        {
+          "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
+          "url": "https://wallstreetcn.com/livenews/3026328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时09分]"
         },
         {
           "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
@@ -513,6 +613,36 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
+        },
+        {
+          "title": "美债收益率跌约3个基点，北美时段打破沉寂并逐步走低",
+          "url": "https://wallstreetcn.com/livenews/3026345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "概念",
       "match_count": 2,
       "titles": [
@@ -525,8 +655,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时09分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -534,11 +664,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时07分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时09分]"
         }
       ]
     },
@@ -556,24 +687,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 05时07分]"
         }
       ]
     }
