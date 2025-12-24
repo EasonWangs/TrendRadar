@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T09:37:24.939674+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-12-24T10:42:36.987211+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
@@ -28,11 +28,12 @@
             12,
             10,
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 09时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 10时42分]"
         },
         {
           "title": "韩元在早盘交易中大幅走强，美元/韩元跌0.7%至1470。",
@@ -46,6 +47,17 @@
           "time_info": "08时33分"
         },
         {
+          "title": "日本和美国同意加快推进5500亿美元对美投资项目",
+          "url": "https://wallstreetcn.com/livenews/3025933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "美国国防部：洛克希德·马丁公司获美国国防部100亿美元空军合同修改订单。",
           "url": "https://flash.jin10.com/detail/20251224063236056800",
           "source": "金十数据",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "人民币兑美元中间价升52点至7.0471元，创2024年9月30日来新高",
-          "url": "https://wallstreetcn.com/livenews/3025878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         },
         {
           "title": "伦铜收涨至12000美元整数位心理关口上方",
@@ -191,6 +192,18 @@
           "time_info": "[08时33分 ~ 09时37分]"
         },
         {
+          "title": "人民币兑美元中间价升52点至7.0471元，创2024年9月30日来新高",
+          "url": "https://wallstreetcn.com/livenews/3025878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时42分]"
+        },
+        {
           "title": "NYMEX天然气期货涨9%，现报4.322美元/百万英热单位。",
           "url": "https://wallstreetcn.com/livenews/3025732",
           "source": "华尔街见闻-快讯",
@@ -217,6 +230,18 @@
           "time_info": "[03时08分 ~ 05时08分]"
         },
         {
+          "title": "美新型战列舰造价或高达150亿美元",
+          "url": "https://www.toutiao.com/trending/7586457401441206323/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时42分]"
+        },
+        {
           "title": "Prosus在12月15-19日当周按均价52.5667欧元回购股票270万股，合计1.414亿欧元（折合1.660亿美元）。 同期，Naspers按均价1094.1394南非兰特回购股票113.7117万股，合计12.441亿兰特（折合0.743亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3025684",
           "source": "华尔街见闻-快讯",
@@ -241,6 +266,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时08分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时42分]"
         },
         {
           "title": "阿根廷三季度经常帐赤字15.81亿美元。",
@@ -315,18 +351,6 @@
           "time_info": "[05时08分 ~ 06时09分]"
         },
         {
-          "title": "美新型战列舰造价或高达150亿美元",
-          "url": "https://www.toutiao.com/trending/7586457401441206323/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
-        },
-        {
           "title": "NYMEX天然气期货涨超10%，刷新日高至4.385美元/百万英热单位，创10月份以来最佳盘中表现。",
           "url": "https://wallstreetcn.com/livenews/3025747",
           "source": "华尔街见闻-快讯",
@@ -351,15 +375,16 @@
           "time_info": "[05时08分 ~ 06时09分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
+          "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
+          "url": "https://wallstreetcn.com/livenews/3025869",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
+          "time_info": "[09时37分 ~ 10时42分]"
         },
         {
           "title": "现货白银日内涨幅达3.0%，报71.14美元/盎司。",
@@ -438,7 +463,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -471,7 +496,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -485,17 +510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
-        },
-        {
-          "title": "法官裁定维持特朗普提出的10万美元H-1B签证申请费。",
-          "url": "https://wallstreetcn.com/livenews/3025869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         },
         {
           "title": "现货白银上破71美元",
@@ -553,15 +567,48 @@
           "time_info": "02时12分"
         },
         {
+          "title": "美元指数跌至97.777，为10月3日以来最低水平。欧元兑美元升至三个月高点1.180575。",
+          "url": "https://flash.jin10.com/detail/20251224094324089800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "市场消息：美国法官维持特朗普政府的10万美元H-1B签证申请费的决定。",
           "url": "https://flash.jin10.com/detail/20251224090814337800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "纽约期银日内涨超2.00%，现报72.56美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251224094024091800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "英镑兑美元升至三个月高点1.3531。",
+          "url": "https://flash.jin10.com/detail/20251224093834204800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "周二（12月23日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报7.0193元，较周一纽约尾盘涨118点，日内整体交投于7.0325-7.0143元区间。",
@@ -597,6 +644,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "澳元兑美元上涨0.1%至0.6708，为2024年10月以来最高水平。 隔夜指数掉期显示， 澳洲联储加息两次的可能性超过70%，第一次加息最早可能在明年6月发生。",
+          "url": "https://wallstreetcn.com/livenews/3025903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "据CNBC：城堡投资（Citadel）将向投资者返还50亿美元利润。",
           "url": "https://flash.jin10.com/detail/20251223230201980800",
           "source": "金十数据",
@@ -625,7 +683,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -658,7 +716,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -680,7 +738,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -699,7 +757,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -709,8 +767,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 09时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 10时42分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -726,8 +784,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时09分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 10时42分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -735,11 +793,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 09时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 10时42分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -753,11 +812,12 @@
             20,
             19,
             22,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 09时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 10时42分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -791,11 +851,26 @@
           "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时42分]"
+        },
+        {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            27,
+            16,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时08分 ~ 10时42分]"
         },
         {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
@@ -807,19 +882,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
-        },
-        {
-          "title": "美军将建造“特朗普级”战舰",
-          "url": "https://www.douyin.com/hot/2345209",
-          "source": "抖音",
-          "ranks": [
-            27,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时08分 ~ 09时37分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -867,6 +929,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时12分]"
+        },
+        {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时42分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
@@ -917,15 +991,26 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            10
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时42分]"
+        },
+        {
+          "title": "特朗普政府估计还需要大约一周时间，以及审查多达70万页的文件，才能完成所有爱泼斯坦相关文件的公开工作。",
+          "url": "https://flash.jin10.com/detail/20251224100126379800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时37分"
+          "time_info": "10时42分"
         },
         {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
@@ -970,17 +1055,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
-        },
-        {
-          "title": "特朗普再谈格陵兰问题 还提到中国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         },
         {
           "title": "特朗普批评市场“利好不涨”反常现象，并警告异见者休想掌舵美联储",
@@ -1084,11 +1158,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 09时37分]"
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 10时42分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -1130,11 +1205,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时08分 ~ 09时37分]"
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 10时42分]"
         },
         {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
@@ -1231,7 +1307,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -1283,6 +1359,30 @@
           "time_info": "[03时08分 ~ 04时09分]"
         },
         {
+          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
+          "url": "https://www.cls.cn/detail/2238199",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时42分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时42分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
           "url": "https://flash.jin10.com/detail/20251224043300072800",
           "source": "金十数据",
@@ -1294,26 +1394,26 @@
           "time_info": "05时08分"
         },
         {
-          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
-          "url": "https://www.cls.cn/detail/2238199",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
           "title": "现货黄金突破4520美元/盎司，日内涨0.78%。",
           "url": "https://flash.jin10.com/detail/20251224092251593800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
+          "url": "https://www.cls.cn/detail/2238315",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "现货黄金史上首次站上4500美元/盎司关口。",
@@ -1333,18 +1433,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         }
@@ -1393,6 +1482,18 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "金价癫了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时42分]"
+        },
+        {
           "title": "金价彻底爆了 有人拖行李箱抢购",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
           "source": "百度热搜",
@@ -1402,23 +1503,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "金价癫了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，锂电产业链集体走强，商业航天概念股批量重挫",
@@ -1431,6 +1521,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时09分 ~ 08时33分]"
+        },
+        {
+          "title": "A股商业航天概念再度活跃，神剑股份5连板，九鼎新材、再升科技、创元科技等此前涨停，超捷股份、信维通信涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3025917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "造船概念股涨跌各异",
@@ -1468,8 +1569,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时42分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
