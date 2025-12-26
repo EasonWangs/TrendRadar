@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:10:17.114558+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2025-12-26T14:12:37.329596+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
@@ -108,6 +108,20 @@
           "time_info": "[01时08分 ~ 06时08分]"
         },
         {
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 14时12分]"
+        },
+        {
           "title": "现货白银突破75美元",
           "url": "https://flash.jin10.com/detail/20251226090837772800",
           "source": "金十数据",
@@ -146,6 +160,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "两位参与季度定价谈判的消息人士表示，顶级铝生产商已将1-3月对日本买家的原铝溢价报价从最初的每吨190-203美元上调至每吨210-225美元。",
+          "url": "https://flash.jin10.com/detail/20251226133510381800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "现货钯金上涨逾5%至每盎司1,772.24美元。",
           "url": "https://wallstreetcn.com/livenews/3026891",
           "source": "华尔街见闻-快讯",
@@ -155,20 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
-        },
-        {
-          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
-          "url": "https://www.cls.cn/detail/2240534",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时10分]"
         },
         {
           "title": "离岸人民币兑美元升穿 7.0 关口，是什么在助推这波上涨，其叠加国际金属涨价潮，对哪些行业有较大影响？",
@@ -282,6 +293,17 @@
           "time_info": "[00时09分 ~ 01时08分]"
         },
         {
+          "title": "英媒：人工智能热潮料正使美国科技界富豪的净资产增加5000亿美元",
+          "url": "https://flash.jin10.com/detail/20251226131433811800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美元兑日元USD/JPY升破156。",
           "url": "https://flash.jin10.com/detail/20251226075130860800",
           "source": "金十数据",
@@ -291,6 +313,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "今年，美国科技亿万富翁们的总净资产增加了超过5500亿美元，这得益于投资者对领先人工智能公司的狂热追捧。",
+          "url": "https://flash.jin10.com/detail/20251226130758495800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "37%美国人拿不出400美元应急",
+          "url": "https://www.toutiao.com/trending/7587665279485329451/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "现货铂金上涨逾5%，至每盎司2,333.85美元。",
@@ -337,6 +381,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "英镑兑美元GBP/USD失守1.35，日内跌幅0.18%。",
+          "url": "https://flash.jin10.com/detail/20251226125928412800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "现货铂金、钯金日内涨幅均超4%，现分别报2338美元/盎司和1770美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251226073811300800",
           "source": "金十数据",
@@ -373,7 +428,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -410,11 +465,12 @@
             14,
             12,
             15,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时32分 ~ 13时10分]"
+          "appearance_count": 8,
+          "time_info": "[08时32分 ~ 14时12分]"
         },
         {
           "title": "圣诞美欧韩股休市，离岸人民币破7，黄金失守4500美元，沪银涨近4%续创新高",
@@ -443,6 +499,17 @@
           "time_info": "[03时07分 ~ 07时08分]"
         },
         {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时43分 ~ 14时12分]"
+        },
+        {
           "title": "现货黄金站上4530美元/盎司，日内涨1.13%。",
           "url": "https://flash.jin10.com/detail/20251226090523171800",
           "source": "金十数据",
@@ -465,28 +532,6 @@
           "time_info": "08时33分"
         },
         {
-          "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251226120905987800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时10分"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时10分]"
-        },
-        {
           "title": "现货黄金重回4500美元/盎司之上，日涨幅近0.5%。",
           "url": "https://flash.jin10.com/detail/20251226080706585800",
           "source": "金十数据",
@@ -499,6 +544,18 @@
           "time_info": "[08时33分 ~ 09时37分]"
         },
         {
+          "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251226120905987800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 14时12分]"
+        },
+        {
           "title": "现货黄金再创新高",
           "url": "https://flash.jin10.com/detail/20251226090511630800",
           "source": "金十数据",
@@ -508,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "周大福黄金吊坠被指阴阳打工人",
+          "url": "https://www.toutiao.com/trending/7587627389711695878/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月26日（周五）早盘盘初上涨1.23%报1014.89元/克；<br/>上海黄金交易所白银T+D 12月26日（周五）早盘盘初上涨6.26%报18320.0元/千克。",
@@ -579,7 +647,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -603,8 +671,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时10分]"
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 14时12分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -678,6 +746,17 @@
           "time_info": "[01时08分 ~ 04时09分]"
         },
         {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
           "url": "https://flash.jin10.com/detail/20251226075028232800",
           "source": "金十数据",
@@ -714,7 +793,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -734,17 +813,6 @@
           "time_info": "[00时09分 ~ 09时37分]"
         },
         {
-          "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
-          "url": "https://flash.jin10.com/detail/20251226101958346800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
           "url": "https://wallstreetcn.com/articles/3762105",
           "source": "华尔街见闻",
@@ -754,8 +822,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时10分]"
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 14时12分]"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
+          "url": "https://flash.jin10.com/detail/20251226101958346800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -795,6 +874,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 13时10分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
@@ -908,11 +998,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时12分]"
         }
       ]
     }
