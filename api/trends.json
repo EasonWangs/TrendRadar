@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T19:08:19.438258+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2025-12-26T20:14:02.130944+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "200亿美元，英伟达“史上最大收购”？英伟达“收编”Groq，“招安”TPU创始人",
@@ -188,7 +188,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -202,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "美国产能不足拖累军售，对台未交付武器价值逾200亿美元",
+          "url": "https://news.ifeng.com/c/8pOsGb4wdEG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时10分 ~ 20时14分]"
         },
         {
           "title": "37%美国人拿不出400美元应急",
@@ -293,17 +304,6 @@
           "time_info": "[05时07分 ~ 07时08分]"
         },
         {
-          "title": "美国产能不足拖累军售，对台未交付武器价值逾200亿美元",
-          "url": "https://news.ifeng.com/c/8pOsGb4wdEG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 19时08分]"
-        },
-        {
           "title": "现货铂金上涨8%至每盎司2,413.62美元，创纪录新高。",
           "url": "https://wallstreetcn.com/livenews/3027004",
           "source": "华尔街见闻-快讯",
@@ -327,6 +327,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时08分]"
+        },
+        {
+          "title": "现货白银日内涨幅达5.0%，报75.49美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3027268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时14分]"
         },
         {
           "title": "韩元兑美元汇率升至11月4日以来最高水平。",
@@ -370,7 +382,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -441,6 +453,17 @@
           "time_info": "11时36分"
         },
         {
+          "title": "印度外汇储备在12月19日当周增至6933.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251226193452679800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "人民币兑美元中间价上调34点至7.0358，创2024年9月30日以来新高",
           "url": "https://wallstreetcn.com/livenews/3026919",
           "source": "华尔街见闻-快讯",
@@ -461,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
-        },
-        {
-          "title": "现货白银日内涨幅达5.0%，报75.49美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3027268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "现货白银首次突破74美元",
@@ -524,9 +536,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "现货白银短线下挫，现报74.3美元/盎司，日内涨幅收窄至3.45%。",
+          "url": "https://flash.jin10.com/detail/20251226191217803800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "近四成美国人拿不出400美元应急",
@@ -576,7 +599,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -658,6 +681,28 @@
           "time_info": "[03时07分 ~ 07时08分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月26日（周五）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 12月26日（周五）晚盘盘初下跌0.02%报18365.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251226200511156800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时10分 ~ 20时14分]"
+        },
+        {
           "title": "现货黄金站上4530美元/盎司，日内涨1.13%。",
           "url": "https://flash.jin10.com/detail/20251226090523171800",
           "source": "金十数据",
@@ -689,6 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "据媒体报道，乌兹别克斯坦计划到2030年将黄金产量提高至175吨。",
+          "url": "https://flash.jin10.com/detail/20251226195252104800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "现货黄金重回4500美元/盎司之上，日涨幅近0.5%。",
@@ -727,17 +783,6 @@
           "time_info": "[13时10分 ~ 14时12分]"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 19时08分]"
-        },
-        {
           "title": "现货黄金再创新高",
           "url": "https://flash.jin10.com/detail/20251226090511630800",
           "source": "金十数据",
@@ -766,7 +811,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -788,7 +833,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -876,7 +921,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         }
@@ -908,8 +953,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 19时08分]"
+          "appearance_count": 13,
+          "time_info": "[09时37分 ~ 20时14分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -1055,7 +1100,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1110,8 +1155,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 19时08分]"
+          "appearance_count": 13,
+          "time_info": "[09时37分 ~ 20时14分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -1230,7 +1275,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【每日收评】沪指迎7连阳！商业航天概念持续爆发，市场再现10连板个股",
@@ -1274,22 +1319,35 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 19时08分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 20时14分]"
         },
         {
           "title": "【焦点复盘】沪指时隔4个月再现日线8连阳，有色、锂电等涨价概念全线爆发",
           "url": "https://www.cls.cn/detail/2241161",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 20时14分]"
+        },
+        {
+          "title": "昊志机电：公司留意到近期市场对于机器人、商业航天的热点概念关注度颇高。现阶段，公司主轴类产品为公司核心收入来源，与此同时，公司正在积极开拓机器人、商业航天领域的业务，截至2025年9月30日，公司在机器人、商业航天领域的业务合计占主营业务收入约1%。",
+          "url": "https://wallstreetcn.com/livenews/3027296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时14分"
         }
       ]
     },
