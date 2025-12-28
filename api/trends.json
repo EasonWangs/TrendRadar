@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T17:09:19.930538+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-12-28T18:09:01.300485+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -76,6 +76,33 @@
           "time_info": "[00时08分 ~ 06时07分]"
         },
         {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 18时09分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 18时09分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -99,19 +126,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时38分 ~ 12时26分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 17时09分]"
         },
         {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
@@ -168,18 +182,6 @@
           "time_info": "[15时09分 ~ 17时09分]"
         },
         {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 17时09分]"
-        },
-        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
@@ -192,6 +194,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时38分 ~ 12时26分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -329,11 +342,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 18时09分]"
         }
       ]
     },
@@ -351,8 +365,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时08分 ~ 17时09分]"
+          "appearance_count": 27,
+          "time_info": "[00时08分 ~ 18时09分]"
         },
         {
           "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
@@ -372,6 +386,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
+          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
+        },
+        {
+          "title": "价值40万美元龙虾运往Costco途中失窃，FBI介入调查",
+          "url": "https://flash.jin10.com/detail/20251228150719891800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 17时09分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -385,24 +428,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时08分 ~ 07时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "价值40万美元龙虾运往Costco途中失窃，FBI介入调查",
-          "url": "https://flash.jin10.com/detail/20251228150719891800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 17时09分]"
         }
       ]
     }
