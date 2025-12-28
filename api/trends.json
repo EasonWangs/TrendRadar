@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T09:38:07.331370+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-12-28T10:53:08.727860+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -40,11 +40,12 @@
           "ranks": [
             8,
             10,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 09时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 10时53分]"
         },
         {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
@@ -86,37 +87,51 @@
           "time_info": "[00时08分 ~ 03时07分]"
         },
         {
+          "title": "特朗普与泽连斯基会晤时间有所调整",
+          "url": "https://flash.jin10.com/detail/20251228094750696800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 10时53分]"
         },
         {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
           "url": "https://flash.jin10.com/detail/20251228090052065800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 10时53分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 10时53分]"
         }
       ]
     },
@@ -147,8 +162,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 09时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 10时53分]"
         },
         {
           "title": "金饰价格破1400元黄金回收加工却遇冷",
@@ -176,8 +191,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 09时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 10时53分]"
         },
         {
           "title": "中产涌入海南抢黄金",
@@ -208,8 +223,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 09时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 10时53分]"
         },
         {
           "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
@@ -217,11 +232,29 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 09时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 10时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
+          "url": "https://flash.jin10.com/detail/20251228100400527800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     },
