@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T13:11:51.231870+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-12-30T14:12:49.166777+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 95,
       "titles": [
+        {
+          "title": "普京一个电话后，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8pUyRCwSPET",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时33分 ~ 14时12分]"
+        },
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
           "url": "https://news.ifeng.com/c/8pUT7CeQojC",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时11分 ~ 07时08分]"
-        },
-        {
-          "title": "普京一个电话后，特朗普怒了",
-          "url": "https://news.ifeng.com/c/8pUyRCwSPET",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时33分 ~ 13时11分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -45,19 +45,6 @@
           "time_info": "[00时09分 ~ 12时22分]"
         },
         {
-          "title": "得知普京官邸遭袭 特朗普：很生气",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时33分 ~ 13时11分]"
-        },
-        {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
           "url": "https://wallstreetcn.com/articles/3762268",
           "source": "华尔街见闻",
@@ -65,6 +52,19 @@
             10,
             7,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时33分 ~ 14时12分]"
+        },
+        {
+          "title": "得知普京官邸遭袭 特朗普：很生气",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时33分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普回应解放军在台岛附近军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -164,6 +175,18 @@
           "time_info": "05时08分"
         },
         {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
+        },
+        {
           "title": "解放军围岛军演，特朗普表态",
           "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
           "source": "凤凰网",
@@ -173,6 +196,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时37分 ~ 10时45分]"
+        },
+        {
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 14时12分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -364,17 +398,6 @@
           "time_info": "[10时44分 ~ 12时22分]"
         },
         {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 13时11分]"
-        },
-        {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
           "url": "https://flash.jin10.com/detail/20251230024049423800",
           "source": "金十数据",
@@ -466,6 +489,19 @@
           "time_info": "[03时07分 ~ 05时08分]"
         },
         {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时12分]"
+        },
+        {
           "title": "美国总统特朗普：我最近和委内瑞拉总统马杜罗进行了交谈。",
           "url": "https://flash.jin10.com/detail/20251230023754680800",
           "source": "金十数据",
@@ -477,6 +513,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时07分 ~ 05时08分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时12分]"
         },
         {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
@@ -589,17 +636,6 @@
           "time_info": "[06时08分 ~ 07时08分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时11分]"
-        },
-        {
           "title": "据AXIOS：特朗普及其高级幕僚已要求内塔尼亚胡改变其在被占领的约旦河西岸所推行的政策。",
           "url": "https://flash.jin10.com/detail/20251230113213777800",
           "source": "金十数据",
@@ -658,18 +694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 10时45分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时11分]"
         },
         {
           "title": "特朗普称美军在委内瑞拉行动中摧毁一大型设施",
@@ -863,17 +887,6 @@
           "time_info": "05时08分"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
           "title": "俄总统助理：特朗普建议乌方不要试图争取喘息之机",
           "url": "https://flash.jin10.com/detail/20251230012450813800",
           "source": "金十数据",
@@ -949,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美国总统特朗普：考虑向土耳其出售F-35战斗机。",
@@ -1119,7 +1143,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
@@ -1174,17 +1198,6 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
-          "title": "现货铂金涨超3%，至2175.10美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251230124750557800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
           "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.994美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251229235352717800",
           "source": "金十数据",
@@ -1194,17 +1207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "据华尔街日报：Meta即将完成对人工智能初创公司Manus的收购，交易金额超过20亿美元。",
-          "url": "https://flash.jin10.com/detail/20251230123238264800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
         },
         {
           "title": "LME期铜涨0.56美元，报12201.50美元/吨。 LME期铝跌0.20美元，报2950.50美元/吨。 LME期锌跌0.03美元，报3085.50美元/吨。 LME期铅涨0.54美元，报2008.50美元/吨。 LME期镍涨0.54美元，报15745美元/吨。 LME期锡跌5.70美元，报40070美元/吨。",
@@ -1247,6 +1249,18 @@
           "time_info": "[04时09分 ~ 06时08分]"
         },
         {
+          "title": "现货铂金涨超3%，至2175.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251230124750557800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
+        },
+        {
           "title": "现货白银周二小幅高开，报72.21美元/盎司，昨日收跌逾8%。",
           "url": "https://flash.jin10.com/detail/20251230070025938800",
           "source": "金十数据",
@@ -1269,6 +1283,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 12时22分]"
+        },
+        {
+          "title": "据华尔街日报：Meta即将完成对人工智能初创公司Manus的收购，交易金额超过20亿美元。",
+          "url": "https://flash.jin10.com/detail/20251230123238264800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
         },
         {
           "title": "特斯拉尾盘下跌2.9%。据报道，“木头姐”Cathie Wood出售价值3000万美元的特斯拉股票。",
@@ -1445,6 +1471,18 @@
           "time_info": "[03时07分 ~ 05时08分]"
         },
         {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
+        },
+        {
           "title": "WTI原油向上触及58美元/桶，日内涨0.21%。",
           "url": "https://flash.jin10.com/detail/20251230100045035800",
           "source": "金十数据",
@@ -1457,6 +1495,18 @@
           "time_info": "[10时45分 ~ 11时37分]"
         },
         {
+          "title": "在岸人民币兑美元升破7，为2023年5月来最高。",
+          "url": "https://wallstreetcn.com/livenews/3028542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
+        },
+        {
           "title": "周一（12月29日）纽约尾盘，ICE美元指数涨0.01%，报98.028点，日内交投区间为97.915-98.177点，整体出现三波V形反转和随之而来的冲高回落。 彭博美元指数涨0.02%，报1201.15点，日内交投区间为1199.80-1202.54点。",
           "url": "https://wallstreetcn.com/livenews/3028317",
           "source": "华尔街见闻-快讯",
@@ -1467,6 +1517,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "现货铂金涨超3%至2175.10美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
         },
         {
           "title": "人民币兑美元中间价报7.0348，下调17点；上一交易日中间价7.0331，上一交易日官方收盘价7.0098，上日夜盘报收7.0056。",
@@ -1505,6 +1567,18 @@
           "time_info": "[07时08分 ~ 08时33分]"
         },
         {
+          "title": "Meta正以逾20亿美元收购人工智能初创公司Manus。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3028532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
+        },
+        {
           "title": "据路透报价，现货钯金进一步下跌，最新报1588.32美元/盎司，跌幅超过17%。",
           "url": "https://flash.jin10.com/detail/20251230002940233800",
           "source": "金十数据",
@@ -1541,28 +1615,6 @@
           "time_info": "[11时37分 ~ 12时22分]"
         },
         {
-          "title": "在岸人民币兑美元升破7，为2023年5月来最高。",
-          "url": "https://wallstreetcn.com/livenews/3028542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
           "title": "WTI原油期货回落至58美元/桶下方，日内跌0.15%。",
           "url": "https://flash.jin10.com/detail/20251230105744930800",
           "source": "金十数据",
@@ -1572,17 +1624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
-        },
-        {
-          "title": "现货铂金涨超3%至2175.10美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3028541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
         },
         {
           "title": "现货白银短线跳水1美元，跌幅一度扩大至1.2%。",
@@ -1640,6 +1681,17 @@
           "time_info": "08时33分"
         },
         {
+          "title": "纽约期金日内涨幅扩大至1.00%，现报4387.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251230132455641800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "现货铂金跌幅扩大至2%，最低报2049.38美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251230070500717800",
           "source": "金十数据",
@@ -1660,17 +1712,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "Meta正以逾20亿美元收购人工智能初创公司Manus。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3028532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
         },
         {
           "title": "现货白银日内涨超2%，现报73.60美元/盎司。",
@@ -1896,7 +1937,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
@@ -1928,8 +1969,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时33分 ~ 13时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时33分 ~ 14时12分]"
         },
         {
           "title": "黄金",
@@ -1983,6 +2024,28 @@
           "time_info": "08时33分"
         },
         {
+          "title": "现货黄金突破4380美元/盎司，日内涨1.12%。",
+          "url": "https://flash.jin10.com/detail/20251230134118575800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "现货白银涨超4%至75.14美元/盎司。现货黄金涨超1%报4379美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251230115008765800",
           "source": "金十数据",
@@ -2019,6 +2082,17 @@
           "time_info": "[10时45分 ~ 11时37分]"
         },
         {
+          "title": "黄金白银或现更严重下跌",
+          "url": "https://www.douyin.com/hot/2351629",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月29日（周一）晚盘收盘下跌3.33%报975.6元/克；<br/>上海黄金交易所白银T+D 12月29日（周一）晚盘收盘下跌10.45%报17351.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251230023059202800",
           "source": "金十数据",
@@ -2053,15 +2127,26 @@
           "time_info": "08时33分"
         },
         {
-          "title": "黄金白银或现更严重下跌",
-          "url": "https://www.douyin.com/hot/2351629",
-          "source": "抖音",
+          "title": "现货黄金短线走高超10美元，现报4376.24美元/盎司，日内涨1%.",
+          "url": "https://flash.jin10.com/detail/20251230132605610800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时12分"
+        },
+        {
+          "title": "现货黄金日内涨1%报4374美元/盎司，现货白银涨3.3%报74.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月30日（周二）早盘盘初下跌3.3%报975.96元/克；<br/>上海黄金交易所白银T+D 12月30日（周二）早盘盘初下跌8.25%报17777.0元/千克。",
@@ -2103,7 +2188,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -2143,6 +2228,151 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "或被实施退市风险警示！52亿商业航天概念股预计2025年度扣非净利润为负且营业收入低于3亿元|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2243173",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 08时33分]"
+        },
+        {
+          "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
+          "url": "https://www.cls.cn/detail/2242927",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 01时08分]"
+        },
+        {
+          "title": "A股商业航天概念午后跳水，神剑股份跌停。",
+          "url": "https://wallstreetcn.com/livenews/3028581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "12月30日午间收评：沪指半日跌0.1%，数字货币、AI智能体概念走强",
+          "url": "https://wallstreetcn.com/livenews/3028503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "A股人形机器人概念股午后再度拉升，步科股份涨超18%再创新高，昊志机电涨超10%，万向钱潮直线涨停，鸣志电器、方正电机纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3028550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
+        },
+        {
+          "title": "A股商业航天概念震荡回升，硕贝德20cm涨停，雷科防务、华菱线缆、大业股份、中超控股、中国卫通、巨力索具等多股封板，航天发展、中国卫星、中天火箭等涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3028490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时22分]"
+        },
+        {
+          "title": "光通信概念股震荡拉升，致尚科技涨超14%，股价再创历史新高，长盈通、剑桥科技涨超5%，太辰光、源杰科技、中际旭创等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3028456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 11时37分]"
+        },
+        {
+          "title": "12月30日午间收评：创业板指冲高回落跌0.06%， 数字货币、机器人概念股走强",
+          "url": "https://wallstreetcn.com/livenews/3028503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "A股机器人概念股低开高走，锋龙股份5连板，五洲新春直线涨停，龙洲股份、步科股份、昊志机电、景业智能等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3028447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
+          "url": "https://wallstreetcn.com/livenews/3028346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "A股商业航天概念盘初调整，天箭科技一字跌停，神剑股份、超捷股份、创元科技、九鼎新材、航天环宇等跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3028443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "商业航天概念股为何“涨疯了”",
+          "url": "https://www.toutiao.com/trending/7589265306585927209/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
@@ -2154,8 +2384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时33分 ~ 13时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时33分 ~ 14时12分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -2275,139 +2505,6 @@
       ]
     },
     {
-      "keyword_group": "概念",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "或被实施退市风险警示！52亿商业航天概念股预计2025年度扣非净利润为负且营业收入低于3亿元|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2243173",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 08时33分]"
-        },
-        {
-          "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
-          "url": "https://www.cls.cn/detail/2242927",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时08分]"
-        },
-        {
-          "title": "A股人形机器人概念股午后再度拉升，步科股份涨超18%再创新高，昊志机电涨超10%，万向钱潮直线涨停，鸣志电器、方正电机纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3028550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "12月30日午间收评：沪指半日跌0.1%，数字货币、AI智能体概念走强",
-          "url": "https://wallstreetcn.com/livenews/3028503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "A股商业航天概念震荡回升，硕贝德20cm涨停，雷科防务、华菱线缆、大业股份、中超控股、中国卫通、巨力索具等多股封板，航天发展、中国卫星、中天火箭等涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3028490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时22分]"
-        },
-        {
-          "title": "光通信概念股震荡拉升，致尚科技涨超14%，股价再创历史新高，长盈通、剑桥科技涨超5%，太辰光、源杰科技、中际旭创等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3028456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时37分]"
-        },
-        {
-          "title": "12月30日午间收评：创业板指冲高回落跌0.06%， 数字货币、机器人概念股走强",
-          "url": "https://wallstreetcn.com/livenews/3028503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "A股机器人概念股低开高走，锋龙股份5连板，五洲新春直线涨停，龙洲股份、步科股份、昊志机电、景业智能等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3028447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
-          "url": "https://wallstreetcn.com/livenews/3028346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "A股商业航天概念盘初调整，天箭科技一字跌停，神剑股份、超捷股份、创元科技、九鼎新材、航天环宇等跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3028443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "商业航天概念股为何“涨疯了”",
-          "url": "https://www.toutiao.com/trending/7589265306585927209/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -2423,6 +2520,19 @@
           "time_info": "00时10分"
         },
         {
+          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
+          "url": "https://www.zhihu.com/question/1989248950952288367",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时12分]"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）上海金早盘价为979.99元/克，较国际金价(980.18元/克)，低0.19元/克",
           "url": "https://flash.jin10.com/detail/20251230102321860800",
           "source": "金十数据",
@@ -2435,27 +2545,15 @@
           "time_info": "[10时45分 ~ 11时37分]"
         },
         {
-          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
-          "url": "https://www.zhihu.com/question/1989248950952288367",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时11分]"
-        },
-        {
           "title": "金价暴跌店员称跌幅首次见",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%BA%97%E5%91%98%E7%A7%B0%E8%B7%8C%E5%B9%85%E9%A6%96%E6%AC%A1%E8%A7%81%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 14时12分]"
         }
       ]
     },
@@ -2528,8 +2626,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 13时11分]"
+          "appearance_count": 20,
+          "time_info": "[00时09分 ~ 14时12分]"
         }
       ]
     }
