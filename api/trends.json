@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T18:08:58.225024+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-12-31T19:08:35.688484+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -81,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内跌超0.50%，现报0.5762。",
+          "url": "https://flash.jin10.com/detail/20251231185312773800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "现货铂金跌逾3%至每盎司2123.3美元。",
@@ -942,7 +953,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -1174,6 +1185,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-31）",
+          "url": "https://flash.jin10.com/detail/20251231183553822800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
           "url": "https://flash.jin10.com/detail/20251231054352146800",
           "source": "金十数据",
@@ -1194,6 +1216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
@@ -1254,8 +1287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时33分 ~ 18时08分]"
+          "appearance_count": 15,
+          "time_info": "[08时33分 ~ 19时08分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -1275,11 +1308,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时33分 ~ 18时08分]"
+          "appearance_count": 15,
+          "time_info": "[08时33分 ~ 19时08分]"
         },
         {
           "title": "如何看待黄金白银价格波动",
@@ -1689,7 +1723,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【数据看盘】超10亿元资金买入三花智控 机构抢筹商业航天概念股",
@@ -1728,6 +1762,21 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时10分 ~ 19时08分]"
+        },
+        {
           "title": "商业航天高位回调，机器人概念强势崛起，能否接棒领涨？",
           "url": "https://www.cls.cn/detail/2244856",
           "source": "财联社热门",
@@ -1751,20 +1800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时10分 ~ 18时08分]"
         },
         {
           "title": "商业航天概念再度走强，泰尔股份5连板，雷科防务、宏英智能、顺灏股份涨停，太力科技涨超10%，广联航空、信维通信、烽火通信、乾照光电等跟涨。",
@@ -1811,6 +1846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "年终盘点|2025年十大牛熊股出炉：18倍上纬新材夺魁 算力硬件概念股受题材资金追捧",
+          "url": "https://www.cls.cn/detail/2245504",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
