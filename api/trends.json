@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T09:37:41.467511+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2025-12-31T10:44:48.442350+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 09时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 10时44分]"
         },
         {
           "title": "Manus被Meta数十亿美元收购背后：创始人肖弘复盘至暗时刻",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 09时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 10时44分]"
         },
         {
           "title": "国航拟95.3亿美元买60架空客飞机",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "印尼贸易部将1月棕榈油参考价格设定为每吨915.64美元。",
+          "url": "https://wallstreetcn.com/livenews/3029046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "现货铂金跌逾3%至每盎司2123.3美元。",
@@ -440,6 +451,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "澳元兑美元触及0.6700，日内涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3029031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "现货白银日内跌超1.00%，现报75.31美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251231072623639800",
           "source": "金十数据",
@@ -501,7 +523,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
         },
@@ -574,194 +596,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 06时08分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月30日（周二）晚盘收盘上涨0.19%报984.0元/克；<br/>上海黄金交易所白银T+D 12月30日（周二）晚盘收盘上涨4.62%报18791.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251231023040179800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "现货黄金向上触及4360美元/盎司，日内涨0.51%。",
-          "url": "https://flash.jin10.com/detail/20251231092814688800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1071.99吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20251231075339620800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
-        },
-        {
-          "title": "黄金白银或现更严重下跌",
-          "url": "https://www.douyin.com/hot/2351629",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时10分]"
-        },
-        {
-          "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251231035005635800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时08分]"
-        },
-        {
-          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时08分 ~ 07时08分]"
-        },
-        {
-          "title": "金属走势分化，白银反弹，黄金涨幅显著收窄，伦铜涨近4%，伦镍创14个月最高水平",
-          "url": "https://wallstreetcn.com/articles/3762297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
-        },
-        {
-          "title": "现货黄金回落至4360美元下方，涨幅收窄至不足0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3028838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 01时10分]"
-        },
-        {
-          "title": "现货黄金失守4330美元/盎司，日内跌幅0.20%。",
-          "url": "https://flash.jin10.com/detail/20251231073519355800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
-        },
-        {
-          "title": "现货黄金突破4350美元/盎司，日内涨0.27%。",
-          "url": "https://flash.jin10.com/detail/20251231090459033800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月31日（周三）早盘盘初下跌0.59%报976.4元/克；<br/>上海黄金交易所白银T+D 12月31日（周三）早盘盘初上涨1.27%报18191.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251231090035149800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "文件显示，意大利计划修订“黄金权力”立法，明确规定只有在欧盟监管机构就重大并购交易作出裁决后，该权力才能在金融领域适用。",
-          "url": "https://flash.jin10.com/detail/20251230225521374800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "如何看待黄金白银价格波动",
-          "url": "https://www.douyin.com/hot/2351661",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -930,6 +766,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "特朗普为何称不担心解放军绕台军演",
+          "url": "https://www.toutiao.com/trending/7589509514882891795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -950,6 +797,215 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时08分]"
+        },
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时44分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月30日（周二）晚盘收盘上涨0.19%报984.0元/克；<br/>上海黄金交易所白银T+D 12月30日（周二）晚盘收盘上涨4.62%报18791.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251231023040179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "现货黄金向上触及4360美元/盎司，日内涨0.51%。",
+          "url": "https://flash.jin10.com/detail/20251231092814688800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1071.99吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20251231075339620800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "金属走势分化，白银反弹，黄金涨幅显著收窄，伦铜涨近4%，伦镍创14个月最高水平",
+          "url": "https://wallstreetcn.com/articles/3762297",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时44分]"
+        },
+        {
+          "title": "黄金白银或现更严重下跌",
+          "url": "https://www.douyin.com/hot/2351629",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 01时10分]"
+        },
+        {
+          "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251231035005635800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 06时08分]"
+        },
+        {
+          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "现货黄金回落至4360美元下方，涨幅收窄至不足0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3028838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时10分]"
+        },
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时44分]"
+        },
+        {
+          "title": "现货黄金向上触及4370美元/盎司，日内涨0.72%。",
+          "url": "https://flash.jin10.com/detail/20251231094702044800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "现货黄金失守4330美元/盎司，日内跌幅0.20%。",
+          "url": "https://flash.jin10.com/detail/20251231073519355800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "现货黄金突破4350美元/盎司，日内涨0.27%。",
+          "url": "https://flash.jin10.com/detail/20251231090459033800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月31日（周三）早盘盘初下跌0.59%报976.4元/克；<br/>上海黄金交易所白银T+D 12月31日（周三）早盘盘初上涨1.27%报18191.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251231090035149800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "文件显示，意大利计划修订“黄金权力”立法，明确规定只有在欧盟监管机构就重大并购交易作出裁决后，该权力才能在金融领域适用。",
+          "url": "https://flash.jin10.com/detail/20251230225521374800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
         }
       ]
     },
@@ -972,6 +1028,18 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
+          "url": "https://www.cls.cn/detail/2244733",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 10时44分]"
+        },
+        {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
@@ -984,18 +1052,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 09时37分]"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 09时37分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
@@ -1140,7 +1196,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【数据看盘】超10亿元资金买入三花智控 机构抢筹商业航天概念股",
@@ -1183,11 +1239,12 @@
           "url": "https://wallstreetcn.com/livenews/3029014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 10时44分]"
         },
         {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
@@ -1200,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "突发！7倍芯片概念股明起停牌核查|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2244602",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
