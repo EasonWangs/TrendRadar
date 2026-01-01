@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:14:26.269593+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-01-01T21:18:37.273907+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时53分 ~ 20时14分]"
+          "appearance_count": 17,
+          "time_info": "[10时53分 ~ 21时18分]"
         },
         {
           "title": "LME期铜收跌136美元，报12423美元/吨。 LME期铝收涨16美元，报2996美元/吨。 LME期锌收跌6美元，报3118美元/吨。 LME期铅收涨1美元，报2011美元/吨。 LME期镍收跌182美元，报16646美元/吨。 LME期锡收跌1398美元，报40556美元/吨。 LME期钴收平，报53355美元/吨。",
@@ -266,6 +267,18 @@
           "time_info": "[08时37分 ~ 09时38分]"
         },
         {
+          "title": "史上最赚钱一年！今年全球最富500人财富增加2.2万亿美元",
+          "url": "https://wallstreetcn.com/articles/3762398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 21时18分]"
+        },
+        {
           "title": "墨西哥比索兑美元2025年累计上涨13.53%。",
           "url": "https://wallstreetcn.com/livenews/3029500",
           "source": "华尔街见闻-快讯",
@@ -290,17 +303,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时08分 ~ 09时38分]"
-        },
-        {
-          "title": "史上最赚钱一年！今年全球最富500人财富增加2.2万亿美元",
-          "url": "https://wallstreetcn.com/articles/3762398",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 20时14分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9879元，较周二夜盘收盘涨63点。成交量376.32亿美元。",
@@ -574,6 +576,18 @@
           "time_info": "[10时53分 ~ 12时27分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时18分]"
+        },
+        {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
           "url": "https://wallstreetcn.com/livenews/3029479",
           "source": "华尔街见闻-快讯",
@@ -658,17 +672,6 @@
           "time_info": "[02时11分 ~ 03时07分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
           "url": "https://flash.jin10.com/detail/20260101045615854800",
           "source": "金十数据",
@@ -729,8 +732,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时37分 ~ 20时14分]"
+          "appearance_count": 19,
+          "time_info": "[08时37分 ~ 21时18分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -989,7 +992,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -1000,8 +1003,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 20时14分]"
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 21时18分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -1011,11 +1014,26 @@
             3,
             6,
             11,
-            17
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时12分 ~ 21时18分]"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
+          "url": "https://flash.jin10.com/detail/20260101173343204800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            18,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时12分 ~ 20时14分]"
+          "time_info": "[18时09分 ~ 21时18分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -1031,17 +1049,26 @@
           "time_info": "[18时08分 ~ 20时14分]"
         },
         {
-          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
-          "url": "https://flash.jin10.com/detail/20260101173343204800",
-          "source": "金十数据",
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            8,
-            18
+            14
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     },
@@ -1074,8 +1101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时39分 ~ 20时14分]"
+          "appearance_count": 16,
+          "time_info": "[11时39分 ~ 21时18分]"
         },
         {
           "title": "年终盘点|2025年十大牛熊股出炉：18倍上纬新材夺魁 算力硬件概念股受题材资金追捧",
