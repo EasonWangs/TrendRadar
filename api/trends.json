@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T13:12:20.816008+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-01-02T14:13:13.850054+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时09分 ~ 10时47分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 14时13分]"
         },
         {
           "title": "秘鲁计划将价值60亿美元的炼油厂从国家石油公司剥离",
@@ -65,50 +78,29 @@
           "time_info": "[04时09分 ~ 07时08分]"
         },
         {
-          "title": "交易员：印度央行可能通过国有银行抛售美元，以捍卫卢比90关口。",
-          "url": "https://flash.jin10.com/detail/20260102130004168800",
+          "title": "纽约期银日内大涨4.00%，现报73.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260102135430468800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "14时13分"
         },
         {
-          "title": "交易员称，印度央行可能正通过国有银行抛售美元，捍卫90这一汇率水平。",
-          "url": "https://wallstreetcn.com/livenews/3029737",
+          "title": "现货白银上涨2.8%报73美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029717",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
+            2,
+            11,
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 13时12分]"
-        },
-        {
-          "title": "杰富瑞：将百度(BIDU.O)目标价从159美元上调至181美元。",
-          "url": "https://flash.jin10.com/detail/20260102123642829800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 14时13分]"
         },
         {
           "title": "现货白银日内大涨2美元，现报73.63美元/盎司，涨幅2.83%。",
@@ -116,11 +108,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
         },
         {
           "title": "美国天然气期货日内下跌3.00%，现报3.575美元/百万英热。",
@@ -135,19 +128,6 @@
           "time_info": "[09时37分 ~ 10时47分]"
         },
         {
-          "title": "现货白银上涨2.8%报73美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 13时12分]"
-        },
-        {
           "title": "韩国央行行长李昌镛：将审视韩国央行对未来利率路径的前瞻性指引政策，美元兑韩元汇率在1400点位的高位似乎与韩国经济的基本面相去甚远。",
           "url": "https://flash.jin10.com/detail/20260102083048672800",
           "source": "金十数据",
@@ -159,6 +139,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时33分 ~ 10时47分]"
+        },
+        {
+          "title": "交易员：印度央行可能通过国有银行抛售美元，以捍卫卢比90关口。",
+          "url": "https://flash.jin10.com/detail/20260102130004168800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 14时13分]"
+        },
+        {
+          "title": "交易员称，印度央行可能正通过国有银行抛售美元，捍卫90这一汇率水平。",
+          "url": "https://wallstreetcn.com/livenews/3029737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 14时13分]"
+        },
+        {
+          "title": "纽约期银突破73美元/盎司，日内涨3.40%。",
+          "url": "https://flash.jin10.com/detail/20260102114905936800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
         },
         {
           "title": "离岸人民币兑美元升破6.97，创2023年5月以来新高。",
@@ -186,16 +203,42 @@
           "time_info": "[08时33分 ~ 09时37分]"
         },
         {
-          "title": "纽约期银突破73美元/盎司，日内涨3.40%。",
-          "url": "https://flash.jin10.com/detail/20260102114905936800",
+          "title": "杰富瑞：将百度(BIDU.O)目标价从159美元上调至181美元。",
+          "url": "https://flash.jin10.com/detail/20260102123642829800",
           "source": "金十数据",
           "ranks": [
-            5,
-            10
+            4,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时12分]"
+          "time_info": "[13时12分 ~ 14时13分]"
+        },
+        {
+          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260102114437454800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
+        },
+        {
+          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3029720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
         },
         {
           "title": "老黄超200亿美元的推理闭环成型了",
@@ -210,40 +253,17 @@
           "time_info": "[11时37分 ~ 13时12分]"
         },
         {
-          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102114437454800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时12分]"
-        },
-        {
-          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时12分]"
-        },
-        {
           "title": "纽约期银日内涨幅扩大至3.00%，现报72.74美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260102113544423800",
           "source": "金十数据",
           "ranks": [
             9,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
         },
         {
           "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
@@ -251,11 +271,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时13分]"
+        },
+        {
+          "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
+          "url": "https://wallstreetcn.com/articles/3762441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时12分]"
+          "time_info": "[14时12分 ~ 14时13分]"
         },
         {
           "title": "现货白银日内涨超2%，现报73.10美元/盎司。",
@@ -280,6 +312,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时33分 ~ 09时37分]"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至3.00%，现报73.75美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260102132020593800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "2025年美元指数黯然收官！美联储主席动向将左右后市行情",
@@ -307,7 +350,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "年轻人黄金血脉觉醒 爱上小克重金饰",
@@ -345,11 +388,12 @@
             4,
             26,
             3,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 14时13分]"
         },
         {
           "title": "2026年首个交易日，现货黄金日内大涨40美元，突破4370美元/盎司，日内涨1.18%。",
@@ -361,17 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
-        },
-        {
-          "title": "大摩：紫金黄金国际2025年初步净利润高于市场预期",
-          "url": "https://wallstreetcn.com/livenews/3029735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
         },
         {
           "title": "黄金白银还能重新回到C位吗",
@@ -400,6 +433,31 @@
           "time_info": "[07时08分 ~ 09时37分]"
         },
         {
+          "title": "大摩：紫金黄金国际2025年初步净利润高于市场预期",
+          "url": "https://wallstreetcn.com/livenews/3029735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 14时13分]"
+        },
+        {
+          "title": "严控黄金交易！全球央行“亲自下场”，“直购”境内金矿，严防走私出口",
+          "url": "https://wallstreetcn.com/articles/3762442",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 14时13分]"
+        },
+        {
           "title": "现货黄金涨1.18%，报4361美元/盎司。现货白银涨2.6%报72.87美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3029713",
           "source": "华尔街见闻-快讯",
@@ -424,18 +482,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 13时12分]"
-        },
-        {
-          "title": "严控黄金交易！全球央行“亲自下场”，“直购”境内金矿，严防走私出口",
-          "url": "https://wallstreetcn.com/articles/3762442",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时12分]"
         },
         {
           "title": "现货黄金站上4350美元/盎司，日内涨0.72%。",
@@ -472,6 +518,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时12分]"
+        },
+        {
+          "title": "现货黄金突破4380美元/盎司，日内涨1.42%。",
+          "url": "https://flash.jin10.com/detail/20260102132024576800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "2026年首个交易日，现货黄金跳空高开，报4331.95美元/盎司。",
@@ -627,7 +684,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         }
@@ -646,8 +703,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时09分 ~ 13时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时09分 ~ 14时13分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 14时13分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 14时13分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -656,23 +738,12 @@
           "ranks": [
             12,
             9,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 13时12分]"
-        },
-        {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 13时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时09分 ~ 14时13分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -690,18 +761,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时09分 ~ 08时33分]"
-        },
-        {
-          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
-          "url": "https://www.zhihu.com/question/1990084005744362243",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 13时12分]"
         }
       ]
     },
@@ -780,8 +839,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时09分 ~ 13时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时09分 ~ 14时13分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -824,25 +883,26 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 14时13分]"
         },
         {
           "title": "周大福足金价格均为1357元/克，老凤祥1354元/克",
           "url": "https://wallstreetcn.com/livenews/3029730",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 14时13分]"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "突发！300亿商业航天概念股涉嫌信息披露违法违规被证监会立案|盘后公告集锦",
@@ -855,6 +915,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时09分 ~ 11时37分]"
+        },
+        {
+          "title": "港股创新药概念股持续走高，晶泰控股涨超6%，恒瑞医药涨超5%，四环医药涨超4%，信达生物、药明生物涨超3%，百济神州涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3029745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     }
