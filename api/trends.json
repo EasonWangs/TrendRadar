@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T09:38:08.174306+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-01-06T10:46:25.737575+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 09时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 10时46分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -37,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 09时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 10时46分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -112,11 +113,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时34分 ~ 09时38分]"
+          "appearance_count": 4,
+          "time_info": "[08时34分 ~ 10时46分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -141,6 +143,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -274,6 +298,17 @@
           "time_info": "[00时10分 ~ 03时09分]"
         },
         {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时34分 ~ 10时46分]"
+        },
+        {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3031058",
           "source": "华尔街见闻-快讯",
@@ -287,17 +322,6 @@
           "time_info": "[03时09分 ~ 05时09分]"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时34分 ~ 09时38分]"
-        },
-        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -305,8 +329,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时37分 ~ 10时46分]"
+        },
+        {
+          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
+          "url": "https://www.cls.cn/detail/2248515",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
+          "time_info": "[08时34分 ~ 10时46分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -318,6 +353,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260106103144934800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -375,6 +432,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
           "url": "https://flash.jin10.com/detail/20260105234304273800",
           "source": "金十数据",
@@ -397,15 +465,15 @@
           "time_info": "06时08分"
         },
         {
-          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
-          "url": "https://www.cls.cn/detail/2248515",
-          "source": "财联社热门",
+          "title": "据华尔街日报：美国总统特朗普政府将冻结更多民主党州的社会服务资金。",
+          "url": "https://flash.jin10.com/detail/20260106102510179800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时34分"
+          "time_info": "10时46分"
         },
         {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
@@ -507,6 +575,17 @@
           "time_info": "08时34分"
         },
         {
+          "title": "马斯克与特朗普夫妇共进晚餐",
+          "url": "https://www.toutiao.com/trending/7591553268254441478/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "特朗普一天之内威胁多国",
           "url": "https://www.toutiao.com/trending/7591841454150913599/",
           "source": "今日头条",
@@ -527,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "美媒：特朗普在委内瑞拉行动前一个月让美石油公司“做好准备”",
+          "url": "https://flash.jin10.com/detail/20260106095557266800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "特朗普考虑补贴石油公司重建委内瑞拉",
@@ -560,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "ICC原检察官：特朗普犯了“侵略罪”",
+          "url": "https://www.toutiao.com/trending/7591104646660948011/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "丹麦首相：我认为美国总统特朗普确实有意接管格陵兰岛；但丹麦与格陵兰岛均已明确表示拒绝。",
@@ -598,7 +699,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -907,9 +1008,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至2.00%，现报1739.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102829007800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报77.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102803282800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "伦铜期货涨至13090美元/吨上方，再创新高。",
@@ -918,7 +1041,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         },
@@ -934,6 +1057,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "现货白银日内涨幅扩大至1.00%，现报77.37美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102301348800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "周一（1月5日）纽约尾盘（北京时间05:59），离岸人民币（CNH）兑美元报6.9835元，较上周五纽约尾盘跌132点，日内整体交投于6.9696-6.9918元区间。",
           "url": "https://wallstreetcn.com/livenews/3031122",
           "source": "华尔街见闻-快讯",
@@ -943,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "新加坡元兑美元上涨0.1%至1.2810，为2025年9月19日以来最强水位。",
+          "url": "https://wallstreetcn.com/livenews/3031274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "现货白银日内涨幅达6.0%，报77.02美元/盎司。",
@@ -1000,6 +1145,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "现货白银向上触及77美元关口",
+          "url": "https://flash.jin10.com/detail/20260106101057936800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "周一（1月5日）纽约尾盘，美元兑日元跌0.37%，报156.26日元，日内交投区间为157.30-156.12日元。 欧元兑日元跌0.32%，英镑兑日元涨0.30%。",
           "url": "https://wallstreetcn.com/livenews/3031088",
           "source": "华尔街见闻-快讯",
@@ -1031,6 +1187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "新加坡元兑美元涨0.1%至1.2810，创下2025年9月19日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260106100546151800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "伦铝日内涨幅扩大至2.00%，现报3080.10美元/吨。",
@@ -1083,7 +1250,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         }
@@ -1094,6 +1261,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 10时46分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2248463",
           "source": "财联社热门",
@@ -1103,20 +1282,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 09时38分]"
-        },
-        {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 09时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 10时46分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -1128,8 +1295,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 09时38分]"
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 10时46分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -1382,6 +1549,56 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月06日（周二）上海金早盘价为1001.83元/克，较国际金价(1000.46元/克)，高1.37元/克",
+          "url": "https://flash.jin10.com/detail/20260106101827512800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3031092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
+          "url": "https://flash.jin10.com/detail/20260106052744835800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "概念",
       "match_count": 4,
       "titles": [
@@ -1432,7 +1649,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
         }
@@ -1519,36 +1736,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3031092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
-          "url": "https://flash.jin10.com/detail/20260106052744835800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄仁勋新年第一场演讲提了DeepSeek",
@@ -1559,8 +1748,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时34分 ~ 09时38分]"
+          "appearance_count": 4,
+          "time_info": "[08时34分 ~ 10时46分]"
+        },
+        {
+          "title": "大白话解读DeepSeek论文",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     }
