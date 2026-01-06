@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T20:14:50.543497+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2026-01-06T21:20:02.360577+08:00",
+  "total_titles_processed": 2052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -23,6 +23,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时08分]"
+        },
+        {
+          "title": "伦敦铜冲破13300美元",
+          "url": "https://www.toutiao.com/trending/7592183736104390190/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 21时20分]"
         },
         {
           "title": "WTI 2月原油期货收报58.32美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
@@ -47,17 +58,6 @@
           "time_info": "13时11分"
         },
         {
-          "title": "摩根大通将富国银行目标价从92美元上调至99美元，看好净利息收入增长。",
-          "url": "https://wallstreetcn.com/livenews/3031670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "澳元兑美元AUD/USD升至近15个月高点，报0.6739。",
           "url": "https://flash.jin10.com/detail/20260106155414990800",
           "source": "金十数据",
@@ -75,7 +75,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -184,6 +184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时09分]"
+        },
+        {
+          "title": "摩根大通将富国银行目标价从92美元上调至99美元，看好净利息收入增长。",
+          "url": "https://wallstreetcn.com/livenews/3031670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时20分]"
         },
         {
           "title": "现货金银周二小幅高开，分别报4451美元/盎司和76.73美元/盎司。",
@@ -413,6 +425,17 @@
           "time_info": "16时12分"
         },
         {
+          "title": "从外设到AI生态：雷蛇私有化后发力 拟投入6亿美元重塑品牌",
+          "url": "https://flash.jin10.com/detail/20260106210418581800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "WTI 2月原油期货收报58.32美元/桶。 布伦特3月原油期货收涨1.01美元，涨幅1.66%，报61.76美元/桶。 NYMEX 2月天然气期货收报3.5230美元/百万英热单位。 NYMEX 2月汽油期货收报1.72美元/加仑，NYMEX 2月取暖油期货收报2.1428美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3031081",
           "source": "华尔街见闻-快讯",
@@ -496,7 +519,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -809,6 +832,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "TD Cowen：将雅诗兰黛(EL.N)目标价从110美元上调至115美元。",
+          "url": "https://flash.jin10.com/detail/20260106204628066800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "中国台湾12月外汇存底 6025.53亿美元，前值5997.9亿美元。",
           "url": "https://flash.jin10.com/detail/20260106162004967800",
           "source": "金十数据",
@@ -826,7 +860,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -842,13 +876,24 @@
           "time_info": "00时10分"
         },
         {
+          "title": "欧元兑美元EUR/USD回落至1.17下方，日内跌0.18%。",
+          "url": "https://flash.jin10.com/detail/20260106204313598800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "花旗：将吉利德科学(GILD.O)目标价从135美元上调至140美元。",
           "url": "https://flash.jin10.com/detail/20260106191050746800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -873,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "英伟达发布推理型自动驾驶AI模型Alpamayo 剑指6万亿美元市值",
+          "url": "https://flash.jin10.com/detail/20260106203551409800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "龙湖集团2028年到期美元债势创4个月最大涨幅",
@@ -922,7 +978,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -983,8 +1039,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时11分 ~ 20时14分]"
+          "appearance_count": 12,
+          "time_info": "[13时11分 ~ 21时20分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -1023,6 +1079,22 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时10分 ~ 20时14分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15,
+            17,
+            18,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时12分 ~ 21时20分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -1115,22 +1187,6 @@
           "time_info": "[12时23分 ~ 17时12分]"
         },
         {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            20,
-            15,
-            17,
-            18,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时12分 ~ 20时14分]"
-        },
-        {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
           "url": "https://www.zhihu.com/question/1991053595043390487",
           "source": "知乎",
@@ -1154,6 +1210,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时34分 ~ 11时37分]"
+        },
+        {
+          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
+          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 21时20分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -1202,15 +1269,17 @@
           "time_info": "00时10分"
         },
         {
-          "title": "特朗普“跨国绑架”，露出了帝国獠牙",
-          "url": "https://news.ifeng.com/c/8phPV8FjZWC",
-          "source": "凤凰网",
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
           "ranks": [
-            5
+            7,
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 21时20分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
@@ -1344,19 +1413,6 @@
           "time_info": "[00时10分 ~ 03时09分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时14分]"
-        },
-        {
           "title": "丹麦首相警告特朗普涉格陵兰岛言论",
           "url": "https://www.toutiao.com/trending/7592114928259285042/",
           "source": "今日头条",
@@ -1418,6 +1474,18 @@
           "time_info": "[10时46分 ~ 11时37分]"
         },
         {
+          "title": "美媒爆料：特朗普对委动手前曾向油企高管暗示",
+          "url": "https://wallstreetcn.com/livenews/3031665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时20分]"
+        },
+        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "百度热搜",
@@ -1427,6 +1495,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普称西半球是我们的半球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 21时20分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 21时20分]"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -1449,17 +1539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "美媒爆料：特朗普对委动手前曾向油企高管暗示",
-          "url": "https://wallstreetcn.com/livenews/3031665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
         },
         {
           "title": "特朗普称有望在18个月内完成委内瑞拉能源改造 专家泼冷水",
@@ -1528,6 +1607,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3031688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普政府将冻结更多民主党州的社会服务资金。",
           "url": "https://flash.jin10.com/detail/20260106102510179800",
           "source": "金十数据",
@@ -1572,6 +1662,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "特朗普派往格陵兰岛的特使：把委内瑞拉和格陵兰岛相提并论并不公允。格陵兰岛的核心在于蓬勃的贸易往来。",
+          "url": "https://flash.jin10.com/detail/20260106205222690800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗的儿子Nicolas Maduro Guerra通过国家电视台表示 ：父亲（被特朗普政府）绑架，他将回国。 美军掳走父亲违反国际法。",
           "url": "https://wallstreetcn.com/livenews/3031006",
           "source": "华尔街见闻-快讯",
@@ -1592,6 +1693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "特朗普说马斯克八成是超级天才",
+          "url": "https://wallstreetcn.com/livenews/3031682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "美国国务卿鲁比奥称「特朗普可能向委内瑞拉派遣美军地面部队」，为何要派遣地面部队？可能性有多大？",
@@ -1660,6 +1772,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "特朗普派往格陵兰岛的特使：特朗普支持格陵兰岛独立。",
+          "url": "https://flash.jin10.com/detail/20260106204844706800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "特朗普一天之内威胁多国",
           "url": "https://www.toutiao.com/trending/7591841454150913599/",
           "source": "今日头条",
@@ -1669,6 +1792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "特朗普派往格陵兰岛的特使：不认为特朗普已准备好接管格陵兰。",
+          "url": "https://flash.jin10.com/detail/20260106204807985800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "特朗普在变成第二个拜登吗",
@@ -1899,6 +2033,19 @@
           "time_info": "[12时23分 ~ 13时11分]"
         },
         {
+          "title": "新年抢先布局！多家上市公司公布超300亿理财额度，看重黄金结构性存款",
+          "url": "https://www.cls.cn/detail/2249089",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时20分]"
+        },
+        {
           "title": "张凯毅起诉黄金凤冠造谣者",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E6%AF%85%E8%B5%B7%E8%AF%89%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E9%80%A0%E8%B0%A3%E8%80%85%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1921,18 +2068,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时09分]"
-        },
-        {
-          "title": "新年抢先布局！多家上市公司公布超300亿理财额度，看重黄金结构性存款",
-          "url": "https://www.cls.cn/detail/2249089",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时14分]"
         },
         {
           "title": "阿塞拜疆总统：阿塞拜疆石油基金通过黄金投资已赚取逾100亿美元。",
@@ -2026,8 +2161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时08分 ~ 20时14分]"
+          "appearance_count": 19,
+          "time_info": "[07时08分 ~ 21时20分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -2156,7 +2291,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -2295,6 +2430,89 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
+          "url": "https://wallstreetcn.com/livenews/3031699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "美债收益率走高 分析师称曲线有趋陡的空间",
+          "url": "https://flash.jin10.com/detail/20260106144320434800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示多头占比降至2024年以来新低",
+          "url": "https://flash.jin10.com/detail/20260106210022987800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
+          "url": "https://wallstreetcn.com/livenews/3031120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3031089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "制造业疲软拖累美债收益率 美元高位回吐涨幅",
+          "url": "https://flash.jin10.com/detail/20260105233306495800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "概念",
       "match_count": 6,
       "titles": [
@@ -2355,11 +2573,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时14分]"
+          "appearance_count": 4,
+          "time_info": "[19时08分 ~ 21时20分]"
         },
         {
           "title": "A股互联金融概念震荡走强，大智慧午后涨停，赢时胜，中科金财、瑞达期货、银之杰等纷纷冲高。同花顺短线走强涨超10%，成交额超69亿元。",
@@ -2371,67 +2590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
-          "url": "https://flash.jin10.com/detail/20260106185806265800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "美债收益率走高 分析师称曲线有趋陡的空间",
-          "url": "https://flash.jin10.com/detail/20260106144320434800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
-          "url": "https://wallstreetcn.com/livenews/3031120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3031089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "制造业疲软拖累美债收益率 美元高位回吐涨幅",
-          "url": "https://flash.jin10.com/detail/20260105233306495800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
         }
       ]
     },
