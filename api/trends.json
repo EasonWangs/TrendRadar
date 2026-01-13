@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T16:12:30.084310+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-01-13T17:12:49.243405+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -36,11 +36,12 @@
           "url": "https://news.ifeng.com/c/8psBaLzCORr",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时29分 ~ 16时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时29分 ~ 17时12分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -91,6 +92,22 @@
           "time_info": "[00时11分 ~ 16时12分]"
         },
         {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时37分 ~ 17时12分]"
+        },
+        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
           "url": "https://wallstreetcn.com/articles/3763124",
           "source": "华尔街见闻",
@@ -101,23 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时29分 ~ 16时12分]"
-        },
-        {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时37分 ~ 16时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时29分 ~ 17时12分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -143,8 +145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时37分 ~ 16时12分]"
+          "appearance_count": 11,
+          "time_info": "[09时37分 ~ 17时12分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -191,11 +193,12 @@
           "url": "https://news.ifeng.com/c/8psHSxQTXOP",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时37分 ~ 16时12分]"
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 17时12分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -216,11 +219,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 17时12分]"
         },
         {
           "title": "美国总统特朗普曾多次向助手抱怨邦迪（Bondi），自称倍感挫折。（华尔街日报）",
@@ -232,6 +236,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "美国两州把特朗普政府告了",
+          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "据美媒MS NOW：特朗普政府司法部解雇了拒绝起诉詹姆斯·科米案的检察官。",
@@ -475,6 +501,17 @@
           "time_info": "[05时09分 ~ 06时09分]"
         },
         {
+          "title": "圆脸解读特朗普格陵兰岛言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "特朗普：任何与伊朗开展业务的国家都将被征收25%关税",
           "url": "https://flash.jin10.com/detail/20260113054813875800",
           "source": "金十数据",
@@ -484,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "特朗普政府再度施压美联储 全球多国央行“齐撑”鲍威尔",
+          "url": "https://flash.jin10.com/detail/20260113163728156800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "据华尔街日报：以美国副总统万斯为首的某些高级政府助手敦促美国总统特朗普在对伊朗采取报复行动之前先尝试外交手段。",
@@ -574,6 +622,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美媒曝特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://wallstreetcn.com/livenews/3035973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
           "url": "https://wallstreetcn.com/livenews/3035439",
           "source": "华尔街见闻-快讯",
@@ -602,7 +661,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1050,7 +1109,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 71,
       "titles": [
         {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
@@ -1073,8 +1132,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时29分 ~ 16时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时29分 ~ 17时12分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -1279,6 +1338,18 @@
           "time_info": "[14时12分 ~ 15时12分]"
         },
         {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 17时12分]"
+        },
+        {
           "title": "现货白银日内涨超1.00%，现报86.00美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260113111413144800",
           "source": "金十数据",
@@ -1348,6 +1419,17 @@
           "time_info": "13时13分"
         },
         {
+          "title": "澳元兑美元AUD/USD跌破0.67，日内跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20260113163704754800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "美国天然气期货日内下跌3.00%，现报3.299美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260113134320916800",
           "source": "金十数据",
@@ -1392,6 +1474,17 @@
           "time_info": "09时37分"
         },
         {
+          "title": "美元兑日元站上159，为2024年7月以来首次，日内涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3035979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "现货钯金日内跌幅达2.00%，现报1810.75美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260113090021654800",
           "source": "金十数据",
@@ -1414,15 +1507,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
-          "source": "财联社热门",
+          "title": "港元兑美元汇率跌至7.8，触及交易区间中点。",
+          "url": "https://wallstreetcn.com/livenews/3035974",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时12分"
+          "time_info": "17时12分"
         },
         {
           "title": "在580亿美元的三年期美国国债拍卖后，三年期美国国债收益率维持涨势，最新报3.602%，上涨0.7个基点。",
@@ -1445,6 +1538,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "现货白银站上86美元/盎司，日内涨1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3035972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "惠誉：今年日元兑美元或温和升值",
+          "url": "https://flash.jin10.com/detail/20260113162235120800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.609%，投标倍数2.65。",
@@ -1489,6 +1604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9765，较上一交易日官方收盘价跌23点，较上日夜盘收盘跌32点。",
+          "url": "https://wallstreetcn.com/livenews/3035967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "巴克莱：将微软(MSFT.O)目标价从625.00美元/股下调至610.00美元/股，维持超配评级。",
@@ -1585,7 +1711,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1673,7 +1799,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1790,270 +1916,20 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 06时09分]"
-        },
-        {
-          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2255324",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 09时37分]"
-        },
-        {
-          "title": "黄金又急跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E6%80%A5%E8%B7%8C%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 14时12分]"
-        },
-        {
-          "title": "一批港股公司预告2025年业绩，黄金医药等板块报喜",
-          "url": "https://wallstreetcn.com/livenews/3035609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 13时13分]"
-        },
-        {
-          "title": "金十整理：现货黄金离5000美元关口还有多远？",
-          "url": "https://flash.jin10.com/detail/20260113115228088800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时13分]"
-        },
-        {
-          "title": "韩媒：中国足球黄金一代很可怕",
-          "url": "https://www.toutiao.com/trending/7593691455186288667/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时09分]"
-        },
-        {
-          "title": "花旗表示，白银将继续跑赢黄金。",
-          "url": "https://flash.jin10.com/detail/20260113111608339800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时23分]"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260113115147556800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时13分]"
-        },
-        {
-          "title": "花旗表示，其基准情景下0至3个月的目标价格现为黄金每盎司5000美元，白银每盎司100美元。",
-          "url": "https://flash.jin10.com/detail/20260113111517570800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时23分]"
-        },
-        {
-          "title": "黄金白银直线跳水",
-          "url": "https://www.douyin.com/hot/2366141",
-          "source": "抖音",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时12分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月12日（周一）晚盘收盘上涨0.77%报1026.8元/克；<br/>上海黄金交易所白银T+D 1月12日（周一）晚盘收盘上涨4.68%报21260.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260113023029501800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时10分]"
-        },
-        {
-          "title": "这4个小时被称为黄金睡眠时间",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%994%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时29分 ~ 08时30分]"
-        },
-        {
-          "title": "机构：现货黄金今年升破5000美元的概率已超30%",
-          "url": "https://flash.jin10.com/detail/20260113121846637800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月13日（周二）早盘盘初上涨0.47%报1023.83元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）早盘盘初上涨3.5%报21021.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260113090150330800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "现货黄金周二小幅高开，现报4604美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260113070137376800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "现货黄金短线下挫16美元，现报4586.61美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260113133412753800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 1月13日（周二）收盘上涨0.67%报1025.79元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）收盘上涨3.63%报21048.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260113153057018800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时12分"
-        },
-        {
-          "title": "现货黄金首次站上 4600 美元大关，新年首月累涨 280 美元，驱动因素是什么？后续还会涨吗？",
-          "url": "https://www.zhihu.com/question/1993978589855637636",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "中金：如果美国通胀与流动性冲击导致股票、黄金等资产回调，建议逢低增配",
-          "url": "https://flash.jin10.com/detail/20260113084607435800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
-          "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
-          "url": "https://wallstreetcn.com/livenews/3035668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时29分 ~ 16时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时29分 ~ 17时12分]"
         },
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -2090,6 +1966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3035989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -2158,6 +2045,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
+          "url": "https://wallstreetcn.com/articles/3763105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "美股Q4财报季前瞻：市场预期偏低或有惊喜，AI交易和科技巨头迎考验！",
+          "url": "https://www.cls.cn/detail/2255885",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
@@ -2272,8 +2181,271 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 06时09分]"
+        },
+        {
+          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2255324",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 09时37分]"
+        },
+        {
+          "title": "黄金又急跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E6%80%A5%E8%B7%8C%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 14时12分]"
+        },
+        {
+          "title": "一批港股公司预告2025年业绩，黄金医药等板块报喜",
+          "url": "https://wallstreetcn.com/livenews/3035609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 13时13分]"
+        },
+        {
+          "title": "金十整理：现货黄金离5000美元关口还有多远？",
+          "url": "https://flash.jin10.com/detail/20260113115228088800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时13分]"
+        },
+        {
+          "title": "黄金白银直线跳水",
+          "url": "https://www.douyin.com/hot/2366141",
+          "source": "抖音",
+          "ranks": [
+            8,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时12分]"
+        },
+        {
+          "title": "韩媒：中国足球黄金一代很可怕",
+          "url": "https://www.toutiao.com/trending/7593691455186288667/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时09分]"
+        },
+        {
+          "title": "花旗表示，白银将继续跑赢黄金。",
+          "url": "https://flash.jin10.com/detail/20260113111608339800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时23分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260113115147556800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时13分]"
+        },
+        {
+          "title": "花旗表示，其基准情景下0至3个月的目标价格现为黄金每盎司5000美元，白银每盎司100美元。",
+          "url": "https://flash.jin10.com/detail/20260113111517570800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时23分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月12日（周一）晚盘收盘上涨0.77%报1026.8元/克；<br/>上海黄金交易所白银T+D 1月12日（周一）晚盘收盘上涨4.68%报21260.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260113023029501800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 04时10分]"
+        },
+        {
+          "title": "这4个小时被称为黄金睡眠时间",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%994%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
+          "title": "机构：现货黄金今年升破5000美元的概率已超30%",
+          "url": "https://flash.jin10.com/detail/20260113121846637800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "这4个小时被称为黄金睡眠时间",
+          "url": "https://www.toutiao.com/trending/7594596545782644787/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月13日（周二）早盘盘初上涨0.47%报1023.83元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）早盘盘初上涨3.5%报21021.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260113090150330800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "现货黄金周二小幅高开，现报4604美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260113070137376800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "现货黄金短线下挫16美元，现报4586.61美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260113133412753800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月13日（周二）收盘上涨0.67%报1025.79元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）收盘上涨3.63%报21048.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260113153057018800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "现货黄金首次站上 4600 美元大关，新年首月累涨 280 美元，驱动因素是什么？后续还会涨吗？",
+          "url": "https://www.zhihu.com/question/1993978589855637636",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "中金：如果美国通胀与流动性冲击导致股票、黄金等资产回调，建议逢低增配",
+          "url": "https://flash.jin10.com/detail/20260113084607435800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
+          "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
+          "url": "https://wallstreetcn.com/livenews/3035668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "概念",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "商业航天概念股，密集回应相关业务情况",
@@ -2365,6 +2537,17 @@
           "time_info": "[08时29分 ~ 13时13分]"
         },
         {
+          "title": "商业航天概念股集体退潮",
+          "url": "https://search.bilibili.com/all?keyword=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E9%80%80%E6%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
           "url": "https://www.cls.cn/detail/2254949",
           "source": "财联社热门",
@@ -2401,6 +2584,29 @@
           "time_info": "[13时12分 ~ 14时12分]"
         },
         {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时12分]"
+        },
+        {
+          "title": "A股收评：商业航天概念股集体退潮",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E9%80%80%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时12分]"
+        },
+        {
           "title": "A股商业航天概念局部回暖，陕西华达、巨力索具、电科芯片涨停，中科星图、信科移动、佳缘科技、国博电子、天银机电涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3035769",
           "source": "华尔街见闻-快讯",
@@ -2412,6 +2618,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 13时13分]"
+        },
+        {
+          "title": "商业航天概念局部调整 多家科创板公司澄清业务边界 专家：板块回归理性是健康发展前提",
+          "url": "https://www.cls.cn/detail/2255961",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 17时12分]"
         },
         {
           "title": "A股智能电网概念异动拉升，三变科技、特变电工直线涨停，灿能电力、安靠智电涨超10%，双杰电气、摩恩电气、中国西电等纷纷冲高。",
@@ -2426,29 +2644,6 @@
           "time_info": "[14时12分 ~ 15时12分]"
         },
         {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时12分]"
-        },
-        {
-          "title": "A股收评：商业航天概念股集体退潮",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E9%80%80%E6%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时12分]"
-        },
-        {
           "title": "脑机接口概念股“含金量”几何",
           "url": "https://www.toutiao.com/trending/7594485829045587462/",
           "source": "今日头条",
@@ -2460,15 +2655,15 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "商业航天概念局部调整 多家科创板公司澄清业务边界 专家：板块回归理性是健康发展前提",
-          "url": "https://www.cls.cn/detail/2255961",
+          "title": "【每日收评】创业板指放量跌近2%，全市场超3700股飘绿，商业航天概念股批量跌停",
+          "url": "https://www.cls.cn/detail/2256207",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时12分"
+          "time_info": "17时12分"
         },
         {
           "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
@@ -2509,8 +2704,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时29分 ~ 16时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时29分 ~ 17时12分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -2637,11 +2832,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时12分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -2692,7 +2888,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -2708,6 +2904,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时45分 ~ 15时12分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
