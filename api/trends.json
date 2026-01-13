@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T07:07:46.443294+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-01-13T08:30:19.430184+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -48,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -60,11 +61,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -98,9 +100,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 08时30分]"
+        },
+        {
+          "title": "伊朗局势突然反转，特朗普又心生一计",
+          "url": "https://news.ifeng.com/c/8psBaLzCORr",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
         },
         {
           "title": "美国总统特朗普曾多次向助手抱怨邦迪（Bondi），自称倍感挫折。（华尔街日报）",
@@ -198,6 +211,17 @@
           "time_info": "[06时09分 ~ 07时07分]"
         },
         {
+          "title": "委内瑞拉回应特朗普自称代总统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E4%BB%A3%E6%80%BB%E7%BB%9F%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
           "url": "https://flash.jin10.com/detail/20260113032445731800",
           "source": "金十数据",
@@ -280,6 +304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
@@ -397,6 +432,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "美国国务院：特朗普政府已撤销逾10万份签证",
+          "url": "https://wallstreetcn.com/livenews/3035646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
           "title": "美国参议院共和党成员Cramer：我不相信美联储主席鲍威尔是一个罪犯。 希望（特朗普政府的司法部）对鲍威尔的调查“能尽快结束”。",
           "url": "https://wallstreetcn.com/livenews/3035469",
           "source": "华尔街见闻-快讯",
@@ -414,7 +460,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -513,7 +559,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -527,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "美国总统特朗普：我们是世界上“最火热”的国家，也是人工智能领域的第一。数据中心是这一繁荣的关键，但建设这些设施的大型科技公司必须“自掏腰包”。",
+          "url": "https://flash.jin10.com/detail/20260113074408287800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
           "title": "委内瑞拉“反对派”Machado将于周四会见美国总统特朗普。（CNN）",
@@ -557,7 +614,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -595,6 +652,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "美国总统特朗普：首先是要和微软合作，我的团队一直在与他们合作。",
+          "url": "https://flash.jin10.com/detail/20260113074240681800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
           "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
           "url": "https://wallstreetcn.com/livenews/3035459",
           "source": "华尔街见闻-快讯",
@@ -604,6 +672,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美国总统特朗普：在未来几周有许多消息要宣布。",
+          "url": "https://flash.jin10.com/detail/20260113074205211800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "美国总统特朗普：微软将从本周开始进行重大调整，本周将对数据中心做出重大调整。 正与大型科技企业合作解决数据中心及电费问题。科技公司必须承担数据中心的电费。 感谢微软在能耗费用支付方面发挥带头作用。 未来几周将就数据中心事宜宣布多项消息。 建设数据中心的科技公司必须 “自担成本”。",
+          "url": "https://wallstreetcn.com/livenews/3035631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：特朗普政府的“直言不讳”方式有利于达成协议。",
@@ -634,9 +724,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普：微软本周起将进行重大变革，以确保美国民众不必以更高的水电费账单来为其电力消耗买单。政府正与美国主要科技公司合作，以确保它们对美国人民的承诺。",
+          "url": "https://flash.jin10.com/detail/20260113074204183800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
           "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中明确表示存在合作机会。",
@@ -678,7 +779,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -752,7 +853,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "澳元兑美元AUD/USD日内涨超0.50%，现报0.6719。",
@@ -872,6 +973,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时09分]"
+        },
+        {
+          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
+          "url": "https://www.cls.cn/detail/2255501",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
+          "title": "美商务部长称台积电或在美投资加码至超2000亿美元",
+          "url": "https://news.ifeng.com/c/8ps76smonkp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
         },
         {
           "title": "美元指数12日下跌",
@@ -1083,7 +1206,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -1121,6 +1244,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "艾伯维（AbbVie）与特朗普政府达成协议，旨在提高美国民众获得药物的可及性并降低负担。 艾伯维承诺，公司将在未来十年内，在美国投入1000亿美元 用于研发及包括制造业在内的资本投资。 作为交换，该协议为艾伯维提供了为期三年的关税豁免，并使其免受未来的价格管制指令约束。 艾伯维将在联邦医疗补助（Medicaid）中提供低价，并通过TrumpRx平台为患者扩大负担得起的“直达患者”购药服务。",
+          "url": "https://wallstreetcn.com/livenews/3035632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的34.02亿美元。",
           "url": "https://flash.jin10.com/detail/20260113022027617800",
           "source": "金十数据",
@@ -1130,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：美元仍然是全球储备货币。 人口结构挑战正在全球范围内显现。",
+          "url": "https://wallstreetcn.com/livenews/3035630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         },
         {
           "title": "沃尔玛涨约3.4%，刷新盘中历史高位至118.46美元，盘中市值超过9400亿美元。",
@@ -1163,12 +1308,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美元兑日元短线走低超10点。稍早日本财务大臣片山皋月称贝森特对日元疲软的看法与我相同。",
+          "url": "https://wallstreetcn.com/livenews/3035627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "美联储威廉姆斯：美元仍是世界储备货币。",
+          "url": "https://flash.jin10.com/detail/20260113073448228800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "美国生物制药公司艾伯维：与特朗普政府达成协议，以改善美国民众的医疗可及性和可负担性。将在未来十年内在美国的研发和资本投资（包括制造）方面投入1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260113073225211800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
+        },
+        {
+          "title": "Strategy 购入价值近12.5亿美元的比特币，这是该公司自7月以来对该数字资产的最大一笔购买。",
+          "url": "https://wallstreetcn.com/livenews/3035620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1183,15 +1372,38 @@
           "time_info": "[00时11分 ~ 07时07分]"
         },
         {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 08时30分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -1206,6 +1418,17 @@
           "time_info": "[05时09分 ~ 06时09分]"
         },
         {
+          "title": "美股收盘：百度涨超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
           "url": "https://wallstreetcn.com/livenews/3035583",
           "source": "华尔街见闻-快讯",
@@ -1218,15 +1441,15 @@
           "time_info": "[06时09分 ~ 07时07分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
+          "title": "美股三大指数收涨 金龙指数涨超4%",
+          "url": "https://www.toutiao.com/trending/7594618043121012287/",
+          "source": "今日头条",
           "ranks": [
-            8
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -1268,7 +1491,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -1290,7 +1513,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -1323,7 +1546,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -1353,7 +1576,7 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -1364,8 +1587,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -1448,7 +1682,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -1471,8 +1705,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "一批港股公司预告2025年业绩，黄金医药等板块报喜",
@@ -1481,7 +1715,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -1510,13 +1744,24 @@
           "time_info": "[03时09分 ~ 04时10分]"
         },
         {
+          "title": "这4个小时被称为黄金睡眠时间",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%994%E4%B8%AA%E5%B0%8F%E6%97%B6%E8%A2%AB%E7%A7%B0%E4%B8%BA%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%97%B4%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
+        },
+        {
           "title": "现货黄金周二小幅高开，现报4604美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260113070137376800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -1535,7 +1780,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "商业航天概念股，密集回应相关业务情况",
@@ -1546,8 +1791,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时30分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -1579,11 +1824,23 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时11分 ~ 07时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 08时30分]"
+        },
+        {
+          "title": "【早报】深夜大涨！中国资产爆发、金银齐创新高；商业航天概念股密集回应相关业务情况",
+          "url": "https://www.cls.cn/detail/2255559",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -1595,6 +1852,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "数则减持、澄清信息今晚公告，涉多只商业航天概念股",
+          "url": "https://www.cls.cn/detail/2255427",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时29分 ~ 08时30分]"
         },
         {
           "title": "脑机接口概念股“含金量”几何",
@@ -1646,6 +1914,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "花旗预测三个月内金价将达到每盎司5000美元，银价达到100美元。",
+          "url": "https://wallstreetcn.com/livenews/3035626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时30分"
         }
       ]
     },
