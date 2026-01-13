@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T17:12:49.243405+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-01-13T18:09:51.983610+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 97,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时29分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时29分 ~ 18时09分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -101,11 +101,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 17时12分]"
+          "appearance_count": 12,
+          "time_info": "[09时37分 ~ 18时09分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -115,11 +116,24 @@
             9,
             6,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时29分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时29分 ~ 18时09分]"
+        },
+        {
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时37分 ~ 18时09分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -142,11 +156,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时37分 ~ 17时12分]"
+          "appearance_count": 12,
+          "time_info": "[09时37分 ~ 18时09分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -189,16 +204,18 @@
           "time_info": "[01时10分 ~ 06时09分]"
         },
         {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
-          "source": "凤凰网",
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            7
+            16,
+            15,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时37分 ~ 17时12分]"
+          "time_info": "[12时22分 ~ 18时09分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -214,17 +231,26 @@
           "time_info": "[10时45分 ~ 15时12分]"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15,
-            13
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 17时12分]"
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
+        },
+        {
+          "title": "美国两州把特朗普政府告了",
+          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "美国总统特朗普曾多次向助手抱怨邦迪（Bondi），自称倍感挫折。（华尔街日报）",
@@ -236,28 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美国两州把特朗普政府告了",
-          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "据美媒MS NOW：特朗普政府司法部解雇了拒绝起诉詹姆斯·科米案的检察官。",
@@ -355,6 +359,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时07分]"
+        },
+        {
+          "title": "圆脸解读特朗普格陵兰岛言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
@@ -477,6 +493,18 @@
           "time_info": "[04时10分 ~ 05时09分]"
         },
         {
+          "title": "美媒曝特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://wallstreetcn.com/livenews/3035973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
+        },
+        {
           "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
           "url": "https://flash.jin10.com/detail/20260113022632820800",
           "source": "金十数据",
@@ -501,17 +529,6 @@
           "time_info": "[05时09分 ~ 06时09分]"
         },
         {
-          "title": "圆脸解读特朗普格陵兰岛言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "特朗普：任何与伊朗开展业务的国家都将被征收25%关税",
           "url": "https://flash.jin10.com/detail/20260113054813875800",
           "source": "金十数据",
@@ -529,7 +546,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -556,6 +573,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "你要我走、我偏要留！鲍威尔与特朗普的“终局之战”丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260113175248796800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "前美联储主席格林斯潘、伯南克、耶伦，以及其他曾经担任美联储官员的人士再次发声：美国总统特朗普“动用司法手段来攻击（现任主席鲍威尔）”将破坏美联储（的独立性）。",
           "url": "https://wallstreetcn.com/livenews/3035446",
           "source": "华尔街见闻-快讯",
@@ -576,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "美国两州起诉特朗普政府",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B7%9E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "美国国务院：特朗普政府已撤销逾10万份签证",
@@ -620,17 +659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "美媒曝特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://wallstreetcn.com/livenews/3035973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -1109,7 +1137,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
@@ -1132,8 +1160,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时29分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时29分 ~ 18时09分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -1278,6 +1306,18 @@
           "time_info": "[04时10分 ~ 05时09分]"
         },
         {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 18时09分]"
+        },
+        {
           "title": "美元指数12日下跌",
           "url": "https://flash.jin10.com/detail/20260113045153898800",
           "source": "金十数据",
@@ -1338,16 +1378,16 @@
           "time_info": "[14时12分 ~ 15时12分]"
         },
         {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
-          "source": "财联社热门",
+          "title": "美元兑日元站上159，为2024年7月以来首次，日内涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3035979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时12分 ~ 17时12分]"
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "现货白银日内涨超1.00%，现报86.00美元/盎司。",
@@ -1362,6 +1402,18 @@
           "time_info": "[11时37分 ~ 12时23分]"
         },
         {
+          "title": "港元兑美元汇率跌至7.8，触及交易区间中点。",
+          "url": "https://wallstreetcn.com/livenews/3035974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
+        },
+        {
           "title": "美元指数跌约0.3%",
           "url": "https://wallstreetcn.com/livenews/3035557",
           "source": "华尔街见闻-快讯",
@@ -1374,6 +1426,18 @@
           "time_info": "[05时09分 ~ 06时09分]"
         },
         {
+          "title": "现货白银站上86美元/盎司，日内涨1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3035972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
+        },
+        {
           "title": "台积电股价涨幅扩大至1.5%，报329.64美元，逼近盘中历史最高位333.08美元。",
           "url": "https://wallstreetcn.com/livenews/3035491",
           "source": "华尔街见闻-快讯",
@@ -1384,6 +1448,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时09分]"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9765，较上一交易日官方收盘价跌23点，较上日夜盘收盘跌32点。",
+          "url": "https://wallstreetcn.com/livenews/3035967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "现货钯金失守1800美元/盎司，日内跌幅3.02%。",
@@ -1425,7 +1501,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -1474,17 +1550,6 @@
           "time_info": "09时37分"
         },
         {
-          "title": "美元兑日元站上159，为2024年7月以来首次，日内涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3035979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "现货钯金日内跌幅达2.00%，现报1810.75美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260113090021654800",
           "source": "金十数据",
@@ -1505,17 +1570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "港元兑美元汇率跌至7.8，触及交易区间中点。",
-          "url": "https://wallstreetcn.com/livenews/3035974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "在580亿美元的三年期美国国债拍卖后，三年期美国国债收益率维持涨势，最新报3.602%，上涨0.7个基点。",
@@ -1540,26 +1594,26 @@
           "time_info": "06时09分"
         },
         {
-          "title": "现货白银站上86美元/盎司，日内涨1.95%。",
-          "url": "https://wallstreetcn.com/livenews/3035972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "惠誉：今年日元兑美元或温和升值",
           "url": "https://flash.jin10.com/detail/20260113162235120800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
+        },
+        {
+          "title": "布伦特原油突破65美元/桶，去年11月11日以来首次，日内涨1.12%。",
+          "url": "https://flash.jin10.com/detail/20260113172835009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.609%，投标倍数2.65。",
@@ -1606,17 +1660,6 @@
           "time_info": "03时09分"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9765，较上一交易日官方收盘价跌23点，较上日夜盘收盘跌32点。",
-          "url": "https://wallstreetcn.com/livenews/3035967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "巴克莱：将微软(MSFT.O)目标价从625.00美元/股下调至610.00美元/股，维持超配评级。",
           "url": "https://flash.jin10.com/detail/20260113041745436800",
           "source": "金十数据",
@@ -1626,6 +1669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达1.00%，现报64.93美元/桶。WTI原油日内涨幅达1.00%，现报60.37美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260113172517784800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9733元，较上周五夜盘收盘涨52点。成交量436.23亿美元。",
@@ -1928,8 +1982,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时29分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时29分 ~ 18时09分]"
         },
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -1968,17 +2022,6 @@
           "time_info": "07时07分"
         },
         {
-          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3035989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
           "url": "https://flash.jin10.com/detail/20260113050054548800",
           "source": "金十数据",
@@ -1989,6 +2032,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3035989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "美股收盘：百度涨超6%",
@@ -2012,6 +2067,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时07分]"
+        },
+        {
+          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
+          "url": "https://wallstreetcn.com/articles/3763105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "美股三大指数收涨 金龙指数涨超4%",
@@ -2047,24 +2114,13 @@
           "time_info": "06时09分"
         },
         {
-          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
-          "url": "https://wallstreetcn.com/articles/3763105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
           "title": "美股Q4财报季前瞻：市场预期偏低或有惊喜，AI交易和科技巨头迎考验！",
           "url": "https://www.cls.cn/detail/2255885",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
         },
@@ -2284,6 +2340,18 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
+          "title": "这4个小时被称为黄金睡眠时间",
+          "url": "https://www.toutiao.com/trending/7594596545782644787/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
+        },
+        {
           "title": "花旗表示，白银将继续跑赢黄金。",
           "url": "https://flash.jin10.com/detail/20260113111608339800",
           "source": "金十数据",
@@ -2352,17 +2420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        },
-        {
-          "title": "这4个小时被称为黄金睡眠时间",
-          "url": "https://www.toutiao.com/trending/7594596545782644787/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月13日（周二）早盘盘初上涨0.47%报1023.83元/克；<br/>上海黄金交易所白银T+D 1月13日（周二）早盘盘初上涨3.5%报21021.0元/千克。",
@@ -2445,7 +2502,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "商业航天概念股，密集回应相关业务情况",
@@ -2543,9 +2600,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -2572,6 +2629,31 @@
           "time_info": "[11时37分 ~ 13时13分]"
         },
         {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 18时09分]"
+        },
+        {
+          "title": "A股收评：商业航天概念股集体退潮",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E9%80%80%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 18时09分]"
+        },
+        {
           "title": "商业航天概念剧烈调整",
           "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E5%89%A7%E7%83%88%E8%B0%83%E6%95%B4",
           "source": "百度热搜",
@@ -2584,27 +2666,16 @@
           "time_info": "[13时12分 ~ 14时12分]"
         },
         {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
+          "title": "商业航天概念局部调整 多家科创板公司澄清业务边界 专家：板块回归理性是健康发展前提",
+          "url": "https://www.cls.cn/detail/2255961",
           "source": "财联社热门",
           "ranks": [
-            13,
-            8
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时12分 ~ 17时12分]"
-        },
-        {
-          "title": "A股收评：商业航天概念股集体退潮",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E9%80%80%E6%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 17时12分]"
+          "time_info": "[16时12分 ~ 18时09分]"
         },
         {
           "title": "A股商业航天概念局部回暖，陕西华达、巨力索具、电科芯片涨停，中科星图、信科移动、佳缘科技、国博电子、天银机电涨超10%。",
@@ -2620,18 +2691,6 @@
           "time_info": "[11时37分 ~ 13时13分]"
         },
         {
-          "title": "商业航天概念局部调整 多家科创板公司澄清业务边界 专家：板块回归理性是健康发展前提",
-          "url": "https://www.cls.cn/detail/2255961",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 17时12分]"
-        },
-        {
           "title": "A股智能电网概念异动拉升，三变科技、特变电工直线涨停，灿能电力、安靠智电涨超10%，双杰电气、摩恩电气、中国西电等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3035847",
           "source": "华尔街见闻-快讯",
@@ -2642,6 +2701,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时12分 ~ 15时12分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌近2%，全市场超3700股飘绿，商业航天概念股批量跌停",
+          "url": "https://www.cls.cn/detail/2256207",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "脑机接口概念股“含金量”几何",
@@ -2655,15 +2726,15 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "【每日收评】创业板指放量跌近2%，全市场超3700股飘绿，商业航天概念股批量跌停",
-          "url": "https://www.cls.cn/detail/2256207",
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "18时09分"
         },
         {
           "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
@@ -2701,11 +2772,12 @@
             10,
             7,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时29分 ~ 17时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时29分 ~ 18时09分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -2836,8 +2908,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 17时12分]"
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 18时09分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -2910,11 +2982,12 @@
           "url": "https://wallstreetcn.com/articles/3763151",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时09分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
