@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T01:13:08.816520+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-15T02:12:40.502330+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -57,11 +58,12 @@
           "url": "https://wallstreetcn.com/livenews/3037215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时12分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -70,7 +72,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美联储卡什卡利拒绝就美国总统特朗普政府购买抵押贷款债券发表评论。",
+          "url": "https://flash.jin10.com/detail/20260115012010360800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         }
       ]
     },
@@ -133,41 +146,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
         },
         {
           "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3037223",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时12分]"
         },
         {
           "title": "NYMEX天然气期货跌幅扩大至10%，创最近12周新低，暂报3.1美元/百万英热。",
           "url": "https://wallstreetcn.com/livenews/3037222",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时12分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨3.15%，暂报4382.96点。 MarketVectorTM数字资产100中盘指数涨2.56%，报3980.94点。 MarketVector数字资产100指数涨4.39%，报20205.32点。 Solana目前涨2.49%，狗狗币涨3.96%，XRP涨1.32%。 比特币涨3.19%，暂报97353.99美元；以太坊涨5.26%，暂报3370.99美元。",
           "url": "https://wallstreetcn.com/livenews/3037221",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时12分]"
         },
         {
           "title": "AgiBank申请美国IPO，寻求按代码“AGBK”在纽交所挂牌交易其股票。 彭博援引知情人士报道称，巴西AgiBank计划通过美国IPO融资10亿美元。",
@@ -176,7 +192,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -187,9 +203,60 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
+        },
+        {
+          "title": "美股集体低开 携程跌近17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260115013113108800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260115013047739800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         }
       ]
     },
@@ -206,8 +273,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
         },
         {
           "title": "沙特又宣布发现242.6吨黄金资源量",
@@ -216,35 +283,6 @@
           "ranks": [
             10,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
-        },
-        {
-          "title": "美股集体低开 携程跌近17%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -264,8 +302,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -275,8 +313,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 02时12分]"
         }
       ]
     },
@@ -290,11 +328,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 02时12分]"
         }
       ]
     },
@@ -309,9 +348,43 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
+          "url": "https://flash.jin10.com/detail/20260115013842934800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         }
       ]
     }
