@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T05:09:31.447247+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-01-15T06:09:31.858977+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -29,41 +29,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时09分]"
         },
         {
-          "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
-          "url": "https://flash.jin10.com/detail/20260115044111087800",
-          "source": "金十数据",
+          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
+          "url": "https://news.ifeng.com/c/8puu58c2sSy",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
         },
         {
-          "title": "美国总统特朗普：与丹麦关系很好。",
-          "url": "https://wallstreetcn.com/livenews/3037286",
+          "title": "白宫：美国总统特朗普可能会针对芯片进口实施更广泛的关税。",
+          "url": "https://wallstreetcn.com/livenews/3037309",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "美国总统特朗普：我想会有办法的。",
-          "url": "https://flash.jin10.com/detail/20260115044104596800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "06时09分"
         },
         {
           "title": "美国总统特朗普：我不能指望丹麦。",
@@ -72,9 +61,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
+          "url": "https://flash.jin10.com/detail/20260115053341985800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -88,26 +88,37 @@
           "time_info": "00时12分"
         },
         {
-          "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
-          "url": "https://news.ifeng.com/c/8puu58c2sSy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "美国总统特朗普：（被问及是否排除对伊朗采取军事行动）我们会观察事态发展，然后再做决定。",
           "url": "https://flash.jin10.com/detail/20260115043926070800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
+          "url": "https://flash.jin10.com/detail/20260115053106355800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
+          "url": "https://flash.jin10.com/detail/20260115052805367800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
@@ -123,6 +134,42 @@
           "time_info": "[03时08分 ~ 05时09分]"
         },
         {
+          "title": "美国总统特朗普：与委内瑞拉领导人进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260115044111087800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "美国总统特朗普：与丹麦关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3037286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "美国总统特朗普：我想会有办法的。",
+          "url": "https://flash.jin10.com/detail/20260115044104596800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
           "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
           "url": "https://wallstreetcn.com/livenews/3037268",
           "source": "华尔街见闻-快讯",
@@ -133,6 +180,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时09分]"
+        },
+        {
+          "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
+          "url": "https://wallstreetcn.com/livenews/3037280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3037278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -158,26 +229,38 @@
           "time_info": "[01时13分 ~ 02时12分]"
         },
         {
+          "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
+          "url": "https://wallstreetcn.com/livenews/3037276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
           "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20260115043826743800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
         {
-          "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
-          "url": "https://wallstreetcn.com/livenews/3037280",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普政府拟让FTC主席负责司法部反欺诈新部门",
+          "url": "https://flash.jin10.com/detail/20260115052300801800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "06时09分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
@@ -186,9 +269,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "未排除动武可能，特朗普称将“观望”伊朗局势发展",
+          "url": "https://wallstreetcn.com/livenews/3037300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
@@ -197,18 +291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3037278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -230,18 +313,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
-          "url": "https://wallstreetcn.com/livenews/3037276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -257,15 +329,48 @@
           "time_info": "03时08分"
         },
         {
+          "title": "特朗普在周三的讲话中不同寻常地呼应了伊朗方面的一个主要论点。特朗普表示：“他们（伊朗）说有人用枪向他们开火，他们就还击了。你知道，这种事情就是这样。”",
+          "url": "https://flash.jin10.com/detail/20260115050626340800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "特朗普称与委内瑞拉代总统通话",
+          "url": "https://wallstreetcn.com/livenews/3037292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
           "title": "特朗普一句话油价短线暴跌4%",
           "url": "https://flash.jin10.com/detail/20260115041419369800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "特朗普再批鲍威尔",
+          "url": "https://www.douyin.com/hot/2367805",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "特朗普政府执政近一年给世界带来了啥",
@@ -274,7 +379,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -307,9 +412,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：今天早上和委内瑞拉方面通了电话。",
+          "url": "https://flash.jin10.com/detail/20260115044513703800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
@@ -318,7 +434,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -340,7 +456,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -362,9 +478,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美国总统特朗普：已选定新助理司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260115044157137800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "特朗普当场被激怒，白宫回应",
@@ -395,7 +522,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         }
@@ -403,7 +530,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -414,8 +541,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时09分]"
         },
         {
           "title": "美国原油期货收涨超1.4%站上62美元",
@@ -427,17 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "WTI原油期货陡然跳水，下跌3%，逼近59美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3037285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         },
         {
           "title": "纽约期银站上93美元/盎司，日内涨7.72%。",
@@ -457,7 +573,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -514,6 +630,18 @@
           "time_info": "[03时08分 ~ 05时09分]"
         },
         {
+          "title": "WTI原油期货陡然跳水，下跌3%，逼近59美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3037285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
           "title": "周三（1月14日），美联储隔夜逆回购协议（RRP）使用规模为32.23亿美元（交易对手15家），上个交易日报32.77亿美元。",
           "url": "https://wallstreetcn.com/livenews/3037249",
           "source": "华尔街见闻-快讯",
@@ -567,11 +695,35 @@
           "url": "https://wallstreetcn.com/livenews/3037277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "有家连涨五天，美国原油期货收涨超1.4%站上62美元",
+          "url": "https://wallstreetcn.com/livenews/3037272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "特朗普更名国防部可能需耗资1.25亿美元",
+          "url": "https://flash.jin10.com/detail/20260115051820833800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "06时09分"
         },
         {
           "title": "据Semafor：政府官员表示，美国已达成首笔价值5亿美元的委内瑞拉石油交易。",
@@ -591,7 +743,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -602,18 +754,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "有家连涨五天，美国原油期货收涨超1.4%站上62美元",
-          "url": "https://wallstreetcn.com/livenews/3037272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -624,7 +765,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -635,9 +776,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "周三（1月14日）纽约尾盘，ICE美元指数跌0.06%，报99.077点，日内交投区间为99.248-98.933点，北京时间00:02刷新日低，全天V形走势。 彭博美元指数跌0.10%，报1210.52点，09:35微涨至1212.63点刷新日高，最后震荡走低，00:03刷新日低至1209.09点。",
+          "url": "https://wallstreetcn.com/livenews/3037289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "AgiBank申请美国IPO，寻求按代码“AGBK”在纽交所挂牌交易其股票。 彭博援引知情人士报道称，巴西AgiBank计划通过美国IPO融资10亿美元。",
@@ -657,7 +809,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -679,7 +831,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -698,7 +850,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -721,8 +873,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时09分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -732,8 +884,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时09分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -758,6 +910,103 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时08分]"
+        },
+        {
+          "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3037301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260115050531249800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260115050517521800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美股收盘：纳指跌1% 携程跌17%",
+          "url": "https://flash.jin10.com/detail/20260115050258501800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时12分 ~ 04时08分]"
+        },
+        {
+          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
+          "url": "https://wallstreetcn.com/livenews/3037274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
+        },
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "OpenAI与Cerebras达成百亿美元算力合作",
+          "url": "https://flash.jin10.com/detail/20260115045202393800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         }
       ]
     },
@@ -774,8 +1023,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时09分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月14日（周三）晚盘收盘上涨0.34%报1037.0元/克；<br/>上海黄金交易所白银T+D 1月14日（周三）晚盘收盘上涨4.01%报23240.0元/千克。",
@@ -806,52 +1055,41 @@
           "url": "https://www.toutiao.com/trending/7594783963441545225/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时09分]"
         }
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 3,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3037234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时12分 ~ 04时08分]"
-        },
-        {
-          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
-          "url": "https://wallstreetcn.com/livenews/3037274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
-          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
+          "url": "https://flash.jin10.com/detail/20260115013842934800",
           "source": "金十数据",
           "ranks": [
-            19
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 03时08分]"
+        },
+        {
+          "title": "中长期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3037290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "06时09分"
         }
       ]
     },
@@ -868,8 +1106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时09分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -880,8 +1118,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时09分]"
         }
       ]
     },
@@ -899,8 +1137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时09分]"
         }
       ]
     },
@@ -918,24 +1156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "避险情绪升温推低美债收益率 30年期国债创年内新低",
-          "url": "https://flash.jin10.com/detail/20260115013842934800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时12分 ~ 03时08分]"
         }
       ]
     }
