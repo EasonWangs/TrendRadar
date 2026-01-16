@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T17:11:41.548927+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-01-16T18:10:00.269874+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -66,30 +66,17 @@
           "time_info": "[00时15分 ~ 07时09分]"
         },
         {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时34分 ~ 17时11分]"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 17时11分]"
+          "appearance_count": 7,
+          "time_info": "[15时11分 ~ 18时10分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -102,8 +89,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时37分 ~ 17时11分]"
+          "appearance_count": 10,
+          "time_info": "[11时37分 ~ 18时10分]"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[08时34分 ~ 18时10分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -195,6 +196,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时09分 ~ 10时48分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 18时10分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
@@ -320,17 +333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时09分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 17时11分]"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -547,6 +549,17 @@
           "time_info": "[11时38分 ~ 12时23分]"
         },
         {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
           "title": "俄回应特朗普对伊朗贸易伙伴加税",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -718,7 +731,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -968,7 +981,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
@@ -1018,6 +1031,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达1.00%，现报64.57美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260116173018672800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "又一个战略储备诞生？报道：美国国会两党力推25亿美元关键矿产战略储备计划",
+          "url": "https://wallstreetcn.com/articles/3763388",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 18时10分]"
         },
         {
           "title": "三菱商事将以52亿美元收购Aethon能源。（彭博）",
@@ -1179,18 +1215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时09分]"
-        },
-        {
-          "title": "又一个战略储备诞生？报道：美国国会两党力推25亿美元关键矿产战略储备计划",
-          "url": "https://wallstreetcn.com/articles/3763388",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 17时11分]"
         },
         {
           "title": "苹果公司股价短线跳水，跌超0.5%，刷新日低至258美元。",
@@ -1391,6 +1415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "WTI原油期货日内涨幅达1.00%，现报59.68美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260116171951494800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "麦格理：将蔚来汽车(09866.HK)目标价从41港元上调至47港元，将蔚来汽车(NIO.N)目标价从5.30美元上调至6.10美元。",
@@ -1696,7 +1731,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1781,7 +1816,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -1792,8 +1827,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时34分 ~ 17时11分]"
+          "appearance_count": 18,
+          "time_info": "[08时34分 ~ 18时10分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1832,6 +1867,20 @@
           "time_info": "[07时09分 ~ 13时12分]"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 18时10分]"
+        },
+        {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2259424",
           "source": "财联社热门",
@@ -1846,27 +1895,13 @@
           "time_info": "[03时13分 ~ 10时48分]"
         },
         {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 17时11分]"
-        },
-        {
           "title": "美股盘前，半导体股上涨，美光科技涨近4%、AMD涨超2%、台积电涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3038653",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -2003,6 +2038,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         }
       ]
     },
@@ -2145,8 +2191,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时47分 ~ 17时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 18时10分]"
         },
         {
           "title": "OpenAI为既定的机器人和AI设备计划寻找美国供应商。",
@@ -2398,7 +2444,7 @@
     },
     {
       "keyword_group": "外贸",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国外贸成就很不平凡",
@@ -2421,6 +2467,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时37分 ~ 15时12分]"
+        },
+        {
+          "title": "2025年上海实现外贸进出口4.51万亿元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3038683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
         },
         {
           "title": "河南省外贸进出口首次突破9000亿元",
