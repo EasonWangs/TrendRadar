@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T11:40:41.382900+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-01-19T12:29:38.477850+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时35分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[08时35分 ~ 12时29分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -81,6 +81,19 @@
           "time_info": "[01时07分 ~ 09时38分]"
         },
         {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时35分 ~ 12时29分]"
+        },
+        {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
           "source": "澎湃新闻",
@@ -92,21 +105,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 12时29分]"
         },
         {
-          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
-          "url": "https://www.cls.cn/detail/2261562",
-          "source": "财联社热门",
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            2,
-            1
+            5,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时35分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[08时35分 ~ 12时29分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -131,19 +144,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时07分 ~ 09时38分]"
-        },
-        {
-          "title": "伊朗：将追究特朗普等人责任",
-          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时35分 ~ 11时40分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -213,6 +213,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
+          "url": "https://wallstreetcn.com/livenews/3039516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
           "url": "https://wallstreetcn.com/livenews/3039287",
           "source": "华尔街见闻-快讯",
@@ -262,6 +273,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时09分 ~ 07时08分]"
+        },
+        {
+          "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
+          "url": "https://flash.jin10.com/detail/20260119115225347800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "特朗普：北约20年来一直告诉丹麦，“你必须让俄罗斯的威胁远离格陵兰岛”。 丹麦在应对俄罗斯威胁方面无能为力。 现在是时候了，一定会采取行动！",
+          "url": "https://wallstreetcn.com/livenews/3039514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "报道：欧盟考虑重启930亿欧元关税行动，来反击特朗普",
@@ -405,6 +438,18 @@
           "time_info": "[03时07分 ~ 06时09分]"
         },
         {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 12时29分]"
+        },
+        {
           "title": "特朗普发黑白照：我是关税之王(图)",
           "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
           "source": "凤凰网",
@@ -414,17 +459,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 01时07分]"
-        },
-        {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 11时40分]"
         },
         {
           "title": "欧洲被特朗普打脸了",
@@ -489,13 +523,35 @@
           "time_info": "[00时09分 ~ 01时07分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "美国邀约60国加入特朗普版联合国",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%82%80%E7%BA%A660%E5%9B%BD%E5%8A%A0%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%88%E8%81%94%E5%90%88%E5%9B%BD%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -503,7 +559,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "3美元吃饱饭,美高官神论挨骂",
@@ -514,11 +570,12 @@
             18,
             19,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 12时29分]"
         },
         {
           "title": "欧元兑美元报价跌超0.2%。",
@@ -561,6 +618,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时10分 ~ 06时09分]"
+        },
+        {
+          "title": "特朗普：明尼苏达州存在190亿美元索马里诈骗",
+          "url": "https://flash.jin10.com/detail/20260119114952164800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -640,7 +708,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -768,8 +836,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "appearance_count": 2,
+          "time_info": "[07时08分 ~ 12时29分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 12时29分]"
         },
         {
           "title": "固收及黄金主题产品成银行理财“香饽饽”",
@@ -782,18 +863,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时08分 ~ 08时36分]"
-        },
-        {
-          "title": "格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 11时40分]"
         },
         {
           "title": "1kg黄金1kg白金1kg钯金 全落车上了",
@@ -858,7 +927,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -913,8 +982,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时35分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[08时35分 ~ 12时29分]"
         },
         {
           "title": "近一个月这些上市公司被“踏破门槛”！商业航天概念股获机构组团调研，机构来访接待量居前的个股名单一览",
@@ -951,11 +1020,12 @@
           "ranks": [
             29,
             8,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时38分 ~ 12时29分]"
         },
         {
           "title": "金价",
@@ -977,7 +1047,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -1024,11 +1094,12 @@
             6,
             5,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 11时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 12时29分]"
         }
       ]
     },
