@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T13:09:59.527332+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-01-24T14:12:06.830465+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
@@ -39,6 +39,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时11分 ~ 06时07分]"
+        },
+        {
+          "title": "经济学家警告：格陵兰协议难解美欧裂痕 美元地位面临威胁",
+          "url": "https://www.cls.cn/detail/2268471",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 14时12分]"
         },
         {
           "title": "美国证交会：高盛CEO所罗门2025年薪酬定为4700万美元。",
@@ -85,17 +99,16 @@
           "time_info": "[05时09分 ~ 10时44分]"
         },
         {
-          "title": "经济学家警告：格陵兰协议难解美欧裂痕 美元地位面临威胁",
-          "url": "https://www.cls.cn/detail/2268471",
-          "source": "财联社热门",
+          "title": "明查｜美国将以7000亿美元买下格陵兰岛？谁说的？靠谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32449459",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            10,
-            12
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时37分 ~ 13时09分]"
+          "time_info": "[11时36分 ~ 14时12分]"
         },
         {
           "title": "欧元兑美元EUR/USD突破1.18，为去年12月24日以来首次，日内涨0.38%。",
@@ -110,6 +123,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时09分 ~ 09时37分]"
+        },
+        {
+          "title": "美元全球外汇储备占比跌破60%",
+          "url": "https://flash.jin10.com/detail/20260124135157685800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "美元全球外汇储备占比跌破60%",
+          "url": "https://wallstreetcn.com/livenews/3043231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的9.27亿美元。",
@@ -165,17 +200,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时09分 ~ 08时33分]"
-        },
-        {
-          "title": "明查｜美国将以7000亿美元买下格陵兰岛？谁说的？靠谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32449459",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 13时09分]"
         },
         {
           "title": "美元兑日元跌1.5%，报156.11日元。",
@@ -726,7 +750,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -773,6 +797,39 @@
           "time_info": "[00时11分 ~ 09时37分]"
         },
         {
+          "title": "没想到特朗普这样侮辱人，英国气炸了",
+          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 14时12分]"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 14时12分]"
+        },
+        {
+          "title": "特朗普变卦",
+          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 14时12分]"
+        },
+        {
           "title": "中方回应特朗普称将于4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -790,39 +847,6 @@
           "time_info": "[00时11分 ~ 09时37分]"
         },
         {
-          "title": "没想到特朗普这样侮辱人，英国气炸了",
-          "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时09分]"
-        },
-        {
-          "title": "斯塔默要求特朗普道歉，白宫回应",
-          "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时09分]"
-        },
-        {
-          "title": "特朗普变卦",
-          "url": "https://news.ifeng.com/c/8qAWXtrAprk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时44分 ~ 13时09分]"
-        },
-        {
           "title": "中方回应特朗普称将于4月访华",
           "url": "https://www.douyin.com/hot/2377206",
           "source": "抖音",
@@ -836,8 +860,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 11时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 14时12分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -853,6 +877,19 @@
           "time_info": "[00时11分 ~ 07时09分]"
         },
         {
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时33分 ~ 14时12分]"
+        },
+        {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
           "url": "https://wallstreetcn.com/articles/3764043",
           "source": "华尔街见闻",
@@ -863,6 +900,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时33分 ~ 13时09分]"
+        },
+        {
+          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 14时12分]"
+        },
+        {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时12分]"
+        },
+        {
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时36分 ~ 14时12分]"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -905,30 +977,6 @@
           "time_info": "[08时33分 ~ 12时20分]"
         },
         {
-          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时33分 ~ 13时09分]"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://flash.jin10.com/detail/20260124113127622800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时09分]"
-        },
-        {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
           "url": "https://flash.jin10.com/detail/20260124090807365800",
           "source": "金十数据",
@@ -937,11 +985,25 @@
             7,
             8,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时37分 ~ 13时09分]"
+          "appearance_count": 6,
+          "time_info": "[09时37分 ~ 14时12分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://flash.jin10.com/detail/20260124113127622800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时12分]"
         },
         {
           "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
@@ -958,6 +1020,36 @@
           "time_info": "[04时09分 ~ 09时37分]"
         },
         {
+          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
+          "url": "https://flash.jin10.com/detail/20260124093450741800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6,
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 14时12分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            21,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 14时12分]"
+        },
+        {
           "title": "英首相说特朗普言论极具侮辱性",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E6%9E%81%E5%85%B7%E4%BE%AE%E8%BE%B1%E6%80%A7%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -968,54 +1060,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 11时37分]"
-        },
-        {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时09分]"
-        },
-        {
-          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
-          "url": "https://flash.jin10.com/detail/20260124093450741800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时09分]"
-        },
-        {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 13时09分]"
-        },
-        {
-          "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%AB%E6%99%92%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B5%E4%BC%81%E9%B9%85%E7%85%A7%E7%BF%BB%E8%BD%A6&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
         },
         {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
@@ -1046,20 +1090,6 @@
           "time_info": "[09时37分 ~ 12时20分]"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
-          "url": "https://wallstreetcn.com/livenews/3043204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 13时09分]"
-        },
-        {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
           "url": "https://flash.jin10.com/detail/20260124082538327800",
           "source": "金十数据",
@@ -1086,6 +1116,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时36分 ~ 13时09分]"
+        },
+        {
+          "title": "英国首相要求特朗普为相关言论道歉",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时12分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -1151,15 +1193,26 @@
           "time_info": "[08时33分 ~ 10时44分]"
         },
         {
-          "title": "英国首相要求特朗普为相关言论道歉",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%9B%B8%E5%85%B3%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
+          "url": "https://www.toutiao.com/trending/7598238497476034602/",
+          "source": "今日头条",
           "ranks": [
-            28
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时09分]"
+          "time_info": "[13时09分 ~ 14时12分]"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -1196,6 +1249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普：美国正调集重兵前往伊朗，许多舰艇正向伊朗行进",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448442",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
           "title": "特朗普卡尼“口水仗”升级",
@@ -1242,17 +1306,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
-          "url": "https://www.toutiao.com/trending/7598238497476034602/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
           "title": "白宫回应英首相要求特朗普道歉",
           "url": "https://www.toutiao.com/trending/7598463291845132342/",
           "source": "今日头条",
@@ -1278,7 +1331,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -1288,8 +1341,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时33分 ~ 13时09分]"
+          "appearance_count": 10,
+          "time_info": "[08时33分 ~ 14时12分]"
+        },
+        {
+          "title": "金属狂欢掀高潮！白银首次破百、黄金逼近5000美元，齐创2020年来最大周涨",
+          "url": "https://wallstreetcn.com/articles/3764056",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 14时12分]"
         },
         {
           "title": "当事人回应用SIM卡炼出191克黄金",
@@ -1318,20 +1385,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时11分 ~ 11时37分]"
-        },
-        {
-          "title": "金属狂欢掀高潮！白银首次破百、黄金逼近5000美元，齐创2020年来最大周涨",
-          "url": "https://wallstreetcn.com/articles/3764056",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时37分 ~ 13时09分]"
         },
         {
           "title": "不建议个人用SIM卡提炼黄金",
@@ -1469,6 +1522,28 @@
           "time_info": "[08时33分 ~ 09时37分]"
         },
         {
+          "title": "12999元起售的黄金手机壳多人入手",
+          "url": "https://www.baidu.com/s?wd=12999%E5%85%83%E8%B5%B7%E5%94%AE%E7%9A%84%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%A4%9A%E4%BA%BA%E5%85%A5%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "市民彻夜抢购黄金 柜台挤成春运现场",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%BD%BB%E5%A4%9C%E6%8A%A2%E8%B4%AD%E9%BB%84%E9%87%91+%E6%9F%9C%E5%8F%B0%E6%8C%A4%E6%88%90%E6%98%A5%E8%BF%90%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持COMEX黄金净多头头寸增加2,614手合约，至139,162手合约，创16周新高。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创八周新低。 所持NYMEX铂金净多头头寸创三周新低，转而持有NYMEX钯金净空头头寸。",
           "url": "https://wallstreetcn.com/livenews/3043112",
           "source": "华尔街见闻-快讯",
@@ -1486,9 +1561,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "市民彻夜排队抢购黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E5%BD%BB%E5%A4%9C%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD%E9%BB%84%E9%87%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
@@ -1505,8 +1591,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时33分 ~ 13时09分]"
+          "appearance_count": 10,
+          "time_info": "[08时33分 ~ 14时12分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
