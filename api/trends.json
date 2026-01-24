@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T07:09:27.310235+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-01-24T08:33:18.497799+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
@@ -45,33 +45,74 @@
           "url": "https://flash.jin10.com/detail/20260124040136460800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时09分]"
+          "appearance_count": 4,
+          "time_info": "[05时09分 ~ 08时33分]"
         },
         {
           "title": "现货白银站上102美元/盎司",
           "url": "https://flash.jin10.com/detail/20260124035443352800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时09分]"
+          "appearance_count": 4,
+          "time_info": "[05时09分 ~ 08时33分]"
         },
         {
           "title": "纽约期银向上触及102美元/盎司，日内涨5.84%。现货白银现报101.7美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260124035124129800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时09分 ~ 07时09分]"
+          "appearance_count": 4,
+          "time_info": "[05时09分 ~ 08时33分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的9.27亿美元。",
+          "url": "https://flash.jin10.com/detail/20260124021703788800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 08时33分]"
+        },
+        {
+          "title": "现货白银在触及102美元/盎司关口后回落，现报101.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260124040230792800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD突破1.18，为去年12月24日以来首次，日内涨0.38%。",
+          "url": "https://flash.jin10.com/detail/20260124031729426800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时09分 ~ 08时33分]"
         },
         {
           "title": "拼多多股价连跌 7 日，市值跌破 1500 亿美元，如何解读？还有哪些信息值得关注？",
@@ -87,17 +128,17 @@
           "time_info": "[04时09分 ~ 07时09分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的9.27亿美元。",
-          "url": "https://flash.jin10.com/detail/20260124021703788800",
+          "title": "美元兑日元USD/JPY失守156，为去年12月30日以来低位，日内跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260124031457255800",
           "source": "金十数据",
           "ranks": [
-            9,
-            21,
-            28
+            8,
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[03时11分 ~ 07时09分]"
+          "time_info": "[04时09分 ~ 08时33分]"
         },
         {
           "title": "美元兑日元跌1.5%，报156.11日元。",
@@ -162,18 +203,6 @@
           "time_info": "[02时12分 ~ 03时11分]"
         },
         {
-          "title": "欧元兑美元EUR/USD突破1.18，为去年12月24日以来首次，日内涨0.38%。",
-          "url": "https://flash.jin10.com/detail/20260124031729426800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时09分]"
-        },
-        {
           "title": "英镑/美元日内涨幅达0.5%，报1.3565。",
           "url": "https://wallstreetcn.com/livenews/3043050",
           "source": "华尔街见闻-快讯",
@@ -220,18 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时07分]"
-        },
-        {
-          "title": "美元兑日元USD/JPY失守156，为去年12月30日以来低位，日内跌1.5%。",
-          "url": "https://flash.jin10.com/detail/20260124031457255800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时09分]"
         },
         {
           "title": "现货白银首次站上101美元/盎司",
@@ -383,6 +400,18 @@
           "time_info": "[05时09分 ~ 06时07分]"
         },
         {
+          "title": "美元兑日元“收”涨1.7%，报155.70日元。",
+          "url": "https://wallstreetcn.com/livenews/3043156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时33分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9630元，较周四夜盘收盘涨42点。成交量431.54亿美元。",
           "url": "https://wallstreetcn.com/livenews/3043096",
           "source": "华尔街见闻-快讯",
@@ -479,17 +508,6 @@
           "time_info": "[02时12分 ~ 04时09分]"
         },
         {
-          "title": "美元兑日元“收”涨1.7%，报155.70日元。",
-          "url": "https://wallstreetcn.com/livenews/3043156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
           "title": "美元指数本周跌约1.9%",
           "url": "https://wallstreetcn.com/livenews/3043114",
           "source": "华尔街见闻-快讯",
@@ -545,6 +563,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "国际银价突破100美元历史性关口",
+          "url": "https://www.toutiao.com/trending/7598696911612169770/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
           "title": "高盛：CEO Solomon薪酬从3900万美元提高至4700万美元。",
           "url": "https://wallstreetcn.com/livenews/3043108",
           "source": "华尔街见闻-快讯",
@@ -554,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "Mala Gaonkar旗下对冲基金SurgoCap Partners资产管理规模在最近三年增长大约两倍，至大约60亿美元。 2023年1月份，她发起了规模为18亿美元的这一基金。",
+          "url": "https://wallstreetcn.com/livenews/3043166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
         },
         {
           "title": "现货白银站上100美元",
@@ -636,7 +676,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -646,8 +686,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访华",
@@ -668,8 +708,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
@@ -679,8 +719,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -695,8 +735,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -707,11 +747,12 @@
             14,
             13,
             15,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -733,11 +774,12 @@
           "ranks": [
             4,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 08时33分]"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -745,22 +787,25 @@
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时09分]"
+          "appearance_count": 5,
+          "time_info": "[04时09分 ~ 08时33分]"
         },
         {
-          "title": "加州起诉特朗普政府，抗议美国联邦政府重启Sable输油管道",
-          "url": "https://wallstreetcn.com/livenews/3043164",
-          "source": "华尔街见闻-快讯",
+          "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
+          "url": "https://flash.jin10.com/detail/20260124031642233800",
+          "source": "金十数据",
           "ranks": [
-            1
+            7,
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时09分 ~ 08时33分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -768,11 +813,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 08时33分]"
+        },
+        {
+          "title": "加州起诉特朗普政府，抗议美国联邦政府重启Sable输油管道",
+          "url": "https://wallstreetcn.com/livenews/3043164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时07分 ~ 07时09分]"
+          "time_info": "[07时09分 ~ 08时33分]"
         },
         {
           "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
@@ -785,18 +843,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时07分]"
-        },
-        {
-          "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
-          "url": "https://flash.jin10.com/detail/20260124031642233800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 07时09分]"
         },
         {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
@@ -835,6 +881,39 @@
           "time_info": "[02时12分 ~ 03时11分]"
         },
         {
+          "title": "特朗普：万斯将于2月前往阿塞拜疆和亚美尼亚。 感谢亚美尼亚和阿塞拜疆领导人达成和平协议。 美国将加强与亚美尼亚的核合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3043175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "报道：特朗普要求格陵兰全面放开军事限制",
+          "url": "https://wallstreetcn.com/articles/3764043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "79岁的特朗普生气狂发80条帖子",
+          "url": "https://s.weibo.com/weibo?q=%2379%E5%B2%81%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%9F%E6%B0%94%E7%8B%82%E5%8F%9180%E6%9D%A1%E5%B8%96%E5%AD%90%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -846,6 +925,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
           "url": "https://flash.jin10.com/detail/20260123235025878800",
           "source": "金十数据",
@@ -855,36 +945,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "当事人回应用SIM卡炼出191克黄金",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%94%A8SIM%E5%8D%A1%E7%82%BC%E5%87%BA191%E5%85%8B%E9%BB%84%E9%87%91",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
-        },
-        {
-          "title": "不建议个人用SIM卡提炼黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B8%AA%E4%BA%BA%E7%94%A8SIM%E5%8D%A1%E6%8F%90%E7%82%BC%E9%BB%84%E9%87%91%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "不再是“穷人的黄金”，白银正在被时代需要",
@@ -893,11 +982,26 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
+        },
+        {
+          "title": "不建议个人用SIM卡提炼黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B8%AA%E4%BA%BA%E7%94%A8SIM%E5%8D%A1%E6%8F%90%E7%82%BC%E9%BB%84%E9%87%91%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8,
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时33分]"
         },
         {
           "title": "有人买2斤黄金2天赚10多万",
@@ -921,11 +1025,12 @@
           "ranks": [
             2,
             14,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 08时33分]"
         },
         {
           "title": "标普或两周连跌，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -937,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时09分]"
+        },
+        {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
         },
         {
           "title": "有人买2斤黄金2天赚10多万",
@@ -986,12 +1102,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "不建议个人用SIM卡提炼黄金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B8%AA%E4%BA%BA%E7%94%A8SIM%E5%8D%A1%E6%8F%90%E7%82%BC%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "业内人士：黄金说赔就赔说挣就挣",
+          "url": "https://www.toutiao.com/trending/7597719929219465235/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1011,22 +1149,23 @@
           "ranks": [
             1,
             13,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时11分 ~ 07时09分]"
+          "appearance_count": 6,
+          "time_info": "[03时11分 ~ 08时33分]"
         },
         {
-          "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
-          "url": "https://wallstreetcn.com/livenews/3043162",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "08时33分"
         },
         {
           "title": "金十图示：2026年01月23日（周五）热门中概股行情一览（美股盘中）",
@@ -1051,6 +1190,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时09分]"
+        },
+        {
+          "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3043162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时33分]"
         },
         {
           "title": "布油基金收涨约2.8%，领跑美股大类资产类ETF，美元指数ETF则跌约0.9%",
@@ -1163,11 +1314,12 @@
           "url": "https://wallstreetcn.com/livenews/3043153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时33分]"
         }
       ]
     },
@@ -1180,11 +1332,12 @@
           "url": "https://wallstreetcn.com/livenews/3043160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时33分]"
         }
       ]
     }
