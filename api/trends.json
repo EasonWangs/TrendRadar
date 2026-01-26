@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T11:45:28.962483+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-01-26T12:32:02.175930+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -118,6 +118,17 @@
           "time_info": "09时39分"
         },
         {
+          "title": "机构：日元兑美元料将陷入横盘整理",
+          "url": "https://flash.jin10.com/detail/20260126120753117800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "美元兑瑞郎跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3043404",
           "source": "华尔街见闻-快讯",
@@ -129,6 +140,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时08分 ~ 07时09分]"
+        },
+        {
+          "title": "泰国期货交易所宣布暂停美元/日元期货以及白银在线期货交易。",
+          "url": "https://wallstreetcn.com/livenews/3043617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时32分]"
         },
         {
           "title": "美元兑日元跌0.5%。",
@@ -144,28 +168,17 @@
           "time_info": "[05时08分 ~ 07时09分]"
         },
         {
-          "title": "泰国期货交易所宣布暂停美元/日元期货以及白银在线期货交易。",
-          "url": "https://wallstreetcn.com/livenews/3043617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时45分]"
-        },
-        {
           "title": "现货白银涨超6%报109.24美元/盎司，继续创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3043616",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时32分]"
         },
         {
           "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco：公司2025年全年EBITDA高于65亿美元（2024年为54.4亿美元）。 对智利政府（财政/税收）的总体贡献超过17亿美元。 我将在5月份任期届满时离职。（报纸La Tercera）",
@@ -192,6 +205,18 @@
           "time_info": "[03时07分 ~ 05时08分]"
         },
         {
+          "title": "Anthropic据悉曾与苹果就为其重建Siri人工智能助手提供模型展开谈判，但这项或价值数十亿美元的交易因双方在财务条款方面存在分歧，最终未能达成协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3043632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时32分]"
+        },
+        {
           "title": "韩元兑美元扩大涨幅至1.6%，在亚洲货币中涨幅居前。 新加坡元兑美元扩大涨幅，创下2014年以来最强水平。",
           "url": "https://wallstreetcn.com/livenews/3043593",
           "source": "华尔街见闻-快讯",
@@ -202,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 11时45分]"
+        },
+        {
+          "title": "派杰投资：将AMD(AMD.O)目标价从280美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260126120730292800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "现货铂金上涨逾3%，将历史新高刷新至2862美元/盎司附近。",
@@ -232,7 +268,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -257,17 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "Anthropic据悉曾与苹果就为其重建Siri人工智能助手提供模型展开谈判，但这项或价值数十亿美元的交易因双方在财务条款方面存在分歧，最终未能达成协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3043632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "马来西亚林吉特兑美元升至2018年以来最高水平。",
@@ -462,8 +487,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 11时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 12时32分]"
         },
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -478,8 +503,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时09分 ~ 11时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 12时32分]"
+        },
+        {
+          "title": "一天过去，特朗普从愤怒变成“非常难过”",
+          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时36分 ~ 12时32分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -516,17 +552,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时09分 ~ 08时37分]"
-        },
-        {
-          "title": "一天过去，特朗普从愤怒变成“非常难过”",
-          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时36分 ~ 11时45分]"
         },
         {
           "title": "美国财长贝森特：特朗普很看重北约。",
@@ -571,6 +596,17 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 12时32分]"
+        },
+        {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
           "url": "https://flash.jin10.com/detail/20260125220223986800",
           "source": "金十数据",
@@ -583,17 +619,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 06时08分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时45分]"
         },
         {
           "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
@@ -772,7 +797,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "87岁老人出售30年前买的黄金",
@@ -804,6 +829,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 08时37分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7,
+            11,
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时36分 ~ 12时32分]"
+        },
+        {
+          "title": "现货黄金首破5000美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E7%A0%B45000%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "招金黄金：预计2025年度净利润1.22亿元-1.82亿元，同比扭亏为盈",
@@ -852,17 +904,6 @@
           "time_info": "08时37分"
         },
         {
-          "title": "金十图示：2026年01月26日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260126065632368800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
           "title": "现货黄金向上触及5060美元/盎司，日内涨1.52%。",
           "url": "https://flash.jin10.com/detail/20260126091643728800",
           "source": "金十数据",
@@ -874,19 +915,16 @@
           "time_info": "09时39分"
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "金十图示：2026年01月26日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260126065632368800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            7,
-            11,
-            21,
-            22
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时36分 ~ 11时45分]"
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 12时32分]"
         },
         {
           "title": "美日干预叠加政府关门预期，美元走低日元急升，黄金突破5000美元，纳指期货跌1%，美天然气期货涨16%",
@@ -901,6 +939,18 @@
           "time_info": "[09时39分 ~ 10时58分]"
         },
         {
+          "title": "新纪录诞生！现货黄金首次站上5000美元 机构喊出6600美元目标价",
+          "url": "https://www.cls.cn/detail/2269095",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时32分]"
+        },
+        {
           "title": "现货黄金涨超2%报5088.39美元/盎司，现货白银涨超5%报108.4美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3043602",
           "source": "华尔街见闻-快讯",
@@ -911,6 +961,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 11时45分]"
+        },
+        {
+          "title": "如何看待黄金五千，白银破百？",
+          "url": "https://wallstreetcn.com/articles/3764115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "黄金站上5000美元",
@@ -967,17 +1028,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "新纪录诞生！现货黄金首次站上5000美元 机构喊出6600美元目标价",
-          "url": "https://www.cls.cn/detail/2269095",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "现货黄金上涨1%至每盎司5035.09美元，再创新高。",
@@ -1063,7 +1113,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -1077,6 +1127,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "国际金价突破5000美元关口",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 12时32分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 12时32分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时32分]"
+        },
+        {
+          "title": "杨德龙：国际金价下一目标价1万美元",
+          "url": "https://www.toutiao.com/trending/7599480136756366899/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "国际金价疯涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 10时58分]"
+        },
+        {
+          "title": "分析师：金价或继续受益于美元走弱",
+          "url": "https://flash.jin10.com/detail/20260126114640038800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
+          "url": "https://flash.jin10.com/detail/20260126110251702800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     },
@@ -1112,6 +1247,20 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "未来三年存储业务有望实现持续增长 存储芯片概念股单日涨近19% 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2268967",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时36分 ~ 12时32分]"
+        },
+        {
           "title": "光伏概念股延续涨势，钧达股份3连板，协鑫集成、双良节能2连板，东方日升涨超15%，消息面上，马斯克表示，SpaceX与特斯拉正同步推进太阳能产能提升，目标在未来三年内实现每年100GW的太阳能制造能力。",
           "url": "https://wallstreetcn.com/livenews/3043540",
           "source": "华尔街见闻-快讯",
@@ -1123,41 +1272,29 @@
           "time_info": "09时39分"
         },
         {
-          "title": "未来三年存储业务有望实现持续增长 存储芯片概念股单日涨近19% 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2268967",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时36分 ~ 11时45分]"
-        },
-        {
           "title": "每经调查“陈小群”概念股炒作利益链：“交易软件+券商”龙虎榜信息造神，游资借“互联网战法”收割散户",
           "url": "https://wallstreetcn.com/articles/3764116",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 12时32分]"
         },
         {
           "title": "多地将器官捐献纳入「见义勇为」评定，专家称概念扩展需审慎，出于哪些考虑？如此认定可能涉及什么问题？",
           "url": "https://www.zhihu.com/question/1998554357873005398",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时32分]"
         },
         {
           "title": "“陈小群”概念股炒作利益链调查",
@@ -1173,71 +1310,21 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "国际金价突破5000美元关口",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时45分]"
-        },
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时45分]"
-        },
-        {
-          "title": "国际金价疯涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 10时58分]"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）上海金早盘价为1138.96元/克，较国际金价(1133.69元/克)，高5.27元/克",
-          "url": "https://flash.jin10.com/detail/20260126110251702800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 12时32分]"
+        },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
           "url": "https://flash.jin10.com/detail/20260125221344220800",
@@ -1251,17 +1338,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 06时08分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         }
       ]
     },
