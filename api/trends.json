@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-01-27T03:12:20.779469+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-01-27T04:10:32.143445+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
+        },
+        {
+          "title": "美国天然气价格突破7美元大关 寒冷地区价格突破200美元",
+          "url": "https://flash.jin10.com/detail/20260127034456876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "WTI 3月原油期货收跌0.44美元，跌幅0.72%，报60.63美元/桶。 NYMEX 2月天然气期货收报6.8000美元/百万英热单位。 NYMEX 2月汽油期货收报1.8201美元/加仑，NYMEX 2月取暖油期货收报2.5680美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3044172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "现货白银冲高回落，目前涨5.4%失守108美元，北京时间02:03还曾涨至117.7132美元创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3044171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
         {
           "title": "现货白银突破115美元",
           "url": "https://flash.jin10.com/detail/20260127011725130800",
@@ -19,16 +64,54 @@
           "time_info": "02时14分"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
+          "title": "数据中心电子设备设计与制造商Forgent Power Solutions Inc.寻求通过IPO融资至多16.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044167",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
+          "url": "https://wallstreetcn.com/livenews/3044146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "周一（1月26日），韩元兑美元最终涨1.48%，报1441.63韩元，跳空高开之后，全天处于上涨状态、持续高位震荡、北京时间16:34刷新日高至1432.89韩元，直追12月24日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3044145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "纽约银日内涨幅达15.0%，报116.55美元/盎司。 现货白银日内涨幅达13.0%，报116.63美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3044144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
         },
         {
           "title": "现货白银涨势不止，突破114美元/盎司，日内涨10.45%。",
@@ -43,18 +126,6 @@
           "time_info": "[01时14分 ~ 02时14分]"
         },
         {
-          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
-          "url": "https://wallstreetcn.com/livenews/3044146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时12分]"
-        },
-        {
           "title": "现货白银突破116美元/盎司，日内涨12.41%。纽约期银站上116美元/盎司，日内涨14.47%。",
           "url": "https://flash.jin10.com/detail/20260127014119167800",
           "source": "金十数据",
@@ -67,36 +138,12 @@
           "time_info": "[02时14分 ~ 03时12分]"
         },
         {
-          "title": "周一（1月26日），韩元兑美元最终涨1.48%，报1441.63韩元，跳空高开之后，全天处于上涨状态、持续高位震荡、北京时间16:34刷新日高至1432.89韩元，直追12月24日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3044145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时12分]"
-        },
-        {
           "title": "美国天然气期货突破7美元/百万英热",
           "url": "https://flash.jin10.com/detail/20260127013347479800",
           "source": "金十数据",
           "ranks": [
             3,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时12分]"
-        },
-        {
-          "title": "纽约银日内涨幅达15.0%，报116.55美元/盎司。 现货白银日内涨幅达13.0%，报116.63美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3044144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -120,11 +167,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
         },
         {
           "title": "NYMEX天然气期货涨超33%，突破7美元/百万英热单位，创2022年12月以来盘中最高水平，因气温骤降导致油井冻结，产量降至两年来最低水平。 周一（1月26日）欧市尾盘，ICE英国天然气期货跌0.83%，TTF基准荷兰天然气期货涨1.40%，ICE欧盟碳排放交易许可（期货价格）跌1.44%。",
@@ -132,11 +180,50 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "石油巨头们在与哈萨克斯坦价值高达40亿美元的Karachaganak油田争端仲裁中败诉。",
+          "url": "https://wallstreetcn.com/livenews/3044139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "贝克休斯计划将未来三年的数据中心设备订单目标翻倍，至30亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "秘鲁央行表示在现货市场购入2.29亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127024051172800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时12分]"
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "纽约银日内涨幅达11.5%，报113.02美元/盎司。 现货白银日内涨幅达9.5%，报113.14美元/盎司。",
@@ -151,28 +238,28 @@
           "time_info": "[01时14分 ~ 02时14分]"
         },
         {
-          "title": "石油巨头们在与哈萨克斯坦价值高达40亿美元的Karachaganak油田争端仲裁中败诉。",
-          "url": "https://wallstreetcn.com/livenews/3044139",
+          "title": "周一（1月26日），美联储隔夜逆回购协议（RRP）使用规模为14.89亿美元（交易对手7家），上个交易日报9.27亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044150",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时12分]"
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
-          "title": "贝克休斯计划将未来三年的数据中心设备订单目标翻倍，至30亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3044138",
-          "source": "华尔街见闻-快讯",
+          "title": "现货白银自高位大幅回落，涨幅收窄至不足9%，现报112.31美元/盎司；此前一度涨超14%至117.68美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127023636651800",
+          "source": "金十数据",
           "ranks": [
             9,
-            19
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时12分]"
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "欧元/美元日内涨幅达0.5%，报1.1886。",
@@ -211,6 +298,30 @@
           "time_info": "[00时12分 ~ 01时14分]"
         },
         {
+          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的14.89亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127021804913800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
+        },
+        {
+          "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127021009672800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
+        },
+        {
           "title": "纽约银日内涨幅达10.0%，报111.54美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044088",
           "source": "华尔街见闻-快讯",
@@ -223,37 +334,15 @@
           "time_info": "[00时12分 ~ 01时14分]"
         },
         {
-          "title": "秘鲁央行表示在现货市场购入2.29亿美元。",
-          "url": "https://flash.jin10.com/detail/20260127024051172800",
+          "title": "现货白银一小时下跌超8美元，现报109.7美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260127030410645800",
           "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "周一（1月26日），美联储隔夜逆回购协议（RRP）使用规模为14.89亿美元（交易对手7家），上个交易日报9.27亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3044150",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "现货白银自高位大幅回落，涨幅收窄至不足9%，现报112.31美元/盎司；此前一度涨超14%至117.68美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260127023636651800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时10分"
         },
         {
           "title": "英伟达一度跌超0.6%，刷新日低，逼近186美元。",
@@ -265,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9540元，较上周五夜盘收盘涨90点。成交量511.21亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "WTI原油日内跌幅达1.0%，报60.45美元/桶。",
@@ -289,6 +389,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "坦桑尼亚部长表示，坦桑尼亚预计在6月前签署价值420亿美元的大型液化天然气项目，并预计在八年内实现首次投产。",
+          "url": "https://flash.jin10.com/detail/20260127025312801800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
           "title": "现货白银日内暴涨10.00%，现报113.55美元/盎司。纽约期银日内暴涨12.00%，现报113.57美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260127001619610800",
           "source": "金十数据",
@@ -300,17 +411,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的14.89亿美元。",
-          "url": "https://flash.jin10.com/detail/20260127021804913800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
           "url": "https://flash.jin10.com/detail/20260127001424465800",
           "source": "金十数据",
@@ -320,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
-          "url": "https://flash.jin10.com/detail/20260127021009672800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
         },
         {
           "title": "现货白银日内暴涨9.00%，现报112.53美元/盎司。纽约期银日内暴涨11.00%，现报112.48美元/盎司。",
@@ -350,7 +439,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -405,7 +494,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -416,7 +505,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -468,7 +557,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -478,19 +567,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
-        },
-        {
-          "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
-          "url": "https://flash.jin10.com/detail/20260127024854559800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -500,19 +578,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
-        },
-        {
-          "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
-          "url": "https://flash.jin10.com/detail/20260127024457827800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -522,8 +589,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普：与明州州长“想法相近” 将处理执法枪击事件",
+          "url": "https://flash.jin10.com/detail/20260127032830485800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "巴西：总统卢拉与美国总统特朗普通电话。 卢拉告知特朗普，所谓的“和平委员会”应当仅限于处置加沙问题。",
@@ -548,6 +626,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时14分]"
+        },
+        {
+          "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
+          "url": "https://flash.jin10.com/detail/20260127024854559800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "美国总统特朗普：明尼苏达州长Tim Walz打电话给我。 这次通话很顺利。 Walz希望（联邦政府的移民执法部门与当地）合作。 我们俩将在不久的将来再次对话。",
@@ -586,59 +676,108 @@
           "time_info": "[01时14分 ~ 02时14分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
-          "url": "https://wallstreetcn.com/livenews/3044152",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
+          "url": "https://flash.jin10.com/detail/20260127024457827800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
           "url": "https://flash.jin10.com/detail/20260127023746619800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3044149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
           "url": "https://flash.jin10.com/detail/20260127023132184800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
           "url": "https://flash.jin10.com/detail/20260127022628782800",
           "source": "金十数据",
           "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
+          "url": "https://wallstreetcn.com/livenews/3044152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
+          "url": "https://flash.jin10.com/detail/20260127025407678800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
+          "url": "https://www.cls.cn/detail/2270329",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "白宫：特朗普“不希望任何美国人丧生”",
+          "url": "https://wallstreetcn.com/livenews/3044152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时10分"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
@@ -647,7 +786,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         }
@@ -655,7 +794,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -665,19 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
-        },
-        {
-          "title": "坦桑尼亚部长表示，坦桑尼亚总统已指示央行出售部分黄金储备以筹集现金。",
-          "url": "https://flash.jin10.com/detail/20260127025246424800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "如何看待黄金五千，白银破百？",
@@ -687,8 +815,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
@@ -698,8 +826,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -709,8 +837,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "首破5000美元大关！黄金创新高，机构直言还能涨",
@@ -724,6 +852,18 @@
           "time_info": "[00时12分 ~ 03时12分]"
         },
         {
+          "title": "坦桑尼亚部长表示，坦桑尼亚总统已指示央行出售部分黄金储备以筹集现金。",
+          "url": "https://flash.jin10.com/detail/20260127025246424800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
+        },
+        {
           "title": "莲华资产洪灏：黄金成为全球资产估值锚，中国有色金属板块仍有机会",
           "url": "https://wallstreetcn.com/livenews/3044100",
           "source": "华尔街见闻-快讯",
@@ -734,6 +874,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时14分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月26日（周一）晚盘收盘上涨0.96%报1144.96元/克；<br/>上海黄金交易所白银T+D 1月26日（周一）晚盘收盘上涨7.77%报29051.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260127023107477800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时10分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
@@ -758,15 +910,15 @@
           "time_info": "00时12分"
         },
         {
-          "title": "上海黄金交易所黄金T+D 1月26日（周一）晚盘收盘上涨0.96%报1144.96元/克；<br/>上海黄金交易所白银T+D 1月26日（周一）晚盘收盘上涨7.77%报29051.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260127023107477800",
+          "title": "坦桑尼亚总统指示央行出售黄金储备，为基建项目筹资",
+          "url": "https://flash.jin10.com/detail/20260127025934544800",
           "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时10分"
         },
         {
           "title": "旅客带近4斤黄金被海关查获",
@@ -775,7 +927,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -793,6 +945,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
+        },
+        {
+          "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
+          "url": "https://flash.jin10.com/detail/20260127032144088800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -804,8 +995,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -862,34 +1053,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
       "match_count": 2,
       "titles": [
@@ -901,8 +1064,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时10分]"
         },
         {
           "title": "“陈小群”概念股炒作利益链调查",
@@ -932,6 +1095,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沙特阿美发行40亿美元债券，为2026年首次销售债券。 据知情人士透露，这笔债券供应获得超过220亿美元认购，（久期最长的）30年期公司债收益率较可比美债高出1.3个百分点，较最初讨论的低大约25个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3044170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         }
       ]
     }
