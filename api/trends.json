@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T10:52:27.886187+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-01-27T11:39:48.025254+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -24,11 +24,25 @@
           "url": "https://wallstreetcn.com/articles/3764206",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时39分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时09分 ~ 11时39分]"
         },
         {
           "title": "美国天然气价格突破7美元大关 寒冷地区价格突破200美元",
@@ -64,19 +78,6 @@
           "time_info": "08时36分"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时09分 ~ 10时52分]"
-        },
-        {
           "title": "现货白银突破115美元",
           "url": "https://flash.jin10.com/detail/20260127011725130800",
           "source": "金十数据",
@@ -97,6 +98,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "贵金属狂飙：现货银价一度站上117美元 全球资金在躲什么？",
+          "url": "https://www.cls.cn/detail/2270462",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 11时39分]"
         },
         {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
@@ -259,19 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时09分]"
-        },
-        {
-          "title": "贵金属狂飙：现货银价一度站上117美元 全球资金在躲什么？",
-          "url": "https://www.cls.cn/detail/2270462",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 10时52分]"
         },
         {
           "title": "数据中心电子设备设计与制造商Forgent Power Solutions Inc.寻求通过IPO融资至多16.2亿美元。",
@@ -536,7 +538,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -591,9 +593,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "马来西亚林吉特兑美元上涨0.2%，至3.9540，为2018年5月中旬以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260127111908163800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "英伟达一度跌超0.6%，刷新日低，逼近186美元。",
@@ -624,7 +637,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -695,6 +708,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美光加码投资240亿美元在新加坡扩产 以应对AI芯片短缺",
+          "url": "https://flash.jin10.com/detail/20260127110940817800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "现货白银涨超5%逼近109美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044301",
           "source": "华尔街见闻-快讯",
@@ -723,7 +747,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -800,7 +824,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -893,6 +917,17 @@
           "time_info": "08时36分"
         },
         {
+          "title": "美国天然气期货日内跌幅达3.00%，现报3.781美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260127105716202800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "加拿大上市的金矿股Eldorado Gold Corp.一度上涨将近6.48%，报67.40加元，至少突破2012年12月17日收盘位。 纽约银日内涨幅达9.5%，报111.03美元/盎司。 现货白银日内涨幅达7.5%，报111.04美元/盎司。 沪银夜盘涨幅扩大至6.65%，现报28140元人民币/千克。",
           "url": "https://wallstreetcn.com/livenews/3044077",
           "source": "华尔街见闻-快讯",
@@ -951,7 +986,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -983,11 +1018,12 @@
             11,
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 10时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时12分 ~ 11时39分]"
         },
         {
           "title": "特朗普：提高对韩国关税",
@@ -997,8 +1033,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 10时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 11时39分]"
         },
         {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
@@ -1008,8 +1044,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 10时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 11时39分]"
         },
         {
           "title": "特朗普为何对韩国加征关税",
@@ -1024,6 +1060,17 @@
           "time_info": "[08时35分 ~ 09时38分]"
         },
         {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时39分]"
+        },
+        {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
           "url": "https://www.cls.cn/detail/2270329",
           "source": "财联社热门",
@@ -1035,15 +1082,30 @@
           "time_info": "[04时10分 ~ 08时36分]"
         },
         {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
+          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2270513",
+          "source": "财联社热门",
           "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 11时39分]"
+        },
+        {
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时39分]"
         },
         {
           "title": "特朗普施压伊朗：美军派遣舰队规模更庞大",
@@ -1079,16 +1141,18 @@
           "time_info": "08时36分"
         },
         {
-          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2270513",
+          "title": "特朗普：提高对韩国多种商品关税税率至25%",
+          "url": "https://www.cls.cn/detail/2270499",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            12,
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 10时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 11时39分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -1152,18 +1216,6 @@
           "time_info": "[01时14分 ~ 02时14分]"
         },
         {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 10时52分]"
-        },
-        {
           "title": "巴西政府声明：巴西总统卢拉于周一与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260127004336827800",
           "source": "金十数据",
@@ -1210,19 +1262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时10分]"
-        },
-        {
-          "title": "特朗普：提高对韩国多种商品关税税率至25%",
-          "url": "https://www.cls.cn/detail/2270499",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 10时52分]"
         },
         {
           "title": "特朗普宣布对韩国加征关税",
@@ -1395,7 +1434,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -1420,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "特朗普称美国将对韩国关税提高至 25%，因韩国国会未批准此前与美国达成的贸易协议，将会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1999382037417653667",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "特朗普称提高对韩国多种商品关税税率至25%",
@@ -1538,7 +1588,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -1565,6 +1615,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "美媒称边境巡逻队高级官员将离开明尼阿波利斯市，特朗普与明州州长通话",
+          "url": "https://wallstreetcn.com/livenews/3044390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "现代汽车在盘前交易中下跌4.4%，起亚跌4.2%。之前美国总统特朗普表示，他将把对韩国的汽车、木材、药品的关税以及所有其他对等关税从15%提高到25%。",
           "url": "https://wallstreetcn.com/livenews/3044244",
           "source": "华尔街见闻-快讯",
@@ -1574,6 +1635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普今天已与加拿大总理卡尼通话，卡尼正从先前在达沃斯世界经济论坛上的言论“大踏步回撤”。",
+          "url": "https://wallstreetcn.com/livenews/3044388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "韩总统府称将围绕特朗普加关税一事开会研究对策",
@@ -1623,7 +1695,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -1646,8 +1718,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时12分 ~ 10时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时12分 ~ 11时39分]"
+        },
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时09分 ~ 11时39分]"
         },
         {
           "title": "如何看待黄金五千，白银破百？",
@@ -1661,15 +1744,15 @@
           "time_info": "[00时12分 ~ 07时09分]"
         },
         {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
+          "title": "【早报】高台跳水！白银14%涨幅蒸发、黄金下破5000美元；白银基金明起暂停申购",
+          "url": "https://www.cls.cn/detail/2270502",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时09分 ~ 10时52分]"
+          "time_info": "[08时35分 ~ 11时39分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -1683,26 +1766,27 @@
           "time_info": "[00时12分 ~ 07时09分]"
         },
         {
-          "title": "【早报】高台跳水！白银14%涨幅蒸发、黄金下破5000美元；白银基金明起暂停申购",
-          "url": "https://www.cls.cn/detail/2270502",
-          "source": "财联社热门",
+          "title": "泰国黄金交易商年交易额超百亿泰铢须向央行申报",
+          "url": "https://flash.jin10.com/detail/20260127113130992800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 10时52分]"
-        },
-        {
-          "title": "中信集团高管在亚洲金融论坛上称，集团将积极参与香港黄金市场全产业链建设。",
-          "url": "https://wallstreetcn.com/livenews/3044381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时39分"
+        },
+        {
+          "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
+          "url": "https://wallstreetcn.com/articles/3764173",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 11时39分]"
         },
         {
           "title": "首破5000美元大关！黄金创新高，机构直言还能涨",
@@ -1729,18 +1813,6 @@
           "time_info": "[03时12分 ~ 05时11分]"
         },
         {
-          "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
-          "url": "https://wallstreetcn.com/articles/3764173",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时35分 ~ 10时52分]"
-        },
-        {
           "title": "现货金银走低，现货黄金跌破5000美元关口，现货白银一度跌超1%。",
           "url": "https://flash.jin10.com/detail/20260127053726943800",
           "source": "金十数据",
@@ -1763,6 +1835,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时09分]"
+        },
+        {
+          "title": "中信集团高管在亚洲金融论坛上称，集团将积极参与香港黄金市场全产业链建设。",
+          "url": "https://wallstreetcn.com/livenews/3044381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时39分]"
         },
         {
           "title": "黄金白银大回调",
@@ -1813,6 +1897,18 @@
           "time_info": "[03时12分 ~ 04时10分]"
         },
         {
+          "title": "黄金涨到水贝商家都害怕",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E5%88%B0%E6%B0%B4%E8%B4%9D%E5%95%86%E5%AE%B6%E9%83%BD%E5%AE%B3%E6%80%95%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 11时39分]"
+        },
+        {
           "title": "胖东来的黄金“阳谋”",
           "url": "https://www.toutiao.com/trending/7599557010081713707/",
           "source": "今日头条",
@@ -1846,6 +1942,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "黄金彻底疯了 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7599836312950017555/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "香港财库局与上金所签重磅协议：目标三年储金超2000吨、拟将黄金纳入优惠税制",
           "url": "https://wallstreetcn.com/articles/3764128",
           "source": "华尔街见闻",
@@ -1855,6 +1962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "紫金黄金拟55亿加元收购Allied Gold，加速挺进西非核心金矿区",
+          "url": "https://wallstreetcn.com/articles/3764180",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "现货黄金较历史高位回落100美元",
@@ -1912,15 +2030,15 @@
           "time_info": "08时36分"
         },
         {
-          "title": "黄金涨到水贝商家都害怕",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%B6%A8%E5%88%B0%E6%B0%B4%E8%B4%9D%E5%95%86%E5%AE%B6%E9%83%BD%E5%AE%B3%E6%80%95%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "泰国政府公报：年交易额超过100亿泰铢的泰国黄金交易商须向央行报告。",
+          "url": "https://flash.jin10.com/detail/20260127105808012800",
+          "source": "金十数据",
           "ranks": [
-            24
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时38分"
+          "time_info": "11时39分"
         },
         {
           "title": "现货黄金向上触及5050美元/盎司，日内涨0.83%。",
@@ -1970,7 +2088,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -1996,8 +2114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时09分 ~ 10时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时09分 ~ 11时39分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
@@ -2102,6 +2220,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 苹果涨近3%",
           "url": "https://flash.jin10.com/detail/20260127050110831800",
           "source": "金十数据",
@@ -2154,6 +2283,44 @@
           "time_info": "[00时12分 ~ 08时36分]"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时39分]"
+        },
+        {
+          "title": "分析称金价急剧回调可能性正在增加",
+          "url": "https://www.toutiao.com/trending/7599218772373995556/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时39分]"
+        },
+        {
+          "title": "金价银价巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时39分]"
+        },
+        {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
           "url": "https://flash.jin10.com/detail/20260127032144088800",
           "source": "金十数据",
@@ -2164,42 +2331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时11分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 10时52分]"
-        },
-        {
-          "title": "分析称金价急剧回调可能性正在增加",
-          "url": "https://www.toutiao.com/trending/7599218772373995556/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 10时52分]"
-        },
-        {
-          "title": "金价银价巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 10时52分]"
         },
         {
           "title": "关税担忧推动金价上涨",
@@ -2219,7 +2350,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
