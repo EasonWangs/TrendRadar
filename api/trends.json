@@ -1,11 +1,375 @@
 {
-  "generated_at": "2026-01-29T03:14:05.003901+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-01-29T04:11:54.460995+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
+          "url": "https://wallstreetcn.com/articles/3764318",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "宽松周期步入延长期 分析师看淡美元后续上涨空间",
+          "url": "https://flash.jin10.com/detail/20260129035444473800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：美元的避风港角色已经削弱。",
+          "url": "https://flash.jin10.com/detail/20260128235723824800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3045731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时14分]"
+        },
+        {
+          "title": "周三（1月28日），韩元兑美元最终涨0.14%，报1435.77韩元，全天呈现出冲高回落走势，北京时间15:17刷新日高至1419.81韩元。",
+          "url": "https://wallstreetcn.com/livenews/3045729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时14分]"
+        },
+        {
+          "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
+          "url": "https://wallstreetcn.com/livenews/3045690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时17分]"
+        },
+        {
+          "title": "欧元/美元日内跌幅达1.0%，创7月份以来最大盘中跌幅，报1.192。",
+          "url": "https://wallstreetcn.com/livenews/3045714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时15分]"
+        },
+        {
+          "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
+          "url": "https://wallstreetcn.com/livenews/3045703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时15分]"
+        },
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
+          "url": "https://flash.jin10.com/detail/20260129030154943800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3045755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "鲍威尔：并没有看到数据表明投资者对冲美元风险。",
+          "url": "https://wallstreetcn.com/livenews/3045794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：近期美元走软在很大程度上是由地缘政治事件推动的。",
+          "url": "https://flash.jin10.com/detail/20260128235610702800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美联储如期按兵不动，现货白银短线走高1.2美元，现报112.42美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260129030138570800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美联储主席鲍威尔：我们未见数据表明投资者在对冲美元风险。",
+          "url": "https://flash.jin10.com/detail/20260129035117392800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美元兑日元、欧元日内均跌1%",
+          "url": "https://flash.jin10.com/detail/20260129003356751800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129003312980800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "据知情人士透露，Jersey Mike为超过10亿美元规模美国IPO遴选银行。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "鲍威尔：我们不会置评美元走势。",
+          "url": "https://wallstreetcn.com/livenews/3045785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美元兑日元涨幅扩大至1%，美国财长贝森特宣称“绝对没有”干预（日元）汇率。 新兴市场货币刷新日高，投资者关注贝森特汇率立场。",
+          "url": "https://wallstreetcn.com/livenews/3045677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "巴西财政部：我们预计将更频繁参与市场，持续发行美元债券，并对欧元和人民币等其他货币保持开放态度，从而拓宽巴西融资战略的覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260129013344957800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3045675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
+          "url": "https://flash.jin10.com/detail/20260129002349346800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "贝森特：美国目前“绝对不会”干预美元兑日元的汇率",
+          "url": "https://wallstreetcn.com/livenews/3045674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美元走软叠加乙醇政策预期 美农产品市场迎来看涨转机",
+          "url": "https://flash.jin10.com/detail/20260129001304512800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "纽约金日内涨幅达4.5%，报5351.6美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3045742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美元兑加元维持超过0.2%的跌幅，此前加拿大央行宣布按兵不动。 加拿大10年期国债收益率短线从3.418%拉升至3.427%，刷新日高；两年期加债收益率也从2.585%上方拉升至2.595%，转而刷新日高。 加拿大股市休市。",
+          "url": "https://wallstreetcn.com/livenews/3045669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "周三（1月28日），美联储隔夜逆回购协议（RRP）使用规模为11.03亿美元（交易对手5家），上个交易日报12.53亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "WTI 3月原油期货收报63.21美元/桶。 NYMEX 2月汽油期货收报1.8923美元/加仑，NYMEX 2月取暖油期货收报2.6661美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3045775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：欧元兑美元的汇率水平并不意味着任何的政策方向。 当前，欧洲央行政策立场“非常适用于当前的局势”。",
+          "url": "https://wallstreetcn.com/livenews/3045665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "黑石集团考虑为甲骨文价值140亿美元的数据中心项目提供债务支持",
+          "url": "https://wallstreetcn.com/livenews/3045728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "德国总理默茨：我一直在密切关注美元下跌现象。 担心德国出口主导型经济将承受更大的负担。 如果欧洲竞争力提高，将能够应对美元走软问题。",
+          "url": "https://wallstreetcn.com/livenews/3045770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -15,8 +379,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -26,8 +390,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -38,8 +402,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -52,8 +416,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -64,8 +428,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -287,13 +651,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "鲍威尔：我不会针对（美国总统特朗普的司法部刑事调查）传唤在已有声明的基础上做出更多表态。",
+          "url": "https://wallstreetcn.com/livenews/3045782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
           "url": "https://wallstreetcn.com/livenews/3045739",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -344,294 +719,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "高盛外汇交易员：下跌才刚刚开始，美元迎来新一轮贬值",
-          "url": "https://wallstreetcn.com/articles/3764318",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：美元的避风港角色已经削弱。",
-          "url": "https://flash.jin10.com/detail/20260128235723824800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3045731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时14分]"
-        },
-        {
-          "title": "周三（1月28日），韩元兑美元最终涨0.14%，报1435.77韩元，全天呈现出冲高回落走势，北京时间15:17刷新日高至1419.81韩元。",
-          "url": "https://wallstreetcn.com/livenews/3045729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时14分]"
-        },
-        {
-          "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
-          "url": "https://wallstreetcn.com/livenews/3045690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时17分]"
-        },
-        {
-          "title": "欧元/美元日内跌幅达1.0%，创7月份以来最大盘中跌幅，报1.192。",
-          "url": "https://wallstreetcn.com/livenews/3045714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时15分]"
-        },
-        {
-          "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
-          "url": "https://wallstreetcn.com/livenews/3045703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时15分]"
-        },
-        {
-          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
-          "url": "https://flash.jin10.com/detail/20260129030154943800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3045755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：近期美元走软在很大程度上是由地缘政治事件推动的。",
-          "url": "https://flash.jin10.com/detail/20260128235610702800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美联储如期按兵不动，现货白银短线走高1.2美元，现报112.42美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260129030138570800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美元兑日元、欧元日内均跌1%",
-          "url": "https://flash.jin10.com/detail/20260129003356751800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
-          "url": "https://flash.jin10.com/detail/20260129003312980800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美元兑日元涨幅扩大至1%，美国财长贝森特宣称“绝对没有”干预（日元）汇率。 新兴市场货币刷新日高，投资者关注贝森特汇率立场。",
-          "url": "https://wallstreetcn.com/livenews/3045677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "巴西财政部：我们预计将更频繁参与市场，持续发行美元债券，并对欧元和人民币等其他货币保持开放态度，从而拓宽巴西融资战略的覆盖范围。",
-          "url": "https://flash.jin10.com/detail/20260129013344957800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3045675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
-          "url": "https://flash.jin10.com/detail/20260129002349346800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "贝森特：美国目前“绝对不会”干预美元兑日元的汇率",
-          "url": "https://wallstreetcn.com/livenews/3045674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美元走软叠加乙醇政策预期 美农产品市场迎来看涨转机",
-          "url": "https://flash.jin10.com/detail/20260129001304512800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "纽约金日内涨幅达4.5%，报5351.6美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3045742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美元兑加元维持超过0.2%的跌幅，此前加拿大央行宣布按兵不动。 加拿大10年期国债收益率短线从3.418%拉升至3.427%，刷新日高；两年期加债收益率也从2.585%上方拉升至2.595%，转而刷新日高。 加拿大股市休市。",
-          "url": "https://wallstreetcn.com/livenews/3045669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "周三（1月28日），美联储隔夜逆回购协议（RRP）使用规模为11.03亿美元（交易对手5家），上个交易日报12.53亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3045735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "欧洲央行管委Simkus：欧元兑美元的汇率水平并不意味着任何的政策方向。 当前，欧洲央行政策立场“非常适用于当前的局势”。",
-          "url": "https://wallstreetcn.com/livenews/3045665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "黑石集团考虑为甲骨文价值140亿美元的数据中心项目提供债务支持",
-          "url": "https://wallstreetcn.com/livenews/3045728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -642,8 +731,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -654,8 +743,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "黄金白银基金暂停申购",
@@ -666,8 +755,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
@@ -677,8 +766,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
@@ -689,8 +778,67 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
+          "url": "https://www.zhihu.com/question/1999138722730500772",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "水贝黄金预定价平台「杰我睿」疑似暴雷，深圳罗湖成立工作专班，目前情况怎么样？影响如何？受害者该怎么做？",
+          "url": "https://www.zhihu.com/question/1999102898806732352",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "水贝黄金预定价平台“杰我睿”兑付困难，深圳罗湖成立工作专班",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32480151",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "黄金白银基金宣布暂停申购",
+          "url": "https://www.douyin.com/hot/2381695",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            21,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "黄金平台暴雷,老千卷百亿跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349810&amp;topic_name=%E9%BB%84%E9%87%91%E5%B9%B3%E5%8F%B0%E6%9A%B4%E9%9B%B7%2C%E8%80%81%E5%8D%83%E5%8D%B7%E7%99%BE%E4%BA%BF%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "如何看待李蓓看空黄金",
@@ -701,64 +849,6 @@
             10,
             29,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
-          "url": "https://www.zhihu.com/question/1999138722730500772",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "水贝黄金预定价平台「杰我睿」疑似暴雷，深圳罗湖成立工作专班，目前情况怎么样？影响如何？受害者该怎么做？",
-          "url": "https://www.zhihu.com/question/1999102898806732352",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "水贝黄金预定价平台“杰我睿”兑付困难，深圳罗湖成立工作专班",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32480151",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "黄金白银基金宣布暂停申购",
-          "url": "https://www.douyin.com/hot/2381695",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "黄金平台暴雷,老千卷百亿跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349810&amp;topic_name=%E9%BB%84%E9%87%91%E5%B9%B3%E5%8F%B0%E6%9A%B4%E9%9B%B7%2C%E8%80%81%E5%8D%83%E5%8D%B7%E7%99%BE%E4%BA%BF%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -783,7 +873,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -806,9 +896,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "现货黄金短线走高近15美元，现报5317.45美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260129034956859800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         },
         {
           "title": "现货黄金突破5320美元/盎司，日内涨2.69%。",
@@ -817,7 +918,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -847,8 +948,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -859,8 +960,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -869,7 +970,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -931,8 +1032,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -943,8 +1044,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -956,8 +1057,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -967,8 +1068,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -980,8 +1081,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "金价波动",
@@ -992,8 +1093,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 04时11分]"
         }
       ]
     },
@@ -1008,7 +1109,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -1038,8 +1139,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 04时11分]"
         }
       ]
     },
