@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T09:40:25.426484+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-01-30T11:04:16.286314+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 92,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时04分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -32,6 +33,17 @@
           "time_info": "[00时17分 ~ 06时11分]"
         },
         {
+          "title": "特朗普称计划同伊朗对话",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A1%E5%88%92%E5%90%8C%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
           "title": "特朗普宣布国家紧急状态",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -41,6 +53,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 09时40分]"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时11分 ~ 11时04分]"
         },
         {
           "title": "美国总统特朗普：今晚就会知道政府停摆问题的最终结果。",
@@ -63,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3046944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "美国总统特朗普：俄乌局势取得很大进展，俄罗斯一周内不会进行开火。",
@@ -219,17 +255,15 @@
           "time_info": "[01时18分 ~ 02时19分]"
         },
         {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
-          "source": "华尔街见闻",
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时11分 ~ 09时40分]"
+          "time_info": "[08时39分 ~ 11时04分]"
         },
         {
           "title": "美国总统特朗普称赞股市上涨。",
@@ -268,6 +302,30 @@
           "time_info": "[04时12分 ~ 05时11分]"
         },
         {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时04分]"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时04分]"
+        },
+        {
           "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
           "url": "https://wallstreetcn.com/livenews/3046634",
           "source": "华尔街见闻-快讯",
@@ -292,6 +350,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时12分]"
+        },
+        {
+          "title": "特朗普将公布美联储下任主席",
+          "url": "https://www.douyin.com/hot/2383719",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "特朗普重回白宫周年总结",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E5%9B%9E%E7%99%BD%E5%AE%AB%E5%91%A8%E5%B9%B4%E6%80%BB%E7%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -328,17 +419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时16分]"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
         },
         {
           "title": "特朗普：白宫仍在与民主党人协商 避免政府停摆",
@@ -399,18 +479,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时19分]"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -544,17 +612,6 @@
           "time_info": "07时11分"
         },
         {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
           "title": "美国总统特朗普：石油公司将为美国和委内瑞拉创造财富。",
           "url": "https://flash.jin10.com/detail/20260130004707987800",
           "source": "金十数据",
@@ -572,7 +629,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -616,7 +673,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -676,6 +733,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普与前美联储理事沃什会面",
+          "url": "https://wallstreetcn.com/livenews/3046922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
           "title": "特朗普宣布国家紧急状态",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -693,9 +761,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "庞巴迪：已注意到美国总统特朗普的帖子。",
+          "url": "https://flash.jin10.com/detail/20260130105254767800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "美国总统特朗普：石油公司将为美国和委内瑞拉带来财富。 今天将开放委内瑞拉所有商业空域。",
@@ -726,7 +805,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -737,7 +816,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -792,7 +871,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -817,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "据古巴国营媒体：美国总统特朗普的法令将使（古巴）发电、交通、工农业生产、医疗服务和供水陷入瘫痪。",
+          "url": "https://flash.jin10.com/detail/20260130104455750800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "美国总统特朗普：将在美国和墨西哥安排我和墨西哥总统辛鲍姆的会谈。",
@@ -847,9 +937,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "特朗普政府正筹备提名沃什出任美联储主席。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "美国总统特朗普：（谈中东）哈马斯是促成人质获释的重要因素。",
@@ -883,6 +984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "据古巴国营媒体：美国总统特朗普的行政命令旨在“种族灭绝古巴人民”。",
+          "url": "https://flash.jin10.com/detail/20260130104400870800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "墨西哥总统辛鲍姆：我们（墨西哥方面/墨方和美国总统特朗普）的目标是，尽快与加拿大总理卡尼通电话。",
@@ -954,7 +1066,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "1美元vs10亿美元前沿科技",
@@ -1005,6 +1117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "据华尔街日报：游戏驿站(GME.N)首席执行官表示，正瞄准一家大型上市公司进行收购，目标是将市值提升至1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130110118737800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "高级监管官员：美国加州将于下周公布该州针对新电动汽车提供的2亿美元税收抵免的详细信息。",
@@ -1197,6 +1320,18 @@
           "time_info": "[04时12分 ~ 05时11分]"
         },
         {
+          "title": "微软市值蒸发3570亿美元",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%913570%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时04分]"
+        },
+        {
           "title": "LME期铜收涨532美元，报13618美元/吨。 LME期铝收跌38美元，报3218美元/吨。 LME期锌收涨48美元，报3412美元/吨。 LME期铅收跌3美元，报2014美元/吨。 LME期镍收涨99美元，报18369美元/吨。 LME期锡收跌869美元，报55084美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3046638",
           "source": "华尔街见闻-快讯",
@@ -1258,17 +1393,6 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
-          "title": "微软市值蒸发3570亿美元",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%913570%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
-        },
-        {
           "title": "周四（1月29日），韩元兑美元最终涨0.12%，报1434.09韩元，跳空高开之后，北京时间14:00之前开始持续回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3046627",
           "source": "华尔街见闻-快讯",
@@ -1322,7 +1446,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -1347,6 +1471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "现货钯金下跌超5%，至每盎司1894.75美元。伦锡日内跌幅达6%，报51005.00美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3046932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "苹果公司第一季度每股派息0.26美元。",
@@ -1404,6 +1539,17 @@
           "time_info": "08时39分"
         },
         {
+          "title": "英镑兑美元下跌0.6%，至1.3735美元。",
+          "url": "https://wallstreetcn.com/livenews/3046925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3046630",
           "source": "华尔街见闻-快讯",
@@ -1443,7 +1589,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -1476,9 +1622,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "现货白银跌超6%报108.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3046916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "苹果(AAPL.O)2026财年Q1的iPhone营收为852.69亿美元，市场预期786.5美元。",
@@ -1509,7 +1666,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -1542,7 +1699,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -1580,6 +1737,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美元指数涨幅扩大至近0.5%报96.65。美元对日元上涨0.5%至153.88。",
+          "url": "https://wallstreetcn.com/livenews/3046896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
           "title": "闪迪(SNDK.O)第二季度营收为30.25亿美元，而IBES预估为26.38亿美元。闪迪公司第三季度营收展望为44亿至48亿美元。",
           "url": "https://flash.jin10.com/detail/20260130050753165800",
           "source": "金十数据",
@@ -1591,6 +1759,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "伦锡日内跌幅达6.00%，现报51005.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260130103551754800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
           "title": "富国银行批准CEO Scharf 2025年4000万美元薪酬。",
           "url": "https://wallstreetcn.com/livenews/3046712",
           "source": "华尔街见闻-快讯",
@@ -1600,12 +1779,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "现货钯金跌超5%，至1894.75美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260130103544663800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "要做主权国家还是美国跟班？英国选择重启中英“黄金时代”",
@@ -1662,8 +1852,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时04分]"
         },
         {
           "title": "年轻老板狂扫700万黄金店员报警",
@@ -1677,8 +1867,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 11时04分]"
         },
         {
           "title": "200多克黄金不当面接收快递小哥报警",
@@ -1705,8 +1895,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 11时04分]"
         },
         {
           "title": "男演员9公斤黄金400元每克卖出",
@@ -1729,8 +1919,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时04分]"
         },
         {
           "title": "美联储暂停降息对黄金有何影响",
@@ -1743,8 +1933,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时04分]"
+        },
+        {
+          "title": "【早报】深夜，黄金巨震；加快培育服务消费新增长点，国办印发工作方案",
+          "url": "https://www.cls.cn/detail/2274937",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时04分]"
         },
         {
           "title": "“每张SIM卡含0.02克黄金”系谣言",
@@ -1756,6 +1957,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 06时11分]"
+        },
+        {
+          "title": "获利了结压顶贵金属剧烈震荡：白银一度跌超8% 黄金最大回撤500美元",
+          "url": "https://www.cls.cn/detail/2274893",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时04分]"
         },
         {
           "title": "现货黄金白银快速走低",
@@ -1785,41 +1999,6 @@
           "time_info": "[00时18分 ~ 07时11分]"
         },
         {
-          "title": "【早报】深夜，黄金巨震；加快培育服务消费新增长点，国办印发工作方案",
-          "url": "https://www.cls.cn/detail/2274937",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
-        },
-        {
-          "title": "获利了结压顶贵金属剧烈震荡：白银一度跌超8% 黄金最大回撤500美元",
-          "url": "https://www.cls.cn/detail/2274893",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 09时40分]"
-        },
-        {
-          "title": "现货黄金大幅跳水后再反弹，重新突破 5400 美元大关，为什么会出现如此大的震荡？",
-          "url": "https://www.zhihu.com/question/2000353838817882383",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        },
-        {
           "title": "世界黄金协会：全球黄金需求首破5000吨，散户和机构成购金主力",
           "url": "https://wallstreetcn.com/articles/3764459",
           "source": "华尔街见闻",
@@ -1828,8 +2007,67 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时04分]"
+        },
+        {
+          "title": "黄金变现业务火爆",
+          "url": "https://www.toutiao.com/trending/7600763372166725651/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "一次看懂黄金为何暴涨",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "年轻“老板”狂扫700万黄金店员报警",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E2%80%9C%E8%80%81%E6%9D%BF%E2%80%9D%E7%8B%82%E6%89%AB700%E4%B8%87%E9%BB%84%E9%87%91%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时04分]"
+        },
+        {
+          "title": "现货黄金大幅跳水后再反弹，重新突破 5400 美元大关，为什么会出现如此大的震荡？",
+          "url": "https://www.zhihu.com/question/2000353838817882383",
+          "source": "知乎",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时11分 ~ 09时40分]"
+          "time_info": "[08时39分 ~ 11时04分]"
+        },
+        {
+          "title": "黄金白银深夜大幅跳水后反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时04分]"
         },
         {
           "title": "特朗普讲话不到一小时，现货黄金反弹100美元",
@@ -1883,16 +2121,17 @@
           "time_info": "[02时19分 ~ 04时12分]"
         },
         {
-          "title": "黄金白银深夜大幅跳水后反弹",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%B7%B1%E5%A4%9C%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "黄金跳水可以上车了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E5%8F%AF%E4%BB%A5%E4%B8%8A%E8%BD%A6%E4%BA%86%E5%90%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            21
+            28,
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时04分]"
         },
         {
           "title": "黄金ETF-SPDR（GLD）一度跌近3%，现跌2.6%；白银ETF-iShares（SLV）跌超4%。",
@@ -1930,16 +2169,15 @@
           "time_info": "[08时39分 ~ 09时40分]"
         },
         {
-          "title": "年轻“老板”狂扫700万黄金店员报警",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E2%80%9C%E8%80%81%E6%9D%BF%E2%80%9D%E7%8B%82%E6%89%AB700%E4%B8%87%E9%BB%84%E9%87%91%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6",
-          "source": "百度热搜",
+          "title": "小伙狂扫700万黄金 店员报警",
+          "url": "https://www.toutiao.com/trending/7600648257781665286/",
+          "source": "今日头条",
           "ranks": [
-            18,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
+          "time_info": "[11时03分 ~ 11时04分]"
         },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
@@ -2015,7 +2253,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -2048,7 +2286,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -2059,7 +2297,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -2070,7 +2308,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -2103,7 +2341,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -2125,9 +2363,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "特朗普政府据悉拟提名前理事沃什出任美联储主席，市场闻声大动，现货黄金重挫，一度逼近5100美元，美指持续拉升，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260130104827281800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "央行黄金围城：有的买有的卖，还有一家零储备丨Hi，今天怎么看？",
@@ -2150,6 +2399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "【现货黄金白银双双跳水】现货黄金跌超4%，报5156美元/盎司。现货白银跌4.6%，报110.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3046912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -2218,21 +2478,21 @@
           "time_info": "00时18分"
         },
         {
-          "title": "黄金跳水可以上车了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E5%8F%AF%E4%BB%A5%E4%B8%8A%E8%BD%A6%E4%BA%86%E5%90%97%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "机构：黄金及其他贵金属的狂热或引爆股债市场波动",
+          "url": "https://flash.jin10.com/detail/20260130103824745800",
+          "source": "金十数据",
           "ranks": [
-            28
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "11时04分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -2242,11 +2502,12 @@
             2,
             1,
             25,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 11时04分]"
         },
         {
           "title": "金价",
@@ -2281,23 +2542,23 @@
           "time_info": "[00时17分 ~ 09时40分]"
         },
         {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时04分]"
+        },
+        {
           "title": "金价上涨的第一批受害者出现了",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             21,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 09时40分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -2343,6 +2604,18 @@
           "time_info": "[00时18分 ~ 07时11分]"
         },
         {
+          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
+          "url": "https://www.cls.cn/detail/2275001",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时04分]"
+        },
+        {
           "title": "金价跌幅扩大至5%。",
           "url": "https://wallstreetcn.com/livenews/3046584",
           "source": "华尔街见闻-快讯",
@@ -2360,11 +2633,25 @@
           "source": "今日头条",
           "ranks": [
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时04分]"
+        },
+        {
+          "title": "今日金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时04分]"
         },
         {
           "title": "金价大幅跳水后反弹",
@@ -2379,26 +2666,15 @@
           "time_info": "[08时39分 ~ 09时40分]"
         },
         {
-          "title": "今日金价",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "金十图示：2026年01月30日（周五）上海金早盘价为1179.31元/克，较国际金价(1167.89元/克)，高11.42元/克",
+          "url": "https://flash.jin10.com/detail/20260130105221473800",
+          "source": "金十数据",
           "ranks": [
-            6
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
-          "url": "https://www.cls.cn/detail/2275001",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "11时04分"
         },
         {
           "title": "金价波动",
@@ -2410,6 +2686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
@@ -2429,8 +2716,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 11时04分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -2440,8 +2727,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时04分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -2453,8 +2740,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 09时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时04分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -2659,6 +2946,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2/10年期美债收益率至多跌超1.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3046679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "野村证券：美元和美债收益率面临上行压力，美联储前理事凯文·沃什的政策立场被认为不那么鸽派。",
+          "url": "https://flash.jin10.com/detail/20260130104519218800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 1,
       "titles": [
@@ -2672,24 +2988,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2/10年期美债收益率至多跌超1.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3046679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
         }
       ]
     }
