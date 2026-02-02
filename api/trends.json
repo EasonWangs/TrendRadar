@@ -1,11 +1,415 @@
 {
-  "generated_at": "2026-02-03T02:18:59.430325+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-03T07:12:15.265552+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
+          "url": "https://wallstreetcn.com/livenews/3048493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
+          "url": "https://flash.jin10.com/detail/20260203011746385800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时18分]"
+        },
+        {
+          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3048475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时18分]"
+        },
+        {
+          "title": "在美国总统特朗普宣布印美达成贸易协议后，iShares MSCI印度ETF上涨3.1%。",
+          "url": "https://flash.jin10.com/detail/20260203013935873800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普就伊朗问题表态：将观察事态如何发展",
+          "url": "https://wallstreetcn.com/livenews/3048575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3048443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "据AXIOS网站：一位美国官员表示，伊斯坦布尔峰会将重点讨论如何达成一揽子协议以避免战争。这位官员强调，特朗普政府希望伊朗方面做好在会上做出必要妥协的准备。",
+          "url": "https://flash.jin10.com/detail/20260203013622018800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中并未讨论和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260202231935079800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
+          "url": "https://flash.jin10.com/detail/20260203010223684800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "印度总理莫迪：特朗普总统的领导力对全球和平、稳定与繁荣至关重要。印度完全支持他为和平所做的努力。",
+          "url": "https://flash.jin10.com/detail/20260203013502790800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：印度总理莫迪同意停止购买俄罗斯石油，并从美国购买更多石油，甚至可能从委内瑞拉进行购买。",
+          "url": "https://flash.jin10.com/detail/20260203010022969800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "印度总理莫迪：今天很高兴能与我亲爱的朋友特朗普总统通话。欣喜地得知印度制造的产品的关税将降至18%。",
+          "url": "https://flash.jin10.com/detail/20260203013449037800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：古巴是个失败国家，他们从委内瑞拉那里拿不到任何钱。",
+          "url": "https://flash.jin10.com/detail/20260203060005316800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们谈了很多事情，包括贸易，以及结束俄罗斯和乌克兰的冲突。",
+          "url": "https://flash.jin10.com/detail/20260203005909864800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "据AXIOS网站：一位美国官员证实，美伊核谈判将于周五在伊斯坦布尔举行。这位美国官员还称，特朗普的女婿兼顾问库什纳也计划参加此次会议。",
+          "url": "https://flash.jin10.com/detail/20260203013411820800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥将停止向古巴输送石油。",
+          "url": "https://flash.jin10.com/detail/20260203055930407800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：今天早上很荣幸与印度总理莫迪通话。",
+          "url": "https://flash.jin10.com/detail/20260203005854514800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们无法就伊朗问题达成协议，可能会发生糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260203055928890800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：我认为我们离解决政府停摆问题已经很近了。",
+          "url": "https://flash.jin10.com/detail/20260203055901734800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们与欧洲关系很好。",
+          "url": "https://flash.jin10.com/detail/20260203055859870800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：我和杰弗里·爱泼斯坦没有任何关系。",
+          "url": "https://flash.jin10.com/detail/20260203055858925800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：检察官皮罗不会放弃对美联储主席鲍威尔的调查。（鲍威尔）要么是严重失职，要么是某种盗窃或回扣。我不知道具体是什么，但皮罗非常出色，她会查清楚的。",
+          "url": "https://flash.jin10.com/detail/20260203055855998800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及美国是否计划削减在欧洲的驻军时）没有。",
+          "url": "https://flash.jin10.com/detail/20260203055831240800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：（针对国土安全部涉嫌暴力执法问题）参议院多数党领袖约翰·图恩（John Thune）和约翰逊接近达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3048562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：需要看到与伊朗谈判达成的协议。",
+          "url": "https://flash.jin10.com/detail/20260203055414951800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们此刻正在与古巴领导人交涉。",
+          "url": "https://flash.jin10.com/detail/20260203055309484800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "在特朗普宣布美印达成贸易协议后，印度卢比在非交割远期市场中走高。",
+          "url": "https://flash.jin10.com/detail/20260203012316373800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：之前向普京提出暂停行动一周的请求，普京已表示同意。普京同意不会向基辅发射导弹。",
+          "url": "https://flash.jin10.com/detail/20260203054818382800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯总统普京通电话。",
+          "url": "https://wallstreetcn.com/livenews/3048557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在讨论伊朗问题，我们有船只（舰队）前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260203054732977800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
+          "url": "https://wallstreetcn.com/livenews/3048454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：正在与伊朗进行对话。",
+          "url": "https://flash.jin10.com/detail/20260203054700219800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：我给普京打了电话。",
+          "url": "https://flash.jin10.com/detail/20260203054633553800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普谈及司法部对美联储的调查，宣称：坚持到底，看看结果如何。",
+          "url": "https://wallstreetcn.com/livenews/3048553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯和乌克兰的谈判进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260203054451964800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席候选人（凯文·沃什）将做得很好。",
+          "url": "https://wallstreetcn.com/livenews/3048551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "哥伦比亚比索兑美元涨至3600比索。",
@@ -14,7 +418,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -28,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "根据SEC备案文件披露，伯克希尔哈撒韦(BRK.A.N、BRK.B.N)于1月29日以每股约120.55美元的价格在公开市场出售了1,658,480股德维特公司（DaVita）普通股。",
+          "url": "https://flash.jin10.com/detail/20260203063750975800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "欧元/美元日内跌幅达0.5%，报1.1792。",
@@ -88,6 +503,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "据纽约时报：特朗普放弃向哈佛大学追讨2亿美元款项的要求。",
+          "url": "https://flash.jin10.com/detail/20260203061528553800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "据知情人士透露，甲骨文寻求发行50亿美元强制可转换债券。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3048445",
           "source": "华尔街见闻-快讯",
@@ -105,7 +531,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -116,9 +542,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国加利福尼亚州政府表示，拟推出的2亿美元电动汽车激励计划将仅面向首次购车者，并要求参与的汽车制造商提供配套资金。",
+          "url": "https://flash.jin10.com/detail/20260203060828726800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
@@ -143,6 +580,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "市场消息：Alphabet(GOOG.O)旗下自动驾驶公司Waymo融资160亿美元，投后估值达1260亿美元。",
+          "url": "https://flash.jin10.com/detail/20260203060135693800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "彭博汇编数据显示，加密货币交易所交易产品（ETPs）最近一周资金外流16.1亿美元。 投资者最近一个月累计赎回8.766亿美元。 最近一年累计流入396亿美元。 当前，加密货币ETP资产规模为1603亿美元。",
           "url": "https://wallstreetcn.com/livenews/3048439",
           "source": "华尔街见闻-快讯",
@@ -152,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美国总统特朗普撤销向哈佛大学索要2亿美元的要求。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3048566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美元兑瑞郎USD/CHF日内涨幅达1.00%，现报0.7806。",
@@ -165,6 +624,28 @@
           "time_info": "00时15分"
         },
         {
+          "title": "周一（2月2日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9426元，较上周五纽约尾盘涨158点，日内整体交投于6.9630-6.9380元区间。",
+          "url": "https://wallstreetcn.com/livenews/3048564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "Waymo按1260亿美元估值融资160亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3048563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "美元指数DXY短线走高约10点，现报97.50。",
           "url": "https://flash.jin10.com/detail/20260202230206024800",
           "source": "金十数据",
@@ -174,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "周一（2月2日）纽约尾盘，现货白银跌6.73%，报79.4438美元/盎司。 COMEX白银期货涨1.56%，报79.760美元/盎司。 COMEX铜期货跌1.49%，报5.8345美元/磅，北京时间14:40曾跌至5.5640美元。 现货铂金跌2.93%，现货钯金涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3048559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "市场消息：洛克希德·马丁公司获得了一份价值3.285亿美元的合同，用于交付“军团”-ES系统。",
@@ -189,192 +681,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
-          "url": "https://wallstreetcn.com/livenews/3048493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
-          "url": "https://flash.jin10.com/detail/20260203011746385800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时18分]"
-        },
-        {
-          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3048475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时18分]"
-        },
-        {
-          "title": "在美国总统特朗普宣布印美达成贸易协议后，iShares MSCI印度ETF上涨3.1%。",
-          "url": "https://flash.jin10.com/detail/20260203013935873800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3048443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "据AXIOS网站：一位美国官员表示，伊斯坦布尔峰会将重点讨论如何达成一揽子协议以避免战争。这位官员强调，特朗普政府希望伊朗方面做好在会上做出必要妥协的准备。",
-          "url": "https://flash.jin10.com/detail/20260203013622018800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中并未讨论和平委员会。",
-          "url": "https://flash.jin10.com/detail/20260202231935079800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
-          "url": "https://flash.jin10.com/detail/20260203010223684800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "印度总理莫迪：特朗普总统的领导力对全球和平、稳定与繁荣至关重要。印度完全支持他为和平所做的努力。",
-          "url": "https://flash.jin10.com/detail/20260203013502790800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国总统特朗普：印度总理莫迪同意停止购买俄罗斯石油，并从美国购买更多石油，甚至可能从委内瑞拉进行购买。",
-          "url": "https://flash.jin10.com/detail/20260203010022969800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "印度总理莫迪：今天很高兴能与我亲爱的朋友特朗普总统通话。欣喜地得知印度制造的产品的关税将降至18%。",
-          "url": "https://flash.jin10.com/detail/20260203013449037800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国总统特朗普：我们谈了很多事情，包括贸易，以及结束俄罗斯和乌克兰的冲突。",
-          "url": "https://flash.jin10.com/detail/20260203005909864800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "据AXIOS网站：一位美国官员证实，美伊核谈判将于周五在伊斯坦布尔举行。这位美国官员还称，特朗普的女婿兼顾问库什纳也计划参加此次会议。",
-          "url": "https://flash.jin10.com/detail/20260203013411820800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国总统特朗普：今天早上很荣幸与印度总理莫迪通话。",
-          "url": "https://flash.jin10.com/detail/20260203005854514800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "在特朗普宣布美印达成贸易协议后，印度卢比在非交割远期市场中走高。",
-          "url": "https://flash.jin10.com/detail/20260203012316373800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
-          "url": "https://wallstreetcn.com/livenews/3048454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -384,8 +692,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -395,8 +703,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "黄金最脆弱的时刻？仅需5%的获利盘出逃，就足以抵消全球实物需求",
@@ -406,8 +714,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "黄金“史诗级巨震”！疯涨行情戛然而止，现货黄金一度跌超9%，后市如何看待？",
@@ -418,8 +726,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "黄金估值已达极端水平！下半年避险情绪消退将成最大利空",
@@ -429,8 +737,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "中金：黄金超过5500美元是一个重要分水岭",
@@ -444,16 +776,17 @@
           "time_info": "[00时14分 ~ 02时18分]"
         },
         {
-          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2278222",
-          "source": "财联社热门",
+          "title": "黄金暴跌还能抄底吗",
+          "url": "https://www.douyin.com/hot/2387151",
+          "source": "抖音",
           "ranks": [
-            12,
-            13
+            24,
+            25,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "涉黄金业务调整，六大行公告",
@@ -467,16 +800,26 @@
           "time_info": "[01时20分 ~ 02时18分]"
         },
         {
-          "title": "黄金暴跌还能抄底吗",
-          "url": "https://www.douyin.com/hot/2387151",
-          "source": "抖音",
+          "title": "黄金接近首个关键支撑位",
+          "url": "https://wallstreetcn.com/articles/3764759",
+          "source": "华尔街见闻",
           "ranks": [
-            24,
-            25
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时18分]"
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "金银暴跌也不足为惧？摩根大通坚持上调黄金预期：年底上看6300美元！",
+          "url": "https://www.cls.cn/detail/2278009",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "黄金波动率创2008年以来最高，连“过山车”般的比特币也相形见绌",
@@ -493,7 +836,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -507,28 +850,40 @@
           "time_info": "[00时14分 ~ 02时18分]"
         },
         {
-          "title": "金十图示：2026年02月02日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260203014220245800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
           "url": "https://www.cls.cn/detail/2278170",
           "source": "财联社热门",
           "ranks": [
             13,
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "金十图示：2026年02月02日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260203014220245800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2026年02月02日（周一）热门中概股行情一览（美股盘中）",
@@ -537,16 +892,71 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3048560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
+          "url": "https://wallstreetcn.com/livenews/3048580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "OpenAI在美国法庭指责马斯克旗下xAI涉嫌销毁证据。",
+          "url": "https://wallstreetcn.com/livenews/3048579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
+          "url": "https://flash.jin10.com/detail/20260203063954637800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
+          "url": "https://wallstreetcn.com/livenews/3048577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
         {
           "title": "CNBC援引消息人士的话称，英伟达(NVDA.O)与OpenAI的交易仍在谈判中。",
           "url": "https://flash.jin10.com/detail/20260203012102016800",
@@ -554,7 +964,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -562,7 +972,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -570,11 +980,23 @@
           "source": "抖音",
           "ranks": [
             25,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 07时12分]"
+        },
+        {
+          "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3048558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     }
