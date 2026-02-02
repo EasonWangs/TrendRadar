@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T00:15:15.850825+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-03T01:22:08.957368+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.63。欧元兑美元EUR/USD日内跌超0.50%，现报1.1791。",
@@ -14,20 +14,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
         {
-          "title": "欧元/美元日内跌幅达0.5%，报1.1792。",
-          "url": "https://wallstreetcn.com/livenews/3048452",
+          "title": "美元兑印度卢比一个月NDF下跌1%，报90.94。",
+          "url": "https://wallstreetcn.com/livenews/3048482",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国天然气期货日内暴跌24.00%，现报3.309美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260203011931257800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "欧元/美元日内跌幅达0.5%，报1.1792。",
+          "url": "https://wallstreetcn.com/livenews/3048452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时22分]"
         },
         {
           "title": "据外媒报道，美国总统特朗普在中期选举前建立4.83亿美元的战争基金，竞选资金申报显示共和党人筹集的资金多于民主党人。",
@@ -36,7 +59,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
@@ -47,7 +70,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
@@ -58,9 +81,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
+          "url": "https://flash.jin10.com/detail/20260203010335671800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "美元兑瑞郎涨1%，报0.7808。",
@@ -69,7 +103,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
@@ -80,7 +114,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
@@ -91,7 +125,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         },
@@ -102,15 +136,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "市场消息：洛克希德·马丁公司获得了一份价值3.285亿美元的合同，用于交付“军团”-ES系统。",
+          "url": "https://flash.jin10.com/detail/20260203002236768800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -120,8 +165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         },
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -131,8 +176,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         },
         {
           "title": "黄金最脆弱的时刻？仅需5%的获利盘出逃，就足以抵消全球实物需求",
@@ -142,19 +187,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         },
         {
           "title": "黄金“史诗级巨震”！疯涨行情戛然而止，现货黄金一度跌超9%，后市如何看待？",
           "url": "https://www.cls.cn/detail/2277923",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         },
         {
           "title": "黄金估值已达极端水平！下半年避险情绪消退将成最大利空",
@@ -164,8 +210,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         },
         {
           "title": "中金：黄金超过5500美元是一个重要分水岭",
@@ -175,19 +221,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2278222",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
+        },
+        {
+          "title": "涉黄金业务调整，六大行公告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32513826",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "time_info": "[01时20分 ~ 01时22分]"
+        },
+        {
+          "title": "黄金暴跌还能抄底吗",
+          "url": "https://www.douyin.com/hot/2387151",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 01时22分]"
         },
         {
           "title": "黄金波动率创2008年以来最高，连“过山车”般的比特币也相形见绌",
@@ -196,9 +265,114 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
+          "url": "https://flash.jin10.com/detail/20260203011746385800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3048475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3048443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中并未讨论和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260202231935079800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美国总统特朗普：从即日起，我们和印度双方同意建立美国与印度之间的贸易协议。根据该协议，美国将降低对印度的对等关税，从25%降至18%。他们也将逐步取消对美国的关税和非关税壁垒，直至完全消除。",
+          "url": "https://flash.jin10.com/detail/20260203010223684800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：印度总理莫迪同意停止购买俄罗斯石油，并从美国购买更多石油，甚至可能从委内瑞拉进行购买。",
+          "url": "https://flash.jin10.com/detail/20260203010022969800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：我们谈了很多事情，包括贸易，以及结束俄罗斯和乌克兰的冲突。",
+          "url": "https://flash.jin10.com/detail/20260203005909864800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普：今天早上很荣幸与印度总理莫迪通话。",
+          "url": "https://flash.jin10.com/detail/20260203005854514800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
+          "url": "https://wallstreetcn.com/livenews/3048454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
@@ -214,47 +388,37 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
           "url": "https://www.cls.cn/detail/2278170",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 01时22分]"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3048443",
-          "source": "华尔街见闻-快讯",
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
           "ranks": [
-            9
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中并未讨论和平委员会。",
-          "url": "https://flash.jin10.com/detail/20260202231935079800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 01时22分]"
         }
       ]
     }
