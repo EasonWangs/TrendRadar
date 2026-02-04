@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T09:40:08.862826+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-02-04T11:05:18.090062+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时27分 ~ 09时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时27分 ~ 11时05分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时37分 ~ 11时05分]"
         },
         {
           "title": "韩国1月外汇储备 4259.1亿美元，前值4280.5亿美元。",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "分析师：货币政策失误或致美元贬值 收益率曲线变陡凸显通胀失控风险",
+          "url": "https://flash.jin10.com/detail/20260204105414222800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         },
         {
           "title": "LME期铜收涨586美元，报13478美元/吨。 LME期铝收涨50美元，报3106美元/吨。 LME期锌收涨15美元，报3338美元/吨。 LME期铅收平，报1964美元/吨。 LME期镍收涨620美元，报17447美元/吨。 LME期锡收涨3531美元，报50122美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -273,13 +284,24 @@
           "time_info": "[09时39分 ~ 09时40分]"
         },
         {
+          "title": "联储官员偏鹰派言论支撑美元 新元亚洲时段高位窄幅震荡",
+          "url": "https://flash.jin10.com/detail/20260204105337644800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
           "title": "现货钯金上涨3%，至每盎司1784.96美元。",
           "url": "https://wallstreetcn.com/livenews/3049426",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -356,7 +378,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -411,7 +433,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -422,7 +444,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -444,7 +466,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -565,7 +587,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -683,7 +705,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -836,6 +858,17 @@
           "time_info": "[05时16分 ~ 07时13分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时05分]"
+        },
+        {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
           "url": "https://wallstreetcn.com/articles/3764775",
           "source": "华尔街见闻",
@@ -845,17 +878,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 01时27分]"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
         },
         {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
@@ -1036,6 +1058,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "特朗普启动「金库计划」建立国家关键矿产储备，以减少对华依赖，并牵头组建「多国矿产联盟」，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2002159462488773758",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：已请求美国总统特朗普协助抓捕居住在海外的主要毒枭。",
           "url": "https://flash.jin10.com/detail/20260204043326044800",
           "source": "金十数据",
@@ -1045,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美媒：特朗普政府同意与伊朗在阿曼举行谈判",
+          "url": "https://wallstreetcn.com/livenews/3049486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         },
         {
           "title": "美国参议员格雷厄姆敦促特朗普向基辅提供战斧导弹。",
@@ -1100,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -1280,6 +1335,304 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时13分]"
+        },
+        {
+          "title": "黄金牛市还在吗？华尔街坚定看多：技术性回调不要怕，中国买家已成黄金市场强劲支柱！",
+          "url": "https://wallstreetcn.com/articles/3764808",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时05分]"
+        },
+        {
+          "title": "黄金白银为何又大涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E5%8F%88%E5%A4%A7%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            21,
+            9,
+            3,
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 09时40分]"
+        },
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 11时05分]"
+        },
+        {
+          "title": "【早报】中央一号文件发布；深夜，黄金白银大反攻",
+          "url": "https://www.cls.cn/detail/2279730",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 11时05分]"
+        },
+        {
+          "title": "现货黄金周三小幅高开，现货白银小幅低开。",
+          "url": "https://flash.jin10.com/detail/20260204070048066800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "现货黄金站上5020美元/盎司，日内涨1.51%。",
+          "url": "https://flash.jin10.com/detail/20260204090633959800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3049236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时26分]"
+        },
+        {
+          "title": "的哥早年听广播买30多克黄金已全卖",
+          "url": "https://www.toutiao.com/trending/7602611657323515438/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时23分]"
+        },
+        {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://www.toutiao.com/trending/7602806779071696438/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时05分]"
+        },
+        {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://www.douyin.com/hot/2388894",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时05分]"
+        },
+        {
+          "title": "这波黄金疯涨真结束了吗",
+          "url": "https://www.toutiao.com/trending/7602628918998208010/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 05时16分]"
+        },
+        {
+          "title": "怕家长花压岁钱 女孩连续3年买黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%80%95%E5%AE%B6%E9%95%BF%E8%8A%B1%E5%8E%8B%E5%B2%81%E9%92%B1+%E5%A5%B3%E5%AD%A9%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E4%B9%B0%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时05分]"
+        },
+        {
+          "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3049348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "现货黄金站上5000美元关口，日内涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3049424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月4日（周三）早盘盘初上涨4.63%报1124.99元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）早盘盘初上涨6.92%报22363.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260204090118303800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "现货黄金站上4980美元/盎司，日内涨0.71%。",
+          "url": "https://flash.jin10.com/detail/20260204081354761800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        },
+        {
+          "title": "美国政府结束部分停摆，美伊局势再度紧张！黄金重回5000美元上方；“特朗普亲信”再度呼吁降息超一个百分点……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260204103150385800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月3日（周二）晚盘收盘上涨2.78%报1105.1元/克；<br/>上海黄金交易所白银T+D 2月3日（周二）晚盘收盘上涨5.67%报22100.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260204023108559800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "现货黄金重新站上5000美元",
+          "url": "https://flash.jin10.com/detail/20260204084913408800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "现货黄金、白银扩大涨幅，现货白银涨超3%，报87.65美元/盎司；现货黄金涨2.4%，报5061.95美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3049473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "现货黄金站上4990美元/盎司，日内涨7.07%。",
+          "url": "https://flash.jin10.com/detail/20260204003831641800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "10岁女孩连续3年用压岁钱买黄金",
+          "url": "https://www.toutiao.com/trending/7602442496341344298/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "现货黄金日内暴涨7.00%，现报4987.33美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260204003641475800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.72吨，当前持仓量为1083.38吨。",
+          "url": "https://flash.jin10.com/detail/20260204072033808800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 23,
       "titles": [
@@ -1318,6 +1671,18 @@
           "time_info": "[04时15分 ~ 05时16分]"
         },
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时37分 ~ 11时05分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
           "url": "https://wallstreetcn.com/livenews/3049262",
           "source": "华尔街见闻-快讯",
@@ -1328,18 +1693,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时23分]"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 09时40分]"
         },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
@@ -1543,278 +1896,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "黄金牛市还在吗？华尔街坚定看多：技术性回调不要怕，中国买家已成黄金市场强劲支柱！",
-          "url": "https://wallstreetcn.com/articles/3764808",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时40分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时13分]"
-        },
-        {
-          "title": "黄金白银为何又大涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E5%8F%88%E5%A4%A7%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            21,
-            9,
-            3,
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时40分]"
-        },
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 09时40分]"
-        },
-        {
-          "title": "【早报】中央一号文件发布；深夜，黄金白银大反攻",
-          "url": "https://www.cls.cn/detail/2279730",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 09时40分]"
-        },
-        {
-          "title": "现货黄金周三小幅高开，现货白银小幅低开。",
-          "url": "https://flash.jin10.com/detail/20260204070048066800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "现货黄金站上5020美元/盎司，日内涨1.51%。",
-          "url": "https://flash.jin10.com/detail/20260204090633959800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3049236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时26分]"
-        },
-        {
-          "title": "的哥早年听广播买30多克黄金已全卖",
-          "url": "https://www.toutiao.com/trending/7602611657323515438/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时23分]"
-        },
-        {
-          "title": "这波黄金疯涨真结束了吗",
-          "url": "https://www.toutiao.com/trending/7602628918998208010/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 05时16分]"
-        },
-        {
-          "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。 COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
-          "url": "https://wallstreetcn.com/livenews/3049348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "现货黄金重新站上5000美元",
-          "url": "https://www.toutiao.com/trending/7602806779071696438/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "现货黄金重新站上5000美元",
-          "url": "https://www.douyin.com/hot/2388894",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "怕家长花压岁钱 女孩连续3年买黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%80%95%E5%AE%B6%E9%95%BF%E8%8A%B1%E5%8E%8B%E5%B2%81%E9%92%B1+%E5%A5%B3%E5%AD%A9%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E4%B9%B0%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "现货黄金站上5000美元关口，日内涨逾1%。",
-          "url": "https://wallstreetcn.com/livenews/3049424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月4日（周三）早盘盘初上涨4.63%报1124.99元/克；<br/>上海黄金交易所白银T+D 2月4日（周三）早盘盘初上涨6.92%报22363.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260204090118303800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "现货黄金站上4980美元/盎司，日内涨0.71%。",
-          "url": "https://flash.jin10.com/detail/20260204081354761800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月3日（周二）晚盘收盘上涨2.78%报1105.1元/克；<br/>上海黄金交易所白银T+D 2月3日（周二）晚盘收盘上涨5.67%报22100.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260204023108559800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "现货黄金重新站上5000美元",
-          "url": "https://flash.jin10.com/detail/20260204084913408800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "现货黄金站上4990美元/盎司，日内涨7.07%。",
-          "url": "https://flash.jin10.com/detail/20260204003831641800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "10岁女孩连续3年用压岁钱买黄金",
-          "url": "https://www.toutiao.com/trending/7602442496341344298/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "现货黄金日内暴涨7.00%，现报4987.33美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260204003641475800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.72吨，当前持仓量为1083.38吨。",
-          "url": "https://flash.jin10.com/detail/20260204072033808800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 23,
       "titles": [
@@ -1838,8 +1919,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时05分]"
         },
         {
           "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
@@ -1851,8 +1932,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 09时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 11时05分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1863,8 +1944,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 09时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 11时05分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1875,8 +1956,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时37分 ~ 11时05分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1943,11 +2024,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时37分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时37分 ~ 11时05分]"
         },
         {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
@@ -1967,7 +2049,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -2085,7 +2167,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -2118,6 +2200,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 05时16分]"
+        },
+        {
+          "title": "高盛称，仍认为其对2026年12月金价在每盎司5,400美元的预测面临明显的上行风险。 高盛称，从时间线来看，1月金价波动更多由西方资金流驱动，而非中国投机所致。",
+          "url": "https://wallstreetcn.com/livenews/3049511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "高盛：继续认为其2026年12月黄金价格预测5400美元/盎司存在显著上行风险。",
+          "url": "https://flash.jin10.com/detail/20260204103944373800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         }
       ]
     },
