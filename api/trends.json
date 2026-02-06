@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T05:13:30.299265+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-07T06:09:11.810881+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -28,19 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
-        },
-        {
-          "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -49,7 +38,29 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
+          "title": "美国国防部：美国国务院批准向乌克兰出售价值1.85亿美元的IX级备件及相关设备。",
+          "url": "https://flash.jin10.com/detail/20260207040357695800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
+          "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -63,28 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "英伟达收涨7.8%，市值增加3250亿美元。 本周，亚马逊累跌12%，创2022年以来最差单周表现。",
-          "url": "https://wallstreetcn.com/livenews/3051622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美国国防部：美国国务院批准向乌克兰出售价值1.85亿美元的IX级备件及相关设备。",
-          "url": "https://flash.jin10.com/detail/20260207040357695800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9354元，较周四夜盘收盘涨9点。成交量373.22亿美元。",
@@ -105,11 +94,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时13分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时09分]"
         },
         {
           "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
@@ -125,6 +115,18 @@
           "time_info": "[03时20分 ~ 05时13分]"
         },
         {
+          "title": "英伟达收涨7.8%，市值增加3250亿美元。 本周，亚马逊累跌12%，创2022年以来最差单周表现。",
+          "url": "https://wallstreetcn.com/livenews/3051622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
           "url": "https://flash.jin10.com/detail/20260207024944141800",
           "source": "金十数据",
@@ -134,8 +136,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时09分]"
         },
         {
           "title": "LME期铜收涨91美元，报12994美元/吨。 LME期铝收涨58美元，报3085美元/吨。 LME期锌收涨44美元，报3346美元/吨。 LME期铅收涨4美元，报1960美元/吨。 LME期镍收涨19美元，报17090美元/吨。 LME期锡收涨260美元，报46718美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -177,6 +179,17 @@
           "time_info": "[03时20分 ~ 05时13分]"
         },
         {
+          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
+          "url": "https://flash.jin10.com/detail/20260207040013468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
           "title": "比特币涨超9%，刷新日高至69151.50美元，北京时间08:15还曾跌至60033美元——短时呈现出V形反转，随后逐步走高。",
           "url": "https://wallstreetcn.com/livenews/3051539",
           "source": "华尔街见闻-快讯",
@@ -213,6 +226,18 @@
           "time_info": "[04时13分 ~ 05时13分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者对美元的看空程度创7月份以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3051614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
           "title": "周五（2月6日），韩元兑美元最终跌0.01%，报1463.55韩元，本周累计下跌1.32%。",
           "url": "https://wallstreetcn.com/livenews/3051587",
           "source": "华尔街见闻-快讯",
@@ -237,6 +262,30 @@
           "time_info": "[03时20分 ~ 04时13分]"
         },
         {
+          "title": "美元指数本周涨超0.6%",
+          "url": "https://wallstreetcn.com/livenews/3051608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
+          "title": "WTI 3月原油期货收报63.55美元/桶。 布伦特4月原油期货收报68.05美元/桶。 NYMEX 3月天然气期货收报3.4220美元/百万英热单位。 NYMEX 3月汽油期货收报1.9532美元/加仑，NYMEX 3月取暖油期货收报2.4133美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3051604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
           "title": "现货白银日内暴涨10.00%，现报77.88美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260207020446136800",
           "source": "金十数据",
@@ -248,26 +297,15 @@
           "time_info": "02时22分"
         },
         {
-          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
-          "url": "https://flash.jin10.com/detail/20260207040013468800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者对美元的看空程度创7月份以来最高。",
-          "url": "https://wallstreetcn.com/livenews/3051614",
+          "title": "美联储：美国上周银行存款18.647万亿美元，之前一周18.610万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "06时09分"
         },
         {
           "title": "现货白银向上触及77美元/盎司，日内涨8.77%。",
@@ -292,26 +330,15 @@
           "time_info": "02时22分"
         },
         {
-          "title": "美元指数本周涨超0.6%",
-          "url": "https://wallstreetcn.com/livenews/3051608",
+          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051623",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "WTI 3月原油期货收报63.55美元/桶。 布伦特4月原油期货收报68.05美元/桶。 NYMEX 3月天然气期货收报3.4220美元/百万英热单位。 NYMEX 3月汽油期货收报1.9532美元/加仑，NYMEX 3月取暖油期货收报2.4133美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3051604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "06时09分"
         },
         {
           "title": "现货白银日内暴涨9.00%，现报77.19美元/盎司；纽约期银向上触及77美元/盎司，日内涨0.37%。",
@@ -372,7 +399,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -382,8 +409,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -394,8 +421,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15,
+            13,
+            10,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -409,37 +452,11 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            21,
-            15,
-            13,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
-        },
-        {
           "title": "阿根廷外长：特朗普和米莱将继续探讨降低阿根廷铝材和钢材关税的问题。",
           "url": "https://flash.jin10.com/detail/20260207010853247800",
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
-          "url": "https://flash.jin10.com/detail/20260207010541292800",
-          "source": "金十数据",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -455,8 +472,31 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时09分]"
+        },
+        {
+          "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
+          "url": "https://flash.jin10.com/detail/20260207010541292800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 06时09分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -509,18 +549,6 @@
           "time_info": "[02时22分 ~ 04时13分]"
         },
         {
-          "title": "特朗普“下场”支持日本首相",
-          "url": "https://www.douyin.com/hot/2391219",
-          "source": "抖音",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时13分]"
-        },
-        {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
           "url": "https://wallstreetcn.com/livenews/3051532",
           "source": "华尔街见闻-快讯",
@@ -543,6 +571,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时13分]"
+        },
+        {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -593,15 +632,15 @@
           "time_info": "[02时22分 ~ 03时20分]"
         },
         {
-          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
-          "url": "https://flash.jin10.com/detail/20260207034858058800",
-          "source": "金十数据",
+          "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3051632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "06时09分"
         },
         {
           "title": "美国财长贝森特：特朗普账户或是其最伟大的政治遗产。",
@@ -640,7 +679,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -650,19 +689,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2283417",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -683,8 +723,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时13分]"
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 06时09分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨5.18%，报391.95点，本周累涨2.52%。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.94%，报2764.85点，本周累涨0.76%。 （美股）原材料指数收涨3.62%，本周累涨4.82%。 （美股）金属与矿业指数收涨3.92%，本周累涨6.03%。",
+          "url": "https://wallstreetcn.com/livenews/3051636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -702,11 +753,12 @@
           "url": "https://wallstreetcn.com/livenews/3051616",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
         },
         {
           "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
@@ -715,9 +767,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
+        },
+        {
+          "title": "美股KBW地区银行指数突破2022年所创收盘历史最高位。",
+          "url": "https://wallstreetcn.com/livenews/3051627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "06时09分"
         },
         {
           "title": "美股延续涨势，纳指上涨2.00%。",
@@ -850,8 +913,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
         },
         {
           "title": "米兰冬奥会金牌价值飞涨：含6克黄金",
@@ -866,6 +929,19 @@
           "time_info": "[00时20分 ~ 02时22分]"
         },
         {
+          "title": "女演员开箱取出100克黄金500克白银",
+          "url": "https://www.toutiao.com/trending/7603351330325086262/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 06时09分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市收涨约1.4%，成分股安格鲁阿山帝黄金涨约4.7%领跑",
           "url": "https://wallstreetcn.com/livenews/3051542",
           "source": "华尔街见闻-快讯",
@@ -878,19 +954,6 @@
           "time_info": "[00时21分 ~ 01时20分]"
         },
         {
-          "title": "女演员开箱取出100克黄金500克白银",
-          "url": "https://www.toutiao.com/trending/7603351330325086262/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时13分]"
-        },
-        {
           "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260207032258342800",
           "source": "金十数据",
@@ -899,8 +962,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时13分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时09分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月6日（周五）晚盘收盘上涨2.97%报1111.0元/克；<br/>上海黄金交易所白银T+D 2月6日（周五）晚盘收盘上涨3.97%报18848.0元/千克。",
@@ -919,11 +982,12 @@
           "url": "https://wallstreetcn.com/livenews/3051610",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
         },
         {
           "title": "现货黄金站上4960美元/盎司，日内涨3.78%。",
@@ -951,8 +1015,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时09分]"
         },
         {
           "title": "量子计算概念股D-Wave Quantum涨17%，创最近六周最大盘中涨幅。 Arqit涨15.7%，QMCO涨14.3%，IonQ涨12.6%，量子ETF涨3.99%。",
@@ -990,9 +1054,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时09分]"
         }
       ]
     }
