@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:25:15.562845+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-02-10T20:27:41.153279+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时10分 ~ 13时37分]"
+        },
+        {
+          "title": "可口可乐(KO.N)预计2026年资本支出22亿美元，市场预估23.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210200100472800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
@@ -302,6 +313,18 @@
           "time_info": "[15时31分 ~ 17时27分]"
         },
         {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时27分]"
+        },
+        {
           "title": "IMF总裁淡化美元“短期波动”，称美元角色短期内不会改变",
           "url": "https://wallstreetcn.com/livenews/3052468",
           "source": "华尔街见闻-快讯",
@@ -367,6 +390,18 @@
           "time_info": "[02时26分 ~ 04时18分]"
         },
         {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时27分]"
+        },
+        {
           "title": "外资回归加速 量化巨头Qube旗下中国基金资产规模突破20亿美元",
           "url": "https://wallstreetcn.com/livenews/3052675",
           "source": "华尔街见闻-快讯",
@@ -413,17 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时18分]"
-        },
-        {
-          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
-          "url": "https://wallstreetcn.com/articles/3765361",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "玻利维亚财政部长：玻利维亚计划动用不断增长的国际储备，以支付即将到期、需向私人债权人偿付的美元债务。此举旨在稳定经济。",
@@ -546,17 +570,6 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
           "title": "纽约金5分钟内上涨8.7美元/盎司，报5102.6美元/盎司。 现货白银日内涨幅达7.0%，报82.95美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3052439",
           "source": "华尔街见闻-快讯",
@@ -567,6 +580,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时26分]"
+        },
+        {
+          "title": "可口可乐(KO.N)第四季度净营收118亿美元，市场预估120.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210195656250800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "以太坊一度跌破2050美元，日内跌幅超3%。",
@@ -597,7 +621,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -641,7 +665,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -663,7 +687,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -754,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "西维斯健康（CVS）第四季度调整后每股收益为1.09美元，去年同期为1.19美元。 第四季度同店销售增长16%，去年同期增长10.2%，市场预期增长11.1%。 第四季度净收入1056.9亿美元，同比增长8.2%，市场预期1036.9亿美元。 西维斯健康盘前下跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
@@ -1006,6 +1041,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 20时27分]"
+        },
+        {
           "title": "美民调：多数人不认可特朗普关税政策",
           "url": "https://www.toutiao.com/trending/7604360239181807658/",
           "source": "今日头条",
@@ -1016,17 +1062,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时25分 ~ 05时18分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 19时25分]"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -1128,7 +1163,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1150,7 +1185,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1246,7 +1281,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -1257,8 +1292,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时47分 ~ 19时25分]"
+          "appearance_count": 17,
+          "time_info": "[08时47分 ~ 20时27分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -1344,6 +1379,17 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
+          "title": "年会中黄金熔炼后变白银 公司喊冤",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时27分]"
+        },
+        {
           "title": "黄金ETF收涨超2.4%，领跑美股大类资产类ETF，做多美元指数跌0.8%",
           "url": "https://wallstreetcn.com/livenews/3052519",
           "source": "华尔街见闻-快讯",
@@ -1404,17 +1450,6 @@
           "time_info": "[18时26分 ~ 19时25分]"
         },
         {
-          "title": "年会中黄金熔炼后变白银 公司喊冤",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
           "title": "金十图示：2026年02月10日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260210115205401800",
           "source": "金十数据",
@@ -1424,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月10日（周二）早盘盘初上涨0.26%报1119.86元/克；<br/>上海黄金交易所白银T+D 2月10日（周二）早盘盘初上涨0.69%报19306.0元/千克。",
@@ -1514,6 +1560,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "女子年会中4克黄金熔后变白银",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%B4%E4%BC%9A%E4%B8%AD4%E5%85%8B%E9%BB%84%E9%87%91%E7%86%94%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "现货黄金日内涨幅达2.0%，报5059.55美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3052430",
           "source": "华尔街见闻-快讯",
@@ -1528,7 +1585,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -1559,15 +1616,15 @@
           "time_info": "[01时24分 ~ 11时11分]"
         },
         {
-          "title": "Spotify四季度营收45.3亿欧元，预估45.2亿欧元。 四季度每股收益4.43美元，上年同期1.76美元。 Spotify预计一季度营收45亿欧元，市场预估45.8亿欧元。 Spotify预计一季度月活跃用户数为7590万，市场预估7524.5万。 Spotify美股盘前涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3052983",
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "20时27分"
         },
         {
           "title": "（美股）费城金银指数收涨5.85%，报414.90点。 （全球时段）纽约证交所ARCA金矿开采商指数涨5.68%，报2921.91点。 （美股）原材料指数收涨1.55%，（美股）金属与矿业指数收涨0.96%。",
@@ -1580,6 +1637,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时18分]"
+        },
+        {
+          "title": "Spotify四季度营收45.3亿欧元，预估45.2亿欧元。 四季度每股收益4.43美元，上年同期1.76美元。 Spotify预计一季度营收45亿欧元，市场预估45.8亿欧元。 Spotify预计一季度月活跃用户数为7590万，市场预估7524.5万。 Spotify美股盘前涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3052983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时27分]"
         },
         {
           "title": "美股收盘：道指再创历史新高",
@@ -1702,6 +1771,17 @@
           "time_info": "[01时24分 ~ 02时26分]"
         },
         {
+          "title": "法拉利预计2026年调整后EBITDA至少为29.3亿欧元，市场预期为29.1亿欧元。 第四季度EBITDA为7亿欧元，市场预期为6.62亿欧元。 第四季度净利润为3.81亿欧元，市场预期为3.83亿欧元。 第四季度稀释后每股收益为2.14欧元，市场预期为2.13欧元。 第四季度营收为18亿欧元，市场预期为17.7亿欧元。 第四季度交付量为3,152辆，市场预期为3,262辆。 法拉利美股盘前一度涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3053021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260210013148662800",
           "source": "金十数据",
@@ -1749,7 +1829,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "Seedance概念股批量二连板 热度之下字节跳动回应隐私争议：已限制真人人脸上传",
@@ -1762,8 +1842,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时31分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 20时27分]"
         },
         {
           "title": "【数读IPO】今日3只新股上市，涉及商业航天概念等",
@@ -1791,6 +1871,18 @@
           "time_info": "[01时24分 ~ 07时18分]"
         },
         {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
+          "url": "https://www.cls.cn/detail/2285961",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 20时27分]"
+        },
+        {
           "title": "算力概念股盘初上扬，大位科技2连板，特发信息涨停，亚康股份、江苏有线、光环新网、城地香江、亿田智能跟涨。",
           "url": "https://wallstreetcn.com/livenews/3052628",
           "source": "华尔街见闻-快讯",
@@ -1800,18 +1892,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
-          "url": "https://www.cls.cn/detail/2285961",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 19时25分]"
         },
         {
           "title": "突发！4连板光伏概念牛股股东拟减持不超1%股份|盘后公告集锦",
@@ -1825,6 +1905,17 @@
           "time_info": "[11时10分 ~ 12时52分]"
         },
         {
+          "title": "【焦点复盘】沪指横盘整理报收十字星，Seedance概念多股实现二连板，算力硬件端现高低切",
+          "url": "https://www.cls.cn/detail/2286019",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "A股机器人概念股午后活跃，万向钱潮涨停，力星股份、斯菱智驱、五洲新春、天奇股份、中大力德跟涨。",
           "url": "https://wallstreetcn.com/livenews/3052748",
           "source": "华尔街见闻-快讯",
@@ -1834,6 +1925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "协鑫集成：截至目前，公司主营业务及产品主要集中于地面光伏领域，公司尚不具备“太空光伏”领域相关产品的生产能力，尚未获得相关订单。因此，该概念目前未对公司经营业绩产生影响，公司特此提醒广大投资者，应充分认识股票市场的风险，切勿盲目追逐市场热点，审慎作出决策、理性开展投资，避免因概念炒作而引发投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3053014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -1922,11 +2024,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时27分]"
         },
         {
           "title": "亿万富翁投资者托马斯·卡普兰：货币贬值和高全球债务支撑了黄金进一步走强的呼声，预计金价将创下新高。认为黄金是一种货币，而非大宗商品。",
@@ -1954,7 +2057,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2/10年期美债收益率跌约1.2个基点",
@@ -1967,6 +2070,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时17分]"
+        },
+        {
+          "title": "机构：美债收益率下行 市场聚焦即将发布的美国非农就业报告",
+          "url": "https://flash.jin10.com/detail/20260210193908017800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "拒绝焦虑！从Deepseek到即梦，这一年到底有多少AI工具？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260210192736679800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
