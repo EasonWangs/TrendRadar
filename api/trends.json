@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:29:19.884256+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-02-11T16:22:23.961860+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -74,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时21分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.00%，现报64.84美元/桶。布伦特原油日内涨幅达1.00%，现报69.22美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260211161354276800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "Blue Owl联席CEO Doug Ostrover：Blue Owl设法让（自身的）数据中心交易规模达到500亿美元。",
@@ -134,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        },
-        {
-          "title": "现货白银站上84美元/盎司，日内涨超4%。 纽约期银日内涨4%，现报83.61美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3053521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         },
         {
           "title": "纽约联储：自2019年底以来，美国家庭总债务在第四季度增加了4.6万亿美元。",
@@ -229,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时20分]"
+        },
+        {
+          "title": "现货白银站上84美元/盎司，日内涨超4%。 纽约期银日内涨4%，现报83.61美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时22分]"
         },
         {
           "title": "Advanced Energy四季度销售4.894亿美元，分析师预期4.739亿美元。 预计一季度营收4.80亿-5.20亿美元，分析师预期4.701亿美元。",
@@ -371,7 +383,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -470,9 +482,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "伦镍盘中短线拉升，日内涨近2.5%，至17915美元/吨。报道称位于印尼的全球最大镍矿被要求削减产量。",
+          "url": "https://wallstreetcn.com/livenews/3053552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美元指数10日下跌",
@@ -558,7 +581,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -591,7 +614,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -679,7 +702,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -723,7 +746,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -786,7 +809,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -797,8 +820,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时46分 ~ 15时29分]"
+          "appearance_count": 11,
+          "time_info": "[08时46分 ~ 16时22分]"
         },
         {
           "title": "特朗普又翻脸了，中国再躺枪",
@@ -809,8 +832,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时46分 ~ 15时29分]"
+          "appearance_count": 11,
+          "time_info": "[08时46分 ~ 16时22分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -831,8 +854,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时46分 ~ 15时29分]"
+          "appearance_count": 11,
+          "time_info": "[08时46分 ~ 16时22分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -1057,6 +1080,17 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时22分]"
+        },
+        {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
           "url": "https://flash.jin10.com/detail/20260211050353108800",
           "source": "金十数据",
@@ -1270,17 +1304,6 @@
           "time_info": "[11时10分 ~ 11时11分]"
         },
         {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
           "title": "报道：特朗普将指示五角大楼与燃煤发电厂签订合同，以期重振煤炭行业",
           "url": "https://wallstreetcn.com/livenews/3053396",
           "source": "华尔街见闻-快讯",
@@ -1325,6 +1348,17 @@
           "time_info": "11时11分"
         },
         {
+          "title": "卡塔尔埃米尔与特朗普通话，讨论地区局势发展。",
+          "url": "https://flash.jin10.com/detail/20260211154826994800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
           "url": "https://flash.jin10.com/detail/20260211111638705800",
           "source": "金十数据",
@@ -1345,6 +1379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
+          "url": "https://wallstreetcn.com/livenews/3053536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "加拿大总理卡尼：特朗普要求特使Hoekstra参与大桥磋商。",
@@ -1415,6 +1460,182 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时19分]"
+        },
+        {
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 13时36分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.31%，恒生科技指数收涨0.9%。小米集团、金蝶国际涨超4%，有色金属板块走高，赤峰黄金涨近6%，赣锋锂业涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "黄金盘中巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9B%98%E4%B8%AD%E5%B7%A8%E9%9C%87%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 09时42分]"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260211115306469800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 13时36分]"
+        },
+        {
+          "title": "周二（2月10日）纽约尾盘，现货黄金跌0.62%，报5026.20美元/盎司。 COMEX黄金期货跌0.65%，报5046.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "富国银行：获利了结无碍长牛 上调黄金目标价至6300美元",
+          "url": "https://flash.jin10.com/detail/20260211053637469800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "小区买房送黄金房价跌了住户却赚了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E4%B9%B0%E6%88%BF%E9%80%81%E9%BB%84%E9%87%91%E6%88%BF%E4%BB%B7%E8%B7%8C%E4%BA%86%E4%BD%8F%E6%88%B7%E5%8D%B4%E8%B5%9A%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "隔夜美国12月零售销售月率低于预期，黄金一度拉升；1月非农报告今晚重磅公布，哈塞特此前预告就业数据转差，金银多头现维持高位，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260211105309315800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "现货黄金突破5060美元/盎司，日内涨0.74%。",
+          "url": "https://flash.jin10.com/detail/20260211113253352800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3053182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "现货黄金向上触及5050美元/盎司，日内涨0.54%。",
+          "url": "https://flash.jin10.com/detail/20260211072219935800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.34吨，当前持仓量为1079.32吨。",
+          "url": "https://flash.jin10.com/detail/20260211072034921800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月10日（周二）晚盘收盘下跌0.49%报1115.02元/克；<br/>上海黄金交易所白银T+D 2月10日（周二）晚盘收盘下跌0.32%报19238.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260211023038113800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国财政部外国资产控制办公室对黄金交易公司Jood SARL（总部位于黎巴嫩）实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260210233908375800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
@@ -1455,8 +1676,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时46分 ~ 15时29分]"
+          "appearance_count": 11,
+          "time_info": "[08时46分 ~ 16时22分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -1492,8 +1713,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 16时22分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -1593,160 +1814,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时19分]"
-        },
-        {
-          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
-          "url": "https://wallstreetcn.com/articles/3765365",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 13时36分]"
-        },
-        {
-          "title": "黄金盘中巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9B%98%E4%B8%AD%E5%B7%A8%E9%9C%87%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时46分 ~ 09时42分]"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260211115306469800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时36分]"
-        },
-        {
-          "title": "周二（2月10日）纽约尾盘，现货黄金跌0.62%，报5026.20美元/盎司。 COMEX黄金期货跌0.65%，报5046.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3053267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "富国银行：获利了结无碍长牛 上调黄金目标价至6300美元",
-          "url": "https://flash.jin10.com/detail/20260211053637469800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "隔夜美国12月零售销售月率低于预期，黄金一度拉升；1月非农报告今晚重磅公布，哈塞特此前预告就业数据转差，金银多头现维持高位，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260211105309315800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "现货黄金突破5060美元/盎司，日内涨0.74%。",
-          "url": "https://flash.jin10.com/detail/20260211113253352800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3053182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "现货黄金向上触及5050美元/盎司，日内涨0.54%。",
-          "url": "https://flash.jin10.com/detail/20260211072219935800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.34吨，当前持仓量为1079.32吨。",
-          "url": "https://flash.jin10.com/detail/20260211072034921800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 2月10日（周二）晚盘收盘下跌0.49%报1115.02元/克；<br/>上海黄金交易所白银T+D 2月10日（周二）晚盘收盘下跌0.32%报19238.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260211023038113800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "美国财政部外国资产控制办公室对黄金交易公司Jood SARL（总部位于黎巴嫩）实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260210233908375800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -1779,11 +1846,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 16时22分]"
         },
         {
           "title": "金价波动",
@@ -1815,7 +1883,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1903,7 +1971,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -2034,7 +2102,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
