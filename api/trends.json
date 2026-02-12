@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:47:24.969925+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-02-12T13:35:53.212866+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -18,8 +18,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时41分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[08时41分 ~ 13时35分]"
+        },
+        {
+          "title": "联想港股午后跌超4%，此前公布集团第三财季营收222.0亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3054203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "现货金银周四高开，现分别报5093美元和84.62美元。",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
-          "url": "https://wallstreetcn.com/livenews/3054184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
         },
         {
           "title": "Link Data Services数据显示，加拿大Cold Lake重油较美国墨西哥湾沿岸的WTI原油的折扣幅度扩大至8.50美元/桶，创2023年12月8日以来最阔。",
@@ -186,6 +186,18 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
+          "url": "https://wallstreetcn.com/livenews/3054184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时35分]"
+        },
+        {
           "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
           "url": "https://flash.jin10.com/detail/20260212030002185800",
           "source": "金十数据",
@@ -234,6 +246,18 @@
           "time_info": "[04时16分 ~ 05时17分]"
         },
         {
+          "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
+          "url": "https://flash.jin10.com/detail/20260212115333742800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时35分]"
+        },
+        {
           "title": "周三（2月11日），韩元兑美元最终涨0.73%，刷新日高至1446.73韩元，非农数据发布后跳水至1459.49韩元刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3053897",
           "source": "华尔街见闻-快讯",
@@ -256,6 +280,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 11时10分]"
+        },
+        {
+          "title": "需求前景和美元走软仍在支撑铜价上涨",
+          "url": "https://flash.jin10.com/detail/20260212113954561800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时35分]"
         },
         {
           "title": "福特汽车(F.N)计划至2030年推出5款售价低于4万美元的新车。",
@@ -305,6 +341,30 @@
           "time_info": "[03时28分 ~ 04时16分]"
         },
         {
+          "title": "美元兑日元跌0.5%，现报152.48。",
+          "url": "https://wallstreetcn.com/livenews/3054157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时35分]"
+        },
+        {
+          "title": "离岸人民币兑美元升破6.9元关口",
+          "url": "https://www.toutiao.com/trending/7605789817812553222/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 13时35分]"
+        },
+        {
           "title": "据知情人士透露，新加坡财富基金GIC Pte.考虑出售在欧洲数据中心合资公司的持股。 该数据中心合资公司按xScale品牌运营。 GIC对其持股80%，若达成一份协议，对该公司的估值大约为20亿欧元（折合24亿美元）。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3053864",
           "source": "华尔街见闻-快讯",
@@ -349,17 +409,6 @@
           "time_info": "02时28分"
         },
         {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
-          "url": "https://flash.jin10.com/detail/20260212115333742800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "现货白银日内走低3.00%，现报81.64美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260212091511285800",
           "source": "金十数据",
@@ -382,24 +431,13 @@
           "time_info": "05时17分"
         },
         {
-          "title": "需求前景和美元走软仍在支撑铜价上涨",
-          "url": "https://flash.jin10.com/detail/20260212113954561800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "美核聚变新贵融资4.5亿美元 瞄准2030年启动商业电站建设",
           "url": "https://www.cls.cn/detail/2287635",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -421,7 +459,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -443,7 +481,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -547,17 +585,6 @@
           "time_info": "06时13分"
         },
         {
-          "title": "美元兑日元跌0.5%，现报152.48。",
-          "url": "https://wallstreetcn.com/livenews/3054157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "周三（2月11日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9095元，较周二纽约尾盘涨26点，日内整体交投于6.9195-6.9059元区间，美国非农就业报告出炉时刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3053987",
           "source": "华尔街见闻-快讯",
@@ -589,23 +616,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "离岸人民币兑美元升破6.9元关口",
-          "url": "https://www.toutiao.com/trending/7605789817812553222/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -631,8 +647,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时28分 ~ 12时47分]"
+          "appearance_count": 12,
+          "time_info": "[02时28分 ~ 13时35分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -768,6 +784,18 @@
           "time_info": "[03时28分 ~ 05时17分]"
         },
         {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 13时35分]"
+        },
+        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
           "url": "https://wallstreetcn.com/livenews/3053917",
           "source": "华尔街见闻-快讯",
@@ -841,6 +869,18 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时35分]"
+        },
+        {
           "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
           "url": "https://wallstreetcn.com/livenews/3053975",
           "source": "华尔街见闻-快讯",
@@ -863,18 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 11时10分]"
-        },
-        {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时47分]"
         },
         {
           "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
@@ -1005,15 +1033,15 @@
           "time_info": "03时28分"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "13时35分"
         },
         {
           "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
@@ -1249,17 +1277,6 @@
           "time_info": "[03时27分 ~ 07时14分]"
         },
         {
-          "title": "金十图示：2026年02月12日（周四）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260212120338120800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "美联储哈玛克：黄金和金属价格上涨可能与通胀有关。",
           "url": "https://flash.jin10.com/detail/20260212055643823800",
           "source": "金十数据",
@@ -1270,6 +1287,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时14分]"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260212120338120800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时35分]"
+        },
+        {
+          "title": "黄金白银直线下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 13时35分]"
         },
         {
           "title": "黄金白银直线下跌",
@@ -1296,19 +1338,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时16分 ~ 06时13分]"
-        },
-        {
-          "title": "黄金白银直线下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 12时47分]"
         },
         {
           "title": "周三（2月11日）纽约尾盘，现货黄金涨1.06%，报5078.98美元/盎司，北京时间20:00刷新日高至5119.30美元，随后在美国非农就业报告发布时跳水至5020.28美元刷新日低，1月30日以来持续测试5000美元整数位心理关口。 COMEX黄金期货涨1.48%，报5105.43美元/盎司。",
@@ -1428,8 +1457,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 12时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 13时35分]"
         },
         {
           "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
@@ -1442,8 +1471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 12时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 13时35分]"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -1486,11 +1515,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 13时35分]"
         },
         {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
@@ -1529,7 +1559,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -1567,8 +1597,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 12时47分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 13时35分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1579,8 +1609,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 12时47分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 13时35分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1606,8 +1636,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时13分 ~ 12时47分]"
+          "appearance_count": 7,
+          "time_info": "[06时13分 ~ 13时35分]"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
