@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T18:23:03.391939+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2026-02-12T19:22:49.450397+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -18,11 +18,26 @@
             21,
             13,
             18,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时41分 ~ 19时22分]"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时22分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -37,19 +52,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时41分 ~ 14时32分]"
-        },
-        {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 18时23分]"
         },
         {
           "title": "联想港股午后跌超4%，此前公布集团第三财季营收222.0亿美元。",
@@ -471,6 +473,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "现货白银日内走低3.00%，现报81.64美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260212091511285800",
           "source": "金十数据",
@@ -636,6 +649,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美国天然气期货日内涨幅达3.00%，现报3.254美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260212185609803800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "摩根士丹利将CEO Pick的薪酬从3400万美元提高至4500万美元。",
           "url": "https://wallstreetcn.com/livenews/3053966",
           "source": "华尔街见闻-快讯",
@@ -771,7 +795,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -797,8 +821,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时28分 ~ 18时23分]"
+          "appearance_count": 21,
+          "time_info": "[02时28分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 19时22分]"
         },
         {
           "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
@@ -811,8 +848,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时35分 ~ 18时23分]"
+          "appearance_count": 10,
+          "time_info": "[13时35分 ~ 19时22分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时22分]"
         },
         {
           "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
@@ -821,11 +871,23 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时47分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 19时22分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -840,52 +902,18 @@
           "time_info": "[01时05分 ~ 08时41分]"
         },
         {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时28分 ~ 18时23分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 18时23分]"
-        },
-        {
-          "title": "特朗普将于4月初访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8qgc1cfon19",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 18时23分]"
-        },
-        {
           "title": "中方回应特朗普预计4月初访华",
           "url": "https://www.toutiao.com/trending/7605620935953956906/",
           "source": "今日头条",
           "ranks": [
             6,
             4,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时22分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -899,6 +927,40 @@
           "time_info": "[17时23分 ~ 18时23分]"
         },
         {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时22分]"
+        },
+        {
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "皮博迪能源盘前涨4.7%，此前特朗普指示能源部拨付资金维持燃煤电厂运营。",
+          "url": "https://flash.jin10.com/detail/20260212190634205800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "Peabody Energy的CEO Jim Grech：公司正与美国总统特朗普的政府围绕修建新的煤炭发电厂的可能性合作。",
           "url": "https://wallstreetcn.com/livenews/3054006",
           "source": "华尔街见闻-快讯",
@@ -908,18 +970,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
@@ -1031,6 +1081,30 @@
           "time_info": "[11时10分 ~ 14时32分]"
         },
         {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时22分]"
+        },
+        {
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时22分]"
+        },
+        {
           "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
           "url": "https://www.cls.cn/detail/2287874",
           "source": "财联社热门",
@@ -1067,17 +1141,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时17分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
@@ -1152,6 +1215,18 @@
           "time_info": "[06时13分 ~ 07时14分]"
         },
         {
+          "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
+          "url": "https://wallstreetcn.com/livenews/3054430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时22分]"
+        },
+        {
           "title": "特朗普关税政策正迎来新的挑战",
           "url": "https://www.toutiao.com/trending/7605755745048464905/",
           "source": "今日头条",
@@ -1186,17 +1261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时14分]"
-        },
-        {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
@@ -1314,17 +1378,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
-          "url": "https://wallstreetcn.com/livenews/3054430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
           "url": "https://flash.jin10.com/detail/20260212025205633800",
           "source": "金十数据",
@@ -1345,6 +1398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-12）",
+          "url": "https://flash.jin10.com/detail/20260212190323631800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
@@ -1441,7 +1505,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1715,7 +1779,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -1726,8 +1790,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时14分 ~ 18时23分]"
+          "appearance_count": 15,
+          "time_info": "[07时14分 ~ 19时22分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -1852,6 +1916,17 @@
           "time_info": "[18时22分 ~ 18时23分]"
         },
         {
+          "title": "盈利提振全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
           "url": "https://wallstreetcn.com/livenews/3053995",
           "source": "华尔街见闻-快讯",
@@ -1930,8 +2005,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时05分 ~ 18时23分]"
+          "appearance_count": 23,
+          "time_info": "[01时05分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -1944,8 +2019,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时13分 ~ 18时23分]"
+          "appearance_count": 16,
+          "time_info": "[06时13分 ~ 19时22分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1971,8 +2046,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时05分 ~ 18时23分]"
+          "appearance_count": 23,
+          "time_info": "[01时05分 ~ 19时22分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
@@ -2002,7 +2077,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量微涨录得日线7连阳，影视传媒股全天低迷，涨价概念现多点开花",
@@ -2017,17 +2092,6 @@
           "time_info": "[01时05分 ~ 07时14分]"
         },
         {
-          "title": "宏和科技：近日，公司关注到部分媒体将公司列为“PCB概念”。公司主要产品电子级玻璃纤维布是PCB的基础材料之一，公司长期专注于主要产品的研发、生产与销售，主营业务不存在重大变化。",
-          "url": "https://wallstreetcn.com/livenews/3054443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "A股太空光伏概念震荡回升，拉普拉斯涨超10%，此前雅博股份4连板，双良节能涨停，帝尔激光、微导纳米、连城数控、聚和材料等冲高。",
           "url": "https://wallstreetcn.com/livenews/3054251",
           "source": "华尔街见闻-快讯",
@@ -2037,6 +2101,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "宏和科技：近日，公司关注到部分媒体将公司列为“PCB概念”。公司主要产品电子级玻璃纤维布是PCB的基础材料之一，公司长期专注于主要产品的研发、生产与销售，主营业务不存在重大变化。",
+          "url": "https://wallstreetcn.com/livenews/3054443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时22分]"
         },
         {
           "title": "算力概念股表现强势，大位科技4连板，特发信息3连板，海量数据2连板，美利云一字涨停，优刻得涨超15%，消息上，国务院国资委日前提出，中央企业要强化投资牵引，积极扩大算力有效投资，推进“算力+电力”协同发展。",
@@ -2060,6 +2136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "德才股份：公司关注到近期资本市场对漫剧制作相关概念关注度较高，相关板块二级市场表现较为活跃，部分媒体报道公司控股孙公司福建奇想无限网络有限公司涉及上述相关概念。奇想无限成立于2025年12月5日，设立时间较短，目前正处于业务发展初期，实缴资本仅300万元，资产规模较小，人员较少，目前尚无相关业务订单及收入，未对公司经营业绩造成影响。",
+          "url": "https://wallstreetcn.com/livenews/3054453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "A股算力芯片概念午后拉升，芯原股份涨超10%，股价续创历史新高，翱捷科技、复旦微电、云天励飞、乐鑫科技、寒武纪、海光信息等跟涨。",
