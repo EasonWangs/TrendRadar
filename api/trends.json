@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T19:17:03.660670+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2026-02-13T20:19:27.607931+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 92,
       "titles": [
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -326,6 +326,19 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "去年印度GDP达4.18万亿美元",
+          "url": "https://www.toutiao.com/trending/7605162003853803563/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时19分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9033元，较周三夜盘收盘涨73点。成交量382.61亿美元。",
           "url": "https://wallstreetcn.com/livenews/3054691",
           "source": "华尔街见闻-快讯",
@@ -363,18 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时44分 ~ 14时29分]"
-        },
-        {
-          "title": "去年印度GDP达4.18万亿美元",
-          "url": "https://www.toutiao.com/trending/7605162003853803563/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产降至7.77 万亿美元。",
@@ -620,7 +621,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -708,7 +709,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -752,7 +753,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -799,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "Benchmark将Rivian目标价从18美元上调至25美元。",
+          "url": "https://wallstreetcn.com/livenews/3055180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "现货铂金延续跌势，最新报1,994.79美元/盎司，日内下跌6%。",
@@ -977,6 +989,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "ST信通：全资子公司大连图灵信通科技有限公司于近日与海外某供应商签订了服务器采购合同，合同总额5,778.85万美元，折合人民币约4亿元。",
+          "url": "https://wallstreetcn.com/livenews/3055173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "现货白银日内跌幅达8.5%，报76.88美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3054625",
           "source": "华尔街见闻-快讯",
@@ -1008,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "伦镍日内跌幅达2.00%，现报16891.20美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260213200544615800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美银：“除美元外皆可买”交易将提振国际资产",
@@ -1046,7 +1080,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -1091,8 +1125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时43分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时43分 ~ 20时19分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -1165,8 +1199,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时33分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[13时33分 ~ 20时19分]"
         },
         {
           "title": "特朗普称期待4月访华",
@@ -1207,8 +1241,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时19分]"
+        },
+        {
+          "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。",
+          "url": "https://wallstreetcn.com/livenews/3055197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美媒：特朗普政府秘密向伊朗输送星链终端",
@@ -1220,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国财长贝森特（谈金属关税）：这是特朗普的决定。 今天早上与美国贸易代表进行了沟通，将看看是否会有范围收窄。 如果有任何措施，将只是对附带物品的澄清。",
+          "url": "https://wallstreetcn.com/livenews/3055194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美国总统特朗普：（1月非农）就业报告在特定方面是惊人的。",
@@ -1335,6 +1391,18 @@
           "time_info": "[13时33分 ~ 14时29分]"
         },
         {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时19分]"
+        },
+        {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
           "url": "https://flash.jin10.com/detail/20260213031034911800",
           "source": "金十数据",
@@ -1359,18 +1427,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "声明显示：以色列总统已就特朗普要求赦免内塔尼亚胡一事作出回应，即申请正在审查中，以色列总统将考虑该请求，且不会受到任何外部或内部压力的影响。",
@@ -1576,13 +1632,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "美国财长贝森特：（谈就业）这是美国总统特朗普经济再私有化计划的一部分。",
+          "url": "https://flash.jin10.com/detail/20260213201210364800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-13）",
           "url": "https://flash.jin10.com/detail/20260213184225992800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1733,7 +1800,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -1743,8 +1810,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时43分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时43分 ~ 20时19分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -1756,8 +1823,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时43分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时43分 ~ 20时19分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -2017,7 +2084,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -2066,6 +2133,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "事关黄金！深圳十部门出手",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E9%BB%84%E9%87%91%EF%BC%81%E6%B7%B1%E5%9C%B3%E5%8D%81%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "加纳矿业协会：加纳2026年650万盎司的黄金产量目标正因拟议的特许权使用费方案而面临威胁。",
           "url": "https://flash.jin10.com/detail/20260213014039945800",
           "source": "金十数据",
@@ -2080,7 +2158,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -2107,29 +2185,31 @@
           "time_info": "[00时26分 ~ 07时13分]"
         },
         {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时11分 ~ 19时17分]"
-        },
-        {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
           "url": "https://wallstreetcn.com/articles/3765638",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时44分 ~ 20时19分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时44分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 20时19分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -2172,6 +2252,29 @@
           "time_info": "[01时27分 ~ 03时28分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 20时19分]"
+        },
+        {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 20时19分]"
+        },
+        {
           "title": "美国CPI前夕，美股指集体高开，煤炭概念股走高，思科跌超7%，美债企稳",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -2183,26 +2286,15 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
+          "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3055196",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 19时17分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 19时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美股存储芯片指数收涨不到1.4%",
@@ -2222,7 +2314,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -2534,6 +2626,134 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "Deepseek被指变冷淡了",
+          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            7,
+            6,
+            1,
+            13,
+            9,
+            5,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 11时11分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12,
+            13,
+            15,
+            16,
+            17,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 20时19分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            23,
+            20,
+            17,
+            19,
+            25,
+            16,
+            14,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 19时17分]"
+        },
+        {
+          "title": "DeepSeek变冷淡了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            9,
+            7,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时43分 ~ 14时29分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 20时19分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 18时20分]"
+        },
+        {
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时20分]"
+        },
+        {
+          "title": "DeepSeek：正测试新的长文本模型结构，支持1M上下文",
+          "url": "https://wallstreetcn.com/livenews/3055185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 8,
       "titles": [
@@ -2627,122 +2847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "Deepseek被指变冷淡了",
-          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            7,
-            6,
-            1,
-            13,
-            9,
-            5,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 11时11分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            13,
-            15,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时17分]"
-        },
-        {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            23,
-            20,
-            17,
-            19,
-            25,
-            16,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 19时17分]"
-        },
-        {
-          "title": "DeepSeek变冷淡了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            9,
-            7,
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时43分 ~ 14时29分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 19时17分]"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 18时20分]"
-        },
-        {
-          "title": "DeepSeek回应被指变冷淡",
-          "url": "https://www.toutiao.com/trending/7606192815403437609/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时20分]"
         }
       ]
     },
