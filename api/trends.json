@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T18:10:52.768413+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-15T19:10:11.956408+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时10分 ~ 18时10分]"
+          "appearance_count": 12,
+          "time_info": "[11时10分 ~ 19时10分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -92,6 +92,17 @@
           "time_info": "[00时11分 ~ 07时10分]"
         },
         {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 19时10分]"
+        },
+        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -114,15 +125,54 @@
           "time_info": "[00时11分 ~ 03时11分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "19时10分"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时13分 ~ 19时10分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.toutiao.com/trending/7606703474663063593/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时10分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时10分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -137,43 +187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时21分 ~ 18时10分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 18时10分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.toutiao.com/trending/7606703474663063593/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时10分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时10分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -225,11 +238,12 @@
             8,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时44分 ~ 18时10分]"
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 19时10分]"
         },
         {
           "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
@@ -285,11 +299,12 @@
             11,
             15,
             17,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 18时10分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 19时10分]"
         },
         {
           "title": "印尼能源部：2月下旬4100大卡级煤炭基准价格定为每公吨47.34美元。",
@@ -324,11 +339,12 @@
           "url": "https://wallstreetcn.com/articles/3765748",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时10分]"
         },
         {
           "title": "美计划花383亿美元建非法移民拘留中心",
@@ -411,11 +427,12 @@
             8,
             15,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时10分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 19时10分]"
         },
         {
           "title": "黄金还能买吗",
@@ -428,6 +445,49 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
+        },
+        {
+          "title": "DeepSeek“变冷淡”不是翻车",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时10分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时10分]"
         }
       ]
     },
@@ -547,8 +607,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时11分 ~ 18时10分]"
+          "appearance_count": 25,
+          "time_info": "[00时11分 ~ 19时10分]"
         },
         {
           "title": "这个最繁忙的站台，一天接发列车超过90趟是什么概念？｜新春走基层",
@@ -564,37 +624,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时11分 ~ 14时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 11时10分]"
-        },
-        {
-          "title": "DeepSeek“变冷淡”不是翻车",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 18时10分]"
         }
       ]
     },
@@ -663,11 +692,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时11分 ~ 18时10分]"
+          "appearance_count": 25,
+          "time_info": "[00时11分 ~ 19时10分]"
         }
       ]
     }
