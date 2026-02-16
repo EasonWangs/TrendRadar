@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-17T03:18:45.710050+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-02-17T04:12:46.002474+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20260217024318964800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3055826",
@@ -25,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时12分]"
         },
         {
           "title": "布伦特4月原油期货收报68.65美元/桶。",
@@ -36,9 +25,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时12分]"
         },
         {
           "title": "Smithfield Foods未来三年将针对设施开支大约13亿美元。 该公司将新建美国南达科塔州猪肉加工厂。（华尔街日报）",
@@ -51,8 +40,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时12分]"
         },
         {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -63,8 +52,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时12分]"
+        },
+        {
+          "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260217024318964800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时18分]"
+          "time_info": "[03时18分 ~ 04时12分]"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报63.4美元/桶。 布伦特原油日内涨幅达1.0%，报68.43美元/桶。",
@@ -80,6 +81,19 @@
           "time_info": "[00时20分 ~ 02时19分]"
         },
         {
+          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217014706786800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时12分]"
+        },
+        {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
           "url": "https://wallstreetcn.com/livenews/3055791",
           "source": "华尔街见闻-快讯",
@@ -91,18 +105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时19分]"
-        },
-        {
-          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217014706786800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时18分]"
         },
         {
           "title": "现货钯金上涨逾3%，至1741.69美元/盎司。",
@@ -128,6 +130,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
+          "url": "https://flash.jin10.com/detail/20260217024524973800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -169,18 +182,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
-          "url": "https://flash.jin10.com/detail/20260217020218911800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时18分]"
-        },
-        {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3055802",
           "source": "华尔街见闻-快讯",
@@ -190,8 +191,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时12分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -202,8 +203,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时12分]"
+        },
+        {
+          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
+          "url": "https://flash.jin10.com/detail/20260217020218911800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时12分]"
         },
         {
           "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
@@ -211,11 +225,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时12分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -229,6 +244,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 03时18分]"
+        },
+        {
+          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
+          "url": "https://flash.jin10.com/detail/20260217021035538800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时12分]"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -253,17 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时19分]"
-        },
-        {
-          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
-          "url": "https://flash.jin10.com/detail/20260217021035538800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
         }
       ]
     },
@@ -323,8 +339,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时12分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -332,11 +348,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时12分]"
         }
       ]
     },
@@ -353,8 +370,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时12分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -411,8 +428,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时12分]"
         },
         {
           "title": "揭秘春晚机器人背后概念股",
@@ -424,8 +441,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时12分]"
         }
       ]
     }
