@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T12:42:53.661652+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-02-17T13:34:14.211969+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时34分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -31,6 +31,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时19分 ~ 06时11分]"
+        },
+        {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            15,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时41分 ~ 13时34分]"
         },
         {
           "title": "美国总统特朗普：未卷入沙特与阿联酋的分歧，我能让这事得到解决。",
@@ -58,6 +73,21 @@
           "time_info": "[01时20分 ~ 05时13分]"
         },
         {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            16,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时41分 ~ 13时34分]"
+        },
+        {
           "title": "美国总统特朗普：认为没有必要在古巴采取类似于在委内瑞拉的行动。",
           "url": "https://flash.jin10.com/detail/20260217081318712800",
           "source": "金十数据",
@@ -78,34 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
-        },
-        {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时41分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时41分 ~ 12时42分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -152,11 +154,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 13时34分]"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -219,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时19分]"
+        },
+        {
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
         },
         {
           "title": "美国总统特朗普：伊朗谈判能力差，希望他们在谈判中能更讲道理。",
@@ -298,6 +312,17 @@
           "time_info": "08时41分"
         },
         {
+          "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
+          "url": "https://flash.jin10.com/detail/20260217122724799800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
           "url": "https://flash.jin10.com/detail/20260217095902766800",
           "source": "金十数据",
@@ -323,7 +348,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -571,13 +596,24 @@
           "time_info": "09时40分"
         },
         {
+          "title": "美元兑日元USD/JPY跌破153，日内跌0.28%。",
+          "url": "https://flash.jin10.com/detail/20260217124018353800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "WTI原油期货日内涨幅扩大至1.00%，现报63.52美元/桶。",
           "url": "https://flash.jin10.com/detail/20260217113320191800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -629,7 +665,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -641,8 +677,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时34分]"
+        },
+        {
+          "title": "现货黄金失守4900美元",
+          "url": "https://flash.jin10.com/detail/20260217131859994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3055887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "现货黄金回落至4910美元/盎司下方，日内跌1.59%。",
+          "url": "https://flash.jin10.com/detail/20260217131705849800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "现货金、银延续跌势，现货黄金回落至4930美元/盎司下方，日内跌1.26%；现货白银跌破73美元/盎司，日内跌4.36%。",
@@ -673,11 +742,12 @@
           "ranks": [
             3,
             11,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 13时34分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -764,13 +834,24 @@
           "time_info": "08时41分"
         },
         {
+          "title": "金十图示：2026年02月17日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260217123156324800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "全球央行疯抛美债购黄金背后",
           "url": "https://www.toutiao.com/trending/7607623524303244843/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -892,8 +973,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时41分 ~ 12时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时41分 ~ 13时34分]"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -946,8 +1027,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时34分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -960,8 +1041,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时34分]"
         }
       ]
     },
@@ -1029,11 +1110,12 @@
             4,
             10,
             18,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时41分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时41分 ~ 13时34分]"
         }
       ]
     }
