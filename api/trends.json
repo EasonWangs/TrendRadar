@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T17:24:02.791843+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-02-17T18:23:48.699610+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -75,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "美元兑日元下跌0.5%，至152.70。",
-          "url": "https://wallstreetcn.com/livenews/3055926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "纽约期金日内大跌2.00%，现报4945.10美元/盎司。",
@@ -175,6 +164,19 @@
           "time_info": "[00时20分 ~ 02时19分]"
         },
         {
+          "title": "英镑兑美元跌幅达0.5%，现报1.3558。",
+          "url": "https://wallstreetcn.com/livenews/3055915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时23分]"
+        },
+        {
           "title": "英镑兑美元5分钟内下跌约30点，报1.3583。",
           "url": "https://wallstreetcn.com/livenews/3055907",
           "source": "华尔街见闻-快讯",
@@ -200,16 +202,16 @@
           "time_info": "[05时13分 ~ 06时11分]"
         },
         {
-          "title": "英镑兑美元跌幅达0.5%，现报1.3558。",
-          "url": "https://wallstreetcn.com/livenews/3055915",
+          "title": "美元兑日元下跌0.5%，至152.70。",
+          "url": "https://wallstreetcn.com/livenews/3055926",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
+            1,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时24分]"
+          "time_info": "[17时24分 ~ 18时23分]"
         },
         {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
@@ -274,6 +276,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时13分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达1%，报67.96美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时23分]"
         },
         {
           "title": "现货钯金站上1700美元/盎司，日内涨1.56%。",
@@ -346,17 +360,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "布伦特原油日内跌幅达1%，报67.96美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3055918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "现货钯金日内下跌2.00%，现报1689.73美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217084525367800",
           "source": "金十数据",
@@ -399,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "冬奥女选手庆祝举动或赚百万美元",
+          "url": "https://www.toutiao.com/trending/7607270947598680073/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -484,7 +498,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -506,7 +520,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -528,7 +542,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
@@ -546,8 +560,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 18时23分]"
         },
         {
           "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
@@ -887,7 +901,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -916,11 +930,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 18时23分]"
         },
         {
           "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
@@ -936,17 +951,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时40分 ~ 14时29分]"
-        },
-        {
-          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
-          "url": "https://wallstreetcn.com/livenews/3055925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "现货金、银延续跌势，现货黄金回落至4930美元/盎司下方，日内跌1.26%；现货白银跌破73美元/盎司，日内跌4.36%。",
@@ -1020,6 +1024,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 14时29分]"
+        },
+        {
+          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
+          "url": "https://wallstreetcn.com/livenews/3055925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时23分]"
         },
         {
           "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
@@ -1288,7 +1304,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1322,7 +1338,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1377,11 +1393,12 @@
           "url": "https://www.cls.cn/detail/2290780",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时23分]"
         }
       ]
     },
@@ -1409,11 +1426,12 @@
           "url": "https://wallstreetcn.com/livenews/3055920",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时23分]"
         },
         {
           "title": "俄总统助理：西方试图瘫痪俄罗斯对外贸易",
@@ -1422,7 +1440,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
@@ -1444,8 +1462,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 17时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 18时23分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -1459,8 +1477,36 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 17时24分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 18时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260217171116932800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
