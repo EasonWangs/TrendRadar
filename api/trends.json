@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T16:22:05.173469+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-02-17T17:24:02.791843+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -72,20 +72,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
         {
-          "title": "英镑兑美元跌幅达0.5%，现报1.3558。",
-          "url": "https://wallstreetcn.com/livenews/3055915",
+          "title": "美元兑日元下跌0.5%，至152.70。",
+          "url": "https://wallstreetcn.com/livenews/3055926",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "17时24分"
         },
         {
           "title": "纽约期金日内大跌2.00%，现报4945.10美元/盎司。",
@@ -175,6 +175,19 @@
           "time_info": "[00时20分 ~ 02时19分]"
         },
         {
+          "title": "英镑兑美元5分钟内下跌约30点，报1.3583。",
+          "url": "https://wallstreetcn.com/livenews/3055907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时24分]"
+        },
+        {
           "title": "声明显示，必和必拓(BHP.N)和伦丁旗下的维库纳公司（Vicuna Corp）预计将在未来数年对阿根廷铜矿项目投资180亿美元。",
           "url": "https://flash.jin10.com/detail/20260217043631932800",
           "source": "金十数据",
@@ -185,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时11分]"
+        },
+        {
+          "title": "英镑兑美元跌幅达0.5%，现报1.3558。",
+          "url": "https://wallstreetcn.com/livenews/3055915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时24分]"
         },
         {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
@@ -210,18 +235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时12分]"
-        },
-        {
-          "title": "英镑兑美元5分钟内下跌约30点，报1.3583。",
-          "url": "https://wallstreetcn.com/livenews/3055907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时22分]"
         },
         {
           "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
@@ -331,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达1%，报67.96美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "现货钯金日内下跌2.00%，现报1689.73美元/盎司。",
@@ -454,15 +478,37 @@
           "time_info": "14时29分"
         },
         {
+          "title": "WTI原油跌破63美元/桶，日内跌1.18%。布伦特原油日内跌超1.00%，现报67.42美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260217164211620800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "英镑兑美元GBP/USD日内下跌0.50%，现报1.3562。",
           "url": "https://flash.jin10.com/detail/20260217153431249800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "机构：美元持续小幅攀升 无视市场对美联储约三次降息的预期",
+          "url": "https://flash.jin10.com/detail/20260217162516203800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "现货白银抹去此前大部分跌幅，最新报75.58美元/盎司，其最低一度跌破73美元/盎司。",
@@ -474,12 +520,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "阿达尼计划在2035年前投资1000亿美元用于建设AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260217162041492800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -489,8 +546,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 17时24分]"
         },
         {
           "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
@@ -651,6 +708,18 @@
           "time_info": "[05时13分 ~ 06时11分]"
         },
         {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
           "url": "https://flash.jin10.com/detail/20260217003445113800",
           "source": "金十数据",
@@ -711,17 +780,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时19分]"
-        },
-        {
-          "title": "特朗普反应低调 日本怕中美搞大动作",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "美国总统特朗普：伊朗谈判能力差，希望他们在谈判中能更讲道理。",
@@ -823,6 +881,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "特朗普与马里兰州州长就管道破裂和污水泄漏的应对措施发生冲突",
+          "url": "https://flash.jin10.com/detail/20260217164530562800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "在特朗普要求加拿大做出让步的紧张局势下，加拿大总理卡尼任命珍妮丝·沙雷特为与美国贸易谈判的首席代表，领导对北美贸易协定的审查。",
           "url": "https://flash.jin10.com/detail/20260217072412814800",
           "source": "金十数据",
@@ -837,7 +906,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -846,11 +915,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 17时24分]"
         },
         {
           "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
@@ -866,6 +936,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时40分 ~ 14时29分]"
+        },
+        {
+          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
+          "url": "https://wallstreetcn.com/livenews/3055925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "现货金、银延续跌势，现货黄金回落至4930美元/盎司下方，日内跌1.26%；现货白银跌破73美元/盎司，日内跌4.36%。",
@@ -1094,7 +1175,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -1149,6 +1230,17 @@
           "time_info": "[06时11分 ~ 07时12分]"
         },
         {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -1175,7 +1267,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -1188,6 +1280,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时41分 ~ 14时29分]"
+        },
+        {
+          "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260217170620021800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -1213,6 +1316,17 @@
           "time_info": "08时41分"
         },
         {
+          "title": "美股盘前，部分明星科技股走软，AMD(AMD.O)跌1.3%、英特尔(INTC.O)跌近1%、美光科技(MU.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260217170115300800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美股今日休市一天",
           "url": "https://flash.jin10.com/detail/20260216222506509800",
           "source": "金十数据",
@@ -1226,43 +1340,8 @@
       ]
     },
     {
-      "keyword_group": "gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 16时22分]"
-        },
-        {
-          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 16时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "春晚机器人背后概念股或“爆火”",
@@ -1292,6 +1371,96 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时12分]"
+        },
+        {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外贸",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“十四五”期间长三角地区外贸进出口超77万亿元",
+          "url": "https://wallstreetcn.com/livenews/3055859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            18,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时41分 ~ 13时34分]"
+        },
+        {
+          "title": "俄总统助理：西方试图瘫痪俄罗斯对外贸易",
+          "url": "https://wallstreetcn.com/livenews/3055920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "俄总统助理：西方试图瘫痪俄罗斯对外贸易",
+          "url": "https://flash.jin10.com/detail/20260217163624584800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 17时24分]"
+        },
+        {
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时19分 ~ 17时24分]"
         }
       ]
     },
@@ -1309,27 +1478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时41分 ~ 09时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外贸",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“十四五”期间长三角地区外贸进出口超77万亿元",
-          "url": "https://wallstreetcn.com/livenews/3055859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            18,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时41分 ~ 13时34分]"
         }
       ]
     }
