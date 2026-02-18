@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T12:44:29.328411+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-02-18T13:34:45.979403+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 61,
       "titles": [
         {
           "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
@@ -34,15 +34,26 @@
           "time_info": "[00时25分 ~ 08时41分]"
         },
         {
-          "title": "现货白银涨破75美元/盎司，日内涨幅2.12%。",
-          "url": "https://wallstreetcn.com/livenews/3056214",
+          "title": "欧元兑美元EUR/USD短线波动不大，此前有消息称欧洲央行行长拉加德希望提前离任。",
+          "url": "https://flash.jin10.com/detail/20260218132041414800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "微软计划未来10年向“全球南方”人工智能领域投资500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056221",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "13时34分"
         },
         {
           "title": "WTI 3月原油期货收报62.33美元/桶。 NYMEX 3月天然气期货收报3.0310美元/百万英热单位。 NYMEX 3月汽油期货收报1.9144美元/加仑，NYMEX 3月取暖油期货收报2.3906美元/加仑。",
@@ -54,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "现货白银日内涨3.01%，报75.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3056219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "英镑兑美元GBP/USD跌破1.35，为1月23日以来首次，日内跌0.96%。",
@@ -78,26 +100,41 @@
           "time_info": "09时40分"
         },
         {
-          "title": "纽约期金向上触及4950美元/盎司，日内涨0.90%。",
-          "url": "https://flash.jin10.com/detail/20260218121420022800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "现货白银向上触及75美元/盎司，日内涨2.03%；纽约期银日内涨幅达2.00%，现报75.05美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260218121414211800",
-          "source": "金十数据",
+          "title": "高通将向印度人工智能战略基金投资不超过1.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056215",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "13时34分"
+        },
+        {
+          "title": "新西兰元兑美元下跌0.4%，此前新西兰央行维持利率不变。",
+          "url": "https://wallstreetcn.com/livenews/3056190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 13时34分]"
+        },
+        {
+          "title": "现货白银涨破75美元/盎司，日内涨幅2.12%。",
+          "url": "https://wallstreetcn.com/livenews/3056214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时34分]"
         },
         {
           "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
@@ -126,17 +163,17 @@
           "time_info": "[02时26分 ~ 04时22分]"
         },
         {
-          "title": "新西兰元兑美元下跌0.4%，此前新西兰央行维持利率不变。",
-          "url": "https://wallstreetcn.com/livenews/3056190",
+          "title": "日本经济产业大臣赤泽亮正：决定继续进行3个美国投资项目。 美国燃气发电项目规模约为333亿美元。东芝、日立、软银有意参与燃气项目。 合成钻石项目规模约为6亿美元。旭金刚石工业和则武株式会社被提为人造钻石项目的承购方。 美国原油项目规模约为21亿美元。商船三井、JFE、日本制铁和三井海洋开发考虑参与原油项目。",
+          "url": "https://wallstreetcn.com/livenews/3056202",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             11,
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时44分]"
+          "time_info": "[11时09分 ~ 13时34分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -213,16 +250,28 @@
           "time_info": "[00时25分 ~ 01时43分]"
         },
         {
-          "title": "日本经济产业大臣赤泽亮正：决定继续进行3个美国投资项目。 美国燃气发电项目规模约为333亿美元。东芝、日立、软银有意参与燃气项目。 合成钻石项目规模约为6亿美元。旭金刚石工业和则武株式会社被提为人造钻石项目的承购方。 美国原油项目规模约为21亿美元。商船三井、JFE、日本制铁和三井海洋开发考虑参与原油项目。",
-          "url": "https://wallstreetcn.com/livenews/3056202",
-          "source": "华尔街见闻-快讯",
+          "title": "纽约期金向上触及4950美元/盎司，日内涨0.90%。",
+          "url": "https://flash.jin10.com/detail/20260218121420022800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            11
+            4,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 13时34分]"
+        },
+        {
+          "title": "现货白银向上触及75美元/盎司，日内涨2.03%；纽约期银日内涨幅达2.00%，现报75.05美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260218121414211800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时34分]"
         },
         {
           "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
@@ -243,11 +292,12 @@
           "ranks": [
             7,
             15,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 13时34分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
@@ -381,6 +431,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "现货白银站上76美元/盎司，日内涨3.40%。",
+          "url": "https://flash.jin10.com/detail/20260218130139021800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "现货白银日内涨超2.00%，现报73.76美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260218103713685800",
           "source": "金十数据",
@@ -390,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "现货钯金日内涨幅达4.00%，现报1720.14美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260218130135708800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "纽元兑美元NZD/USD短线下挫约30点，最新报0.6022，此前新西兰联储将利率维持不变。",
@@ -469,6 +541,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "现货白银日内暴涨2.00美元，现报75.51美元/盎司，涨幅2.72%。",
+          "url": "https://flash.jin10.com/detail/20260218123519444800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
           "url": "https://wallstreetcn.com/livenews/3056110",
           "source": "华尔街见闻-快讯",
@@ -491,6 +574,28 @@
           "time_info": "08时41分"
         },
         {
+          "title": "纽约期金日内涨幅扩大至1.00%，现报4955.50美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260218123516770800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "市场消息：Yotta Data与英伟达(NVDA.O)合作的GPU部署项目投资总额超过20亿美元，预计将于2026年8月投入使用。",
+          "url": "https://flash.jin10.com/detail/20260218123459363800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "WTI 3月原油期货收跌0.56美元，跌幅0.89%，报62.33美元/桶。 布伦特4月原油期货收跌1.23美元，跌幅1.79%，报67.42美元/桶。 NYMEX 3月天然气期货收报3.0310美元/百万英热单位。 NYMEX 3月汽油期货收报1.9144美元/加仑，NYMEX 3月取暖油期货收报2.3906美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3056107",
           "source": "华尔街见闻-快讯",
@@ -502,6 +607,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "市场消息：印度Yotta Data公司与英伟达(NVDA.O)签署了一份价值超过10亿美元、为期四年的合作协议。",
+          "url": "https://flash.jin10.com/detail/20260218123241579800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "纽约银日内跌幅达7.5%，报72.11美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3056029",
           "source": "华尔街见闻-快讯",
@@ -511,6 +627,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "高通将向印度AI战略基金投资至多1.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260218123104216800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "微软副董事长兼总裁布拉德·史密斯：今天在新德里，我们分享了微软(MSFT.O)计划在本十年末投入500亿美元，以帮助将人工智能推广到全球南方的各个国家。我们的五部分计划旨在大规模实现人工智能的普及，让各个社区能够获得所需资源，从而能够接触、信任并应用人工智能来解决当地问题，并且能够追踪其进展情况。",
+          "url": "https://flash.jin10.com/detail/20260218122856396800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：三项美国投资项目包括，6亿美元用于人造钻石项目，21亿美元用于原油项目，333亿美元用于数据中心的燃气火力发电项目。我们将继续就项目细节与美国密切协调。",
@@ -563,7 +701,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -574,7 +712,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -605,8 +743,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时25分 ~ 12时44分]"
+          "appearance_count": 12,
+          "time_info": "[03时25分 ~ 13时34分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -657,15 +795,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
-          "url": "https://wallstreetcn.com/livenews/3056209",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
           "ranks": [
-            5
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 13时34分]"
         },
         {
           "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
@@ -693,15 +831,16 @@
           "time_info": "[03时25分 ~ 04时22分]"
         },
         {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时44分]"
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时34分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -715,6 +854,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时34分]"
         },
         {
           "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
@@ -763,18 +915,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时41分]"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时44分]"
         },
         {
           "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
@@ -838,7 +978,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -980,8 +1120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 12时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 13时34分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -992,8 +1132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时41分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[08时41分 ~ 13时34分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -1052,8 +1192,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 13时34分]"
         },
         {
           "title": "应用材料美股盘后跌7.6%。",
@@ -1193,7 +1333,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -1238,11 +1378,12 @@
           "url": "https://wallstreetcn.com/livenews/3056213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时34分]"
         },
         {
           "title": "现货黄金回升至4900美元上方，日内涨幅0.51%。",
@@ -1250,11 +1391,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 13时34分]"
+        },
+        {
+          "title": "现货黄金突破4930美元/盎司，日内涨1.09%。",
+          "url": "https://flash.jin10.com/detail/20260218121106185800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时09分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 13时34分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
@@ -1293,17 +1447,6 @@
           "time_info": "[06时19分 ~ 07时12分]"
         },
         {
-          "title": "现货黄金突破4930美元/盎司，日内涨1.09%。",
-          "url": "https://flash.jin10.com/detail/20260218121106185800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "现货黄金向上触及4890美元/盎司，日内涨0.65%。",
           "url": "https://flash.jin10.com/detail/20260218091415009800",
           "source": "金十数据",
@@ -1313,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260218123605308800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.43吨，当前持仓量为1075.61吨。",
@@ -1332,7 +1486,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -1395,7 +1549,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
