@@ -1,33 +1,79 @@
 {
-  "generated_at": "2026-02-19T00:27:05.590989+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-19T01:29:01.816016+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "布伦特原油日内大涨4%，现报69.55美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219011927184800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3056412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "WTI原油日内大涨4%，现报64.80美元/桶。布伦特原油涨3.87%，报69.44美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219011350988800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
+          "url": "https://wallstreetcn.com/livenews/3056408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
         {
           "title": "Snap订阅用户数超过2500万这一里程碑，2月份稍早披露业绩报告时的数据为2400万。 该公司直接收入业务年化营收突破10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056393",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时29分]"
         },
         {
           "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
           "url": "https://flash.jin10.com/detail/20260219000243239800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时29分]"
         },
         {
           "title": "美国IPO市场在72亿美元爆发后步入季节性低迷",
@@ -36,7 +82,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -47,7 +93,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -58,7 +104,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -69,7 +115,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -80,7 +126,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -91,7 +137,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -102,7 +148,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -113,7 +159,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         }
@@ -131,8 +177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时29分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -142,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时29分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -153,19 +199,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时29分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时29分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -175,8 +222,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时29分]"
         },
         {
           "title": "美股两房涨幅扩大",
@@ -185,7 +232,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -196,7 +243,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -207,7 +254,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         }
@@ -215,7 +262,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -229,13 +276,24 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
+          "title": "特朗普施压下，日本急忙兑现投资承诺",
+          "url": "https://news.ifeng.com/c/8qr2EA8zz1w",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 01时29分]"
+        },
+        {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
           "url": "https://flash.jin10.com/detail/20260218234329184800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -246,7 +304,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -257,7 +315,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -268,7 +326,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         }
@@ -276,7 +334,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -286,8 +344,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时29分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月18日），南非富时/JSE非洲领先40可交易指数收涨2.74%，逼近11.45万点。 现货黄金一度涨超2.5%，刷新日高至5008.98美元/盎司。",
@@ -296,9 +354,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "现货黄金站上5010美元/盎司，日内涨2.73%。",
+          "url": "https://flash.jin10.com/detail/20260219004811620800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "现货黄金日内涨幅达2.5%，报4999.41美元/盎司。 纽约金5分钟内上涨6.7美元/盎司，报5020美元/盎司。 纽约银日内涨幅达6.0%，报77.98美元/盎司。",
@@ -307,7 +376,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         },
@@ -318,7 +387,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
         }
@@ -326,29 +395,42 @@
     },
     {
       "keyword_group": "gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌公司增添音乐生成功能到Gemini APP。",
           "url": "https://wallstreetcn.com/livenews/3056395",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时29分]"
         },
         {
           "title": "谷歌：Gemini应用现已搭载最先进音乐生成模型Lyria 3。",
           "url": "https://flash.jin10.com/detail/20260219000557347800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时29分]"
+        },
+        {
+          "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
+          "url": "https://wallstreetcn.com/livenews/3056396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "01时29分"
         }
       ]
     }
