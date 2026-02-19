@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T08:42:23.716047+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-02-19T09:40:49.927178+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
@@ -61,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "美国-东盟商业理事会：美印协议包括一项涉及Essence Global Group的48.9亿美元半导体合资项目。",
-          "url": "https://flash.jin10.com/detail/20260219081720763800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
         },
         {
           "title": "澳元/美元日内跌幅达0.5%，报0.7049。",
@@ -185,6 +174,18 @@
           "time_info": "[01时29分 ~ 02时23分]"
         },
         {
+          "title": "美国-东盟商业理事会：美印协议包括一项涉及Essence Global Group的48.9亿美元半导体合资项目。",
+          "url": "https://flash.jin10.com/detail/20260219081720763800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
+        },
+        {
           "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
           "url": "https://wallstreetcn.com/livenews/3056408",
           "source": "华尔街见闻-快讯",
@@ -243,6 +244,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时29分]"
+        },
+        {
+          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
+          "url": "https://wallstreetcn.com/articles/3765835",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
+        },
+        {
+          "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3056536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。 超过20个国家将参与周四的加沙活动。",
@@ -305,15 +329,16 @@
           "time_info": "[03时25分 ~ 04时18分]"
         },
         {
-          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
-          "url": "https://wallstreetcn.com/articles/3765835",
-          "source": "华尔街见闻",
+          "title": "三星正在就HBM4的单价进行谈判，价格约为700美元。（韩国《朝鲜日报》）",
+          "url": "https://wallstreetcn.com/livenews/3056525",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            22,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
         },
         {
           "title": "西部数据抛售30亿美元的闪迪股票，盘后闪迪股价下挫2%",
@@ -322,18 +347,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3056536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -377,7 +391,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -503,17 +517,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "三星正在就HBM4的单价进行谈判，价格约为700美元。（韩国《朝鲜日报》）",
-          "url": "https://wallstreetcn.com/livenews/3056525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
           "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
           "url": "https://flash.jin10.com/detail/20260218230854451800",
           "source": "金十数据",
@@ -575,7 +578,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -638,7 +641,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -663,6 +666,17 @@
           "time_info": "[01时28分 ~ 01时29分]"
         },
         {
+          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
+          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
+        },
+        {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260219045300437800",
           "source": "金十数据",
@@ -674,6 +688,28 @@
           "time_info": "05时18分"
         },
         {
+          "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
+          "url": "https://flash.jin10.com/detail/20260219091602708800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
           "url": "https://flash.jin10.com/detail/20260219024754983800",
           "source": "金十数据",
@@ -683,17 +719,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
-          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
         },
         {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
@@ -756,6 +781,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
@@ -826,17 +899,6 @@
           "time_info": "05时18分"
         },
         {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
           "url": "https://flash.jin10.com/detail/20260219024600016800",
           "source": "金十数据",
@@ -846,28 +908,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://flash.jin10.com/detail/20260219080811370800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
         },
         {
           "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
@@ -892,17 +932,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260219080556837800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -923,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "加州就终止能源中心资金起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20260219084435962800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -1085,8 +1125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 08时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 09时40分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1097,8 +1137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 08时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 09时40分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1110,8 +1150,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 08时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 09时40分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时14分 ~ 09时40分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1122,19 +1173,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 08时42分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时14分 ~ 08时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 09时40分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -1264,7 +1304,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -1279,15 +1319,27 @@
           "time_info": "[00时26分 ~ 05时18分]"
         },
         {
+          "title": "带黄金马桶去漫展如何呢",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B8%A6%E9%BB%84%E9%87%91%E9%A9%AC%E6%A1%B6%E5%8E%BB%E6%BC%AB%E5%B1%95%E5%A6%82%E4%BD%95%E5%91%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "阿耳忒弥斯黄金公司预计在2026年生产26.5万至29万盎司黄金。",
           "url": "https://flash.jin10.com/detail/20260219082242574800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
         },
         {
           "title": "现货黄金站上5010美元/盎司，日内涨2.73%。",
@@ -1300,6 +1352,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时23分]"
+        },
+        {
+          "title": "专家：黄金还有进一步上涨的动能",
+          "url": "https://www.toutiao.com/trending/7607642368648462399/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 09时40分]"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月18日），南非富时/JSE非洲领先40可交易指数收涨2.74%，逼近11.45万点。 现货黄金一度涨超2.5%，刷新日高至5008.98美元/盎司。",
@@ -1341,7 +1405,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
@@ -1352,18 +1416,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "专家：黄金还有进一步上涨的动能",
-          "url": "https://www.toutiao.com/trending/7607642368648462399/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
