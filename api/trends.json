@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T11:09:01.469625+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-02-19T12:43:36.500027+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "印尼政府：印尼与美国企业签署总额达384亿美元的协议，涉及纺织、能源、农业和科技领域。",
+          "url": "https://flash.jin10.com/detail/20260219121813575800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
@@ -61,6 +72,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "现货白银站上78美元/盎司，日内涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3056568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "纽约期银站上78美元/盎司，日内涨0.52%。",
+          "url": "https://flash.jin10.com/detail/20260219120805542800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
+          "url": "https://wallstreetcn.com/articles/3765835",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时42分 ~ 12时43分]"
         },
         {
           "title": "澳元/美元日内跌幅达0.5%，报0.7049。",
@@ -174,17 +219,6 @@
           "time_info": "[01时29分 ~ 02时23分]"
         },
         {
-          "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
-          "url": "https://wallstreetcn.com/articles/3765835",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时42分 ~ 11时09分]"
-        },
-        {
           "title": "美国-东盟商业理事会：美印协议包括一项涉及Essence Global Group的48.9亿美元半导体合资项目。",
           "url": "https://flash.jin10.com/detail/20260219081720763800",
           "source": "金十数据",
@@ -239,11 +273,12 @@
           "ranks": [
             10,
             16,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时42分 ~ 11时09分]"
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 12时43分]"
         },
         {
           "title": "周三（2月18日），韩元兑美元最终跌0.24%，报1448.34韩元。",
@@ -342,6 +377,28 @@
           "time_info": "[08时42分 ~ 09时40分]"
         },
         {
+          "title": "据路透调查：69%的经济学家表示，日本将干预汇市以遏制日元疲软；美元兑日元USD/JPY触及160很可能成为干预的触发点。",
+          "url": "https://flash.jin10.com/detail/20260219120759525800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "离岸人民币兑美元一度跌破6.9关口。",
+          "url": "https://wallstreetcn.com/livenews/3056566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "西部数据抛售30亿美元的闪迪股票，盘后闪迪股价下挫2%",
           "url": "https://wallstreetcn.com/articles/3765825",
           "source": "华尔街见闻",
@@ -436,7 +493,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -469,9 +526,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "现货白银向上触及78美元/盎司，日内涨1.10%。",
+          "url": "https://flash.jin10.com/detail/20260219115105987800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "欧元兑美元EUR/USD日内跌超0.50%，现报1.1795。",
@@ -538,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "据新浪报价，离岸人民币兑美元跌破6.9关口，最低至6.8881。",
+          "url": "https://flash.jin10.com/detail/20260219114340010800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
@@ -664,8 +743,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时43分]"
+        },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
           "url": "https://news.ifeng.com/c/8qraTXTgXgI",
@@ -676,17 +766,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时42分 ~ 11时09分]"
-        },
-        {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时09分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -744,6 +823,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
+          "url": "https://news.ifeng.com/c/8qrooPYgaLN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -768,6 +858,34 @@
           "time_info": "[05时18分 ~ 06时15分]"
         },
         {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 12时43分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
           "url": "https://wallstreetcn.com/livenews/3056449",
           "source": "华尔街见闻-快讯",
@@ -781,19 +899,6 @@
           "time_info": "[03时25分 ~ 05时18分]"
         },
         {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时42分 ~ 11时09分]"
-        },
-        {
           "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
           "url": "https://wallstreetcn.com/livenews/3056447",
           "source": "华尔街见闻-快讯",
@@ -805,19 +910,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时18分]"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时42分 ~ 11时09分]"
         },
         {
           "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
@@ -889,6 +981,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -1140,6 +1243,17 @@
           "time_info": "[00时26分 ~ 07时13分]"
         },
         {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时14分 ~ 12时43分]"
+        },
+        {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
@@ -1155,17 +1269,6 @@
           "time_info": "[00时26分 ~ 11时09分]"
         },
         {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时14分 ~ 11时09分]"
-        },
-        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -1174,8 +1277,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 11时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 12时43分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1187,8 +1290,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 11时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 12时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1199,8 +1302,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 11时09分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 12时43分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -1330,7 +1433,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -1345,15 +1448,15 @@
           "time_info": "[00时26分 ~ 05时18分]"
         },
         {
-          "title": "带黄金马桶去漫展如何呢",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B8%A6%E9%BB%84%E9%87%91%E9%A9%AC%E6%A1%B6%E5%8E%BB%E6%BC%AB%E5%B1%95%E5%A6%82%E4%BD%95%E5%91%A2",
-          "source": "bilibili 热搜",
+          "title": "金十图示：2026年02月19日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260219120926569800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "12时43分"
         },
         {
           "title": "阿耳忒弥斯黄金公司预计在2026年生产26.5万至29万盎司黄金。",
@@ -1366,6 +1469,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 09时40分]"
+        },
+        {
+          "title": "带黄金马桶去漫展如何呢",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B8%A6%E9%BB%84%E9%87%91%E9%A9%AC%E6%A1%B6%E5%8E%BB%E6%BC%AB%E5%B1%95%E5%A6%82%E4%BD%95%E5%91%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 12时43分]"
         },
         {
           "title": "现货黄金站上5010美元/盎司，日内涨2.73%。",
@@ -1403,6 +1518,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "高盛：随着产量上升，铜和锂的价格或难以追上黄金的涨幅。",
+          "url": "https://flash.jin10.com/detail/20260219115507291800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "美联储会议纪要公布后，现货黄金保持涨势，现涨2.3%，报4992美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260219030510080800",
           "source": "金十数据",
@@ -1436,6 +1562,17 @@
           "time_info": "08时42分"
         },
         {
+          "title": "小孩姐三年压岁钱都买了黄金",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%A7%90%E4%B8%89%E5%B9%B4%E5%8E%8B%E5%B2%81%E9%92%B1%E9%83%BD%E4%B9%B0%E4%BA%86%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "春节期间黄金消费市场持续火爆",
           "url": "https://www.toutiao.com/trending/7608350440849149478/",
           "source": "今日头条",
@@ -1461,7 +1598,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "市场消息：塔塔集团与OpenAI建立基础合作伙伴关系。",
@@ -1470,18 +1607,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -1496,6 +1622,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时13分]"
+        },
+        {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 12时43分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -1527,7 +1665,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -1538,9 +1676,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
+          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     },
