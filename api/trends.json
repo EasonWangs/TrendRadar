@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T17:22:55.096583+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-02-19T18:22:52.759542+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
@@ -90,15 +90,18 @@
           "time_info": "05时18分"
         },
         {
-          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3056605",
+          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3056594",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            6,
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 18时22分]"
         },
         {
           "title": "离岸人民币兑美元一度跌破6.9关口。",
@@ -114,19 +117,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时43分 ~ 16时21分]"
-        },
-        {
-          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
-          "url": "https://wallstreetcn.com/livenews/3056594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 17时22分]"
         },
         {
           "title": "澳元/美元日内跌幅达0.5%，报0.7049。",
@@ -312,6 +302,18 @@
           "time_info": "[05时18分 ~ 06时15分]"
         },
         {
+          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3056605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
+        },
+        {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
           "url": "https://wallstreetcn.com/livenews/3056536",
           "source": "华尔街见闻-快讯",
@@ -452,7 +454,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -468,13 +470,24 @@
           "time_info": "08时42分"
         },
         {
+          "title": "“抛售美国”论暂不成立：去年海外投资者净买1.55万亿美元美长期金融资产",
+          "url": "https://wallstreetcn.com/articles/3765850",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "WTI原油日内涨超2.00%，现报66.32美元/桶。",
           "url": "https://flash.jin10.com/detail/20260219165817375800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -749,7 +762,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -848,7 +861,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -911,7 +924,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -921,8 +934,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时40分 ~ 18时22分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -943,8 +956,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时43分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时43分 ~ 18时22分]"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -1352,6 +1365,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219174052852800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
           "url": "https://flash.jin10.com/detail/20260219061414903800",
           "source": "金十数据",
@@ -1432,7 +1456,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -1483,6 +1507,20 @@
           "time_info": "[14时31分 ~ 17时22分]"
         },
         {
+          "title": "现货黄金站上5020美元/盎司，日内涨0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3056591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 18时22分]"
+        },
+        {
           "title": "带黄金马桶去漫展如何呢",
           "url": "https://search.bilibili.com/all?keyword=%E5%B8%A6%E9%BB%84%E9%87%91%E9%A9%AC%E6%A1%B6%E5%8E%BB%E6%BC%AB%E5%B1%95%E5%A6%82%E4%BD%95%E5%91%A2",
           "source": "bilibili 热搜",
@@ -1495,19 +1533,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时40分 ~ 15时27分]"
-        },
-        {
-          "title": "现货黄金站上5020美元/盎司，日内涨0.86%。",
-          "url": "https://wallstreetcn.com/livenews/3056591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 17时22分]"
         },
         {
           "title": "阿耳忒弥斯黄金公司预计在2026年生产26.5万至29万盎司黄金。",
@@ -1571,6 +1596,18 @@
           "time_info": "[15时27分 ~ 16时21分]"
         },
         {
+          "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
+        },
+        {
           "title": "现货黄金站上5010美元/盎司，日内涨2.73%。",
           "url": "https://flash.jin10.com/detail/20260219004811620800",
           "source": "金十数据",
@@ -1595,6 +1632,17 @@
           "time_info": "[08时42分 ~ 09时40分]"
         },
         {
+          "title": "储殷：我被朋友嘲笑黄金卖早了",
+          "url": "https://www.toutiao.com/trending/7607689025717321770/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "非洲股市收盘播报｜周三（2月18日），南非富时/JSE非洲领先40可交易指数收涨2.74%，逼近11.45万点。 现货黄金一度涨超2.5%，刷新日高至5008.98美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3056388",
           "source": "华尔街见闻-快讯",
@@ -1604,17 +1652,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "高盛：随着产量上升，铜和锂的价格或难以追上黄金的涨幅。",
@@ -1697,7 +1734,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -1707,8 +1744,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时14分 ~ 17时22分]"
+          "appearance_count": 16,
+          "time_info": "[06时14分 ~ 18时22分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1747,8 +1784,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1760,8 +1797,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1774,8 +1811,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 17时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -1789,26 +1826,27 @@
           "time_info": "02时23分"
         },
         {
-          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3056607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
           "url": "https://flash.jin10.com/detail/20260219170301618800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -1827,11 +1865,12 @@
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时22分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1867,6 +1906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3056610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美股两房涨幅扩大",
@@ -1967,6 +2017,19 @@
           "time_info": "11时09分"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时22分]"
+        },
+        {
           "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
@@ -1977,18 +2040,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时22分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -2111,11 +2162,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
         }
       ]
     },
