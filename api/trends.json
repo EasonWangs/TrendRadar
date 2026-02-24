@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T04:16:20.141188+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-02-25T05:16:40.082762+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -13,22 +13,34 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
-          "title": "芝加哥大豆期货涨0.4%，纽约可可期货一度跌穿3000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3058319",
+          "title": "第一太阳能四季度净销售16.8亿美元，分析师预期15.6亿美元。 预计全年净销售49亿-52亿美元，分析师预期60.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058347",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "05时16分"
+        },
+        {
+          "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3058346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
@@ -37,18 +49,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
-          "url": "https://wallstreetcn.com/livenews/3058315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -79,6 +80,18 @@
           "time_info": "[02时29分 ~ 04时16分]"
         },
         {
+          "title": "芝加哥大豆期货涨0.4%，纽约可可期货一度跌穿3000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3058319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时16分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8812元，较上个交易日夜盘收盘涨220点。成交量365.49亿美元。",
           "url": "https://wallstreetcn.com/livenews/3058304",
           "source": "华尔街见闻-快讯",
@@ -89,6 +102,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时16分]"
+        },
+        {
+          "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
+          "url": "https://wallstreetcn.com/livenews/3058315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时16分]"
         },
         {
           "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -102,6 +127,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时16分]"
+        },
+        {
+          "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 布伦特4月原油期货收报70.77美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3058313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时16分]"
         },
         {
           "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
@@ -152,17 +189,6 @@
           "time_info": "[03时27分 ~ 04时16分]"
         },
         {
-          "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 布伦特4月原油期货收报70.77美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3058313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
           "title": "美国精神航空：公司与其有担保债权人就重组支持协议的关键条款达成原则性协议。预计于春末或夏初退出破产保护。预计公司债务及租赁负债将由申请破产前的74亿美元降至重整后约21亿美元。",
           "url": "https://flash.jin10.com/detail/20260225004840149800",
           "source": "金十数据",
@@ -180,7 +206,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -191,9 +217,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "现货钯金日内涨幅达4.00%，现报1788.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260225043649347800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "据标普全球评级，美国私立学校年度学费上涨3.6%至48,922美元，寄宿制学校学费涨3.5%至75,466美元。",
+          "url": "https://wallstreetcn.com/livenews/3058327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
@@ -205,6 +253,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "周二（2月24日）纽约尾盘，美元兑日元涨0.73%，报155.78日元，日内交投区间为154.53-156.28日元，北京时间15:00过后出现一波短线拉升行情，之后持续高位震荡。 欧元兑日元涨0.66%，报183.49日元；英镑兑日元涨0.81%，报210.344日元。",
+          "url": "https://wallstreetcn.com/livenews/3058323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "周二（2月24日）纽约尾盘，ICE美元指数涨0.14%，报97,843点，日内交投区间为97.695-97.986点。 彭博美元指数涨0.03%，报1189.77点，日内交投区间为1188.71-1192.00点。",
+          "url": "https://wallstreetcn.com/livenews/3058322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260225043145236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "【闪迪遭香橼做空，股价盘中跌超5％】知名做空机构香橼称正在做空闪迪，指当前存储芯片市场繁荣为“供应幻象”。闪迪股价跌5.4％，报630美元/股。",
@@ -254,7 +335,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -264,8 +345,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -276,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -287,8 +368,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -298,8 +379,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -311,8 +392,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 05时16分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -321,7 +402,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -332,7 +413,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -343,7 +424,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -397,6 +478,18 @@
           "time_info": "[01时43分 ~ 02时29分]"
         },
         {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 05时16分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
           "url": "https://flash.jin10.com/detail/20260225022141993800",
           "source": "金十数据",
@@ -409,15 +502,15 @@
           "time_info": "[03时27分 ~ 04时16分]"
         },
         {
-          "title": "中方回应特朗普3月31日将访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
+          "url": "https://wallstreetcn.com/livenews/3058339",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 04时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -462,12 +555,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗还没有同意“不掌握核武器”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3058321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "报道：特朗普将呼吁出台新形式的减税措施",
+          "url": "https://wallstreetcn.com/livenews/3058320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "白宫：特朗普对伊朗首选方案是外交",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -477,8 +603,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -488,8 +614,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -500,8 +626,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -541,6 +667,17 @@
           "time_info": "[01时44分 ~ 02时29分]"
         },
         {
+          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
+          "url": "https://wallstreetcn.com/livenews/3058334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260225013329714800",
           "source": "金十数据",
@@ -576,8 +713,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月24日（周二）晚盘收盘下跌0.17%报1146.0元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）晚盘收盘下跌0.0%报21360.0元/千克。",
@@ -613,11 +750,29 @@
           "url": "https://www.toutiao.com/trending/7610332842534374955/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 05时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
+          "url": "https://wallstreetcn.com/livenews/3058330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
@@ -630,11 +785,12 @@
           "url": "https://www.cls.cn/detail/2293730",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时16分]"
         }
       ]
     }
