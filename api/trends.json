@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T11:08:21.919830+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-02-24T12:47:33.402595+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,31 @@
           "time_info": "[00时25分 ~ 09时41分]"
         },
         {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时38分 ~ 12时47分]"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时38分 ~ 12时47分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -58,30 +83,6 @@
           "time_info": "[00时25分 ~ 09时41分]"
         },
         {
-          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
-          "url": "https://www.cls.cn/detail/2293072",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时38分 ~ 11时08分]"
-        },
-        {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时38分 ~ 11时08分]"
-        },
-        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -91,19 +92,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时38分 ~ 11时08分]"
+          "appearance_count": 6,
+          "time_info": "[08时38分 ~ 12时47分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
           "url": "https://news.ifeng.com/c/8qzr8hme4jH",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时38分 ~ 11时08分]"
+          "appearance_count": 6,
+          "time_info": "[08时38分 ~ 12时47分]"
         },
         {
           "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
@@ -177,6 +179,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时47分]"
         },
         {
           "title": "据英国《金融时报》：特朗普的“和平委员会”为加沙探索推出稳定币。",
@@ -261,17 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 08时39分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时08分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -421,7 +424,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -594,7 +597,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "亚马逊：将在美国路易斯安那州数据中心园区投资120亿美元。 将创造540个全职岗位。 将在当地水资源基础设施投资至多4亿美元。",
@@ -616,9 +619,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "渣打集团第四季度除税前利润8.14亿美元，预估11亿美元。 渣打集团第四季度经调整除税前利润12.4亿美元，预估13.8亿美元。 渣打集团第四季度调整后有形股本回报率9.6％。 渣打集团第四季度普通股一级资本充足率14.1%。 渣打集团2025年全年经调整经营收入208.9亿美元，预估209.2亿美元。 渣打集团宣布回购15亿美元股票。",
+          "url": "https://wallstreetcn.com/livenews/3057865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的8.77亿美元。",
@@ -961,6 +975,17 @@
           "time_info": "08时39分"
         },
         {
+          "title": "交易员称，印度央行可能抛售美元以阻止卢比汇率跌破91。",
+          "url": "https://flash.jin10.com/detail/20260224114015948800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "周一（2月23日）纽约尾盘，ICE美元指数跌0.10%，报97.702点，日内交投区间为97.853-97.355点，亚太盘初“跳空低开”，北京时间14:30之前低位震荡，随后逐步收复失地、曾在20:00过后短暂地微幅转涨。 彭博美元指数涨0.06%，报1189.31点，日内交投区间为1185-1190.08点。",
           "url": "https://wallstreetcn.com/livenews/3057635",
           "source": "华尔街见闻-快讯",
@@ -1003,6 +1028,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "先为达生物：与辉瑞中国达成商业化战略合作协议，双方就新一代偏向型GLP-1达成商业化战略合作协议，公司将有权获得辉瑞支付的最高可达4.95亿美元付款总额。",
+          "url": "https://wallstreetcn.com/livenews/3057840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美国众议院议长约翰逊：在最高法院作出裁决后，将由白宫决定是否退还1340亿美元关税。",
@@ -1074,7 +1110,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "拆解黄金白银为何震荡",
@@ -1114,8 +1150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时47分]"
         },
         {
           "title": "拆解黄金白银为何震荡",
@@ -1129,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时38分 ~ 11时08分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260224115540703800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "COMEX黄金期货涨3%，欧美主权债价格涨幅扩大，特朗普重燃贸易不确定性，投资者寻求避险",
@@ -1217,7 +1264,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -1313,8 +1360,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时38分 ~ 12时47分]"
+        },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
           "url": "https://www.cls.cn/detail/2292918",
@@ -1323,23 +1383,12 @@
             8,
             7,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 11时08分]"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时38分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 12时47分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -1358,11 +1407,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时47分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
@@ -1449,6 +1499,17 @@
           "time_info": "[06时21分 ~ 07时19分]"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3057657",
           "source": "华尔街见闻-快讯",
@@ -1506,7 +1567,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -1539,7 +1600,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         }
@@ -1620,11 +1681,12 @@
           "url": "https://wallstreetcn.com/livenews/3057825",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
         },
         {
           "title": "A股机器人概念股开盘活跃，百达精工2连板，利亚德涨超10%，露笑科技、天奇股份、亨通光电等纷纷高开，据报道，2026年春节联欢晚会一系列精彩的机器人表演引爆社交网络。",
@@ -1633,7 +1695,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         }
