@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T08:44:05.614925+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-02-25T09:40:22.660955+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 08时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 09时40分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -30,8 +30,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 08时44分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 09时40分]"
+        },
+        {
+          "title": "韩国股市总市值达到3.76万亿美元，超过法国股市。",
+          "url": "https://wallstreetcn.com/livenews/3058448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
@@ -51,20 +62,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
         {
-          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
-          "url": "https://wallstreetcn.com/livenews/3058410",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
+          "url": "https://flash.jin10.com/detail/20260225092652948800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "09时40分"
         },
         {
           "title": "周二（2月24日），韩元兑美元最终涨0.17%，报1440.66韩元。",
@@ -165,6 +176,30 @@
           "time_info": "[04时16分 ~ 05时16分]"
         },
         {
+          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
+          "url": "https://wallstreetcn.com/livenews/3058410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 09时40分]"
+        },
+        {
+          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
+          "url": "https://www.cls.cn/detail/2294110",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 09时40分]"
+        },
+        {
           "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3058283",
           "source": "华尔街见闻-快讯",
@@ -176,17 +211,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时16分]"
-        },
-        {
-          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
-          "url": "https://www.cls.cn/detail/2294110",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 08时44分]"
         },
         {
           "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 布伦特4月原油期货收报70.77美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
@@ -306,6 +330,28 @@
           "time_info": "04时16分"
         },
         {
+          "title": "人民币兑美元中间价创2023年5月11日来新高",
+          "url": "https://wallstreetcn.com/livenews/3058431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "纽约期金突破5200美元/盎司，日内涨0.46%。",
+          "url": "https://flash.jin10.com/detail/20260225091905268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "现货钯金日内涨幅达4.00%，现报1788.39美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260225043649347800",
           "source": "金十数据",
@@ -317,6 +363,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "现货白银向上触及88美元/盎司，日内涨1.01%。",
+          "url": "https://flash.jin10.com/detail/20260225091856106800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "华纳兄弟探索公司（WBD）：派拉蒙将收购报价提高至每股31美元现金。",
           "url": "https://wallstreetcn.com/livenews/3058354",
           "source": "华尔街见闻-快讯",
@@ -326,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "现货钯金向上触及1800美元/盎司，日内涨1.19%。",
+          "url": "https://flash.jin10.com/detail/20260225091559501800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "据标普全球评级，美国私立学校年度学费上涨3.6%至48,922美元，寄宿制学校学费涨3.5%至75,466美元。",
@@ -348,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "WTI原油期货日内涨幅达1.00%，现报66.29美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260225090927111800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
@@ -392,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "纽约期银向上触及88美元/盎司，日内涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20260225090741578800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "【闪迪遭香橼做空，股价盘中跌超5％】知名做空机构香橼称正在做空闪迪，指当前存储芯片市场繁荣为“供应幻象”。闪迪股价跌5.4％，报630美元/股。",
@@ -441,7 +531,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -463,8 +553,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 08时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 09时40分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -476,6 +566,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时14分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时43分 ~ 09时40分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -491,21 +597,6 @@
           "time_info": "[00时31分 ~ 08时44分]"
         },
         {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时43分 ~ 08时44分]"
-        },
-        {
           "title": "特朗普，走上“关税悬崖”",
           "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
           "source": "凤凰网",
@@ -513,8 +604,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 08时44分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 09时40分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -548,6 +639,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
+          "url": "https://flash.jin10.com/detail/20260225092719887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "美国总统特朗普将要求国会禁止投资公司购买房屋。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -674,6 +787,17 @@
           "time_info": "[03时27分 ~ 04时16分]"
         },
         {
+          "title": "美国总统特朗普：我们实现了前所未有的变革，实现了划时代的逆转。",
+          "url": "https://flash.jin10.com/detail/20260225092635757800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
           "url": "https://flash.jin10.com/detail/20260225062520187800",
           "source": "金十数据",
@@ -683,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
@@ -729,13 +864,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "派拉蒙首席执行官大卫·埃里森将出席特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225091354888800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
           "url": "https://wallstreetcn.com/livenews/3058394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -832,8 +978,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 08时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 09时40分]"
         },
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -844,8 +990,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 09时40分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -992,7 +1138,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         }
@@ -1000,7 +1146,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1022,8 +1168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 08时44分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 09时40分]"
         },
         {
           "title": "现货黄金跌约1.5%，白银跌1.1%，纽约铜期货涨2%",
@@ -1050,6 +1196,29 @@
           "time_info": "[03时27分 ~ 04时16分]"
         },
         {
+          "title": "为什么说黄金这波春节上涨“不健康”",
+          "url": "https://www.toutiao.com/trending/7610286715936345651/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 09时40分]"
+        },
+        {
+          "title": "现货黄金站上5180美元/盎司，日内涨0.71%。",
+          "url": "https://flash.jin10.com/detail/20260225091825275800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -1061,15 +1230,26 @@
           "time_info": "06时36分"
         },
         {
-          "title": "为什么说黄金这波春节上涨“不健康”",
-          "url": "https://www.toutiao.com/trending/7610286715936345651/",
-          "source": "今日头条",
+          "title": "现货黄金突破5170美元/盎司，日内涨0.51%。",
+          "url": "https://flash.jin10.com/detail/20260225090846183800",
+          "source": "金十数据",
           "ranks": [
-            23
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "09时40分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月25日（周三）早盘盘初下跌0.43%报1142.97元/克；<br/>上海黄金交易所白银T+D 2月25日（周三）早盘盘初上涨0.18%报21400.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260225090157480800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加7.72吨，当前持仓量为1094.19吨。",
@@ -1078,7 +1258,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         }
@@ -1106,7 +1286,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         }
@@ -1142,6 +1322,36 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
+          "url": "https://www.cls.cn/detail/2293730",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 08时44分]"
+        },
+        {
+          "title": "突发！480亿光模块概念股拟收购股权布局光通信产业链上游|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2293968",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -1173,25 +1383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
-          "url": "https://www.cls.cn/detail/2293730",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 08时44分]"
         }
       ]
     }
