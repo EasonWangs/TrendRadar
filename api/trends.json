@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T01:29:16.319887+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-02-27T02:22:50.629503+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -26,19 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
-          "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
-          "url": "https://flash.jin10.com/detail/20260227012606598800",
-          "source": "金十数据",
+          "title": "LME期铜收跌18美元，报13304美元/吨。 LME期铝收跌13美元，报3158美元/吨。 LME期锌收跌10美元，报3378美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌391美元，报17694美元/吨。 LME期锡收涨736美元，报54434美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3059714",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时22分"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报66.31美元/桶。",
@@ -52,6 +52,18 @@
           "time_info": "00时25分"
         },
         {
+          "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
+          "url": "https://flash.jin10.com/detail/20260227012606598800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时22分]"
+        },
+        {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
           "source": "澎湃新闻",
@@ -60,8 +72,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -71,8 +83,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
+        },
+        {
+          "title": "MP Materials将投资超过12.5亿美元到美国得州Northlake面积为120英亩的稀土园区。",
+          "url": "https://wallstreetcn.com/livenews/3059685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 02时22分]"
         },
         {
           "title": "WTI原油期货日内涨幅达1.00%，现报66.08美元/桶。",
@@ -152,17 +176,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "MP Materials将投资超过12.5亿美元到美国得州Northlake面积为120英亩的稀土园区。",
-          "url": "https://wallstreetcn.com/livenews/3059685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
           "title": "NextEra计划发售20亿美元权益单位，来资助发电厂建设项目",
           "url": "https://wallstreetcn.com/livenews/3059649",
           "source": "华尔街见闻-快讯",
@@ -191,7 +204,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -210,8 +223,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
+          "url": "https://flash.jin10.com/detail/20260227015004327800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
         {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
           "url": "https://wallstreetcn.com/livenews/3059674",
@@ -222,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3059705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
         },
         {
           "title": "美媒披露：特朗普与美军方就对伊朗军事行动分歧明显",
@@ -246,6 +259,18 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3059705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时22分]"
+        },
+        {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
           "url": "https://news.ifeng.com/c/8r3yuvat2ge",
           "source": "凤凰网",
@@ -253,8 +278,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -264,8 +289,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -275,30 +300,43 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
           "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
           "url": "https://flash.jin10.com/detail/20260227012041500800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时22分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
           "url": "https://wallstreetcn.com/livenews/3059695",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时22分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：存在大规模的掩盖行为来保护特朗普。",
+          "url": "https://flash.jin10.com/detail/20260227014024748800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "02时22分"
         },
         {
           "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
@@ -307,7 +345,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -318,7 +356,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
@@ -326,7 +364,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -336,8 +374,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -347,8 +385,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260227013229287800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260227013033854800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "美股延续跌势，标普500指数下跌1.00%。",
@@ -387,8 +447,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时22分]"
         },
         {
           "title": "现货黄金短线上扬30美元，报5174.51美元/盎司。",
