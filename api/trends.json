@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T02:22:50.629503+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-02-27T03:22:41.247848+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -15,30 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2010322310536590565",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
-        },
-        {
-          "title": "LME期铜收跌18美元，报13304美元/吨。 LME期铝收跌13美元，报3158美元/吨。 LME期锌收跌10美元，报3378美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌391美元，报17694美元/吨。 LME期锡收涨736美元，报54434美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3059714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报66.31美元/桶。",
@@ -50,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3059726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
+          "url": "https://flash.jin10.com/detail/20260227023806931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
@@ -64,6 +76,18 @@
           "time_info": "[01时29分 ~ 02时22分]"
         },
         {
+          "title": "LME期铜收跌18美元，报13304美元/吨。 LME期铝收跌13美元，报3158美元/吨。 LME期锌收跌10美元，报3378美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌391美元，报17694美元/吨。 LME期锡收涨736美元，报54434美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3059714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时22分]"
+        },
+        {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
           "source": "澎湃新闻",
@@ -72,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -83,8 +107,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "MP Materials将投资超过12.5亿美元到美国得州Northlake面积为120英亩的稀土园区。",
@@ -97,6 +121,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时22分]"
+        },
+        {
+          "title": "周四（2月26日），美联储隔夜逆回购协议（RRP）使用规模为37.96亿美元（交易对手7家），上个交易日报11.59亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3059723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "WTI原油期货日内涨幅达1.00%，现报66.08美元/桶。",
@@ -132,6 +167,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.790%（1月29日为4.018%），投标倍数2.50（前次为2.45）。",
+          "url": "https://wallstreetcn.com/livenews/3059716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
           "url": "https://wallstreetcn.com/livenews/3059661",
           "source": "华尔街见闻-快讯",
@@ -154,6 +200,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的37.96亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227021954991800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "现货白银日内暴跌4.02美元，现报85.24美元/盎司，跌幅4.50%。",
           "url": "https://flash.jin10.com/detail/20260226233030334800",
           "source": "金十数据",
@@ -174,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "摩根士丹利：将英伟达(NVDA.O)目标价从250美元上调至260美元， 维持“增持”评级。",
+          "url": "https://flash.jin10.com/detail/20260227021620190800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "NextEra计划发售20亿美元权益单位，来资助发电厂建设项目",
@@ -218,12 +286,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "科技巨头2万亿美元豪赌AI",
+          "url": "https://www.toutiao.com/trending/7611122303522311734/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美联储周四数据显示，截至2月25日当周，经季节性调整后，美国商业票据余额在最新一周增加25亿美元，至1.407万亿美元。未经季节性调整的商业票据余额增加253亿美元，至1.437万亿美元。未经季节性调整的外国金融类商业票据余额增加13亿美元，至3961亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227020232307800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -232,7 +322,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -264,11 +354,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时22分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -278,19 +369,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
           "url": "https://www.zhihu.com/question/2009941400440025198",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -300,8 +392,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
+          "url": "https://wallstreetcn.com/livenews/3059695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "time_info": "[01时29分 ~ 03时22分]"
         },
         {
           "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
@@ -316,27 +421,26 @@
           "time_info": "[01时29分 ~ 02时22分]"
         },
         {
-          "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
-          "url": "https://wallstreetcn.com/livenews/3059695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时22分]"
-        },
-        {
           "title": "美国参议院少数党领袖舒默：存在大规模的掩盖行为来保护特朗普。",
           "url": "https://flash.jin10.com/detail/20260227014024748800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "特朗普旨在引导古巴加大对美依赖",
+          "url": "https://wallstreetcn.com/livenews/3059719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
@@ -350,6 +454,28 @@
           "time_info": "01时29分"
         },
         {
+          "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
+          "url": "https://flash.jin10.com/detail/20260227022534308800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
+          "url": "https://flash.jin10.com/detail/20260227021750352800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "美媒：特朗普政府加紧制定策略 谋划保留关税收入",
           "url": "https://flash.jin10.com/detail/20260227010102008800",
           "source": "金十数据",
@@ -359,6 +485,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "据知情人士透露，特朗普政府放宽对古巴新兴私营部门燃料运输的举措旨在使古巴在物资供应方面更加依赖美国，从而提升美国在推动政治和经济变革方面的筹码。",
+          "url": "https://flash.jin10.com/detail/20260227021000525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "景顺：黄金ETF对央行的吸引力日益增强",
+          "url": "https://wallstreetcn.com/livenews/3059727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
+          "url": "https://www.cls.cn/detail/2296411",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
+        },
+        {
+          "title": "现货黄金短线上扬30美元，报5174.51美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260226234308550800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月26日（周四）晚盘收盘下跌0.27%报1141.49元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）晚盘收盘下跌1.57%报21566.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260227023023218800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
+          "url": "https://www.toutiao.com/trending/7611031515153842182/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "现货黄金跌破5140美元/盎司，日内跌0.48%。",
+          "url": "https://flash.jin10.com/detail/20260226233001147800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -374,8 +584,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -385,8 +595,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -395,7 +605,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -406,7 +616,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -427,46 +637,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
-          "url": "https://www.cls.cn/detail/2296411",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时22分]"
-        },
-        {
-          "title": "现货黄金短线上扬30美元，报5174.51美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260226234308550800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "现货黄金跌破5140美元/盎司，日内跌0.48%。",
-          "url": "https://flash.jin10.com/detail/20260226233001147800",
-          "source": "金十数据",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
