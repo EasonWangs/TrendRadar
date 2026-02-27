@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T07:13:46.890783+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-02-27T08:41:26.201010+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -28,11 +28,12 @@
             8,
             13,
             14,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 08时41分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -41,11 +42,12 @@
           "ranks": [
             15,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 08时41分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -66,7 +68,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -102,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "离岸人民币兑美元短线快速走低逾100点，此前中国人民银行决定将远期售汇业务的外汇风险准备金率下调为0。",
+          "url": "https://wallstreetcn.com/livenews/3059883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
@@ -278,7 +291,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -344,7 +357,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -410,7 +423,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -487,7 +500,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -520,7 +533,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -531,7 +544,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -553,7 +566,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -597,7 +610,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -608,7 +621,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -619,7 +632,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -649,7 +662,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -659,8 +672,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 08时41分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -674,8 +687,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 08时41分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -683,11 +696,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 08时41分]"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -849,7 +863,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -874,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
@@ -907,6 +932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普周四听取了有关伊朗军事选项的简报。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3059856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     },
@@ -934,8 +970,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 08时41分]"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
@@ -955,7 +991,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -966,7 +1002,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -982,6 +1018,18 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时41分]"
+        },
+        {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
           "url": "https://wallstreetcn.com/livenews/3059772",
           "source": "华尔街见闻-快讯",
@@ -991,17 +1039,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -1032,7 +1069,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -1106,7 +1143,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
@@ -1114,11 +1151,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 08时41分]"
         },
         {
           "title": "景顺：黄金ETF对央行的吸引力日益增强",
@@ -1179,6 +1217,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "新婚夫妇服务区遗落数万现金与黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%9C%8D%E5%8A%A1%E5%8C%BA%E9%81%97%E8%90%BD%E6%95%B0%E4%B8%87%E7%8E%B0%E9%87%91%E4%B8%8E%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "现货黄金跌破5140美元/盎司，日内跌0.48%。",
           "url": "https://flash.jin10.com/detail/20260226233001147800",
           "source": "金十数据",
@@ -1188,6 +1237,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "3毫克黄金手机贴热销",
+          "url": "https://www.baidu.com/s?wd=3%E6%AF%AB%E5%85%8B%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E8%B4%B4%E7%83%AD%E9%94%80",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
+          "url": "https://flash.jin10.com/detail/20260227062334976800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
+          "url": "https://flash.jin10.com/detail/20260227025809636800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     },
@@ -1232,34 +1331,6 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
-          "url": "https://flash.jin10.com/detail/20260227062334976800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
-          "url": "https://flash.jin10.com/detail/20260227025809636800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -1288,7 +1359,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
