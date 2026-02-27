@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T08:41:26.201010+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-02-27T09:40:36.438317+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -43,11 +43,12 @@
             15,
             14,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时40分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -106,15 +107,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "离岸人民币兑美元短线快速走低逾100点，此前中国人民银行决定将远期售汇业务的外汇风险准备金率下调为0。",
-          "url": "https://wallstreetcn.com/livenews/3059883",
+          "title": "人民币兑美元中间价报6.9228，与上日持平；上一交易日官方收盘价6.8397，上日夜盘报收6.8500。",
+          "url": "https://wallstreetcn.com/livenews/3059898",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "09时40分"
         },
         {
           "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
@@ -188,6 +189,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时16分]"
+        },
+        {
+          "title": "离岸人民币兑美元短线快速走低逾100点，此前中国人民银行决定将远期售汇业务的外汇风险准备金率下调为0。",
+          "url": "https://wallstreetcn.com/livenews/3059883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 09时40分]"
         },
         {
           "title": "周四（2月26日），美联储隔夜逆回购协议（RRP）使用规模为37.96亿美元（交易对手7家），上个交易日报11.59亿美元。",
@@ -373,6 +386,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "WTI原油回落至65美元/桶下方，日内跌0.81%。",
+          "url": "https://flash.jin10.com/detail/20260227090721486800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
           "url": "https://wallstreetcn.com/livenews/3059661",
           "source": "华尔街见闻-快讯",
@@ -472,6 +496,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "WTI原油期货跌破65美元/桶，日内跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20260227090401623800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "现货白银日内暴跌4.02美元，现报85.24美元/盎司，跌幅4.50%。",
           "url": "https://flash.jin10.com/detail/20260226233030334800",
           "source": "金十数据",
@@ -514,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "沪锡主力合约日内涨幅超3%，现报432280元/吨。伦锡日内涨幅扩大至2.00%，现报55160美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260227090147855800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "摩根士丹利：将英伟达(NVDA.O)目标价从250美元上调至260美元， 维持“增持”评级。",
@@ -662,7 +708,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -672,8 +718,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时40分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -700,8 +746,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时40分]"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -835,6 +881,17 @@
           "time_info": "[03时22分 ~ 04时17分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 09时40分]"
+        },
+        {
           "title": "特朗普威胁驱逐教父饰演者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E9%A9%B1%E9%80%90%E6%95%99%E7%88%B6%E9%A5%B0%E6%BC%94%E8%80%85%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -868,6 +925,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
+          "url": "https://flash.jin10.com/detail/20260227091836465800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
           "url": "https://flash.jin10.com/detail/20260227011054267800",
           "source": "金十数据",
@@ -890,15 +958,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
+          "title": "消息人士透露，美国驻中东最高军事指挥官在周四向特朗普汇报了对伊朗采取军事行动的各种方案。",
+          "url": "https://flash.jin10.com/detail/20260227090648243800",
+          "source": "金十数据",
           "ranks": [
-            18
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "09时40分"
         },
         {
           "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
@@ -940,7 +1008,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         }
@@ -970,8 +1038,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时40分]"
         },
         {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
@@ -1007,6 +1075,18 @@
           "time_info": "07时13分"
         },
         {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 09时40分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3059778",
           "source": "华尔街见闻-快讯",
@@ -1016,18 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时41分]"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -1143,7 +1211,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
@@ -1152,11 +1220,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时40分]"
         },
         {
           "title": "景顺：黄金ETF对央行的吸引力日益增强",
@@ -1172,6 +1241,18 @@
           "time_info": "[03时22分 ~ 05时16分]"
         },
         {
+          "title": "新婚夫妇服务区遗落数万现金与黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%9C%8D%E5%8A%A1%E5%8C%BA%E9%81%97%E8%90%BD%E6%95%B0%E4%B8%87%E7%8E%B0%E9%87%91%E4%B8%8E%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 09时40分]"
+        },
+        {
           "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
           "url": "https://www.toutiao.com/trending/7611031515153842182/",
           "source": "今日头条",
@@ -1182,6 +1263,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 06时14分]"
+        },
+        {
+          "title": "3毫克黄金手机贴热销",
+          "url": "https://www.baidu.com/s?wd=3%E6%AF%AB%E5%85%8B%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E8%B4%B4%E7%83%AD%E9%94%80",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 09时40分]"
         },
         {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
@@ -1217,15 +1310,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "新婚夫妇服务区遗落数万现金与黄金",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%9C%8D%E5%8A%A1%E5%8C%BA%E9%81%97%E8%90%BD%E6%95%B0%E4%B8%87%E7%8E%B0%E9%87%91%E4%B8%8E%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "现货黄金回落至5170美元/盎司下方，日内跌0.29%。",
+          "url": "https://flash.jin10.com/detail/20260227090210133800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "09时40分"
         },
         {
           "title": "现货黄金跌破5140美元/盎司，日内跌0.48%。",
@@ -1239,60 +1332,21 @@
           "time_info": "00时25分"
         },
         {
-          "title": "3毫克黄金手机贴热销",
-          "url": "https://www.baidu.com/s?wd=3%E6%AF%AB%E5%85%8B%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E8%B4%B4%E7%83%AD%E9%94%80",
-          "source": "百度热搜",
+          "title": "上海黄金交易所黄金T+D 2月27日（周五）早盘盘初下跌0.27%报1141.49元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）早盘盘初下跌0.83%报21729.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260227090032752800",
+          "source": "金十数据",
           "ranks": [
-            26
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
-          "url": "https://wallstreetcn.com/livenews/3059885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
-          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
-          "url": "https://flash.jin10.com/detail/20260227062334976800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
-          "url": "https://flash.jin10.com/detail/20260227025809636800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "09时40分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
@@ -1318,6 +1372,17 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "「初代同事」概念走红，和校园友谊、普通同事关系有何不同？它反映了当代年轻人怎样的职场生态和情感需求？",
+          "url": "https://www.zhihu.com/question/2010355971185214106",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
           "url": "https://wallstreetcn.com/livenews/3059656",
           "source": "华尔街见闻-快讯",
@@ -1327,6 +1392,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 09时40分]"
+        },
+        {
+          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
+          "url": "https://flash.jin10.com/detail/20260227062334976800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
+          "url": "https://flash.jin10.com/detail/20260227025809636800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时17分"
         }
       ]
     },
