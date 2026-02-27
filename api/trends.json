@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T05:12:43.354725+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-02-28T06:09:36.530272+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时09分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时09分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -40,8 +41,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时09分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗有那么多石油，根本不需要去浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260228053714270800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不想走得更远，“这太糟糕了”。",
+          "url": "https://flash.jin10.com/detail/20260228053622783800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
@@ -55,6 +78,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "美国总统特朗普：我们对与伊朗的谈判不满意。我们要求伊朗不进行铀浓缩。伊朗没有找到正确的答案。不担心袭击伊朗对油价的影响。",
+          "url": "https://flash.jin10.com/detail/20260228053431319800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
           "url": "https://flash.jin10.com/detail/20260228020904700800",
           "source": "金十数据",
@@ -64,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉运气不错，现在做得很好。",
+          "url": "https://flash.jin10.com/detail/20260228053001600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
@@ -271,6 +316,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "特朗普发文呼吁最高法院重审或再审其关税政策案",
+          "url": "https://flash.jin10.com/detail/20260228052645165800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
           "title": "美国总统特朗普：（谈对伊军事行动）我非常希望不要动用武力。",
           "url": "https://flash.jin10.com/detail/20260228020354133800",
           "source": "金十数据",
@@ -326,6 +382,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
           "title": "美国总统特朗普：我和伊拉克领导层相处融洽。",
           "url": "https://flash.jin10.com/detail/20260228015944823800",
           "source": "金十数据",
@@ -357,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "强硬回应AI军用分歧：特朗普称Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
@@ -516,7 +594,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "纽约期银突破94美元/盎司，日内涨7.33%。",
@@ -530,6 +608,19 @@
           "time_info": "00时17分"
         },
         {
+          "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
+          "url": "https://www.zhihu.com/question/2010686349234107758",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时09分]"
+        },
+        {
           "title": "纽约期银日内暴涨7.00%，现报93.72美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260227234615005800",
           "source": "金十数据",
@@ -541,17 +632,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美元指数跌0.2%，2月份累涨0.6%",
-          "url": "https://wallstreetcn.com/livenews/3060498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
           "title": "现货白银向上触及93美元/盎司，日内涨5.35%。",
           "url": "https://flash.jin10.com/detail/20260227234445582800",
           "source": "金十数据",
@@ -561,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "派拉蒙（Paramount SkyDance）将按每股31美元收购华纳兄弟探索公司（WBD）。",
+          "url": "https://wallstreetcn.com/livenews/3060520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "周五（2月27日），美联储隔夜逆回购协议（RRP）使用规模为163.18亿美元（交易对手10家），上个交易日报37.96亿美元。",
@@ -575,18 +666,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 05时12分]"
-        },
-        {
-          "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
-          "url": "https://www.zhihu.com/question/2010686349234107758",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时12分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8630元，较周四夜盘收盘跌130点。成交量535.90亿美元。",
@@ -612,6 +691,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时16分]"
+        },
+        {
+          "title": "美元指数跌0.2%，2月份累涨0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时09分]"
         },
         {
           "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
@@ -680,33 +771,58 @@
           "url": "https://wallstreetcn.com/livenews/3060494",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时09分]"
         },
         {
           "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3060490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时09分]"
         },
         {
           "title": "据知情人士透露，派拉蒙（Paramount SkyDance）向奈飞支付28亿美元节约费。 预计华纳兄弟探索公司（WBD）将于当地时间周五宣布派拉蒙协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3060488",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时09分]"
+        },
+        {
+          "title": "美国企业2月披露回购计划达2330亿美元，创历年同期新高",
+          "url": "https://wallstreetcn.com/livenews/3060518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.778万亿美元，之前一周18.764万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3060515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "消息人士称，马斯克旗下太空探索公司SpaceX考虑最快3月秘密递交美国IPO申请，SpaceX在IPO中可能寻求超过1.75万亿美元的估值。",
@@ -715,9 +831,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "高盛将今年底的铜价预测由11000美元上调至12200美元。",
+          "url": "https://flash.jin10.com/detail/20260228045842619800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
@@ -726,7 +853,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -737,7 +864,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -748,7 +875,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -770,7 +897,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -821,96 +948,8 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时12分]"
-        },
-        {
-          "title": "OpenAI将追加融资100亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3060477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时12分]"
-        },
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
-          "url": "https://wallstreetcn.com/livenews/3060380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
-          "url": "https://flash.jin10.com/detail/20260228002339246800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3060443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄金",
@@ -921,8 +960,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时09分]"
         },
         {
           "title": "炮龙一响 黄金万两",
@@ -932,22 +971,35 @@
             21,
             23,
             22,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时09分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：2月24日当周，投机者所持COMEX黄金净多头头寸增加3,878手合约，至99,937手合约，创四周新高。 所持COMEX白银净多头头寸创五周新高。 所持COMEX铜净多头头寸创21周新低。 所持NYMEX铂金净多头头寸创五周新高，所持NYMEX钯金净多头头寸创四年新高。",
-          "url": "https://wallstreetcn.com/livenews/3060499",
+          "title": "现货黄金涨1.75%，刷新日高至5275.82美元/盎司，逼近1月29日所创历史最高位5595.47美元。",
+          "url": "https://wallstreetcn.com/livenews/3060525",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月24日当周，投机者所持COMEX黄金净多头头寸增加3,878手合约，至99,937手合约，创四周新高。 所持COMEX白银净多头头寸创五周新高。 所持COMEX铜净多头头寸创21周新低。 所持NYMEX铂金净多头头寸创五周新高，所持NYMEX钯金净多头头寸创四年新高。",
+          "url": "https://wallstreetcn.com/livenews/3060499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时09分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘收盘上涨0.93%报1155.17元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘收盘上涨5.38%报23231.0元/千克。",
@@ -990,15 +1042,104 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         }
       ]
     },
     {
+      "keyword_group": "openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时09分]"
+        },
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时09分]"
+        },
+        {
+          "title": "OpenAI将追加融资100亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3060477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时12分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时09分]"
+        },
+        {
+          "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
+          "url": "https://wallstreetcn.com/livenews/3060380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
+          "url": "https://flash.jin10.com/detail/20260228002339246800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3060443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -1010,8 +1151,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时09分]"
+        },
+        {
+          "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
+          "url": "https://wallstreetcn.com/livenews/3060522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
+          "url": "https://wallstreetcn.com/livenews/3060517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时09分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览",
@@ -1072,8 +1235,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 06时09分]"
         }
       ]
     },
