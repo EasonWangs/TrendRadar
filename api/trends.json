@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T08:41:34.076558+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-03-03T09:41:03.780005+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时41分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时41分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -48,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时41分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -121,6 +122,19 @@
           "time_info": "[00时19分 ~ 08时41分]"
         },
         {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 09时41分]"
+        },
+        {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
@@ -143,18 +157,6 @@
           "time_info": "01时22分"
         },
         {
-          "title": "特朗普3月访华能否成行？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时21分 ~ 07时10分]"
-        },
-        {
           "title": "美国总统特朗普：已击毁10艘舰艇，我们已领先于此前的预期；我们将会轻松获胜。我们此前预计将持续4到5周，但可能会更久。",
           "url": "https://flash.jin10.com/detail/20260303005645134800",
           "source": "金十数据",
@@ -175,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美国总统特朗普2日说，他认为没有必要对伊朗采取地面军事行动。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3062292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：将确保伊朗无法获得核武器。",
@@ -238,6 +251,28 @@
           "time_info": "[03时20分 ~ 05时15分]"
         },
         {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
+          "title": "特朗普：不排除派地面部队",
+          "url": "https://news.ifeng.com/c/8rBa5Cg6WwD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
+        },
+        {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
           "url": "https://wallstreetcn.com/livenews/3062086",
           "source": "华尔街见闻-快讯",
@@ -282,6 +317,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时22分]"
+        },
+        {
+          "title": "特朗普称将很快就美使馆遭袭采取报复行动",
+          "url": "https://wallstreetcn.com/livenews/3062286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：（伊朗）拒绝停止寻求核武器。",
@@ -356,7 +402,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -381,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "据NewsNation记者：美国总统特朗普表示，他认为无需在伊朗部署地面部队。",
+          "url": "https://flash.jin10.com/detail/20260303090416386800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -414,6 +471,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "据NewsNation记者：美国总统特朗普表示，你们很快就会知道，美国将对袭击美国驻沙特大使馆以及杀害美军人员的行为作出何种回应。",
+          "url": "https://flash.jin10.com/detail/20260303090240313800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "特朗普：“不排除派地面部队”",
+          "url": "https://wallstreetcn.com/livenews/3062262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国中央司令部：昨晚，美国B-1轰炸机深入伊朗，打击伊朗的弹道导弹能力。正如总统特朗普所说，我们要摧毁他们的导弹，把他们的导弹工业夷为平地。",
@@ -471,6 +550,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
+          "url": "https://wallstreetcn.com/livenews/3062255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "据国家通讯社：约旦国王阿卜杜拉接获美国总统特朗普来电。约旦国王阿卜杜拉向美国总统特朗普强调，必须努力实现地区全面平静。",
           "url": "https://flash.jin10.com/detail/20260303022557330800",
           "source": "金十数据",
@@ -491,12 +581,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "克林顿称特朗普曾提及与爱泼斯坦“有过美好时光”",
+          "url": "https://flash.jin10.com/detail/20260303084946784800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
@@ -539,7 +640,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -703,7 +804,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -752,6 +853,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "人民币兑美元中间价创2023年5月4日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3062276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美元指数DXY日内大涨1.00%，现报98.65。",
           "url": "https://flash.jin10.com/detail/20260302235801305800",
           "source": "金十数据",
@@ -780,9 +892,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "WTI原油突破72美元/桶，日内涨1.32%。布伦特原油突破78美元/桶，日内涨0.99%。",
+          "url": "https://flash.jin10.com/detail/20260303090326802800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "PayPay与软银集团寻求通过美国IPO融资至多11亿美元。",
@@ -832,7 +955,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -853,11 +976,24 @@
             17,
             16,
             14,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 09时41分]"
+        },
+        {
+          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2300294",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时21分 ~ 09时41分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -871,16 +1007,15 @@
           "time_info": "[07时10分 ~ 08时41分]"
         },
         {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
-          "source": "财联社热门",
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时21分 ~ 07时10分]"
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 09时41分]"
         },
         {
           "title": "现货黄金站上5350美元/盎司，日内涨0.55%。",
@@ -889,7 +1024,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -906,13 +1041,36 @@
           "time_info": "[00时19分 ~ 01时22分]"
         },
         {
+          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
+          "url": "https://www.cls.cn/detail/2300191",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 09时41分]"
+        },
+        {
+          "title": "黄金白银双双快速跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%8C%E5%8F%8C%E5%BF%AB%E9%80%9F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 09时41分]"
+        },
+        {
           "title": "香港考虑允许强积金可投资黄金ETF",
           "url": "https://flash.jin10.com/detail/20260303081148207800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -928,15 +1086,15 @@
           "time_info": "00时19分"
         },
         {
-          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
-          "url": "https://www.cls.cn/detail/2300191",
-          "source": "财联社热门",
+          "title": "现货黄金日内涨50美元，站上5370美元/盎司，日内涨0.91%。",
+          "url": "https://flash.jin10.com/detail/20260303090754171800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "09时41分"
         },
         {
           "title": "报道：香港考虑允许强积金可投资黄金ETF",
@@ -945,18 +1103,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
-          "title": "黄金白银双双快速跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%8C%E5%8F%8C%E5%BF%AB%E9%80%9F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -970,23 +1117,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月3日（周二）早盘盘初上涨1.23%报1191.16元/克；<br/>上海黄金交易所白银T+D 3月3日（周二）早盘盘初下跌3.29%报22717.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260303090041296800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
           "url": "https://www.cls.cn/detail/2300479",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 09时41分]"
         },
         {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
@@ -1082,6 +1241,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "高盛交易员认为美股反弹前将经历“痛苦”之路",
+          "url": "https://wallstreetcn.com/livenews/3062256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
           "url": "https://flash.jin10.com/detail/20260303012108985800",
           "source": "金十数据",
@@ -1096,8 +1266,30 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
+          "url": "https://flash.jin10.com/detail/20260303091907467800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们一直与国防部合作，对我们的协议进行一些补充，以使我们的原则非常明确。",
+          "url": "https://flash.jin10.com/detail/20260303091855339800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
@@ -1109,6 +1301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时12分]"
+        },
+        {
+          "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
+          "url": "https://wallstreetcn.com/livenews/3062280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
@@ -1131,6 +1334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3062254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
