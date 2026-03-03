@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T04:13:52.957545+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-03-04T05:15:51.298403+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 65,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -58,7 +58,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "德国总理默茨：已告知特朗普，乌克兰不可能再割让更多领土。",
+          "url": "https://flash.jin10.com/detail/20260304044618511800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "【沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦】距离凯文·沃什掌舵美联储仍有数月，但随着美国经济的走势以及他未来同僚的立场与白宫期待相背，沃什如总统特朗普所愿降息正面临诸多的障碍。多数美联储官员认为，鉴于通胀仍偏高、劳动力市场似乎趋于稳定，并无迫切理由匆忙推进更多降息。中东冲突再起带来的四年来最大油价涨幅，也只会进一步增强他们的谨慎态度。对于沃什降息愿景背后的论据（其核心在于一场技术革命将会带来低通胀的经济繁荣）以及他缩小美联储资产负债表的承诺，一些政策制定者表达了怀疑。目前，参议院尚未就沃什的提名资格安排听证会。",
@@ -118,15 +129,15 @@
           "time_info": "01时21分"
         },
         {
-          "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
-          "url": "https://wallstreetcn.com/livenews/3062981",
-          "source": "华尔街见闻-快讯",
+          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
+          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
+          "source": "凤凰网",
           "ranks": [
-            5
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时15分]"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -141,15 +152,16 @@
           "time_info": "[01时21分 ~ 02时23分]"
         },
         {
-          "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
-          "url": "https://news.ifeng.com/c/8rCZ8DyypW7",
-          "source": "凤凰网",
+          "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
+          "url": "https://wallstreetcn.com/livenews/3062981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 04时13分]"
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
         },
         {
           "title": "美国总统特朗普：我认为德国总理默茨做得不错。",
@@ -188,15 +200,50 @@
           "time_info": "[01时21分 ~ 02时23分]"
         },
         {
+          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
+          "url": "https://wallstreetcn.com/livenews/3062968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普否认被以色列“拖入战争”",
+          "url": "https://wallstreetcn.com/livenews/3062965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
           "title": "特朗普宣布为海上原油运输提供保险 必要时海军将护航",
           "url": "https://flash.jin10.com/detail/20260304034529973800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "德国总理默茨：已告知特朗普，德国参与军事冲突须经议会批准。",
+          "url": "https://flash.jin10.com/detail/20260304044529427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
@@ -219,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "德国总理默茨：已告知特朗普，需达成美欧贸易协议以消除不确定性。",
+          "url": "https://flash.jin10.com/detail/20260304044457073800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普：对英国也不满意。",
@@ -249,9 +307,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "德国总理默茨：告诉特朗普，对英国首相斯塔默的批评毫无道理，斯塔默正努力结束乌克兰冲突。",
+          "url": "https://flash.jin10.com/detail/20260304044343287800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普：油价可能会维持一段时间，但随后会下跌。",
@@ -271,9 +340,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "德国总理默茨：已告知特朗普，西班牙是欧盟成员国，任何贸易协议都必须包括西班牙。要么与西班牙达成贸易协议，要么就根本不谈。",
+          "url": "https://flash.jin10.com/detail/20260304044326974800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "据华尔街日报：特朗普考虑支持民兵组织以推翻伊朗政权。",
@@ -282,9 +362,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "德国总理默茨：将在G7峰会、北约峰会上再次会见特朗普。",
+          "url": "https://flash.jin10.com/detail/20260304044102237800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普：我们在世界各国储存了大量弹药，有无限的中高口径弹药。",
@@ -296,6 +387,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "德国总理默茨：俄乌冲突必须结束，要让特朗普知道，人们严重怀疑普京是否真的想要和平。敦促特朗普加大对俄罗斯的压力。",
+          "url": "https://flash.jin10.com/detail/20260304044030119800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普将于十分钟后在白宫与德国总理默茨会晤。",
@@ -318,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "德国总理默茨：已与美国总统特朗普讨论俄乌冲突，已有超过一百万人丧生。",
+          "url": "https://flash.jin10.com/detail/20260304043940041800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -353,17 +477,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
-          "url": "https://wallstreetcn.com/livenews/3062968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
           "title": "特朗普：伊朗军备几近衰竭 愿与该国幸存官员合作",
           "url": "https://flash.jin10.com/detail/20260303234757728800",
           "source": "金十数据",
@@ -384,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "德国总理默茨：已告知美国总统特朗普，欧盟应签署并实施与美国的贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260304043713498800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
@@ -408,15 +532,26 @@
           "time_info": "01时21分"
         },
         {
-          "title": "特朗普否认被以色列“拖入战争”",
-          "url": "https://wallstreetcn.com/livenews/3062965",
-          "source": "华尔街见闻-快讯",
+          "title": "德国总理默茨：美国总统特朗普向我保证，美国将坚守驻德承诺。",
+          "url": "https://flash.jin10.com/detail/20260304043615979800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时15分"
+        },
+        {
+          "title": "德国总理默茨：已就北约安卡拉峰会与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260304043555127800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普：对英国也不满意。",
@@ -428,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "德国总理默茨：美国总统特朗普承认德国在增加国防开支方面的作用。",
+          "url": "https://flash.jin10.com/detail/20260304043548268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普：西班牙一直表现得很糟糕，我告诉贝森特要停止与西班牙的所有交易。",
@@ -480,7 +626,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -529,6 +675,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "德国总理默茨：与美国总统特朗普的会谈聚焦伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260304043104463800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "美国总统特朗普：我们希望能有更合适的人选。",
           "url": "https://flash.jin10.com/detail/20260304005743023800",
           "source": "金十数据",
@@ -568,7 +725,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -576,7 +733,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -587,8 +744,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
@@ -602,15 +759,26 @@
           "time_info": "00时22分"
         },
         {
-          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
-          "url": "https://wallstreetcn.com/livenews/3062985",
+          "title": "据知情人士透露，小米联合创始人Lin Bin（林斌）达成一份协议，将按125亿美元估值对Miami Dolphins持股1%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062995",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时15分"
+        },
+        {
+          "title": "花旗：若冲突持续 短期铜价或跌至1.2万美元下方",
+          "url": "https://flash.jin10.com/detail/20260304044612332800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "白宫顾问哈塞特：预计今年（美国民众）实际薪资将增加2500-3000美元。",
@@ -624,24 +792,60 @@
           "time_info": "02时23分"
         },
         {
-          "title": "美、布两油短线跳水近2美元，特朗普宣布保障原油海上运输的措施。",
-          "url": "https://flash.jin10.com/detail/20260304034033102800",
-          "source": "金十数据",
+          "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3062994",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
+          "url": "https://wallstreetcn.com/livenews/3062985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
         },
         {
           "title": "防务科技初创公司Anduril Industries Inc.按估值翻倍至大约600亿美元融资大约40亿美元。 由风投公司Andreessen Horowitz与库什纳（Josh Kushner）旗下Thrive Capital领投。",
           "url": "https://wallstreetcn.com/livenews/3062977",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9193元，较周一夜盘收盘跌135点。成交量644.91亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
+          "title": "美、布两油短线跳水近2美元，特朗普宣布保障原油海上运输的措施。",
+          "url": "https://flash.jin10.com/detail/20260304034033102800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -666,17 +870,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9193元，较周一夜盘收盘跌135点。成交量644.91亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3062970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         },
         {
           "title": "商品货币澳元/美元日内跌幅达2.0%，创2025年4月份以来最大盘中跌幅，报0.6949。 美元/加元日内涨幅达0.5%，报1.3745。",
@@ -718,7 +911,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -729,7 +922,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -758,8 +951,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -769,19 +962,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "现货黄金大跌",
           "url": "https://www.douyin.com/hot/2417992",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "大妈攒金34年戴百克黄金逛珠宝城",
@@ -810,6 +1004,18 @@
           "time_info": "[00时22分 ~ 02时23分]"
         },
         {
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
           "title": "拟变卖救父的黄金丢失 多方帮找回",
           "url": "https://www.toutiao.com/trending/7612527476064911369/",
           "source": "今日头条",
@@ -819,17 +1025,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
-          "url": "https://www.cls.cn/detail/2301724",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         },
         {
           "title": "现货黄金跌破5000美元/盎司关口，日内跌幅超过6.0%。",
@@ -867,36 +1062,8 @@
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
-          "url": "https://wallstreetcn.com/livenews/3062972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
-          "url": "https://wallstreetcn.com/livenews/3062952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -907,8 +1074,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
+        },
+        {
+          "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
+          "url": "https://wallstreetcn.com/livenews/3062993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
@@ -920,6 +1098,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
+          "url": "https://wallstreetcn.com/livenews/3062972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时15分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
+          "url": "https://wallstreetcn.com/livenews/3062952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】市场再现极致分化行情，资金持续抱团涨价概念，中国石油时隔17年再度收获2连板",
+          "url": "https://www.cls.cn/detail/2301337",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
+        },
+        {
+          "title": "小米Vision GT概念车实拍",
+          "url": "https://www.douyin.com/hot/2417553",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -953,26 +1190,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】市场再现极致分化行情，资金持续抱团涨价概念，中国石油时隔17年再度收获2连板",
-          "url": "https://www.cls.cn/detail/2301337",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时15分]"
         }
       ]
     }
