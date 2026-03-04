@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T12:38:52.738091+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-04T13:24:52.732995+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时24分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -28,8 +28,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 13时24分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -54,37 +54,16 @@
           "time_info": "[01时21分 ~ 08时39分]"
         },
         {
-          "title": "美以伊战争最新动态｜特朗普暗示伊朗末代王储出局",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
           "title": "西班牙回应特朗普称将切断贸易往来",
           "url": "https://www.toutiao.com/trending/7612678791206387775/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 12时38分]"
-        },
-        {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 13时24分]"
         },
         {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
@@ -96,8 +75,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 13时24分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普暗示伊朗末代王储出局",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时21分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普或派军舰赴霍尔木兹海峡",
@@ -161,7 +162,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -223,6 +224,18 @@
           "time_info": "[08时39分 ~ 11时03分]"
         },
         {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时24分]"
+        },
+        {
           "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
           "url": "https://flash.jin10.com/detail/20260304054539761800",
           "source": "金十数据",
@@ -257,18 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时38分]"
         },
         {
           "title": "特朗普妻子被怒斥你丈夫下令轰炸小学",
@@ -541,6 +542,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美国总统特朗普将于十分钟后在白宫与德国总理默茨会晤。",
           "url": "https://flash.jin10.com/detail/20260303235000000800",
           "source": "金十数据",
@@ -682,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "报道：特朗普周二与Coinbase首席执行官举行了私人会晤",
+          "url": "https://wallstreetcn.com/livenews/3063317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "德国总理默茨：已就北约安卡拉峰会与美国总统特朗普进行了交谈。",
@@ -874,7 +897,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -887,6 +910,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 08时39分]"
+        },
+        {
+          "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
+          "url": "https://www.cls.cn/detail/2301977",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时24分]"
         },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
@@ -933,6 +969,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "澳新银行上调一季度末预测，布伦特原油上看90美元/桶，液化天然气上看17美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260304130719463800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "白宫顾问哈塞特：预计今年（美国民众）实际薪资将增加2500-3000美元。",
           "url": "https://wallstreetcn.com/livenews/3062942",
           "source": "华尔街见闻-快讯",
@@ -953,18 +1000,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
-          "url": "https://www.cls.cn/detail/2301977",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时38分]"
         },
         {
           "title": "周二（3月3日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.9194元，较周一纽约尾盘跌184点，日内整体交投于6.8751-6.9437元区间。",
@@ -1079,7 +1114,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -1101,7 +1136,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -1126,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "加拿大皇家银行：将甲骨文(ORCL.N)目标价从195美元下调至160美元。",
+          "url": "https://flash.jin10.com/detail/20260304125929691800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "澳元兑美元AUD/USD日内跌超0.50%，失守0.70。",
@@ -1156,7 +1202,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -1255,7 +1301,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -1364,8 +1410,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时13分 ~ 12时38分]"
+          "appearance_count": 11,
+          "time_info": "[04时13分 ~ 13时24分]"
+        },
+        {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 13时24分]"
         },
         {
           "title": "现货黄金大跌",
@@ -1378,19 +1437,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时11分]"
-        },
-        {
-          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
-          "url": "https://www.cls.cn/detail/2301803",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 12时38分]"
         },
         {
           "title": "大妈攒金34年戴百克黄金逛珠宝城",
@@ -1406,6 +1452,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时11分]"
+        },
+        {
+          "title": "年少的出发比黄金珍贵",
+          "url": "https://www.douyin.com/hot/2418170",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 13时24分]"
         },
         {
           "title": "中东冲突持续，油价狂飙促使特朗普紧急出手，宣布将护航油轮穿越霍尔木兹海峡；美元走强致黄金隔夜暴跌，今日亚盘回暖……当前金银油继续称强烈卖出信号，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1431,17 +1491,16 @@
           "time_info": "[08时39分 ~ 09时40分]"
         },
         {
-          "title": "年少的出发比黄金珍贵",
-          "url": "https://www.douyin.com/hot/2418170",
-          "source": "抖音",
+          "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
+          "url": "https://www.cls.cn/detail/2301997",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            17,
-            22
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 12时38分]"
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时24分]"
         },
         {
           "title": "黄金跌破5100美元",
@@ -1478,17 +1537,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
-          "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
-          "url": "https://www.cls.cn/detail/2301997",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
         },
         {
           "title": "拟变卖救父的黄金丢失 多方帮找回",
@@ -1552,7 +1600,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -1581,8 +1629,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -1594,8 +1642,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 12时38分]"
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 13时24分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
