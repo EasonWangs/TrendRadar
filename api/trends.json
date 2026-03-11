@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-11T07:12:08.791836+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-03-11T08:37:53.216127+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
+          "url": "https://www.zhihu.com/question/2012122338733290833",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 08时37分]"
+        },
         {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
           "url": "https://www.zhihu.com/question/2014656017116395259",
@@ -23,20 +37,6 @@
           "time_info": "[00时29分 ~ 07时12分]"
         },
         {
-          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
-          "url": "https://www.zhihu.com/question/2012122338733290833",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时24分 ~ 07时12分]"
-        },
-        {
           "title": "EIA短期能源展望报告：将2026年柴油零售价格预测上调至每加仑4.12美元，比此前估计高20.1%。",
           "url": "https://flash.jin10.com/detail/20260311001619988800",
           "source": "金十数据",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "三星、SK将注销140亿美元库存股",
+          "url": "https://flash.jin10.com/detail/20260311082354739800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "华平投资支持的PDG将发行债券，为数据中心融资50亿美元。",
@@ -59,17 +70,6 @@
           "time_info": "06时11分"
         },
         {
-          "title": "据知情人士透露，John Hegeman与红杉资本（Sequoia Capital）合伙人Ravi Gupta为新公司Ithaca Holdings寻求至少10亿美元融资。 Ithaca Holdings将成为一家控股公司，将设法收购至少一家上市公司、或一家私人公司（即非上市公司）。 John Hegeman曾长期就职于Meta Platforms，担任其首席营收官（CRO）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3067608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
           "title": "EIA：未来两个月布伦特原油价格将维持在95美元以上",
           "url": "https://flash.jin10.com/detail/20260311021150817800",
           "source": "金十数据",
@@ -81,26 +81,26 @@
           "time_info": "02时24分"
         },
         {
-          "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
-          "url": "https://wallstreetcn.com/livenews/3067607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
           "title": "美国优先炼油公司：根据新的能源协议，将采购并加工12亿桶美国轻质页岩油，价值1250亿美元。",
           "url": "https://flash.jin10.com/detail/20260311064019540800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "维权投资者Starboard建仓3.5亿美元美国最大二手车零售商CarMax股份。 Starboard认为在即将上任的CEO Keith Barr的领导下，这家二手车零售商有望加速转型。Starboard希望借助自身在汽车交易市场的投资经验来提升CarMax的业绩。 Starboard认为，CarMax可以通过提升客户体验（包括提高车辆翻新效率）以及削减超3亿美元的管理运营开支来提升业绩。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "美国优先炼油公司：根据新签署的协议，将生产500亿加仑的炼制产品，价值1750亿美元。",
@@ -109,9 +109,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "WTI原油回落至82美元/桶下方，日内跌5.20%。",
+          "url": "https://flash.jin10.com/detail/20260311081737472800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "Salesforce计划发行至多250亿美元债券，用于支持股票回购。",
@@ -125,6 +136,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        },
+        {
           "title": "凯利蓝皮书：2月新车平均成交价为49,353美元，较去年同期上涨3.4%。",
           "url": "https://flash.jin10.com/detail/20260311020924544800",
           "source": "金十数据",
@@ -134,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "WTI原油回落至83美元/桶下方，日内跌4.04%。",
+          "url": "https://flash.jin10.com/detail/20260311081705872800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "甲骨文(ORCL.N)第四季度以美元计算总收入预计将增长19%至21%。",
@@ -158,6 +191,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时24分]"
+        },
+        {
+          "title": "据知情人士透露，John Hegeman与红杉资本（Sequoia Capital）合伙人Ravi Gupta为新公司Ithaca Holdings寻求至少10亿美元融资。 Ithaca Holdings将成为一家控股公司，将设法收购至少一家上市公司、或一家私人公司（即非上市公司）。 John Hegeman曾长期就职于Meta Platforms，担任其首席营收官（CRO）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时37分]"
+        },
+        {
+          "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
+          "url": "https://wallstreetcn.com/livenews/3067607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时37分]"
         },
         {
           "title": "甲骨文(ORCL.N)2026财年Q3软件业务营收61.2亿美元。",
@@ -394,7 +451,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -419,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "WTI原油日内下跌3.00%，现报83.74美元/桶。报道称，IEA提议史上最大规模的战略石油储备释放，规模将超1.82亿桶。",
+          "url": "https://flash.jin10.com/detail/20260311081533138800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
@@ -465,6 +533,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "布伦特原油日内下跌1.00%，现报88.13美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311080825560800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        },
+        {
           "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3067518",
           "source": "华尔街见闻-快讯",
@@ -504,7 +583,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -548,7 +627,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -562,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美国优先炼油公司与印度信实达成3000亿美元项目合作，在得州新建炼油厂",
+          "url": "https://flash.jin10.com/detail/20260311074935322800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "船舶追踪数据显示，一艘载着200万桶伊朗原油的超级油轮正穿越霍尔木兹海峡。这是自2月28日冲突以来，记录到的至少第6艘油轮通过该海峡。 目前，WTI原油日内跌幅达18.5%，报77.2美元/桶。 布伦特原油日内跌幅达17.5%，报81.63美元/桶。",
@@ -592,7 +682,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -606,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "WTI原油日内下跌1.00%，现报85.60美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311074909539800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
         },
         {
           "title": "周二（3月10日），美联储隔夜逆回购协议（RRP）使用规模为2.78亿美元（交易对手4家），上个交易日报3.32亿美元。",
@@ -721,7 +822,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -731,8 +832,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 08时37分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -809,8 +910,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时37分]"
         },
         {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
@@ -872,6 +973,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        },
+        {
           "title": "美国白宫：（关于伊朗学校遇袭的声明）特朗普将接受调查结果，无论结果如何。",
           "url": "https://flash.jin10.com/detail/20260311024917958800",
           "source": "金十数据",
@@ -900,7 +1012,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1051,7 +1163,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -1063,6 +1175,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时37分"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时37分]"
         },
         {
           "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
@@ -1137,17 +1272,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时37分 ~ 06时11分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
@@ -1280,7 +1404,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
