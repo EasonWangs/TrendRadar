@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-13T03:22:19.508074+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-03-13T04:14:33.794449+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "Ulta Beauty（犹他美容）四季度净销售39.0亿美元，分析师预期38.3亿美元。 四季度同店销售增长5.8%，分析师预期增长4.25%。 四季度每股收益（EPS）为8.01美元，分析师预期8.11美元。 预计2026年净销售增长6%-7%，运营利润料将增长6%-9%。 预计2026年同店销售将增长2.5%-3.5%，分析师预期增长3.47%。",
+          "url": "https://wallstreetcn.com/livenews/3069141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "Adobe（奥多比）第一财季营收64亿美元，分析师预期62.8亿美元。 第一财季调整后每股收益（EPS）为6.06美元，分析师预期5.88美元。 预计第二财季营收64.3亿-64.8亿美元，分析师预期64.3亿美元。 预计第二财季调整后EPS为5.80-5.85美元，分析师预期5.70美元。 首席执行官（CEO）Shantanu Narayen将卸任。",
+          "url": "https://wallstreetcn.com/livenews/3069140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
         {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.871%（2月12日为4.750%），投标倍数2.45（前次为2.66）。",
           "url": "https://wallstreetcn.com/livenews/3069079",
@@ -69,6 +91,18 @@
           "time_info": "[01时24分 ~ 02时24分]"
         },
         {
+          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
+          "url": "https://wallstreetcn.com/livenews/3069106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时14分]"
+        },
+        {
           "title": "PayPay美国IPO首日开盘报19美元，此前给出的IPO发行价为每股16美元。",
           "url": "https://wallstreetcn.com/livenews/3069071",
           "source": "华尔街见闻-快讯",
@@ -104,15 +138,15 @@
           "time_info": "00时29分"
         },
         {
-          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
-          "url": "https://wallstreetcn.com/livenews/3069106",
-          "source": "华尔街见闻-快讯",
+          "title": "美国投资公司协会（ICI）：美国货币市场资产为7.818万亿美元，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260313034416482800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时14分"
         },
         {
           "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
@@ -121,9 +155,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产7.818万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3069128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "纽元兑美元NZD/USD日内跌超1.00%，现报0.5855。",
@@ -143,9 +188,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
+          "url": "https://www.cls.cn/detail/2311351",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "周四（3月12日），韩元兑美元最终跌0.82%，报1488.60韩元，北京时间21:00过后加速下跌。",
@@ -154,9 +210,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "周四（3月12日）纽约尾盘，美元兑日元涨0.30%，刷新日高至159.43日元，北京时间19:37刷新日低至158.57日元，随后持续走高。 欧元兑日元跌0.16%，英镑兑日元跌0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3069120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "布伦特原油期货收报每桶100.46美元，上涨8.48美元，涨幅9.22%。布伦特原油期货结算价自2022年8月以来首次突破每桶100美元。",
@@ -165,7 +232,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -176,9 +243,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "周四（3月12日）纽约尾盘，ICE美元指数涨0.50%，报99.750点，全天处于上涨状态，北京时间20:00之前开启一波长时间持续上涨的走势。 彭博美元指数涨0.50%，报1208.86点。",
+          "url": "https://wallstreetcn.com/livenews/3069116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "GasBuddy报告称，目前美国已有8个州的柴油平均价格超过每加仑5美元，其中加州的柴油价格飙升至每加仑6.16美元。",
@@ -190,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8833元，较周三夜盘收盘跌84点。成交量488.94亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3069115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "交易员不再认为美联储2026年降息一次的概率为100%，油价上涨让投资者担忧通胀风险。 WTI原油日内涨幅达10.0%，报94.7美元/桶。",
@@ -242,15 +331,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国能源部宣布将投资19亿美元用于关键电网基础设施，以降低电力成本。",
+          "url": "https://flash.jin10.com/detail/20260313031648952800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "布油自2022年8月以来首次收于100美元上方，中东原油期货涨20%",
+          "url": "https://wallstreetcn.com/livenews/3069105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -260,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -271,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -281,9 +392,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -293,8 +415,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -304,8 +426,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
+        },
+        {
+          "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
+          "url": "https://flash.jin10.com/detail/20260313035535843800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -319,15 +452,48 @@
           "time_info": "01时24分"
         },
         {
+          "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
+          "url": "https://wallstreetcn.com/livenews/3069118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
           "url": "https://flash.jin10.com/detail/20260313023939495800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260313031932554800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：几乎每天都会与美国总统特朗普畅谈。",
+          "url": "https://flash.jin10.com/detail/20260313031754519800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "伊朗称特朗普几条推文结束不了战争",
@@ -355,7 +521,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -366,8 +532,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
         },
         {
           "title": "追觅手机6800元起售 黄金版超10万元",
@@ -377,22 +543,24 @@
             29,
             27,
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
         },
         {
           "title": "现货黄金跌穿5100美元/盎司，日内跌幅大约1.5%。",
           "url": "https://wallstreetcn.com/livenews/3069108",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时14分]"
         },
         {
           "title": "现货黄金回落至5090美元/盎司下方，日内跌1.68%。",
@@ -401,9 +569,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "睡眠有个“黄金4小时”",
+          "url": "https://www.toutiao.com/trending/7616177643201462335/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "现货黄金向下触及5100美元/盎司，日内跌1.47%。",
@@ -412,7 +591,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -420,7 +599,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -430,8 +609,52 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
+        },
+        {
+          "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3069142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260313040653218800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260313040535187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美股收盘：纳指跌1.7% 芯片股走弱",
+          "url": "https://flash.jin10.com/detail/20260313040117943800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
@@ -447,6 +670,23 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两年期美债收益率涨10个基点，突破3.76%",
+          "url": "https://wallstreetcn.com/livenews/3069119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "概念",
       "match_count": 1,
       "titles": [
@@ -458,8 +698,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时14分]"
         }
       ]
     }
