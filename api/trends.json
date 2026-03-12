@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:17:35.378831+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2026-03-12T20:19:47.239101+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 95,
+      "match_count": 99,
       "titles": [
         {
           "title": "霍尔木兹局势仍紧绷！伊朗喊话美国：准备好迎接200美元油价吧",
@@ -61,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时06分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[11时06分 ~ 20时19分]"
         },
         {
           "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
@@ -88,6 +88,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时06分 ~ 17时21分]"
+        },
+        {
+          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
+          "url": "https://www.zhihu.com/question/2015360012143313625",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时24分 ~ 20时19分]"
         },
         {
           "title": "旅客携带164.5万美元入境被查",
@@ -135,18 +148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
-        },
-        {
-          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
-          "url": "https://www.zhihu.com/question/2015360012143313625",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 19时17分]"
         },
         {
           "title": "爱诗科技完成3亿美元C轮融资",
@@ -202,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "德银披露对私募信贷领域有300亿美元敞口 或面临潜在间接信用风险",
-          "url": "https://wallstreetcn.com/livenews/3068861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "美国2月政府预算 -3080亿美元，预期-758.5亿美元，前值-946亿美元。",
@@ -360,6 +350,18 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "德银披露对私募信贷领域有300亿美元敞口 或面临潜在间接信用风险",
+          "url": "https://wallstreetcn.com/livenews/3068861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时19分]"
+        },
+        {
           "title": "印度卢比兑美元再创纪录低点。",
           "url": "https://flash.jin10.com/detail/20260312130628472800",
           "source": "金十数据",
@@ -406,6 +408,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时23分]"
+        },
+        {
+          "title": "霍尔木兹海峡危局升级，油价一度飙升10%重返100美元，全球股市下跌，铝价创四年新高",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时19分]"
         },
         {
           "title": "美、布两油短线回落近2美元，据报伊朗外长表示已允许印度油轮通过霍尔木兹海峡。",
@@ -582,17 +595,6 @@
           "time_info": "08时34分"
         },
         {
-          "title": "霍尔木兹海峡危局升级，油价一度飙升10%重返100美元，全球股市下跌，铝价创四年新高",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "布伦特原油日内大涨5.00%，现报96.15美元/桶。",
           "url": "https://flash.jin10.com/detail/20260312080530570800",
           "source": "金十数据",
@@ -624,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "机构：伊朗冲突支撑美元短期走势 但长期面临下行风险",
+          "url": "https://flash.jin10.com/detail/20260312200659765800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "布伦特原油突破91美元/桶，日内涨2.21%。",
@@ -701,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "市场消息：微软与Meta推动数据中心租赁市场激增7000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260312200444209800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "印度卢比兑美元跌破前低92.3475，创下历史新低。",
@@ -846,6 +870,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "美国能源部长赖特：油价不太可能涨至每桶200美元。",
+          "url": "https://flash.jin10.com/detail/20260312200001435800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美元指数涨超0.4%",
           "url": "https://wallstreetcn.com/livenews/3068304",
           "source": "华尔街见闻-快讯",
@@ -874,9 +909,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "美国能源部长赖特：美国短期释放石油储备将以互换方式进行，不会给美国纳税人带来任何成本。 西半球供应并不紧张，主要紧张的是亚洲。 海军护航行动现在无法开展，将在不久后开展。 美国将与各国合作，恢复霍尔木兹海峡的航运。 我们正处于重大的短期供应干扰之中。 未讨论精炼油品出口禁令。 油价不太可能涨到每桶200美元。",
+          "url": "https://wallstreetcn.com/livenews/3068877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "市场消息：惠誉评级上调近期油气价格预期，2026年布伦特原油价格（均价）预期从63美元/桶上调至70美元/桶，WTI原油从58美元/桶上调至65美元/桶。",
@@ -1028,7 +1074,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -1103,8 +1149,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时11分 ~ 19时17分]"
+          "appearance_count": 18,
+          "time_info": "[06时11分 ~ 20时19分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -1163,8 +1209,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时06分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时06分 ~ 20时19分]"
         },
         {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
@@ -1208,6 +1254,19 @@
           "time_info": "[00时24分 ~ 07时11分]"
         },
         {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 20时19分]"
+        },
+        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
@@ -1221,17 +1280,17 @@
           "time_info": "[00时24分 ~ 06时12分]"
         },
         {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            3,
-            2
+            4,
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 20时19分]"
         },
         {
           "title": "美官员称特朗普对伊朗反应有误判",
@@ -1245,19 +1304,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时11分]"
-        },
-        {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时17分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -1282,6 +1328,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时34分 ~ 14时26分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时19分]"
         },
         {
           "title": "美国内政部长谈战略石油储备：将由总统特朗普宣布。",
@@ -1348,17 +1405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
@@ -2026,8 +2072,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时10分 ~ 19时17分]"
+          "appearance_count": 16,
+          "time_info": "[07时10分 ~ 20时19分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -2256,7 +2302,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“黑色黄金”重大突破",
@@ -2353,6 +2399,17 @@
           "time_info": "08时34分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 3月12日（周四）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 3月12日（周四）晚盘盘初上涨1.67%报21950.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260312200534083800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "现货黄金下跌近1%，至每盎司5,128.81美元。",
           "url": "https://wallstreetcn.com/livenews/3068415",
           "source": "华尔街见闻-快讯",
@@ -2370,7 +2427,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -2425,7 +2482,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -2444,7 +2501,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【焦点复盘】沪指放量反弹收复10日线，新能源出海概念全天强势，“宁王”盘中一度突破400元大关",
@@ -2456,6 +2513,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时22分 ~ 06时12分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开低走跌近1%，算电协同概念持续火热，风电设备股午后逆势爆发",
+          "url": "https://www.cls.cn/detail/2310942",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时19分]"
         },
         {
           "title": "突发！600亿固态电池概念股拟20.51亿元投建马来西亚负极材料生产基地|盘后公告集锦",
@@ -2481,15 +2550,15 @@
           "time_info": "[05时14分 ~ 06时12分]"
         },
         {
-          "title": "【焦点复盘】创业板指高开低走跌近1%，算电协同概念持续火热，风电设备股午后逆势爆发",
-          "url": "https://www.cls.cn/detail/2310942",
-          "source": "财联社热门",
+          "title": "周鸿祎：OpenClaw将推动智能体概念普及，中国AI进入“大模型+智能体”阶段",
+          "url": "https://wallstreetcn.com/livenews/3068900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时19分"
         },
         {
           "title": "港股“龙虾”概念股跌幅扩大，智谱跌超7%，MINIMAX、迅策一度跌超4%。",
