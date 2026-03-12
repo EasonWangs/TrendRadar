@@ -1,45 +1,48 @@
 {
-  "generated_at": "2026-03-13T02:24:41.082843+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-13T03:22:19.508074+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "美国能源部宣布19亿美元投资，用于升级电网、降低电力成本。",
-          "url": "https://wallstreetcn.com/livenews/3069096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
-          "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3069095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
         {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.871%（2月12日为4.750%），投标倍数2.45（前次为2.66）。",
           "url": "https://wallstreetcn.com/livenews/3069079",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时22分]"
+        },
+        {
+          "title": "美国能源部宣布19亿美元投资，用于升级电网、降低电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3069096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时24分]"
+          "time_info": "[02时24分 ~ 03时22分]"
+        },
+        {
+          "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3069095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时22分]"
         },
         {
           "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
@@ -78,6 +81,18 @@
           "time_info": "[01时24分 ~ 02时24分]"
         },
         {
+          "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3069083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时22分]"
+        },
+        {
           "title": "市场消息：美国取暖油价格突破5美元/加仑。",
           "url": "https://flash.jin10.com/detail/20260313001118878800",
           "source": "金十数据",
@@ -89,15 +104,26 @@
           "time_info": "00时29分"
         },
         {
-          "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3069083",
+          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
+          "url": "https://wallstreetcn.com/livenews/3069106",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3069105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "纽元兑美元NZD/USD日内跌超1.00%，现报0.5855。",
@@ -106,9 +132,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月11日当周，短期、中期投资级债券基金获得32.8亿美元资金流入，执勤啊一周流入18.7亿美元。 高收益（垃圾级）债券基金遭遇15.3亿美元资金外流，创2025年4月23日以来最大单周资金外流，之前一周外流1.824亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3069101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "周四（3月12日），韩元兑美元最终跌0.82%，报1488.60韩元，北京时间21:00过后加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3069100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "布伦特原油期货收报每桶100.46美元，上涨8.48美元，涨幅9.22%。布伦特原油期货结算价自2022年8月以来首次突破每桶100美元。",
+          "url": "https://flash.jin10.com/detail/20260313024947938800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "纽约期金跌破5100美元/盎司，日内跌1.53%。",
+          "url": "https://flash.jin10.com/detail/20260313024922502800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "GasBuddy报告称，目前美国已有8个州的柴油平均价格超过每加仑5美元，其中加州的柴油价格飙升至每加仑6.16美元。",
@@ -139,7 +209,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
@@ -164,12 +234,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美国原油期货收报每桶95.73美元，上涨8.48美元，涨幅9.72%。",
+          "url": "https://flash.jin10.com/detail/20260313023209986800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -179,8 +260,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -190,8 +271,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
+          "url": "https://flash.jin10.com/detail/20260313030815962800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -201,8 +293,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -212,8 +304,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
@@ -225,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
+          "url": "https://flash.jin10.com/detail/20260313023939495800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "伊朗称特朗普几条推文结束不了战争",
@@ -252,7 +355,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -263,8 +366,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
         },
         {
           "title": "追觅手机6800元起售 黄金版超10万元",
@@ -273,11 +376,45 @@
           "ranks": [
             29,
             27,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
+        },
+        {
+          "title": "现货黄金跌穿5100美元/盎司，日内跌幅大约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3069108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "现货黄金回落至5090美元/盎司下方，日内跌1.68%。",
+          "url": "https://flash.jin10.com/detail/20260313030213812800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "现货黄金向下触及5100美元/盎司，日内跌1.47%。",
+          "url": "https://flash.jin10.com/detail/20260313023505482800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
@@ -293,8 +430,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
         },
         {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
@@ -321,8 +458,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时22分]"
         }
       ]
     }
