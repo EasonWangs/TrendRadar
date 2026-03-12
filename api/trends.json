@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T18:20:23.572989+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-03-12T19:17:35.378831+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 91,
+      "match_count": 95,
       "titles": [
         {
           "title": "霍尔木兹局势仍紧绷！伊朗喊话美国：准备好迎接200美元油价吧",
@@ -54,6 +54,17 @@
           "time_info": "[01时23分 ~ 11时07分]"
         },
         {
+          "title": "无视IEA史上最大放储计划，油价重返92美元，市场在传递什么信号？",
+          "url": "https://wallstreetcn.com/articles/3767251",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时06分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
           "url": "https://www.cls.cn/detail/2310220",
           "source": "财联社热门",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时06分 ~ 17时21分]"
-        },
-        {
-          "title": "无视IEA史上最大放储计划，油价重返92美元，市场在传递什么信号？",
-          "url": "https://wallstreetcn.com/articles/3767251",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时06分 ~ 18时20分]"
         },
         {
           "title": "旅客携带164.5万美元入境被查",
@@ -135,6 +135,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
+          "url": "https://www.zhihu.com/question/2015360012143313625",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时17分]"
         },
         {
           "title": "爱诗科技完成3亿美元C轮融资",
@@ -192,6 +204,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "德银披露对私募信贷领域有300亿美元敞口 或面临潜在间接信用风险",
+          "url": "https://wallstreetcn.com/livenews/3068861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美国2月政府预算 -3080亿美元，预期-758.5亿美元，前值-946亿美元。",
           "url": "https://flash.jin10.com/detail/20260312020002413800",
           "source": "金十数据",
@@ -223,18 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
-        },
-        {
-          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
-          "url": "https://www.zhihu.com/question/2015360012143313625",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 18时20分]"
         },
         {
           "title": "Raízen达成126亿美元债务庭外重组协议",
@@ -533,7 +544,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -569,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时34分"
+        },
+        {
+          "title": "霍尔木兹海峡危局升级，油价一度飙升10%重返100美元，全球股市下跌，铝价创四年新高",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "布伦特原油日内大涨5.00%，现报96.15美元/桶。",
@@ -846,6 +868,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "迅雷2025年净利润10.48亿美元",
+          "url": "https://wallstreetcn.com/livenews/3068840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "市场消息：惠誉评级上调近期油气价格预期，2026年布伦特原油价格（均价）预期从63美元/桶上调至70美元/桶，WTI原油从58美元/桶上调至65美元/桶。",
           "url": "https://flash.jin10.com/detail/20260312012242919800",
           "source": "金十数据",
@@ -989,6 +1022,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "市场消息：各商会来信警告，数十亿美元规模的项目存在违约和损失风险。",
+          "url": "https://flash.jin10.com/detail/20260312184634510800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.8752，较上一交易日官方收盘价跌52点，较上日夜盘收盘跌3点。",
           "url": "https://wallstreetcn.com/livenews/3068754",
           "source": "华尔街见闻-快讯",
@@ -1047,7 +1091,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -1059,8 +1103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时11分 ~ 18时20分]"
+          "appearance_count": 17,
+          "time_info": "[06时11分 ~ 19时17分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -1119,8 +1163,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时06分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时06分 ~ 19时17分]"
         },
         {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
@@ -1177,6 +1221,19 @@
           "time_info": "[00时24分 ~ 06时12分]"
         },
         {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时17分]"
+        },
+        {
           "title": "美官员称特朗普对伊朗反应有误判",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1195,23 +1252,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时20分]"
-        },
-        {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时17分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -1302,6 +1348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
@@ -1565,7 +1622,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1969,8 +2026,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时10分 ~ 18时20分]"
+          "appearance_count": 15,
+          "time_info": "[07时10分 ~ 19时17分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -2199,7 +2256,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "“黑色黄金”重大突破",
@@ -2307,6 +2364,17 @@
           "time_info": "08时34分"
         },
         {
+          "title": "上期所：调整黄金等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3068845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "金十图示：2026年03月12日（周四）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260312124107235800",
           "source": "金十数据",
@@ -2351,6 +2419,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "银行扎堆关停个人炒金通道，高杠杆黄金投机风险出清丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260312185518382800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美国内政部长：第一批委内瑞拉黄金被运抵美国，价值1亿美元。",
           "url": "https://wallstreetcn.com/livenews/3068197",
           "source": "华尔街见闻-快讯",
@@ -2365,7 +2444,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】沪指放量反弹收复10日线，新能源出海概念全天强势，“宁王”盘中一度突破400元大关",
@@ -2400,6 +2479,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时12分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开低走跌近1%，算电协同概念持续火热，风电设备股午后逆势爆发",
+          "url": "https://www.cls.cn/detail/2310942",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "港股“龙虾”概念股跌幅扩大，智谱跌超7%，MINIMAX、迅策一度跌超4%。",
