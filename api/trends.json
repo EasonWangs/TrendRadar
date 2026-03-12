@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-03-13T00:29:32.271569+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:24:26.571369+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.871%（2月12日为4.750%），投标倍数2.45（前次为2.66）。",
+          "url": "https://wallstreetcn.com/livenews/3069079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3069049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
+        },
         {
           "title": "市场消息：美国取暖油价格突破5美元/加仑。",
           "url": "https://flash.jin10.com/detail/20260313001118878800",
@@ -19,15 +42,37 @@
           "time_info": "00时29分"
         },
         {
-          "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3069049",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3069075",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "PayPay美国IPO首日开盘报19美元，此前给出的IPO发行价为每股16美元。",
+          "url": "https://wallstreetcn.com/livenews/3069071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "GasBuddy报告称，目前美国已有8个州的柴油平均价格超过每加仑5美元，其中加州的柴油价格飙升至每加仑6.16美元。",
+          "url": "https://flash.jin10.com/detail/20260313005417924800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "交易员不再认为美联储2026年降息一次的概率为100%，油价上涨让投资者担忧通胀风险。 WTI原油日内涨幅达10.0%，报94.7美元/桶。",
@@ -66,7 +111,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -76,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -87,8 +132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -98,8 +143,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -109,8 +154,41 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：唐纳德·特朗普怎么会没预见到霍尔木兹海峡危机呢？一个略懂地缘政治的大学生都能告诉你，伊朗最大的筹码就是这条狭窄的通道，世界上很大一部分石油都必须经过这里运输。而现在，美国政府正忙于控制事态发展，应对不断上涨的油价。",
+          "url": "https://flash.jin10.com/detail/20260313010502775800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "伊朗称特朗普几条推文结束不了战争",
+          "url": "https://flash.jin10.com/detail/20260313004520116800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
+          "url": "https://flash.jin10.com/detail/20260313004045966800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -123,28 +201,30 @@
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "追觅手机6800元起售 黄金版超10万元",
           "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E6%89%8B%E6%9C%BA6800%E5%85%83%E8%B5%B7%E5%94%AE+%E9%BB%84%E9%87%91%E7%89%88%E8%B6%8510%E4%B8%87%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -154,8 +234,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
+        },
+        {
+          "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
+          "url": "https://flash.jin10.com/detail/20260313005601624800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -171,8 +262,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         }
       ]
     }
