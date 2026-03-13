@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:27:49.508396+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-03-13T14:25:14.182263+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时40分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 14时25分]"
         },
         {
           "title": "五角大楼承认：对伊动武前6天花费超113亿美元",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时40分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 14时25分]"
         },
         {
           "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时14分 ~ 13时27分]"
+          "appearance_count": 13,
+          "time_info": "[04时14分 ~ 14时25分]"
         },
         {
           "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
@@ -55,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时40分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[08时40分 ~ 14时25分]"
         },
         {
           "title": "WTI原油失守96美元/桶，日内跌幅0.53%。",
@@ -70,15 +70,26 @@
           "time_info": "07时11分"
         },
         {
-          "title": "高盛：霍尔木兹海峡若持续中断两个月，对第四季度布伦特原油平均价格的预测将从每桶71美元上调至93美元。",
-          "url": "https://flash.jin10.com/detail/20260313131312423800",
+          "title": "布伦特原油日内跌超2.00%，现报96.95美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260313141048494800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1%，报93.39美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3069423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "WTI原油日内走低1.00%，现报95.35美元/桶。",
@@ -128,6 +139,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时22分]"
+        },
+        {
+          "title": "高盛：霍尔木兹海峡若持续中断两个月，对第四季度布伦特原油平均价格的预测将从每桶71美元上调至93美元。",
+          "url": "https://flash.jin10.com/detail/20260313131312423800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时25分]"
         },
         {
           "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -215,6 +238,17 @@
           "time_info": "[06时10分 ~ 07时11分]"
         },
         {
+          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
+          "url": "https://wallstreetcn.com/articles/3767353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时25分]"
+        },
+        {
           "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
           "url": "https://wallstreetcn.com/livenews/3069049",
           "source": "华尔街见闻-快讯",
@@ -225,6 +259,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时24分]"
+        },
+        {
+          "title": "高盛：预计布伦特原油价格在3月均价将超过每桶100美元，4月均价为85美元。 预计布伦特原油价格将在年底逐步回落至70美元附近。 假设全球战略石油储备将采取更大力度的政策应对，这将在短期内几乎将商业石油库存的损失减半。 如果霍尔木兹海峡出现两个月的中断，对第四季度布伦特原油均价的预测将从每桶71美元上调至93美元。",
+          "url": "https://wallstreetcn.com/livenews/3069382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时25分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
@@ -249,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时14分]"
-        },
-        {
-          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
-          "url": "https://wallstreetcn.com/articles/3767353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时27分]"
         },
         {
           "title": "PayPay美国IPO首日开盘报19美元，此前给出的IPO发行价为每股16美元。",
@@ -368,24 +403,13 @@
           "time_info": "11时05分"
         },
         {
-          "title": "高盛：预计布伦特原油价格在3月均价将超过每桶100美元，4月均价为85美元。 预计布伦特原油价格将在年底逐步回落至70美元附近。 假设全球战略石油储备将采取更大力度的政策应对，这将在短期内几乎将商业石油库存的损失减半。 如果霍尔木兹海峡出现两个月的中断，对第四季度布伦特原油均价的预测将从每桶71美元上调至93美元。",
-          "url": "https://wallstreetcn.com/livenews/3069382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "高盛：预计布伦特原油价格将在今年晚些时候逐步回落至70美元/桶区间低位。",
           "url": "https://flash.jin10.com/detail/20260313130852591800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -451,7 +475,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -476,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "新台币兑美元下跌0.3%至31.942。",
+          "url": "https://wallstreetcn.com/livenews/3069416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "纽元兑美元NZD/USD日内跌超1.00%，现报0.5855。",
@@ -561,7 +596,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -712,7 +747,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -764,6 +799,17 @@
           "time_info": "[00时29分 ~ 11时05分]"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 14时25分]"
+        },
+        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
@@ -778,15 +824,29 @@
           "time_info": "[08时40分 ~ 13时27分]"
         },
         {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 14时25分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -811,17 +871,15 @@
           "time_info": "04时14分"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
+          "title": "日本首相高市早苗：将巩固与特朗普的信任关系。 将在美峰会中阐述日本在中东问题上的立场。 强化基本面能增强日元的信心。",
+          "url": "https://wallstreetcn.com/livenews/3069422",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -835,18 +893,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时40分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 13时27分]"
         },
         {
           "title": "中方就特朗普访华计划准备进展如何？外交部回应",
@@ -885,6 +931,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时40分 ~ 11时05分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时25分]"
         },
         {
           "title": "特朗普：穆杰塔巴可能受伤但活着",
@@ -958,17 +1015,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "特朗普称伊朗最高领袖穆杰塔巴可能“受伤但仍活着”",
           "url": "https://flash.jin10.com/detail/20260313085750993800",
           "source": "金十数据",
@@ -986,7 +1032,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -1095,8 +1141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时10分 ~ 13时27分]"
+          "appearance_count": 10,
+          "time_info": "[06时10分 ~ 14时25分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -1117,8 +1163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时25分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -1384,7 +1430,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "【焦点复盘】创业板指高开低走跌近1%，算电协同概念持续火热，风电设备股午后逆势爆发",
@@ -1400,15 +1446,27 @@
           "time_info": "[00时29分 ~ 07时11分]"
         },
         {
-          "title": "A股有色·钨概念持续走弱，中钨高新、章源钨业逼近跌停，翔鹭钨业、厦门钨业、西部材料跌幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3069387",
+          "title": "A股电子气体概念快速拉升，华特气体涨超10%，中船特气、金宏气体、和远气体、凯美特气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3069425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "A股有色·钨概念持续走弱，中钨高新、章源钨业逼近跌停，翔鹭钨业、厦门钨业、西部材料跌幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3069387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时25分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
@@ -1421,6 +1479,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时10分]"
+        },
+        {
+          "title": "脑机接口概念异动拉升，创新医疗直线涨停，南京熊猫涨超7%，三博脑科、爱朋医疗、岩山科技、塞力医疗、翔宇医疗、美好医疗、国际医学等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3069419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3069405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -1454,7 +1534,7 @@
     },
     {
       "keyword_group": "外贸",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "1.57万亿元 今年前2个月粤港澳大湾区内地9市外贸实现开门红",
@@ -1466,6 +1546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "今年前两月广东外贸实现“开门红”",
+          "url": "https://wallstreetcn.com/livenews/3069408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     }
