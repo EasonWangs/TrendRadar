@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T11:05:19.178064+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-03-13T12:39:47.033614+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时14分 ~ 11时05分]"
+          "appearance_count": 10,
+          "time_info": "[04时14分 ~ 12时39分]"
         },
         {
           "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
@@ -30,19 +30,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时39分]"
         },
         {
           "title": "五角大楼承认：对伊动武前6天花费超113亿美元",
           "url": "https://news.ifeng.com/c/8rS2qMh30hj",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时39分]"
         },
         {
           "title": "WTI原油失守96美元/桶，日内跌幅0.53%。",
@@ -56,6 +57,28 @@
           "time_info": "07时11分"
         },
         {
+          "title": "日元兑美元自2024年7月以来首次跌破159.45。",
+          "url": "https://wallstreetcn.com/livenews/3069372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "美元兑日元USD/JPY突破前高，创2024年7月以来新高，现报159.45。",
+          "url": "https://flash.jin10.com/detail/20260313123035551800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "WTI原油日内走低1.00%，现报95.35美元/桶。",
           "url": "https://flash.jin10.com/detail/20260313081604386800",
           "source": "金十数据",
@@ -65,6 +88,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时39分]"
         },
         {
           "title": "美元指数12日上涨",
@@ -140,17 +175,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时11分]"
-        },
-        {
-          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
-          "url": "https://wallstreetcn.com/articles/3767360",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时05分]"
         },
         {
           "title": "Adobe（奥多比）第一财季营收64亿美元，分析师预期62.8亿美元。 第一财季调整后每股收益（EPS）为6.06美元，分析师预期5.88美元。 预计第二财季营收64.3亿-64.8亿美元，分析师预期64.3亿美元。 预计第二财季调整后EPS为5.80-5.85美元，分析师预期5.70美元。 首席执行官（CEO）Shantanu Narayen将卸任。",
@@ -314,7 +338,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -394,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
+          "url": "https://wallstreetcn.com/articles/3767353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "纽元兑美元NZD/USD日内跌超1.00%，现报0.5855。",
@@ -506,6 +541,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "印度卢比兑美元跌至历史新低92.37。",
+          "url": "https://wallstreetcn.com/livenews/3069348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "交易员不再认为美联储2026年降息一次的概率为100%，油价上涨让投资者担忧通胀风险。 WTI原油日内涨幅达10.0%，报94.7美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3069028",
           "source": "华尔街见闻-快讯",
@@ -550,6 +596,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "交易员称，印度央行很可能抛售美元，以缓解卢比因油价担忧而面临的下行压力。",
+          "url": "https://flash.jin10.com/detail/20260313114013151800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "美国原油期货收报每桶95.73美元，上涨8.48美元，涨幅9.72%。",
           "url": "https://flash.jin10.com/detail/20260313023209986800",
           "source": "金十数据",
@@ -572,6 +629,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "日本及其他亚太国家定于本周末公布与美国公司达成价值至少300亿美元的协议。这些交易将采取采购承诺及其他交易形式，涵盖煤炭、石油、液化天然气和核能等多个产品及行业。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3069332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "布油自2022年8月以来首次收于100美元上方，中东原油期货涨20%",
           "url": "https://wallstreetcn.com/livenews/3069105",
           "source": "华尔街见闻-快讯",
@@ -586,7 +654,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -643,11 +711,23 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时39分]"
+        },
+        {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时05分 ~ 12时39分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -672,15 +752,53 @@
           "time_info": "04时14分"
         },
         {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
+          "title": "特朗普：伊朗的一切都在被摧毁",
+          "url": "https://flash.jin10.com/detail/20260313123158096800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时05分"
+          "time_info": "12时39分"
+        },
+        {
+          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时40分 ~ 12时39分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 12时39分]"
+        },
+        {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时39分 ~ 12时39分]"
         },
         {
           "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
@@ -690,18 +808,6 @@
             8,
             11,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 11时05分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -719,30 +825,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时40分 ~ 11时05分]"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时05分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时05分]"
         },
         {
           "title": "特朗普：穆杰塔巴可能受伤但活着",
@@ -907,7 +989,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -931,8 +1013,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时10分 ~ 11时05分]"
+          "appearance_count": 7,
+          "time_info": "[06时10分 ~ 12时39分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -955,6 +1037,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -1068,7 +1161,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -1173,6 +1266,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "金十图示：2026年03月13日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260313115130194800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "现货黄金站上5100美元/盎司，日内涨0.41%。",
           "url": "https://flash.jin10.com/detail/20260313075356141800",
           "source": "金十数据",
@@ -1193,6 +1297,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "战争风险推动美债“恐惧指标”跃升至九个月高点",
+          "url": "https://flash.jin10.com/detail/20260313115640336800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "两年期美债收益率涨10个基点，突破3.76%",
+          "url": "https://wallstreetcn.com/livenews/3069119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         }
       ]
     },
@@ -1224,23 +1356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨10个基点，突破3.76%",
-          "url": "https://wallstreetcn.com/livenews/3069119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
         }
       ]
     },
