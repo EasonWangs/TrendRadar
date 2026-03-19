@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:13:41.573542+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-03-19T08:43:59.613514+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
         },
         {
           "title": "迪拜原油价格攻破150美元",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 02时28分]"
+        },
+        {
+          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "美光科技(MU.O)CEO：美光科技2027年资本支出将增加逾100亿美元。",
@@ -186,6 +198,18 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
+          "url": "https://wallstreetcn.com/articles/3767848",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时43分]"
+        },
+        {
           "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
           "url": "https://flash.jin10.com/detail/20260319043154673800",
           "source": "金十数据",
@@ -279,17 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
-          "url": "https://wallstreetcn.com/articles/3767848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
         },
         {
           "title": "布伦特原油向上触及108美元/桶，日内涨7.19%。",
@@ -416,7 +429,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -426,8 +439,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
         },
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -456,18 +469,6 @@
           "time_info": "[00时31分 ~ 07时13分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
-        },
-        {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
           "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
@@ -475,8 +476,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -486,8 +487,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -497,8 +498,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -507,7 +508,20 @@
           "ranks": [
             16,
             18,
-            19
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
+        },
+        {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -531,7 +545,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -542,7 +556,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -618,6 +632,28 @@
           "time_info": "02时28分"
         },
         {
+          "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788330",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "外媒：特朗普据悉考虑增兵中东 同时评估地面行动选项",
+          "url": "https://flash.jin10.com/detail/20260319075250607800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "梵蒂冈首席外交官：美国总统特朗普应尽快结束伊朗战争。",
           "url": "https://flash.jin10.com/detail/20260319000744111800",
           "source": "金十数据",
@@ -649,12 +685,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "消息人士：在特朗普权衡对伊朗的下一步举措之际，其政府正考虑向中东增派数千名美军。",
+          "url": "https://flash.jin10.com/detail/20260319074528075800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -669,6 +716,19 @@
           "time_info": "[00时31分 ~ 07时13分]"
         },
         {
+          "title": "战火不断黄金不涨反跌",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E7%81%AB%E4%B8%8D%E6%96%AD%E9%BB%84%E9%87%91%E4%B8%8D%E6%B6%A8%E5%8F%8D%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
+        },
+        {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
           "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
@@ -681,18 +741,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 06时14分]"
-        },
-        {
-          "title": "战火不断黄金不涨反跌",
-          "url": "https://www.baidu.com/s?wd=%E6%88%98%E7%81%AB%E4%B8%8D%E6%96%AD%E9%BB%84%E9%87%91%E4%B8%8D%E6%B6%A8%E5%8F%8D%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
         },
         {
           "title": "黄金的牛市结束了吗",
@@ -738,9 +786,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "黄金为何突然暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "黄金连跌六日创逾一个月新低，机构：或与跨资产重新配置有关",
@@ -784,9 +843,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "中信证券：黄金板块有望再创新高",
+          "url": "https://flash.jin10.com/detail/20260319081345117800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "赤峰黄金：实控人筹划公司控制权变更事项，股票停牌",
+          "url": "https://flash.jin10.com/detail/20260319081205721800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
@@ -814,8 +895,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时43分]"
+        },
+        {
+          "title": "美股三大指数全线下挫",
+          "url": "https://www.toutiao.com/trending/7618166160891199529/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
         {
           "title": "美光科技(MU.O)美股盘后跌超5%。",
           "url": "https://flash.jin10.com/detail/20260319063817922800",
@@ -823,18 +927,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -871,7 +964,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -964,8 +1057,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
         },
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -987,8 +1080,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时46分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[04时46分 ~ 08时43分]"
         }
       ]
     },
@@ -1004,8 +1097,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 08时43分]"
         }
       ]
     }
