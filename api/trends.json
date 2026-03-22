@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T09:39:47.241443+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-03-22T11:10:54.342077+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -71,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -80,11 +80,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -134,11 +135,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时43分 ~ 09时39分]"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 11时10分]"
+        },
+        {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -165,6 +178,29 @@
           "time_info": "[08时43分 ~ 09时39分]"
         },
         {
+          "title": "特朗普威胁派移民执法人员负责机场安保",
+          "url": "https://flash.jin10.com/detail/20260322084419193800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 11时10分]"
+        },
+        {
+          "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
+          "url": "https://www.zhihu.com/question/2018961388341588269",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 11时10分]"
+        },
+        {
           "title": "特朗普威胁伊朗48小时内开放霍尔木兹",
           "url": "https://www.toutiao.com/trending/7619863121359801882/",
           "source": "今日头条",
@@ -182,20 +218,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
         {
-          "title": "特朗普威胁派移民执法人员负责机场安保",
-          "url": "https://flash.jin10.com/detail/20260322084419193800",
-          "source": "金十数据",
+          "title": "伊朗回应特朗普袭击电厂威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AD%E5%87%BB%E7%94%B5%E5%8E%82%E5%A8%81%E8%83%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时39分"
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
+          "url": "https://flash.jin10.com/detail/20260322093718219800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡",
@@ -204,7 +262,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -215,18 +273,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
-          "url": "https://www.zhihu.com/question/2018961388341588269",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -291,8 +338,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
         },
         {
           "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
@@ -302,33 +349,36 @@
             10,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
         },
         {
           "title": "VIP·9折解锁黄金异动雷达",
           "url": "https://flash.jin10.com/detail/20260322090710634800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 11时10分]"
         },
         {
           "title": "创近43年最大单周跌幅，黄金“投资神话”终结？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32807539",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 11时10分]"
         },
         {
           "title": "现货黄金为何八连跌",
@@ -337,7 +387,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         }
@@ -347,6 +397,19 @@
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
+        {
+          "title": "美国私募信贷“火烧连营”：类“次贷”式包装财技，吸收1万亿美元“美国人养老金”",
+          "url": "https://wallstreetcn.com/articles/3768065",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 11时10分]"
+        },
         {
           "title": "卢特尼克：已在俄亥俄州启动价值330亿美元的日本投资项目",
           "url": "https://flash.jin10.com/detail/20260322015520987800",
@@ -362,27 +425,16 @@
           "time_info": "[03时12分 ~ 07时11分]"
         },
         {
-          "title": "美国私募信贷“火烧连营”：类“次贷”式包装财技，吸收1万亿美元“美国人养老金”",
-          "url": "https://wallstreetcn.com/articles/3768065",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 09时39分]"
-        },
-        {
           "title": "美以伊开战两周 伊朗反击已致美损失约8亿美元",
           "url": "https://flash.jin10.com/detail/20260322083833057800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 11时10分]"
         },
         {
           "title": "美银：维持美元中期看跌的观点",
@@ -420,8 +472,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 11时10分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时43分 ~ 09时39分]"
+          "time_info": "[09时39分 ~ 11时10分]"
         },
         {
           "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
@@ -434,17 +498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 09时39分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时39分"
         },
         {
           "title": "金价大跌原因找到了",
@@ -482,8 +535,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -509,11 +562,12 @@
           "ranks": [
             16,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 11时10分]"
         }
       ]
     },
@@ -544,11 +598,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352145&amp;topic_name=%E6%97%A5%E5%8E%82%E6%8B%96%E5%B0%BE%E6%AC%BE%2C%E5%A4%96%E8%B4%B8%E4%BA%BA%E5%8F%8D%E5%90%91%E6%94%B6%E5%89%B2",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 09时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 11时10分]"
         }
       ]
     }
