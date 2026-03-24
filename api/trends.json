@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T15:29:31.918289+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-03-24T16:22:57.670042+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "【早报】特朗普：美伊或在5天内达成协议；国际油价重挫逾10%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时37分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[08时37分 ~ 16时22分]"
         },
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 15时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 16时22分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 15时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 16时22分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时14分 ~ 15时29分]"
+          "appearance_count": 14,
+          "time_info": "[07时14分 ~ 16时22分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -91,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 15时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 16时22分]"
         },
         {
           "title": "美以伊战争丨特朗普：这一次，伊朗是认真的",
@@ -104,6 +104,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时49分 ~ 07时15分]"
+        },
+        {
+          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
+          "url": "https://wallstreetcn.com/articles/3768213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 16时22分]"
         },
         {
           "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
@@ -139,18 +151,6 @@
           "time_info": "[02时24分 ~ 06时13分]"
         },
         {
-          "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
-          "url": "https://wallstreetcn.com/articles/3768213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 15时29分]"
-        },
-        {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
           "url": "https://www.zhihu.com/question/2019499450662348649",
           "source": "知乎",
@@ -174,8 +174,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 15时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 16时22分]"
         },
         {
           "title": "美以伊战争丨特朗普甩锅防长：你带头表态要打伊朗",
@@ -212,8 +212,34 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时37分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[08时37分 ~ 16时22分]"
+        },
+        {
+          "title": "巴基斯坦调解美伊：总理致电伊朗总统，陆军参谋长与特朗普通话",
+          "url": "https://news.ifeng.com/c/8rkVJhNqkm6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 16时22分]"
+        },
+        {
+          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 16时22分]"
         },
         {
           "title": "中方回应特朗普向伊朗发出最后通牒",
@@ -229,32 +255,6 @@
           "time_info": "[01时24分 ~ 07时15分]"
         },
         {
-          "title": "巴基斯坦调解美伊：总理致电伊朗总统，陆军参谋长与特朗普通话",
-          "url": "https://news.ifeng.com/c/8rkVJhNqkm6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 15时29分]"
-        },
-        {
-          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 15时29分]"
-        },
-        {
           "title": "伊朗称特朗普推迟袭击表态为心理战",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -268,6 +268,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时24分 ~ 07时15分]"
+        },
+        {
+          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
+          "url": "https://www.cls.cn/detail/2322532",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 16时22分]"
         },
         {
           "title": "特朗普称美伊已对话",
@@ -297,18 +312,15 @@
           "time_info": "[00时59分 ~ 01时24分]"
         },
         {
-          "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
-          "url": "https://www.cls.cn/detail/2322532",
-          "source": "财联社热门",
+          "title": "特朗普称正在谈判以结束冲突，但打击行动仍在继续",
+          "url": "https://flash.jin10.com/detail/20260324160959432800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10,
-            8,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 15时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "【美国官员透露数千名美军计划于27日抵达中东】3月23日获悉，两名美国官员透露称，数千名美国海军陆战队队员计划于27日抵达中东。据悉，这一天正是美国总统特朗普为伊朗重新开放霍尔木兹海峡所设定的最后期限。 美国防部还命令另一支海军陆战队部队在几周内出发。（央视）",
@@ -350,9 +362,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "韩前国家情报院长答凤凰：特朗普实质承认朝鲜拥核",
+          "url": "https://news.ifeng.com/c/8rkhMequKq8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 16时22分]"
         },
         {
           "title": "特朗普不顾伊朗否认称已完美对话",
@@ -376,17 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "韩前国家情报院长答凤凰：特朗普实质承认朝鲜拥核",
-          "url": "https://news.ifeng.com/c/8rkhMequKq8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 15时29分]"
         },
         {
           "title": "以总理：特朗普认为可借军事成果推动达成协议",
@@ -641,6 +654,17 @@
           "time_info": "[08时37分 ~ 08时38分]"
         },
         {
+          "title": "“内塔尼亚胡把特朗普忽悠瘸了，没想到穆杰塔巴更反美”",
+          "url": "https://news.ifeng.com/c/8rkdUleaKam",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "特朗普推迟打击伊朗发电厂后，亚洲企业债券市场出现反弹",
           "url": "https://flash.jin10.com/detail/20260324105921265800",
           "source": "金十数据",
@@ -729,6 +753,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "巴基斯坦积极斡旋美伊谈判，陆军元帅与特朗普通话！",
+          "url": "https://flash.jin10.com/detail/20260324160022565800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "特朗普称正就达成更广泛协议与伊朗磋商：伊朗是认真的，他们想要达成和解",
           "url": "https://wallstreetcn.com/livenews/3075353",
           "source": "华尔街见闻-快讯",
@@ -760,6 +795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普称正与伊朗官员沟通，外交部：停火对话是唯一的出路",
+          "url": "https://wallstreetcn.com/livenews/3075762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "媒体分析：特朗普称与伊朗谈判有四重目的",
@@ -848,12 +894,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "中方回应特朗普推迟打击伊朗设施",
+          "url": "https://flash.jin10.com/detail/20260324155008763800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "专家：战争若不能在短时间停止，国际油价突破200美元并非不可能",
@@ -861,11 +918,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时37分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[08时37分 ~ 16时22分]"
         },
         {
           "title": "又现内幕交易？特朗普发表缓和言论前 6亿美元原油期货合约被抛售",
@@ -876,8 +934,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 16时22分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的8.57亿美元。",
@@ -900,17 +958,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "美元指数回吐涨幅，现报99.19。",
-          "url": "https://wallstreetcn.com/livenews/3075744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         },
         {
           "title": "高盛上调油价至85美元，但“永久性溢价”才是真正风险...",
@@ -995,6 +1042,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时35分 ~ 14时32分]"
+        },
+        {
+          "title": "美元指数回吐涨幅，现报99.19。",
+          "url": "https://wallstreetcn.com/livenews/3075744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时22分]"
         },
         {
           "title": "美元指数跌超0.6%，日元一度涨向158",
@@ -1280,6 +1339,17 @@
           "time_info": "08时38分"
         },
         {
+          "title": "不必等到成为超级富豪 在南非年薪4.4万美元就可拥有私人银行账户",
+          "url": "https://wallstreetcn.com/livenews/3075748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "澳新银行：短期内油价可能仍会维持在每桶100美元以上",
           "url": "https://flash.jin10.com/detail/20260324104532564800",
           "source": "金十数据",
@@ -1305,7 +1375,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -1315,8 +1385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时37分 ~ 15时29分]"
+          "appearance_count": 12,
+          "time_info": "[08时37分 ~ 16时22分]"
         },
         {
           "title": "沪指跌3.6%险守3800点，全市场超5100股下跌，黄金股集体暴跌，恒指跌超3%，科网股普跌",
@@ -1328,8 +1398,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 15时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 16时22分]"
         },
         {
           "title": "黄金大跌8%抹去今年所有涨幅！避险资产为何在中东冲突中\"失灵\"？",
@@ -1409,6 +1479,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时59分 ~ 04时19分]"
+        },
+        {
+          "title": "港股收盘，恒指收涨2.79%，科指收涨2.51%；老铺黄金(06181.HK)涨超16%，药明康德(02359.HK)涨超10%，华润啤酒(00291.HK)、康师傅控股(00322.HK)均涨超9%；中国海洋石油(00883.HK)、宁德时代(03750.HK)均跌3%。",
+          "url": "https://flash.jin10.com/detail/20260324160905775800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "黄金大跌背后，藏着比战争更狠的逻辑！",
@@ -1547,6 +1628,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "上海黄金交易所3月24日（周二）交易行情",
+          "url": "https://flash.jin10.com/detail/20260324160024808800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "世界黄金协会（WGC）表示，今年将有更多央行增持黄金。",
           "url": "https://wallstreetcn.com/livenews/3075578",
           "source": "华尔街见闻-快讯",
@@ -1575,9 +1667,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "盛宝银行：黄金因流动性抛压及通胀担忧而承压",
+          "url": "https://flash.jin10.com/detail/20260324155834605800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "金十图示：2026年03月24日（周二）黄金ETF持仓报告",
@@ -1608,7 +1711,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -1630,7 +1733,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -1663,8 +1766,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时14分 ~ 15时29分]"
+          "appearance_count": 14,
+          "time_info": "[07时14分 ~ 16时22分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -1730,11 +1833,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时35分 ~ 16时22分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -1761,17 +1876,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时13分]"
-        },
-        {
-          "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时35分 ~ 15时29分]"
         },
         {
           "title": "数字货币市场在美股盘前短线拉升，比特币、以太币目前涨超3%",
@@ -1849,7 +1953,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价为何跌？避险光环失灵了？黄金曾有六次大跳水",
@@ -1971,6 +2075,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "中东战火持续点燃通胀担忧，金价能否摆脱“十连跌”？",
+          "url": "https://flash.jin10.com/detail/20260324155020488800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -2032,7 +2147,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -2043,7 +2158,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -2173,11 +2288,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 15时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 16时22分]"
         }
       ]
     },
