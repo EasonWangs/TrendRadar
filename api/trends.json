@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T18:23:35.267052+08:00",
-  "total_titles_processed": 1819,
+  "generated_at": "2026-03-25T19:21:53.947693+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时14分 ~ 18时23分]"
+          "appearance_count": 15,
+          "time_info": "[07时14分 ~ 19时21分]"
         },
         {
           "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
@@ -164,17 +164,6 @@
           "time_info": "[12时44分 ~ 18时23分]"
         },
         {
-          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
-          "url": "https://wallstreetcn.com/articles/3768191",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时26分]"
-        },
-        {
           "title": "特朗普称已向伊朗提出和平方案，中方回应",
           "url": "https://www.cls.cn/detail/2324238",
           "source": "财联社热门",
@@ -184,8 +173,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时26分]"
         },
         {
           "title": "美以伊战争丨特朗普声称伊朗送来“价值连城的大礼”",
@@ -216,7 +216,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -265,6 +265,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时18分]"
+        },
+        {
+          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
+          "url": "https://www.cls.cn/detail/2324118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时21分]"
         },
         {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
@@ -332,23 +345,34 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时21分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时23分]"
+          "time_info": "[17时24分 ~ 19时21分]"
         },
         {
-          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
-          "url": "https://www.cls.cn/detail/2324118",
-          "source": "财联社热门",
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时23分]"
+          "time_info": "[18时23分 ~ 19时21分]"
         },
         {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
@@ -411,15 +435,16 @@
           "time_info": "[03时29分 ~ 04时18分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
+            29,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时23分]"
+          "time_info": "[18时23分 ~ 19时21分]"
         },
         {
           "title": "鼓吹和谈却又增兵 特朗普唱哪出",
@@ -432,17 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 17时24分]"
-        },
-        {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "美国总统特朗普：在伊朗取得了巨大成功。",
@@ -682,7 +696,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -696,17 +710,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "伊朗喊话特朗普：美国已“战略失败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "打脸特朗普！司法部承认对鲍威尔的调查缺乏证据",
@@ -723,7 +726,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "全球石油美元体系：生于1974，落于2026？",
@@ -736,8 +739,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 19时21分]"
         },
         {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
@@ -804,7 +807,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -818,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "Merck&Co将以每股53美元现金收购特恩斯制药（Terns Pharmaceuticals），权益价值约67亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "周二（3月24日），美联储隔夜逆回购协议（RRP）使用规模为11.23亿美元（交易对手6家），上个交易日报8.57亿美元。",
@@ -1352,7 +1366,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1371,7 +1385,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -1509,8 +1523,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时21分]"
         },
         {
           "title": "金十图示：2026年03月25日（周三）上海黄金交易所市场行情",
@@ -1546,6 +1560,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 13时35分]"
+        },
+        {
+          "title": "黄金坑已现？新债王喊抄底黄金丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260325190801891800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "赤峰黄金：李金阳及其一致行动人拟协议转让公司12.73%股份",
+          "url": "https://flash.jin10.com/detail/20260325190441454800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "招商银行上调黄金账户点差至5元/克",
@@ -1726,11 +1762,12 @@
             13,
             4,
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时44分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时44分 ~ 19时21分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -1743,11 +1780,12 @@
             19,
             25,
             20,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 19时21分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -2034,7 +2072,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -2045,8 +2083,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时42分 ~ 18时23分]"
+          "appearance_count": 14,
+          "time_info": "[08时42分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -2093,8 +2131,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时57分 ~ 18时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时57分 ~ 19时21分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -2175,6 +2213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "拼多多第四季度营收1,239.1亿元人民币，预估1,237.2亿元人民币。 第四季度调整后每ADS收益 17.69元人民币，预估20.84元人民币。 第四季度调整后营业利润294.7亿元人民币，预估293.5亿元人民币。 第四季度调整后净利润263.0亿元人民币，预估311.6亿元人民币。 第四季度研发支出49.9亿元人民币，预估46.2亿元人民币。 拼多多美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3076621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "非美货币多数在美股盘后走高",
@@ -2263,6 +2312,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "算力租赁概念反复活跃，奥瑞德2连板，光环新网涨超15%，铜牛信息、奥飞数据、宏景科技、特发信息、美利云涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3076312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "A股CPO概念股开盘强势，铭普光磁一字涨停，联特科技、长芯博创、炬光科技、光库科技、智立方涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "王俊凯专辑概念预告",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%93%E8%BE%91%E6%A6%82%E5%BF%B5%E9%A2%84%E5%91%8A&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "港股午评：恒指收涨0.04% 新消费概念股震荡回吐",
+          "url": "https://flash.jin10.com/detail/20260325121752095800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "A股人形机器人概念板块午后活跃，斯菱智驱涨超10%，德马科技、五洲新春、万向钱潮、睿能科技、奥比中光跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325130445732800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "美方禁止进口所有外国制造的消费级路由器 中方：一贯反对美方泛化国家安全概念",
+          "url": "https://flash.jin10.com/detail/20260325161159563800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "3月25日午间收评：沪指涨0.88%重返3900点，绿电概念股持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3076380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "A股体育概念股反复活跃，中体产业触及涨停，舒华体育此前封板，金陵体育涨超10%，共创草坪、粤传媒、力盛体育跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3076335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股兵装重组概念板块午后直线拉升，湖南天雁直线封板，长城军工、建设工业、华强科技、东安动力、中光学等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325135930780800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     },
@@ -2361,100 +2515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "算力租赁概念反复活跃，奥瑞德2连板，光环新网涨超15%，铜牛信息、奥飞数据、宏景科技、特发信息、美利云涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3076312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "A股CPO概念股开盘强势，铭普光磁一字涨停，联特科技、长芯博创、炬光科技、光库科技、智立方涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3076303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "港股午评：恒指收涨0.04% 新消费概念股震荡回吐",
-          "url": "https://flash.jin10.com/detail/20260325121752095800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "A股人形机器人概念板块午后活跃，斯菱智驱涨超10%，德马科技、五洲新春、万向钱潮、睿能科技、奥比中光跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325130445732800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "美方禁止进口所有外国制造的消费级路由器 中方：一贯反对美方泛化国家安全概念",
-          "url": "https://flash.jin10.com/detail/20260325161159563800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "3月25日午间收评：沪指涨0.88%重返3900点，绿电概念股持续爆发",
-          "url": "https://wallstreetcn.com/livenews/3076380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "A股体育概念股反复活跃，中体产业触及涨停，舒华体育此前封板，金陵体育涨超10%，共创草坪、粤传媒、力盛体育跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3076335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "A股兵装重组概念板块午后直线拉升，湖南天雁直线封板，长城军工、建设工业、华强科技、东安动力、中光学等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325135930780800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         }
       ]
     },
