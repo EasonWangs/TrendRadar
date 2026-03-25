@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T04:18:41.220079+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-03-26T05:17:31.784358+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
@@ -17,8 +17,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
+        },
+        {
+          "title": "阿根廷石油公司Tecpetrol首席执行官：由于油价高企和原油出口增加，阿根廷今年的能源贸易顺差可能达到110亿美元。",
+          "url": "https://flash.jin10.com/detail/20260326045006762800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "WTI 5月原油期货收报90.32美元/桶。 NYMEX 4月天然气期货收报2.9520美元/百万英热单位。 NYMEX 4月汽油期货收报3.0124美元/加仑，NYMEX 3月取暖油期货收报4.0063美元/加仑。",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "美元指数涨0.2%，日元再次跌向160",
-          "url": "https://wallstreetcn.com/livenews/3076876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         },
         {
           "title": "周三（3月25日），美联储隔夜逆回购协议（RRP）使用规模为7.77亿美元（交易对手6家），上个交易日报11.23亿美元。",
@@ -56,6 +56,18 @@
           "time_info": "[01时28分 ~ 03时23分]"
         },
         {
+          "title": "美元指数涨0.2%，日元再次跌向160",
+          "url": "https://wallstreetcn.com/livenews/3076876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时17分]"
+        },
+        {
           "title": "LME期铜收涨221美元，报12322美元/吨。 LME期铝收跌18美元，报3242美元/吨。 LME期锌收涨38美元，报3080美元/吨。 LME期铅收涨19美元，报1912美元/吨。 LME期镍收涨394美元，报17344美元/吨。 LME期锡收涨580美元，报44818美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3076846",
           "source": "华尔街见闻-快讯",
@@ -67,6 +79,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时18分]"
+        },
+        {
+          "title": "周三（3月25日）纽约尾盘，ICE原糖期货跌2.20%，ICE白糖期货跌1.65%。 ICE阿拉比卡咖啡期货跌0.64%，咖啡“C”期货跌1.05%。罗布斯塔咖啡期货跌0.98%。 纽约可可期货跌3.09%，报3135美元/吨。伦敦可可期货跌2.83%。 芝加哥WCE双低油菜籽期货涨0.47%。 ICE棉花期货涨0.92%。",
+          "url": "https://wallstreetcn.com/livenews/3076875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时17分]"
+        },
+        {
+          "title": "布伦特原油期货维持2.44%的跌幅，暂报97.78美元。 据华尔街日报，美国和以色列暂时将两名伊朗官员从目标名单中移除。",
+          "url": "https://wallstreetcn.com/livenews/3076871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时17分]"
         },
         {
           "title": "数字货币市场上涨，比特币一度涨穿7.2万美元，狗狗币涨3.8%",
@@ -81,15 +117,16 @@
           "time_info": "[01时28分 ~ 02时27分]"
         },
         {
-          "title": "周三（3月25日）纽约尾盘，ICE原糖期货跌2.20%，ICE白糖期货跌1.65%。 ICE阿拉比卡咖啡期货跌0.64%，咖啡“C”期货跌1.05%。罗布斯塔咖啡期货跌0.98%。 纽约可可期货跌3.09%，报3135美元/吨。伦敦可可期货跌2.83%。 芝加哥WCE双低油菜籽期货涨0.47%。 ICE棉花期货涨0.92%。",
-          "url": "https://wallstreetcn.com/livenews/3076875",
+          "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
+          "url": "https://wallstreetcn.com/livenews/3076867",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时17分]"
         },
         {
           "title": "伍德赛德能源：要将美国的液化天然气运往亚洲，价格需突破10美元/百万英热。",
@@ -109,18 +146,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "布伦特原油期货维持2.44%的跌幅，暂报97.78美元。 据华尔街日报，美国和以色列暂时将两名伊朗官员从目标名单中移除。",
-          "url": "https://wallstreetcn.com/livenews/3076871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -136,6 +162,28 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美联储理事米兰：对稳定币非常乐观，将会把更多资金投入美元生态系统。",
+          "url": "https://flash.jin10.com/detail/20260326043925383800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "Jefferies第一财季净营收20.2亿美元，分析师预期19.7亿美元。 预计与MFS和First Brands相关的亏损为0.17亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
           "title": "WTI原油日内大涨3.00%，现报91.50美元/桶。",
           "url": "https://flash.jin10.com/detail/20260326030136070800",
           "source": "金十数据",
@@ -145,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "美元指数25日上涨",
+          "url": "https://flash.jin10.com/detail/20260326043313899800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "报道：SpaceX计划从美国IPO融资至多750亿美元",
@@ -158,24 +217,13 @@
           "time_info": "00时33分"
         },
         {
-          "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
-          "url": "https://wallstreetcn.com/livenews/3076867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
           "title": "WTI原油期货跌幅收窄至1.26%，暂报91.19美元。 伊朗外长阿拉格齐称，美国正通过不同的中间人传递信息。通过调解人交换信息“并不意味着与美国进行谈判”。 伊朗高层正在审查各方提出的方案，德黑兰无意与美国举行会谈。",
           "url": "https://wallstreetcn.com/livenews/3076866",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -186,7 +234,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -219,7 +267,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -248,8 +296,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
@@ -259,8 +307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -270,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
@@ -281,8 +329,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -293,8 +341,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -305,8 +353,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：关于15点和平计划的报道存在一些错误信息。 美国总统特朗普不会虚张声势，伊朗不应该误判形势。 如果伊朗不接受失败的结果，特朗普将“释放地狱之火”。",
@@ -373,7 +421,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -446,8 +494,136 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
+        },
+        {
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260326040606409800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜亚马逊收涨超2.1%，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3076897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260326040604173800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260326005801127800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 CPU巨头走强",
+          "url": "https://flash.jin10.com/detail/20260326040128570800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "周三（3月25日），存储芯片与硬件供应链指数跌2.08%，报113.03点，跳空低开之后、在美股盘初跌至109.00点刷新日低，大部分交易时间“高位震荡”。 北美科技软件股指数ETF收跌0.52%，报80.40美元。 信息科技指数涨0.35%，人工智能（AI）赢家指数涨0.72%，AI软件先驱指数跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3076894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260326005618072800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3076887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美股回吐涨幅，美国原油跌幅收窄，报道称伊朗布什尔核电站再遭袭击",
+          "url": "https://wallstreetcn.com/livenews/3076785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -471,8 +647,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "专家说黄金正重演08年剧本",
@@ -483,8 +659,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "普京签署命令：限制黄金出口。",
@@ -504,11 +691,12 @@
           "ranks": [
             24,
             27,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "普京签署法令：俄罗斯自5月起限制黄金出口",
@@ -529,7 +717,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -547,101 +735,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
-        },
-        {
-          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2324750",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260326040606409800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260326040604173800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260326005801127800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 CPU巨头走强",
-          "url": "https://flash.jin10.com/detail/20260326040128570800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "金十图示：2026年03月25日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260326005618072800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "美股回吐涨幅，美国原油跌幅收窄，报道称伊朗布什尔核电站再遭袭击",
-          "url": "https://wallstreetcn.com/livenews/3076785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai",
       "match_count": 2,
       "titles": [
@@ -651,11 +744,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -684,8 +778,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时17分]"
         },
         {
           "title": "王俊凯专辑概念预告",
@@ -713,11 +807,12 @@
           "url": "https://wallstreetcn.com/livenews/3076878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时17分]"
         }
       ]
     }
