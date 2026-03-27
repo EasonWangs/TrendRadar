@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-03-28T03:22:01.492478+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-03-28T04:16:23.803892+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普揭晓所谓伊朗大礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 04时16分]"
+        },
+        {
+          "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
+          "url": "https://flash.jin10.com/detail/20260328041150540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
           "url": "https://wallstreetcn.com/articles/3768496",
@@ -17,29 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "特朗普认定：美国国土安全部“停摆”构成紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3078455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
         },
         {
           "title": "市场消息：美国总统特朗普承诺降低拖拉机成本，并“消除大量针对农业设备的荒谬规定”。",
@@ -59,21 +71,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
         {
-          "title": "特朗普揭晓所谓伊朗大礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "特朗普：乌克兰曾试图干预美大选",
+          "url": "https://www.cls.cn/detail/2327470",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普认定：美国国土安全部“停摆”构成紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3078455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时16分]"
         },
         {
           "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
@@ -88,17 +111,6 @@
           "time_info": "[02时26分 ~ 03时22分]"
         },
         {
-          "title": "特朗普：乌克兰曾试图干预美大选",
-          "url": "https://www.cls.cn/detail/2327470",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 03时22分]"
-        },
-        {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
           "url": "https://www.cls.cn/detail/2327594",
           "source": "财联社热门",
@@ -107,8 +119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 04时16分]"
         },
         {
           "title": "美国总统特朗普：希望卡特彼勒等公司保证降低农民的成本。 与约翰迪尔（迪尔农机）讨论了（农用）设备问题。",
@@ -141,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -155,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://wallstreetcn.com/livenews/3078461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "如何预测特朗普任内市场表现？有人抛出三点教训 有人给出一个指标",
@@ -185,7 +208,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -196,7 +219,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -210,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
+          "url": "https://flash.jin10.com/detail/20260328034803956800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "美国总统特朗普：要求为农民提供额外农业援助。",
@@ -240,9 +274,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普下令在国土安全部停摆期间向TSA人员发薪，资金来源未明",
+          "url": "https://wallstreetcn.com/livenews/3078445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "报道：特朗普预算提案将于4月3日提交国会，国家安全支出最受关注",
@@ -259,7 +304,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "WTI原油再站上100美元关口",
@@ -271,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "WTI原油期货涨5.69%，暂报99.86美元。 美国总统特使Witkoff预计，本周将与伊朗举行会议。",
+          "url": "https://wallstreetcn.com/livenews/3078473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "布伦特原油向上触及105美元/桶，日内涨3.78%。",
@@ -293,17 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9110元，较周四夜盘收盘跌9点。成交量381.99亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3078451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         },
         {
           "title": "WTI原油日内涨幅达5.5%，报99.72美元/桶。",
@@ -342,6 +387,18 @@
           "time_info": "[02时26分 ~ 03时22分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9110元，较周四夜盘收盘跌9点。成交量381.99亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3078451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时16分]"
+        },
+        {
           "title": "周五（3月27日），韩元兑美元最终跌0.23%，报1511.15韩元。 本周，韩元累计下跌0.49%，周一北京时间19:00出现一波瞬间的反弹行情，随后平滑地逐步回吐这一波涨幅。",
           "url": "https://wallstreetcn.com/livenews/3078423",
           "source": "华尔街见闻-快讯",
@@ -352,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时22分]"
+        },
+        {
+          "title": "WTI原油期货价格在临近收盘时突破100美元整数位心理关口。",
+          "url": "https://wallstreetcn.com/livenews/3078440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时16分]"
         },
         {
           "title": "布伦特原油期货重新涨超2.4%，至104.40美元附近。 据伊朗国营媒体NOUR News报道，伊朗原子能机构称，该国黄饼工厂遭到美国和以色列袭击。 据伊朗塔斯尼姆通讯社，伊朗警告将打击海湾地区和以色列的钢铁厂。",
@@ -376,6 +445,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "橡树资本满足77亿美元基金全部赎回要求，允许8.5%资金退出",
+          "url": "https://wallstreetcn.com/livenews/3078463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
           "url": "https://flash.jin10.com/detail/20260328014753556800",
           "source": "金十数据",
@@ -398,15 +478,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "WTI原油期货价格在临近收盘时突破100美元整数位心理关口。",
-          "url": "https://wallstreetcn.com/livenews/3078440",
+          "title": "彭博美元指数本周涨0.7%，日元跌超0.6%失守160",
+          "url": "https://wallstreetcn.com/livenews/3078458",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时16分"
         },
         {
           "title": "WTI原油期货涨幅收窄至不足3.3%，一度逼近97美元。",
@@ -440,12 +520,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "据英国金融时报：因AI驱动的短缺交易回落，内存芯片股票市值蒸发1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260328034557564800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "据知情人士透露，通用汽车按每股6.15美元对Lithium Argentina减持1500万，折扣10.5%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3078467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
@@ -456,8 +558,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -469,8 +571,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
+        },
+        {
+          "title": "27亿假黄金骗贷案一审宣判",
+          "url": "https://www.cls.cn/detail/2327053",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
         },
         {
           "title": "1吨旧手机约能提炼200克黄金",
@@ -487,16 +601,15 @@
           "time_info": "[00时24分 ~ 03时22分]"
         },
         {
-          "title": "27亿假黄金骗贷案一审宣判",
-          "url": "https://www.cls.cn/detail/2327053",
-          "source": "财联社热门",
+          "title": "美国商品期货交易委员会（CFTC）：3月24日当周，投机者所持COMEX黄金净多头头寸减少13,145手合约，至92,775手合约，创五个月新低。 所持COMEX白银净多头头寸创九周新高。 所持COMEX铜净多头头寸创七个月新低。 所持NYMEX铂金净多头头寸创14周新高。 所持NYMEX钯金净空头头寸创五个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3078459",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            13
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月27日（周五）晚盘收盘上涨1.35%报1004.45元/克；<br/>上海黄金交易所白银T+D 3月27日（周五）晚盘收盘上涨2.56%报17730.0元/千克。",
@@ -505,9 +618,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "黄金持续快速拉升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%8C%81%E7%BB%AD%E5%BF%AB%E9%80%9F%E6%8B%89%E5%8D%87%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "现货黄金日内涨幅达3.0%，报4511.58美元/盎司。 纽约金日内涨幅达3.0%，报4541.8美元/盎司。 纽约银日内涨幅达4.0%，报70.67美元/盎司。",
@@ -532,6 +656,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至3月24日当周，COMEX黄金投机者净多头头寸减少13,144手，降至92,775手。COMEX白银投机者将净多头持仓增加1,614手至10,915手。",
+          "url": "https://flash.jin10.com/detail/20260328033214531800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
           "title": "现货黄金日内涨幅达2.5%，报4492.17美元/盎司。 纽约金日内涨幅达2.5%，报4523.7美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3078352",
           "source": "华尔街见闻-快讯",
@@ -546,7 +681,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -556,8 +691,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -568,8 +703,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -583,6 +718,28 @@
           "time_info": "00时24分"
         },
         {
+          "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3078472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260328040914755800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
           "source": "澎湃新闻",
@@ -590,8 +747,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 04时16分]"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260328040912356800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -616,13 +784,24 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260328040624554800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260328023834916800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -643,8 +822,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
         },
         {
           "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
@@ -655,8 +834,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
         }
       ]
     },
@@ -674,8 +853,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时16分]"
         }
       ]
     }
