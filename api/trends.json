@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T14:35:09.157085+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-03-27T15:32:48.588435+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时32分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -58,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时57分 ~ 14时35分]"
+          "appearance_count": 13,
+          "time_info": "[03时57分 ~ 15时32分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -140,11 +140,12 @@
           "url": "https://news.ifeng.com/c/8rpKy15FPLN",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 15时32分]"
         },
         {
           "title": "特朗普签名将出现在美国纸币上 苹果据传拟开放Siri接入更多模型 | 环球市场",
@@ -156,8 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 15时32分]"
         },
         {
           "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
@@ -169,8 +170,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时32分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -178,11 +179,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时32分]"
         },
         {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
@@ -194,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美以伊战争丨英首相回击特朗普：我不会任人摆布",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国总统特朗普：还不知道给伊朗的周五的截止日期是否会改变。",
@@ -317,6 +330,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
+          "url": "https://www.cls.cn/detail/2326367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时32分]"
+        },
+        {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
           "url": "https://wallstreetcn.com/livenews/3077593",
           "source": "华尔街见闻-快讯",
@@ -354,26 +378,28 @@
           "time_info": "[12时53分 ~ 14时35分]"
         },
         {
-          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
-          "url": "https://www.cls.cn/detail/2326367",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普再次就停战谈判威胁伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 15时32分]"
+        },
+        {
+          "title": "打破165年传统 美钞将印特朗普签名",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时38分 ~ 14时35分]"
+          "time_info": "[14时34分 ~ 15时32分]"
         },
         {
           "title": "特朗普称伊朗允许10艘油轮通行霍尔木兹海峡",
@@ -445,17 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时11分]"
-        },
-        {
-          "title": "打破165年传统 美钞将印特朗普签名",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "美媒：特朗普考虑再向中东增派1万人的地面部队",
@@ -700,6 +715,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "特朗普吐槽盟友助战不积极",
+          "url": "https://www.toutiao.com/trending/7621150409270018084/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "白宫：特朗普总统签署行政令，禁止联邦承包商实施多元化、公平与包容措施（DEI）。",
           "url": "https://flash.jin10.com/detail/20260327065804485800",
           "source": "金十数据",
@@ -769,7 +795,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "继续巩固全球市场第二！中芯国际2025全年销售超93亿美元 产能利用率增至93.5%",
@@ -842,6 +868,18 @@
           "time_info": "[03时57分 ~ 05时14分]"
         },
         {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时32分]"
+        },
+        {
           "title": "周四（3月26日），韩元兑美元最终跌0.37%，报1507.74韩元。",
           "url": "https://wallstreetcn.com/livenews/3077636",
           "source": "华尔街见闻-快讯",
@@ -876,17 +914,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 13时38分]"
-        },
-        {
-          "title": "美元纸币将印上特朗普签名",
-          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时35分]"
         },
         {
           "title": "周四（3月26日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.9203元，较周三纽约尾盘跌175点，日内整体交投于6.9024-6.9229元区间。",
@@ -1045,7 +1072,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1078,7 +1105,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1122,9 +1149,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "WTI原油日内涨幅扩大至1%，现报95.08美元/桶。布伦特原油站上102美元/桶，日内涨0.81%。",
+          "url": "https://flash.jin10.com/detail/20260327151037658800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "澳元兑美元AUD/USD日内跌幅达1.00%，现报0.6877。",
@@ -1158,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "市场消息：日本经济产业省文件显示，日本企业以每桶140至200美元的均价采购石油。日本经济产业省要求批发商将国内汽油销售定价基准由迪拜原油切换至布伦特原油。",
+          "url": "https://flash.jin10.com/detail/20260327150914418800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "WTI原油日内走低1.00%，现报93.13美元/桶。",
@@ -1328,7 +1377,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "多方回应一吨旧手机能炼375克黄金",
@@ -1348,6 +1397,19 @@
           "time_info": "[01时28分 ~ 07时16分]"
         },
         {
+          "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
+          "url": "https://wallstreetcn.com/articles/3768509",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时32分]"
+        },
+        {
           "title": "黄金大买家开始抛售",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E4%B9%B0%E5%AE%B6%E5%BC%80%E5%A7%8B%E6%8A%9B%E5%94%AE%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -1359,18 +1421,6 @@
           "time_info": "[12时53分 ~ 13时38分]"
         },
         {
-          "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
-          "url": "https://wallstreetcn.com/articles/3768509",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时35分]"
-        },
-        {
           "title": "黄金为何跌不停？美伊战火下，这一“超级央妈粉”两周狂抛超58吨！",
           "url": "https://www.cls.cn/detail/2326466",
           "source": "财联社热门",
@@ -1379,8 +1429,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 15时32分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，刷新日低。 道指跌266点，跌幅0.6%，纳指跌1.3%。 现货黄金日内跌幅达2.5%，报4392.36美元/盎司。",
@@ -1482,7 +1532,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1493,7 +1543,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1504,7 +1554,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1518,6 +1568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "黄金修复美盘失地，看涨期权却在4XXX提前“抽水”",
+          "url": "https://flash.jin10.com/detail/20260327150403394800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "现货黄金、现货白银日内涨超1%。",
@@ -1578,8 +1639,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时32分]"
+        },
+        {
+          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
+          "url": "https://www.cls.cn/detail/2326291",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时35分]"
+          "time_info": "[08时45分 ~ 15时32分]"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 15时32分]"
         },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -1591,29 +1675,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时11分]"
-        },
-        {
-          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
-          "url": "https://www.cls.cn/detail/2326291",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 14时35分]"
-        },
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 14时35分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -1661,8 +1722,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时32分]"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -1718,11 +1779,12 @@
           "url": "https://www.douyin.com/hot/2445212",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时32分]"
         },
         {
           "title": "美股收盘：纳指跌超2% 英伟达跌4%",
@@ -1764,6 +1826,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "金价为何反常下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            8,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 15时32分]"
+        },
+        {
           "title": "金价银价急跌",
           "url": "https://www.douyin.com/hot/2445095",
           "source": "抖音",
@@ -1773,19 +1849,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
-        },
-        {
-          "title": "金价为何反常下跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 14时35分]"
         },
         {
           "title": "金价、银价急跌",
@@ -1916,7 +1979,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
