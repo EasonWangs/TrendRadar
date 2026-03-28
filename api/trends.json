@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T00:13:46.054341+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-29T01:13:03.027269+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
           "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -37,19 +38,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
           "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -59,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -70,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
@@ -81,8 +83,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 01时13分]"
         }
       ]
     },
@@ -98,19 +100,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "一周展望：中东乱局不停，非农即将炸场！黄金是否已触底？",
           "url": "https://flash.jin10.com/detail/20260328225240407800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "黄金逼近熊市之际，抄底大军来了！",
@@ -120,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         }
       ]
     },
@@ -137,8 +140,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -148,8 +151,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -159,8 +162,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价急速飙涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%80%A5%E9%80%9F%E9%A3%99%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 01时13分]"
         }
       ]
     }
