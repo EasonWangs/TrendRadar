@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T18:38:49.786779+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2026-03-31T19:24:22.284586+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
@@ -641,7 +641,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -666,8 +666,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时45分 ~ 18时38分]"
+          "appearance_count": 14,
+          "time_info": "[08时45分 ~ 19时24分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -680,8 +680,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 18时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 19时24分]"
         },
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -705,8 +705,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 19时24分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -718,8 +718,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时20分 ~ 18时38分]"
+          "appearance_count": 18,
+          "time_info": "[05时20分 ~ 19时24分]"
         },
         {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
@@ -742,11 +742,26 @@
           "ranks": [
             18,
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 19时24分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 19时24分]"
         },
         {
           "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
@@ -757,21 +772,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 18时38分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 19时24分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -782,11 +784,12 @@
             18,
             16,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时39分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[13时39分 ~ 19时24分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
@@ -866,6 +869,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "美国总统特朗普：（谈伊朗问题）各国可前往海峡，自行夺取石油，自行学习如何作战。",
+          "url": "https://flash.jin10.com/detail/20260331191317455800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "特朗普称愿结束对伊朗军事行动",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -878,6 +892,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时12分 ~ 15时37分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）各国应从美国购买石油。",
+          "url": "https://flash.jin10.com/detail/20260331191237799800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普敦促英国从美国购买喷气式飞机燃料。",
+          "url": "https://flash.jin10.com/detail/20260331191209849800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "标普500指数涨0.3%，道指涨340点、涨幅0.75%，纳指持平。 美国总统特朗普在接受《纽约邮报》采访时称，伊朗议会议长卡利巴夫是与美国就结束战争事宜进行沟通的伊朗官员之一。当被问及在与华盛顿合作方面能否信任卡利巴夫时，特朗普回答说：“我们会拭目以待的。”",
@@ -955,6 +991,18 @@
           "time_info": "[04时19分 ~ 06时16分]"
         },
         {
+          "title": "无视特朗普警告 伊朗硬刚回应 科威特满载油轮遭袭令油价再现震荡！",
+          "url": "https://www.cls.cn/detail/2330032",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
           "title": "白宫：特朗普希望4月6日前与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3079536",
           "source": "华尔街见闻-快讯",
@@ -989,6 +1037,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普围伊“救”俄",
+          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时24分]"
         },
         {
           "title": "美国白宫：特朗普表示，伊朗最好的选择是达成协议。美国军队将始终在国际法的框架内行动。",
@@ -1027,17 +1086,6 @@
           "time_info": "[09时41分 ~ 11时12分]"
         },
         {
-          "title": "无视特朗普警告 伊朗硬刚回应 科威特满载油轮遭袭令油价再现震荡！",
-          "url": "https://www.cls.cn/detail/2330032",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
           "title": "美抗议人群组成特朗普须下台巨型标语",
           "url": "https://www.toutiao.com/trending/7622494680384815123/",
           "source": "今日头条",
@@ -1058,17 +1106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
-        },
-        {
-          "title": "特朗普围伊“救”俄",
-          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "特朗普称愿结束对伊军事行动",
@@ -1143,7 +1180,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1217,7 +1254,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1226,11 +1263,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时16分 ~ 18时38分]"
+          "appearance_count": 16,
+          "time_info": "[07时16分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -1294,11 +1332,12 @@
             20,
             15,
             27,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时12分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 19时24分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1344,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 18时38分]"
+        },
+        {
+          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，金银油齐涨，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美股三大指数高开 爱奇艺涨超12%",
@@ -1405,6 +1455,28 @@
           "time_info": "[05时20分 ~ 06时16分]"
         },
         {
+          "title": "Centessa Pharmaceuticals美股盘前涨超54%，报道称礼来（Lilly）将以每股38美元加CVR（或有价值权）收购Centessa Pharmaceuticals。",
+          "url": "https://wallstreetcn.com/livenews/3080106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "Apellis美股盘前涨超142%，Biogen将以56亿美元收购制药公司Apellis",
+          "url": "https://wallstreetcn.com/livenews/3080105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260331032001591800",
           "source": "金十数据",
@@ -1430,7 +1502,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "现货黄金跌破4500美元/盎司，日内跌0.24%。",
@@ -1489,6 +1561,17 @@
           "time_info": "15时37分"
         },
         {
+          "title": "中国央行：2026年2月末，上海黄金交易所Au（T+D）合约收于每克1142.5元，环比下跌3.3%。2026年2月，上海黄金交易所黄金成交2813.9吨，同比下降52.9%；上海期货交易所黄金成交1.4万吨，同比下降7.4%。",
+          "url": "https://wallstreetcn.com/livenews/3080094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "国际现货黄金短期或陷震荡 美日携强劲利多跨入二季度 | Live分析更新中",
           "url": "https://flash.jin10.com/detail/20260331152533884800",
           "source": "金十数据",
@@ -1539,6 +1622,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
+          "url": "https://www.cls.cn/detail/2330580",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
           "title": "A股机器人概念股探底回升，通力科技、襄阳轴承双双涨停，南方精工、长盛轴承、中大力德等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3079861",
           "source": "华尔街见闻-快讯",
@@ -1551,38 +1647,28 @@
           "time_info": "[13时39分 ~ 14时38分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
-          "url": "https://www.cls.cn/detail/2330580",
+          "title": "【数据看盘】多路资金激烈博弈平潭发展 一线游资联手量化资金抢筹光纤概念股",
+          "url": "https://www.cls.cn/detail/2330716",
           "source": "财联社热门",
           "ranks": [
             10,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时38分]"
-        },
-        {
-          "title": "【数据看盘】多路资金激烈博弈平潭发展 一线游资联手量化资金抢筹光纤概念股",
-          "url": "https://www.cls.cn/detail/2330716",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时24分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落再失3900点，商业航天概念活跃依旧，张雪机车概念逆势爆发",
           "url": "https://www.cls.cn/detail/2330673",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时24分]"
         },
         {
           "title": "A股CRO概念异动拉升，凯莱英涨超8%，诺思格涨超7%，昭衍新药、康龙化成涨超6%。",
@@ -1655,11 +1741,35 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时24分]"
+        },
+        {
+          "title": "DeepSeek服务中断一小时后恢复",
+          "url": "https://wallstreetcn.com/livenews/3080079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时24分]"
+        },
+        {
+          "title": "DeepSeek服务中断一小时后恢复",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -1671,28 +1781,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
-          "title": "DeepSeek服务中断一小时后恢复",
-          "url": "https://wallstreetcn.com/livenews/3080079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "DeepSeek服务中断一小时后恢复",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         }
       ]
     },
@@ -1709,8 +1797,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 18时38分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时24分]"
         },
         {
           "title": "短端美债收益率跌超9个基点",
