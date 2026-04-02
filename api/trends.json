@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-04-03T06:16:16.430075+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-04-03T07:15:34.481481+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "美国联合航空（美联航）将托运行李费上调10美元，来应对燃油价格持续攀升。",
-          "url": "https://wallstreetcn.com/livenews/3081816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
-          "url": "https://flash.jin10.com/detail/20260403053424263800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
         {
           "title": "布伦特原油期货收报每桶109.03美元，上涨7.87美元，涨幅7.78%。",
           "url": "https://flash.jin10.com/detail/20260403025154434800",
@@ -39,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "美国联合航空(UAL.O)：上调美国、墨西哥、加拿大及拉丁美洲地区旅客的首件和第二件托运行李费各10美元。",
+          "url": "https://flash.jin10.com/detail/20260403062731772800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "据彭博报道，SpaceX在IPO中的目标估值超过2万亿美元。 随后，EchoStar股价涨幅扩大。",
@@ -57,11 +46,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时15分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。 一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。（路透）",
@@ -90,6 +80,19 @@
           "time_info": "[02时26分 ~ 04时16分]"
         },
         {
+          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
+          "url": "https://wallstreetcn.com/livenews/3081803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时15分]"
+        },
+        {
           "title": "摩根大通：基本假设是，海峡运输中断最终将得到解决，预计二季度油价将维持高位（高于每桶100美元），并在2026年下半年回落。",
           "url": "https://flash.jin10.com/detail/20260403020014014800",
           "source": "金十数据",
@@ -102,6 +105,18 @@
           "time_info": "[02时26分 ~ 03时26分]"
         },
         {
+          "title": "美国联合航空（美联航）将托运行李费上调10美元，来应对燃油价格持续攀升。",
+          "url": "https://wallstreetcn.com/livenews/3081816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
           "title": "摩根大通：如果霍尔木兹海峡的石油运输在5月中旬前仍受阻，油价存在升至每桶150美元以上的风险。",
           "url": "https://flash.jin10.com/detail/20260403015739197800",
           "source": "金十数据",
@@ -112,6 +127,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时26分]"
+        },
+        {
+          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
+          "url": "https://flash.jin10.com/detail/20260403053424263800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "美国原油期货收涨至110美元上方，为2022年以来首次",
@@ -150,18 +177,6 @@
           "time_info": "[02时26分 ~ 03时26分]"
         },
         {
-          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
-          "url": "https://wallstreetcn.com/livenews/3081803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
           "title": "消息人士称，SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。",
           "url": "https://flash.jin10.com/detail/20260403015702486800",
           "source": "金十数据",
@@ -172,6 +187,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时26分]"
+        },
+        {
+          "title": "美元指数2日上涨",
+          "url": "https://flash.jin10.com/detail/20260403043416469800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时15分]"
+        },
+        {
+          "title": "美国至4月6日当周外国央行持有美国国债 377.91亿美元，前值-231.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403043033454800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时15分]"
+        },
+        {
+          "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
+          "url": "https://flash.jin10.com/detail/20260403041548791800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时15分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -210,28 +264,16 @@
           "time_info": "[01时23分 ~ 02时26分]"
         },
         {
-          "title": "美元指数2日上涨",
-          "url": "https://flash.jin10.com/detail/20260403043416469800",
-          "source": "金十数据",
+          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
+          "url": "https://wallstreetcn.com/livenews/3081810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            13
+            7,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "美国至4月6日当周外国央行持有美国国债 377.91亿美元，前值-231.77亿美元。",
-          "url": "https://flash.jin10.com/detail/20260403043033454800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。",
@@ -252,18 +294,6 @@
           "ranks": [
             11,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
-          "url": "https://flash.jin10.com/detail/20260403041548791800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -316,6 +346,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "据The Information：Tether以5000亿美元估值发起融资最后冲刺，正敦促投资者在接下来的两周内承诺达成协议。",
+          "url": "https://flash.jin10.com/detail/20260403061634448800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "欧洲柴油期货飙升至1498美元，伊朗冲突致价格近乎翻倍",
           "url": "https://wallstreetcn.com/livenews/3081769",
           "source": "华尔街见闻-快讯",
@@ -327,15 +368,15 @@
           "time_info": "04时16分"
         },
         {
-          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
-          "url": "https://wallstreetcn.com/livenews/3081810",
+          "title": "赎回潮冲击2万亿美元私募信贷，业内警惕跨境风险传导",
+          "url": "https://wallstreetcn.com/livenews/3081828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时15分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.81万亿美元。",
@@ -347,6 +388,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "据CNBC：随着燃油价格持续上涨，美国联合航空(UAL.O)将托运行李费上调10美元。",
+          "url": "https://flash.jin10.com/detail/20260403055807040800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "泰达币发行人Tether为按5000亿美元估值融资进行最后的冲刺。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3081822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了3个对手方的3.27亿美元。",
@@ -407,7 +470,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -417,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -428,8 +491,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -439,8 +502,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -450,8 +513,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -460,11 +523,12 @@
           "ranks": [
             13,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         },
         {
           "title": "特朗普讲话后金银直线跳水",
@@ -475,11 +539,12 @@
             16,
             14,
             29,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 07时15分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -507,17 +572,6 @@
           "time_info": "[00时55分 ~ 01时23分]"
         },
         {
-          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
-          "url": "https://wallstreetcn.com/livenews/3081814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
           "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
           "url": "https://wallstreetcn.com/livenews/3081713",
           "source": "华尔街见闻-快讯",
@@ -541,6 +595,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时26分]"
+        },
+        {
+          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
+          "url": "https://wallstreetcn.com/livenews/3081814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
@@ -616,6 +682,17 @@
           "time_info": "[02时26分 ~ 03时26分]"
         },
         {
+          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
+          "url": "https://flash.jin10.com/detail/20260403061620774800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
           "url": "https://flash.jin10.com/detail/20260403004016648800",
           "source": "金十数据",
@@ -625,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
+          "url": "https://wallstreetcn.com/livenews/3081824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
@@ -707,7 +795,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -719,8 +807,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -732,8 +820,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -744,11 +832,23 @@
             25,
             24,
             17,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -851,7 +951,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -877,6 +977,28 @@
           "time_info": "[00时55分 ~ 06时16分]"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓为1050.99吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260403062237385800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 07时15分]"
+        },
+        {
           "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
           "url": "https://wallstreetcn.com/livenews/3081799",
           "source": "华尔街见闻-快讯",
@@ -887,17 +1009,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
-          "url": "https://wallstreetcn.com/articles/3769043",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
           "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
@@ -921,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "黄金不再是必选项，FOF多元配置走上求变之路",
+          "url": "https://wallstreetcn.com/livenews/3081825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "消息人士称，意大利将于6月起从卡塔尔能源与埃克森美孚合资的黄金通道液化天然气设施接收液化天然气。来自黄金通道的液化天然气将帮助意大利弥补来自海湾地区的短缺供应。",
@@ -988,22 +1110,24 @@
             30,
             27,
             23,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 06时16分]"
+          "appearance_count": 7,
+          "time_info": "[03时25分 ~ 07时15分]"
         },
         {
           "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
           "url": "https://wallstreetcn.com/livenews/3081808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         }
       ]
     },
@@ -1021,8 +1145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
         }
       ]
     }
