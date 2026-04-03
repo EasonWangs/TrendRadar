@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T08:45:52.637943+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-04-03T09:40:38.798110+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 09时40分]"
         },
         {
           "title": "布伦特原油期货收报每桶109.03美元，上涨7.87美元，涨幅7.78%。",
@@ -287,6 +287,30 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3081859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 09时40分]"
+        },
+        {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 09时40分]"
+        },
+        {
           "title": "周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。",
           "url": "https://wallstreetcn.com/livenews/3081732",
           "source": "华尔街见闻-快讯",
@@ -379,17 +403,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3081859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
           "title": "赎回潮冲击2万亿美元私募信贷，业内警惕跨境风险传导",
           "url": "https://wallstreetcn.com/livenews/3081828",
           "source": "华尔街见闻-快讯",
@@ -412,17 +425,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
           "title": "据CNBC：随着燃油价格持续上涨，美国联合航空(UAL.O)将托运行李费上调10美元。",
           "url": "https://flash.jin10.com/detail/20260403055807040800",
           "source": "金十数据",
@@ -434,13 +436,24 @@
           "time_info": "07时15分"
         },
         {
+          "title": "人民币兑美元中间价报6.8929，下调49点；上一交易日中间价6.8880，上一交易日官方收盘价6.8936，上日夜盘报收6.8855。",
+          "url": "https://wallstreetcn.com/livenews/3081876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "据The Information：Anthropic以约4亿美元收购初创公司Coefficient Bio。",
           "url": "https://flash.jin10.com/detail/20260403081026571800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -462,7 +475,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -525,7 +538,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -536,8 +549,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 09时40分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -559,19 +572,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 09时40分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
           "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 09时40分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -636,20 +650,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "特朗普政府被曝考虑解职更多高官",
           "url": "https://wallstreetcn.com/livenews/3081865",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 09时40分]"
         },
         {
           "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
@@ -779,9 +816,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
@@ -801,7 +849,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -867,7 +915,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -878,7 +926,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -905,13 +953,46 @@
           "time_info": "03时26分"
         },
         {
+          "title": "日本财务大臣片山皋月：特朗普的言论对市场的影响显著。 石油交易和外汇市场的投机行为正在增加。 我们一直以来都在谈论采取大胆的行动，立场是将从各个方面对市场采取行动。 市场波动性正在上升。 货币政策的具体细节由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3081866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "刚炒了司法部长，特朗普又盯上两个“心腹”：商务部长“如履薄冰”",
+          "url": "https://flash.jin10.com/detail/20260403085404648800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "马克龙批评特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%89%B9%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "特朗普拟进一步改组内阁 卢特尼克如履薄冰",
           "url": "https://flash.jin10.com/detail/20260403075434190800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -922,7 +1003,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -951,11 +1032,12 @@
             7,
             6,
             5,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 08时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 09时40分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -994,8 +1076,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 08时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时40分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -1246,42 +1328,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            30,
-            27,
-            23,
-            21,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时25分 ~ 08时45分]"
-        },
-        {
-          "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
-          "url": "https://wallstreetcn.com/livenews/3081808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
@@ -1295,6 +1343,63 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时55分 ~ 07时15分]"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.21%，深证成指涨0.49%，创业板指涨0.79%。CRO概念、脑机接口跌幅居前，中船系、CPO、光纤概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260403092517678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "数字货币概念股开盘活跃，翠微股份、中油资本竞价涨停，华峰超纤、四方精创、拉卡拉、海联金汇等多股高开，消息上，中国人民银行新增中信银行等成为银行类数字人民币业务运营机构，并接入央行端数字人民币系统，此外据商务部官网消息，选择性通行系统下，多国获免通行费，人民币结算首现霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3081885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            30,
+            27,
+            23,
+            21,
+            16,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时25分 ~ 09时40分]"
+        },
+        {
+          "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3081808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         }
       ]
     }
