@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T09:40:38.798110+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-04-03T11:12:23.061471+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时12分]"
         },
         {
           "title": "布伦特原油期货收报每桶109.03美元，上涨7.87美元，涨幅7.78%。",
@@ -200,6 +200,19 @@
           "time_info": "[02时26分 ~ 03时26分]"
         },
         {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时12分]"
+        },
+        {
           "title": "美元指数2日上涨",
           "url": "https://flash.jin10.com/detail/20260403043416469800",
           "source": "金十数据",
@@ -299,18 +312,6 @@
           "time_info": "[08时45分 ~ 09时40分]"
         },
         {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 09时40分]"
-        },
-        {
           "title": "周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。",
           "url": "https://wallstreetcn.com/livenews/3081732",
           "source": "华尔街见闻-快讯",
@@ -403,6 +404,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "特朗普放狠话加剧冲突，美油暴涨超13%，即期布油飙破140美元，金银现“踩踏式撤退”。伊朗释放霍尔木兹协议信号，市场巨震不止.....后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260403103102775800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "赎回潮冲击2万亿美元私募信贷，业内警惕跨境风险传导",
           "url": "https://wallstreetcn.com/livenews/3081828",
           "source": "华尔街见闻-快讯",
@@ -414,6 +426,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
+          "url": "https://wallstreetcn.com/articles/3769147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.81万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3081766",
           "source": "华尔街见闻-快讯",
@@ -423,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "据CNBC：随着燃油价格持续上涨，美国联合航空(UAL.O)将托运行李费上调10美元。",
@@ -442,9 +476,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
+          "url": "https://wallstreetcn.com/livenews/3081923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "据The Information：Anthropic以约4亿美元收购初创公司Coefficient Bio。",
@@ -478,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "100亿美元“大手笔” 微软加速在日数据中心扩容",
+          "url": "https://flash.jin10.com/detail/20260403101546168800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了3个对手方的3.27亿美元。",
@@ -538,7 +594,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -584,8 +640,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 11时12分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -644,6 +700,28 @@
           "time_info": "[00时55分 ~ 01时23分]"
         },
         {
+          "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时12分]"
+        },
+        {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时12分]"
+        },
+        {
           "title": "美以伊战争丨特朗普放炸桥视频施压伊朗",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -655,26 +733,15 @@
           "time_info": "08时45分"
         },
         {
-          "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "美国总统特朗普： 我们的军队是世界上最强大、最出色的（目前看来是如此！），他们甚至还没有开始摧毁伊朗剩下的设施。接下来是桥梁，然后是发电厂！新政权的领导层知道需要做什么，并且必须尽快完成这些任务！",
+          "url": "https://flash.jin10.com/detail/20260403104321080800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "11时12分"
         },
         {
           "title": "特朗普政府被曝考虑解职更多高官",
@@ -763,6 +830,17 @@
           "time_info": "[04时16分 ~ 06时16分]"
         },
         {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时12分]"
+        },
+        {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
           "url": "https://wallstreetcn.com/livenews/3081717",
           "source": "华尔街见闻-快讯",
@@ -821,17 +899,6 @@
           "time_info": "08时45分"
         },
         {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
           "url": "https://flash.jin10.com/detail/20260403004016648800",
           "source": "金十数据",
@@ -863,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
+          "url": "https://www.cls.cn/detail/2334117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
@@ -931,6 +1009,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "特朗普放炸桥视频施压伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E7%82%B8%E6%A1%A5%E8%A7%86%E9%A2%91%E6%96%BD%E5%8E%8B%E4%BC%8A%E6%9C%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
           "url": "https://flash.jin10.com/detail/20260403010625479800",
           "source": "金十数据",
@@ -959,7 +1048,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -970,7 +1059,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -981,7 +1070,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -1033,11 +1122,12 @@
             6,
             5,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 09时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 11时12分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -1073,11 +1163,12 @@
           "url": "https://www.cls.cn/detail/2334066",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 11时12分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -1180,7 +1271,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -1274,6 +1365,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "假期碰上非农，黄金等待下周见证地缘与数据的双重清算",
+          "url": "https://flash.jin10.com/detail/20260403101315468800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "消息人士称，意大利将于6月起从卡塔尔能源与埃克森美孚合资的黄金通道液化天然气设施接收液化天然气。来自黄金通道的液化天然气将帮助意大利弥补来自海湾地区的短缺供应。",
           "url": "https://flash.jin10.com/detail/20260403000437330800",
           "source": "金十数据",
@@ -1283,6 +1385,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
+          "url": "https://www.cls.cn/detail/2333532",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时15分]"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.21%，深证成指涨0.49%，创业板指涨0.79%。CRO概念、脑机接口跌幅居前，中船系、CPO、光纤概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260403092517678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "数字货币概念股开盘活跃，翠微股份、中油资本竞价涨停，华峰超纤、四方精创、拉卡拉、海联金汇等多股高开，消息上，中国人民银行新增中信银行等成为银行类数字人民币业务运营机构，并接入央行端数字人民币系统，此外据商务部官网消息，选择性通行系统下，多国获免通行费，人民币结算首现霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3081885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "A股CPO概念股涨势扩大，腾景科技逼近20cm涨停，股价续创历史新高，德科立、易天股份、亨通光电、中瓷电子、华盛昌、通宇通讯等多股涨停，光库科技、长光华芯、炬光科技均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3081921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "A股绿电概念股早盘调整，闽东电力触及跌停，广西能源、深南电A、明星电力、宁波能源、西昌电力跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3081893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     },
@@ -1328,49 +1493,8 @@
       ]
     },
     {
-      "keyword_group": "概念",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指缩量调整考验3900点，硬科技方向整体承压，猪肉概念异军突起",
-          "url": "https://www.cls.cn/detail/2333532",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时15分]"
-        },
-        {
-          "title": "A股开盘，上证指数涨0.21%，深证成指涨0.49%，创业板指涨0.79%。CRO概念、脑机接口跌幅居前，中船系、CPO、光纤概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260403092517678800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "数字货币概念股开盘活跃，翠微股份、中油资本竞价涨停，华峰超纤、四方精创、拉卡拉、海联金汇等多股高开，消息上，中国人民银行新增中信银行等成为银行类数字人民币业务运营机构，并接入央行端数字人民币系统，此外据商务部官网消息，选择性通行系统下，多国获免通行费，人民币结算首现霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3081885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多国央行大幅减持美债",
@@ -1400,6 +1524,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "分析师：中东局势若破冰 美债收益率有望下探4.2%",
+          "url": "https://flash.jin10.com/detail/20260403102839971800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月03日（周五）上海金早盘价为1030.93元/克，较国际金价(1034.64元/克)，低3.71元/克",
+          "url": "https://flash.jin10.com/detail/20260403101740906800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     }
