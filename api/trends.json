@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-11T04:16:31.988234+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-11T05:17:14.119727+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时17分]"
+        },
+        {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时17分]"
+        },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,28 +41,6 @@
           "time_info": "[01时23分 ~ 02时26分]"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时16分]"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时16分]"
-        },
-        {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
           "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
           "source": "凤凰网",
@@ -48,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时17分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -180,6 +180,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普：美国准备提振匈牙利经济。",
+          "url": "https://wallstreetcn.com/livenews/3086095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普承诺在离任前对幕僚进行大规模赦免。",
           "url": "https://flash.jin10.com/detail/20260411032227829800",
           "source": "金十数据",
@@ -271,7 +282,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "周五（4月10日），美联储隔夜逆回购协议（RRP）使用规模为5.07亿美元（交易对手5家），上个交易日报4.02亿美元。",
@@ -416,73 +427,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
+        },
         {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
+          "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086088",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "05时17分"
         },
         {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041023502800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003357698800",
-          "source": "金十数据",
+          "title": "美国3月赤字扩大至1640亿美元，退税与农民救助推高支出",
+          "url": "https://wallstreetcn.com/livenews/3086086",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003343083800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "05时17分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。",
@@ -520,15 +492,112 @@
           "time_info": "[00时25分 ~ 02时26分]"
         },
         {
+          "title": "专家谈“1吨旧手机能提炼200克黄金”",
+          "url": "https://www.toutiao.com/trending/7625953721730121766/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 05时17分]"
+        },
+        {
+          "title": "周五（4月10日）纽约尾盘，现货黄金跌0.34%，报4750.39美元/盎司，本周累计上涨1.57%，4月6-7日在4650美元附近低位持稳，4月8日亚太盘初曾拉升至4856.81美元。 COMEX黄金期货跌0.95%，报4772.00美元/盎司，本周累涨2.02%。",
+          "url": "https://wallstreetcn.com/livenews/3086098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。 所持COMEX白银净多头头寸创三周新低。 所持NYMEX铂金净多头头寸创16周月新高。 所持NYMEX钯金净空头头寸创六个月新高。",
           "url": "https://wallstreetcn.com/livenews/3086067",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时17分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时17分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时17分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260411003357698800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260411003343083800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3086084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
@@ -541,11 +610,12 @@
           "url": "https://wallstreetcn.com/livenews/3086079",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时17分]"
         }
       ]
     },
@@ -560,7 +630,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
