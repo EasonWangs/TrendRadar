@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T02:26:06.158529+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-04-11T04:05:28.506687+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -19,6 +19,39 @@
           "time_info": "[01时23分 ~ 02时26分]"
         },
         {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时05分]"
+        },
+        {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时05分]"
+        },
+        {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时05分]"
+        },
+        {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
           "url": "https://wallstreetcn.com/articles/3769619",
           "source": "华尔街见闻",
@@ -30,37 +63,16 @@
           "time_info": "[00时25分 ~ 02时26分]"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
+          "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
+          "url": "https://wallstreetcn.com/livenews/3086048",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时26分]"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时26分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时26分]"
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 04时05分]"
         },
         {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
@@ -123,17 +135,6 @@
           "time_info": "[01时23分 ~ 02时26分]"
         },
         {
-          "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
-          "url": "https://wallstreetcn.com/livenews/3086048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
           "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
           "url": "https://flash.jin10.com/detail/20260410234303682800",
           "source": "金十数据",
@@ -151,7 +152,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -176,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普承诺在离任前对幕僚进行大规模赦免。",
+          "url": "https://flash.jin10.com/detail/20260411032227829800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
@@ -239,7 +251,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -258,18 +270,20 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
-          "title": "美国3月政府预算 -1641亿美元，预期 -1533亿美元，前值 -1605亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086051",
+          "title": "周五（4月10日），美联储隔夜逆回购协议（RRP）使用规模为5.07亿美元（交易对手5家），上个交易日报4.02亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086042",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 04时05分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的5.07亿美元。",
@@ -284,16 +298,16 @@
           "time_info": "[01时23分 ~ 02时26分]"
         },
         {
-          "title": "周五（4月10日），美联储隔夜逆回购协议（RRP）使用规模为5.07亿美元（交易对手5家），上个交易日报4.02亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086042",
+          "title": "美国3月政府预算 -1641亿美元，预期 -1533亿美元，前值 -1605亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086051",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            12
+            4,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时26分]"
+          "time_info": "[02时26分 ~ 04时05分]"
         },
         {
           "title": "比特币上探7.3万美元，和以太币最近七天涨超9%",
@@ -301,11 +315,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 04时05分]"
         },
         {
           "title": "LME期铜收涨164美元，报12846美元/吨。 LME期铝收涨54美元，报3498美元/吨。 LME期锌收涨6美元，报3333美元/吨。 LME期铅收跌5美元，报1922美元/吨。 LME期镍收涨153美元，报17241美元/吨。 LME期锡收涨301美元，报47987美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -320,26 +335,71 @@
           "time_info": "[01时23分 ~ 02时26分]"
         },
         {
+          "title": "周五（4月10日），韩元兑美元最终跌0.57%，报1483.19韩元，本周累计上涨1.83%，4月4日跳空高开之前持续低位震荡于1510韩元附近、之后持续交投于期内顶部1470.07韩元附近。",
+          "url": "https://wallstreetcn.com/livenews/3086045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 04时05分]"
+        },
+        {
+          "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
+          "url": "https://wallstreetcn.com/livenews/3086063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
           "title": "美国3月政府预算 -1640亿美元，预期-1567亿美元，前值-3080亿美元。",
           "url": "https://flash.jin10.com/detail/20260411020002161800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
         {
-          "title": "周五（4月10日），韩元兑美元最终跌0.57%，报1483.19韩元，本周累计上涨1.83%，4月4日跳空高开之前持续低位震荡于1510韩元附近、之后持续交投于期内顶部1470.07韩元附近。",
-          "url": "https://wallstreetcn.com/livenews/3086045",
+          "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 布伦特6月原油期货收报95.20美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3086058",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "04时05分"
+        },
+        {
+          "title": "WTI原油期货跌1.3%，失守97美元。",
+          "url": "https://wallstreetcn.com/livenews/3086055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "WTI原油日内跌幅达2.00%，现报96.02美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260411031012973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "市场消息：黑石集团考虑为一家数据中心收购公司进行20亿美元的首次公开募股（IPO）。",
@@ -351,6 +411,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。",
+          "url": "https://wallstreetcn.com/livenews/3086067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，COMEX黄金期货投机性净多头头寸减少1,760手至92,113手。",
+          "url": "https://flash.jin10.com/detail/20260411033756068800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "1吨旧手机能提炼200克黄金？专家回应",
+          "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时26分]"
         }
       ]
     },
@@ -379,25 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "1吨旧手机能提炼200克黄金？专家回应",
-          "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时26分]"
         }
       ]
     }
