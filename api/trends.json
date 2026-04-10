@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T22:29:59.570874+08:00",
-  "total_titles_processed": 2246,
+  "generated_at": "2026-04-10T23:23:54.526674+08:00",
+  "total_titles_processed": 2339,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 70,
       "titles": [
         {
           "title": "高盛警告：若霍尔木兹再封一个月 布油2026年均价或破100美元",
@@ -513,6 +513,17 @@
           "time_info": "08时48分"
         },
         {
+          "title": "现货白银日内涨超2.00%，现报76.73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260410222408283800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "刚果首次发行美元债券，筹集12.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3085298",
           "source": "华尔街见闻-快讯",
@@ -546,6 +557,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "现货白银日内涨幅达2.0%，报76.78美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3085985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "世界银行可能筹集200亿至250亿美元用于伊朗战后援助。",
           "url": "https://flash.jin10.com/detail/20260410054530941800",
           "source": "金十数据",
@@ -566,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）三个月期铜在格林尼治标准时间14:15上涨1.7%，至每吨12,901美元，创3月17日以来盘中新高。本周迄今已累计上涨约4%。 纽约COMEX期铜上涨2.8%，触及一个月来的高点，报每磅5.92 美元。",
+          "url": "https://wallstreetcn.com/livenews/3085983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "现货铂金涨3%，报2090美元/盎司。",
@@ -632,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "北美科技软件股指数ETF一度下跌3.47%，报73.98美元。",
+          "url": "https://wallstreetcn.com/livenews/3085988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "以色列谢克尔兑美元创1995年11月份以来收盘新高，涨1.08%，报3.0568谢克尔。 北京时间00:13，曾涨至3.0465谢克尔。",
@@ -722,6 +766,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "巴西雷亚尔兑美元涨1%。",
+          "url": "https://flash.jin10.com/detail/20260410221617231800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "WTI原油失守96美元/桶，日内跌幅0.74%。",
           "url": "https://flash.jin10.com/detail/20260410013614498800",
           "source": "金十数据",
@@ -747,7 +802,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -822,8 +877,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时48分 ~ 22时29分]"
+          "appearance_count": 18,
+          "time_info": "[08时48分 ~ 23时23分]"
         },
         {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
@@ -920,6 +975,18 @@
           "time_info": "[00时38分 ~ 01时30分]"
         },
         {
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 23时23分]"
+        },
+        {
           "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
           "url": "https://news.ifeng.com/c/8sCrezhn1o8",
           "source": "凤凰网",
@@ -966,16 +1033,16 @@
           "time_info": "[08时48分 ~ 15时10分]"
         },
         {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            20
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 23时23分]"
         },
         {
           "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
@@ -1034,6 +1101,17 @@
           "time_info": "08时48分"
         },
         {
+          "title": "巴西财政部长：巴西总统卢拉与美国总统特朗普的对话有助于达成协议。这为与美国的其他交易铺平了道路。美国官员表示希望下周在华盛顿与我进一步深入会谈。",
+          "url": "https://flash.jin10.com/detail/20260410230016351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将于周五美东时间下午6:30参加MAGA INC.会议。",
           "url": "https://flash.jin10.com/detail/20260410083444781800",
           "source": "金十数据",
@@ -1043,18 +1121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 22时29分]"
         },
         {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
@@ -1092,18 +1158,6 @@
           "time_info": "[08时48分 ~ 09时41分]"
         },
         {
-          "title": "特朗普，对鲤鱼宣战？",
-          "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时39分]"
-        },
-        {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
           "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
           "source": "凤凰网",
@@ -1112,8 +1166,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时29分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时23分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -1124,8 +1178,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时23分]"
+        },
+        {
+          "title": "特朗普，对鲤鱼宣战？",
+          "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时29分]"
+          "time_info": "[15时39分 ~ 16时39分]"
         },
         {
           "title": "拜登儿子“约战”特朗普儿子",
@@ -1340,6 +1406,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "美国总统特朗普：Palantir Technologies已证明具备出色的作战能力和装备。问问我们的敌人就知道了！！",
+          "url": "https://flash.jin10.com/detail/20260410223332476800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
           "url": "https://wallstreetcn.com/livenews/3085325",
           "source": "华尔街见闻-快讯",
@@ -1500,7 +1577,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         }
@@ -1561,11 +1638,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时23分]"
         },
         {
           "title": "港股恒生指数、恒生科技指数盘初双双涨超1%，龙湖集团(00960.HK)、中芯国际(00981.HK)、老铺黄金(06181.HK)均涨超3%，阿里巴巴(09988.HK)、中国海外发展(00688.HK)、中国人寿(02628.HK)等涨近3%。",
@@ -2062,7 +2140,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
@@ -2119,6 +2197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "OpenAI“星际之门”（Stargate）项目执行官Peter Hoeschele已离开公司。（The Information）",
@@ -2326,11 +2415,12 @@
           "url": "https://wallstreetcn.com/livenews/3085978",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时23分]"
         }
       ]
     }
