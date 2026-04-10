@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:40:00.871577+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-04-10T16:39:52.176512+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "高盛警告：若霍尔木兹再封一个月 布油2026年均价或破100美元",
@@ -57,6 +57,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8333，较上一交易日官方收盘价涨77点，较上日夜盘收盘跌28点。",
+          "url": "https://wallstreetcn.com/livenews/3085731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "霍尔木兹海峡前途未卜，标普七连涨，半导体指数再新高，美元四连跌",
           "url": "https://wallstreetcn.com/articles/3769555",
           "source": "华尔街见闻",
@@ -75,9 +86,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "在岸人民币兑美元4月10日16:30收盘报6.8333，较上一交易日上涨77点。",
+          "url": "https://flash.jin10.com/detail/20260410163117536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "韩国央行行长李昌镛：在美元更大的波动中，不应过度解读韩元的走势。",
@@ -89,6 +111,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "美国男子不满工资焚烧上亿美元仓库",
+          "url": "https://www.toutiao.com/trending/7626592232352399403/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时39分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8305元，较周三夜盘收盘涨55点。成交量493.02亿美元。",
@@ -139,6 +173,18 @@
           "time_info": "[00时38分 ~ 01时30分]"
         },
         {
+          "title": "CoreWeave拿下Meta210亿美元大单，锁定至2032年算力供应",
+          "url": "https://wallstreetcn.com/articles/3769586",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时39分]"
+        },
+        {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.876%（3月12日为4.871%），投标倍数2.39（前次为2.45）。",
           "url": "https://wallstreetcn.com/livenews/3085254",
           "source": "华尔街见闻-快讯",
@@ -187,17 +233,6 @@
           "time_info": "[15时10分 ~ 15时40分]"
         },
         {
-          "title": "CoreWeave拿下Meta210亿美元大单，锁定至2032年算力供应",
-          "url": "https://wallstreetcn.com/articles/3769586",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
-        },
-        {
           "title": "周四（4月9日）纽约尾盘，ICE美元指数跌0.33%，报98.810点，日内交投区间为99.157-98.625点。 彭博美元指数跌0.20%，报1199.05点，日内交投区间为1203.63-1197.69点。 美元兑日元涨0.27%，报159.01日元，日内交投区间为158.49-159.30日元。 欧元兑日元涨0.64%，英镑兑日元涨0.68%。",
           "url": "https://wallstreetcn.com/livenews/3085308",
           "source": "华尔街见闻-快讯",
@@ -244,17 +279,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时10分 ~ 15时40分]"
-        },
-        {
-          "title": "美国男子不满工资焚烧上亿美元仓库",
-          "url": "https://www.toutiao.com/trending/7626592232352399403/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
         },
         {
           "title": "SpaceX去年亏损近50亿美元。 SpaceX去年总营收突破185亿美元。（The Information）",
@@ -318,7 +342,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -494,7 +518,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -560,7 +584,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -637,7 +661,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -678,7 +702,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -736,11 +760,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 15时40分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 16时39分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -752,8 +777,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时48分 ~ 15时40分]"
+          "appearance_count": 10,
+          "time_info": "[08时48分 ~ 16时39分]"
         },
         {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
@@ -771,6 +796,21 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时38分 ~ 09时41分]"
+        },
+        {
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 16时39分]"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
@@ -811,20 +851,6 @@
           "time_info": "[08时48分 ~ 15时40分]"
         },
         {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 15时40分]"
-        },
-        {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -834,6 +860,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 01时30分]"
+        },
+        {
+          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
+          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 16时39分]"
         },
         {
           "title": "伊朗战争丨特朗普要求以色列减少打击，以总理：不会",
@@ -869,17 +906,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时48分 ~ 15时10分]"
-        },
-        {
-          "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
-          "url": "https://news.ifeng.com/c/8sCrezhn1o8",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 15时40分]"
         },
         {
           "title": "伊朗战争丨特朗普：若伊朗不达成协议，将极其痛苦",
@@ -924,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "市场消息：美国总统特朗普将于周五美东时间下午6:30参加MAGA INC.会议。",
@@ -988,11 +1025,12 @@
           "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时39分]"
         },
         {
           "title": "拜登儿子“约战”特朗普儿子",
@@ -1308,7 +1346,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
@@ -1521,6 +1559,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "美股盘前，台积电涨1.37%，公司Q1营收突破万亿大关，3月单月同比激增45%。Lumentum盘前涨超4%，得益于AI需求，公司预计2028年订单将迅速排满。",
+          "url": "https://wallstreetcn.com/livenews/3085705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "美股开盘：蔚来涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
@@ -1546,7 +1595,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "据Axios报道，以色列与黎巴嫩之间的直接对话将于下周在美国华盛顿启动。 消息出炉后，WTI原油5分钟内下跌0.52美元/桶，报97.64美元/桶。 现货黄金5分钟内下跌5.37美元/盎司，报4790.96美元/盎司。",
@@ -1566,7 +1615,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1611,7 +1660,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1660,6 +1709,17 @@
           "time_info": "15时10分"
         },
         {
+          "title": "中国央行为何连续17个月增持黄金",
+          "url": "https://www.toutiao.com/trending/7626687181850955283/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.571吨，当前持仓量为1052.419吨。",
           "url": "https://flash.jin10.com/detail/20260410062543675800",
           "source": "金十数据",
@@ -1669,6 +1729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260410162153998800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "据Axios报道，以色列与黎巴嫩之间的直接对话将于下周在位于华盛顿的美国国务院启动。 消息出炉后，WTI原油5分钟内下跌0.52美元/桶，报97.64美元/桶。 现货黄金5分钟内下跌5.37美元/盎司，报4790.96美元/盎司。",
@@ -1699,7 +1770,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1812,6 +1883,78 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股液冷服务器概念反复活跃，新朋股份两连板，英维克、飞龙股份、宁波精达、淳中科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410093808303800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "港股存储概念持续走强，兆易创新(03986.HK)拉升超11%，南方两倍做多海力士、南方两倍做多三星电子均大涨，澜起科技(06809.HK)涨4.3%。",
+          "url": "https://flash.jin10.com/detail/20260410105314055800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "港股收评：恒指收涨0.55% 锂电池及存储概念股领涨大市",
+          "url": "https://flash.jin10.com/detail/20260410162345106800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "创业板指涨3.78%创4年多新高，锂电池产业链、光模块概念股走强",
+          "url": "https://wallstreetcn.com/livenews/3085662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "港股恒生科技指数盘初涨超1%，存储概念、中资券商、芯片股等涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260410093413100800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "A股星闪概念板块盘初拉升，欣旺达涨超7%，恒玄科技涨超6%，星寰科技、乐鑫科技、华测检测等均涨4%。",
+          "url": "https://flash.jin10.com/detail/20260410093245969800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -1870,67 +2013,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "A股液冷服务器概念反复活跃，新朋股份两连板，英维克、飞龙股份、宁波精达、淳中科技等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260410093808303800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "港股存储概念持续走强，兆易创新(03986.HK)拉升超11%，南方两倍做多海力士、南方两倍做多三星电子均大涨，澜起科技(06809.HK)涨4.3%。",
-          "url": "https://flash.jin10.com/detail/20260410105314055800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "创业板指涨3.78%创4年多新高，锂电池产业链、光模块概念股走强",
-          "url": "https://wallstreetcn.com/livenews/3085662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "港股恒生科技指数盘初涨超1%，存储概念、中资券商、芯片股等涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260410093413100800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "A股星闪概念板块盘初拉升，欣旺达涨超7%，恒玄科技涨超6%，星寰科技、乐鑫科技、华测检测等均涨4%。",
-          "url": "https://flash.jin10.com/detail/20260410093245969800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
         }
       ]
     },
