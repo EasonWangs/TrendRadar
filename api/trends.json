@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T06:14:18.954092+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-04-13T07:16:38.953221+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -49,11 +50,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -64,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -99,7 +101,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -282,6 +284,50 @@
           "time_info": "[00时16分 ~ 01时16分]"
         },
         {
+          "title": "特朗普放狠话全面封锁霍尔木兹，美军却说只堵伊朗港口，油价暴拉10%",
+          "url": "https://flash.jin10.com/detail/20260413064841077800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普说海峡全封 美军说只封伊朗港口船只",
+          "url": "https://flash.jin10.com/detail/20260413062450626800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "谈判破裂后，特朗普考虑对伊朗进行有限打击，这可能成为打破美伊和平谈判僵局的一种方式。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
+          "url": "https://flash.jin10.com/detail/20260413061257479800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "美国总统特朗普：说实话，油价涨幅并没有我预想的那么大。",
           "url": "https://flash.jin10.com/detail/20260412223508888800",
           "source": "金十数据",
@@ -351,41 +397,8 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "WTI原油日内暴涨10.00%，现报105.33美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260413060538237800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "布伦特原油期货触及102.60美元/桶的高位。",
-          "url": "https://flash.jin10.com/detail/20260413060415896800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "布伦特原油触及每桶102.60美元高位，美国原油期货触及105.25美元的日内高点。",
-          "url": "https://wallstreetcn.com/livenews/3086499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
         {
           "title": "欧元兑美元报价跌超0.5%，最低跌至1.1658。 欧元兑英镑大致持稳于0.8710，一度跌至0.86882。 欧元兑瑞郎跌0.32%，报0.92238，一度跌至0.92003。",
           "url": "https://wallstreetcn.com/livenews/3086485",
@@ -398,16 +411,53 @@
           "time_info": "04时14分"
         },
         {
+          "title": "WTI原油日内暴涨10.00%，现报105.33美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260413060538237800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
+          "title": "布伦特原油期货触及102.60美元/桶的高位。",
+          "url": "https://flash.jin10.com/detail/20260413060415896800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
+          "title": "布伦特原油触及每桶102.60美元高位，美国原油期货触及105.25美元的日内高点。",
+          "url": "https://wallstreetcn.com/livenews/3086499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
           "title": "伊朗议长卡利巴夫：好好享受当前的油价水平吧。 在所谓的‘封锁’之下，很快你（指美国）就会开始怀念每加仑4-5美元的汽油价格。",
           "url": "https://wallstreetcn.com/livenews/3086488",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
         },
         {
           "title": "匈牙利福林兑欧元涨1.91%，报367.55福林，至少创2023年年中以来新高。 匈牙利福林兑美元涨1.52%，最高达到0.00317。 欧元兑美元报价跌超0.5%，最低跌至1.1658。 欧元兑英镑大致持稳于0.8710，一度跌至0.86882。 欧元兑瑞郎跌0.32%，报0.92238，一度跌至0.92003。",
@@ -415,11 +465,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
         },
         {
           "title": "美元盘初走强升破99关口 澳元走低1%",
@@ -428,9 +479,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "现货白银日内大跌4.00%，现报72.72美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260413062344213800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "现货钯金跌破1500美元/盎司，日内跌1.77%。",
+          "url": "https://flash.jin10.com/detail/20260413061029884800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "以色列财政部宣称，据初步估算，发动伊朗战争的财政预算代价为350亿谢克尔（折合115.2亿美元）。 其中220亿谢克尔流入国防部。 相关资金已经被纳入2026年预算。",
@@ -457,49 +530,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "国际油价开盘跳涨，美股期货跌超1%",
-          "url": "https://wallstreetcn.com/livenews/3086498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美股三大股指期货周一低开超1%。",
-          "url": "https://flash.jin10.com/detail/20260413060153001800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "四国为何抛售黄金",
@@ -515,19 +547,96 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "现货金银低开 黄金跌破4700",
           "url": "https://flash.jin10.com/detail/20260413060138544800",
           "source": "金十数据",
           "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
+          "title": "金十图示：2026年04月13日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260413065829766800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "07时16分"
+        },
+        {
+          "title": "封锁令引发油价飙升 黄金抹去上周涨幅",
+          "url": "https://flash.jin10.com/detail/20260413065341086800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "现货黄金向下触及4650美元/盎司，日内跌2.12%。",
+          "url": "https://flash.jin10.com/detail/20260413062830084800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "国际油价开盘跳涨，美股期货跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3086498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
+          "title": "美股三大股指期货周一低开超1%。",
+          "url": "https://flash.jin10.com/detail/20260413060153001800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
         }
       ]
     },
@@ -541,11 +650,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时16分]"
         }
       ]
     }
