@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-14T19:29:24.449579+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2026-04-14T20:32:13.215622+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[08时50分 ~ 20时32分]"
+        },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
           "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[04时26分 ~ 16时42分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时50分 ~ 19时29分]"
         },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
@@ -171,6 +171,23 @@
           "time_info": "[00时34分 ~ 03时34分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            14,
+            16,
+            7,
+            13,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时12分 ~ 20时32分]"
+        },
+        {
           "title": "中方回应特朗普重申将封锁伊朗港口",
           "url": "https://www.toutiao.com/trending/7628108023306718761/",
           "source": "今日头条",
@@ -186,22 +203,6 @@
           "time_info": "[00时34分 ~ 07时33分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14,
-            16,
-            7,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时12分 ~ 19时29分]"
-        },
-        {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -213,6 +214,19 @@
           "time_info": "[09时41分 ~ 11时13分]"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时46分 ~ 20时32分]"
+        },
+        {
           "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2026779173369246174",
           "source": "知乎",
@@ -222,6 +236,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 20时32分]"
         },
         {
           "title": "特朗普威胁向伊朗供武将加征关税，中方回应",
@@ -267,7 +292,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -281,19 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时46分 ~ 19时29分]"
         },
         {
           "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
@@ -397,17 +409,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时46分 ~ 18时35分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 19时29分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -884,6 +885,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "英国财政大臣怒批特朗普：无退出战略就开战是“愚蠢的”",
+          "url": "https://flash.jin10.com/detail/20260414200656432800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "伊朗官员：特朗普“摧毁”伊朗文明的言论是个“笑话”",
           "url": "https://wallstreetcn.com/livenews/3087551",
           "source": "华尔街见闻-快讯",
@@ -997,7 +1009,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
@@ -1370,6 +1382,17 @@
           "time_info": "[02时49分 ~ 03时34分]"
         },
         {
+          "title": "美以打击致伊朗损失2700亿美元",
+          "url": "https://www.douyin.com/hot/2465908",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "中国1-3月份以美元计价出口同比增长14.7%，进口同比增长22.7%，贸易顺差2,643.3亿美元。",
           "url": "https://wallstreetcn.com/livenews/3087358",
           "source": "华尔街见闻-快讯",
@@ -1401,6 +1424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "礼来将以最高3亿美元现金收购生物技术公司CrossBridge Bio。",
+          "url": "https://wallstreetcn.com/livenews/3087714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美元指数13日下跌",
@@ -1442,7 +1476,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1788,13 +1822,35 @@
           "time_info": "00时35分"
         },
         {
+          "title": "花旗集团(C.N)第一财季股票销售及交易收入20.8亿美元，市场预期17.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260414200413978800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)将以每股90美元的价格收购Globalstar公司。亚马逊(AMZN.O)还与苹果(AAPL.O)签署协议，为现有及未来的iPhone和Apple Watch功能提供卫星连接服务。",
+          "url": "https://flash.jin10.com/detail/20260414200352352800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "摩根大通(JPM.N)料本财年净利息收入约1030亿美元，原预估约1045亿美元。",
           "url": "https://flash.jin10.com/detail/20260414184532412800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1832,6 +1888,17 @@
           "time_info": "18时35分"
         },
         {
+          "title": "花旗集团(C.N)2026年Q1营收246亿美元，上年同期216亿美元，市场预期233.58亿美元。",
+          "url": "https://flash.jin10.com/detail/20260414200143207800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "贝莱德(BLK.N)2026年Q1营收67亿美元，上年同期52.76亿美元，市场预期64.63亿美元。",
           "url": "https://flash.jin10.com/detail/20260414180233194800",
           "source": "金十数据",
@@ -1849,7 +1916,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1868,7 +1935,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
@@ -1960,6 +2027,18 @@
           "time_info": "[04时26分 ~ 06时22分]"
         },
         {
+          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时32分]"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260414040552964800",
           "source": "金十数据",
@@ -2019,26 +2098,37 @@
           "time_info": "[08时50分 ~ 08时51分]"
         },
         {
+          "title": "亚马逊美股盘前涨超1%，触及日内高点。",
+          "url": "https://wallstreetcn.com/livenews/3087715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "摩根大通美股盘前跌超3%，此前公布了一季度财报。",
           "url": "https://wallstreetcn.com/livenews/3087655",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
         {
-          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
+          "title": "花旗集团第一季度固定收益、货币与商品（FICC）销售及交易收入为51.7亿美元，预期为50.2亿美元。 第一季度股票销售及交易收入为20.8亿美元，预期为17.3亿美元。 第一季度净利息收入157.4亿美元，预期为154.5亿美元。 第一季度财富管理收入30.7亿美元，预期为22.3亿美元。 花旗美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3087707",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "20时32分"
         },
         {
           "title": "摩根大通一季度经调整后营收505.4亿美元，预估492.6亿美元。 一季度每股收益5.94美元。 第一季度FICC销售和交易收入达70.8亿美元， 预估66.5亿美元。 第一季度股票销售与交易业务收入44.8 亿美元，预估43.1 亿美元。 摩根大通美股盘前涨超1%。",
@@ -2047,7 +2137,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -2061,12 +2151,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "花旗集团(C.N)美股盘前涨1.8%。",
+          "url": "https://flash.jin10.com/detail/20260414200659431800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -2151,6 +2252,17 @@
           "time_info": "[16时42分 ~ 17时40分]"
         },
         {
+          "title": "黄金趋势正在酝酿，留意这个位置，能否出现突破信号？金十研究员Steven正在直播，立即观看>>",
+          "url": "https://flash.jin10.com/detail/20260414201728716800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少5.227吨，当前持仓量为1047.192吨。",
           "url": "https://flash.jin10.com/detail/20260414064859267800",
           "source": "金十数据",
@@ -2184,6 +2296,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "周大生：部分黄金产品品牌使用费上调至24元/克",
+          "url": "https://wallstreetcn.com/livenews/3087682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "挂单报告：国际现货黄金涨势不改 国际现货白银留意多单押注",
           "url": "https://flash.jin10.com/detail/20260414090153032800",
           "source": "金十数据",
@@ -2195,6 +2318,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 4月14日（周二）晚盘盘初上涨0.02%报1047.0元/克；<br/>上海黄金交易所白银T+D 4月14日（周二）晚盘盘初上涨1.76%报19150.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260414200142739800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 4月14日（周二）早盘盘初上涨0.65%报1048.0元/克；<br/>上海黄金交易所白银T+D 4月14日（周二）早盘盘初上涨1.89%报18796.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260414090149466800",
           "source": "金十数据",
@@ -2204,6 +2338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金此处空单密集 镑美持续上行",
+          "url": "https://flash.jin10.com/detail/20260414200110230800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
@@ -2334,8 +2479,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 20时32分]"
         },
         {
           "title": "我国外贸起势有力开局良好",
@@ -2345,8 +2490,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 20时32分]"
         }
       ]
     },
