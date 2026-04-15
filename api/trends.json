@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T11:13:10.236178+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-04-15T13:04:09.213338+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
@@ -39,7 +39,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -306,6 +306,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "Jefferies把摩根大通目标价从310美元上调至320美元，把Moderna目标价从37美元上调至45美元。",
+          "url": "https://wallstreetcn.com/livenews/3088184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "现货白银日内涨幅达5%，现报79.36美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260415000501663800",
           "source": "金十数据",
@@ -361,6 +372,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "优步拟在无人驾驶出租车（Robotaxis）领域投入100亿美元，以进行战略转型。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3088178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "WTI原油跌幅收窄至1.2%，现报90.9美元/桶。",
           "url": "https://flash.jin10.com/detail/20260415080532509800",
           "source": "金十数据",
@@ -378,7 +400,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -425,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "巴基斯坦获沙特30亿美元资金承诺 有助缓冲偿还阿联酋贷款带来的影响",
+          "url": "https://wallstreetcn.com/livenews/3088170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的3.06亿美元。",
@@ -493,13 +526,24 @@
           "time_info": "07时22分"
         },
         {
+          "title": "Uber(UBER.N)拟在无人驾驶出租车领域投入100亿美元，以进行战略转型。",
+          "url": "https://flash.jin10.com/detail/20260415120709057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "美元兑日元USD/JPY站上159，日内涨0.16%。",
           "url": "https://flash.jin10.com/detail/20260415103430727800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -532,7 +576,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
@@ -540,7 +584,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -564,6 +608,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 03时35分]"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 13时04分]"
+        },
+        {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 13时04分]"
         },
         {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
@@ -604,16 +672,16 @@
           "time_info": "[00时32分 ~ 08时51分]"
         },
         {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 11时13分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 13时04分]"
         },
         {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
@@ -628,16 +696,16 @@
           "time_info": "[02时33分 ~ 07时22分]"
         },
         {
-          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
-          "url": "https://www.cls.cn/detail/2344222",
-          "source": "财联社热门",
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            1
+            7,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时22分 ~ 11时13分]"
+          "time_info": "[09时40分 ~ 13时04分]"
         },
         {
           "title": "伊朗战争丨特朗普称美国对伊朗的战争已结束",
@@ -649,18 +717,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时51分 ~ 09时41分]"
-        },
-        {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 11时13分]"
         },
         {
           "title": "伊朗战争丨特朗普：未来两天可能与伊朗再谈",
@@ -685,16 +741,16 @@
           "time_info": "[11时12分 ~ 11时13分]"
         },
         {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            3
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 11时13分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 13时04分]"
         },
         {
           "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
@@ -720,6 +776,18 @@
           "time_info": "[00时32分 ~ 02时34分]"
         },
         {
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时04分]"
+        },
+        {
           "title": "特朗普称伊朗非常想达成协议",
           "url": "https://flash.jin10.com/detail/20260415084453293800",
           "source": "金十数据",
@@ -737,20 +805,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 11时13分]"
         },
         {
           "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
@@ -765,16 +822,15 @@
           "time_info": "[00时33分 ~ 01时32分]"
         },
         {
-          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344265",
-          "source": "财联社热门",
+          "title": "英媒：特朗普次子将以个人身份陪同访华",
+          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 11时13分]"
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         },
         {
           "title": "摩根大通：特朗普所谓的“黑名单”说法毫无道理",
@@ -817,7 +873,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -844,6 +900,17 @@
           "time_info": "08时51分"
         },
         {
+          "title": "特朗普称没有必要延长同伊朗的停火",
+          "url": "https://flash.jin10.com/detail/20260415124524838800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "特朗普称美国对伊朗的战争已结束",
           "url": "https://www.toutiao.com/trending/7628763461106798123/",
           "source": "今日头条",
@@ -864,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "美国前财长耶伦：特朗普推动降低美国利率的举措是“香蕉共和国”的做法",
+          "url": "https://flash.jin10.com/detail/20260415123848889800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "特朗普称伊朗战事“接近结束”",
@@ -888,6 +966,28 @@
           "time_info": "05时23分"
         },
         {
+          "title": "ABC记者在X发帖称：特朗普表示，他并未考虑延长停火协议。他认为没有这个必要。",
+          "url": "https://wallstreetcn.com/livenews/3088168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "特朗普再次批评北约",
+          "url": "https://wallstreetcn.com/livenews/3088166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "美国副总统万斯：特朗普总统指示我们要“带着诚意进行谈判”。",
           "url": "https://flash.jin10.com/detail/20260415072600419800",
           "source": "金十数据",
@@ -905,7 +1005,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -919,6 +1019,179 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "特朗普：谁能告诉教宗Leo，伊朗拥有核弹是绝对不能接受的。",
+          "url": "https://wallstreetcn.com/livenews/3088163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "据ABC新闻记者表示，特朗普对匈牙利总理欧尔班的失利并不在意，并对即将上任的总理毛焦尔·彼得表示赞赏。",
+          "url": "https://flash.jin10.com/detail/20260415115928695800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "A股黄金概念走强，宝鼎科技涨停，晓程科技、兴业银锡、洛阳钼业、周大生等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260415093720887800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "现货黄金涨2%，报4828.44美元。",
+          "url": "https://wallstreetcn.com/livenews/3087895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时34分]"
+        },
+        {
+          "title": "现货黄金短线拉升近25美元，突破4830美元/盎司，日内涨1.88%。纽约期金站上4850美元/盎司，日内涨1.73%。",
+          "url": "https://flash.jin10.com/detail/20260415010751524800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "现货黄金日内涨幅达2%，现报4837.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260415013857813800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.286吨，当前持仓量为1049.478吨。",
+          "url": "https://flash.jin10.com/detail/20260415062333782800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "汇丰私人银行下调新兴亚洲股票评级，并削减对印度的敞口，同时由于伊朗战争风险和油价冲击，增加对黄金、现金和对冲基金的配置。",
+          "url": "https://wallstreetcn.com/livenews/3088173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月14日（周二）晚盘收盘上涨1.31%报1060.48元/克；<br/>上海黄金交易所白银T+D 4月14日（周二）晚盘收盘上涨4.26%报19620.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260415023151045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "黄金四月这口气，能不能续到五月？",
+          "url": "https://flash.jin10.com/detail/20260415123153011800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "黄金出现稳步攀升，市场情绪或发生实质转变",
+          "url": "https://flash.jin10.com/detail/20260415103551150800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "现货黄金日内转跌，现报4824美元/盎司，较日高回落近50美元。",
+          "url": "https://flash.jin10.com/detail/20260415103532298800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "现货黄金站上4870美元/盎司，日内涨0.61%。",
+          "url": "https://flash.jin10.com/detail/20260415091740491800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
@@ -934,8 +1207,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 11时13分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时04分]"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -949,6 +1222,18 @@
           "time_info": "[07时22分 ~ 08时51分]"
         },
         {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 13时04分]"
+        },
+        {
           "title": "美股收盘：中概股集体大涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
@@ -959,17 +1244,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时51分 ~ 09时41分]"
-        },
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 11时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -1074,135 +1348,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时23分]"
-        },
-        {
-          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
-        },
-        {
-          "title": "A股黄金概念走强，宝鼎科技涨停，晓程科技、兴业银锡、洛阳钼业、周大生等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260415093720887800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "现货黄金涨2%，报4828.44美元。",
-          "url": "https://wallstreetcn.com/livenews/3087895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 02时34分]"
-        },
-        {
-          "title": "现货黄金短线拉升近25美元，突破4830美元/盎司，日内涨1.88%。纽约期金站上4850美元/盎司，日内涨1.73%。",
-          "url": "https://flash.jin10.com/detail/20260415010751524800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "现货黄金日内涨幅达2%，现报4837.43美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260415013857813800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.286吨，当前持仓量为1049.478吨。",
-          "url": "https://flash.jin10.com/detail/20260415062333782800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月14日（周二）晚盘收盘上涨1.31%报1060.48元/克；<br/>上海黄金交易所白银T+D 4月14日（周二）晚盘收盘上涨4.26%报19620.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260415023151045800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "黄金出现稳步攀升，市场情绪或发生实质转变",
-          "url": "https://flash.jin10.com/detail/20260415103551150800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "现货黄金日内转跌，现报4824美元/盎司，较日高回落近50美元。",
-          "url": "https://flash.jin10.com/detail/20260415103532298800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "现货黄金站上4870美元/盎司，日内涨0.61%。",
-          "url": "https://flash.jin10.com/detail/20260415091740491800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai",
       "match_count": 7,
       "titles": [
@@ -1261,7 +1406,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -1344,7 +1489,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
@@ -1365,8 +1510,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 11时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 13时04分]"
         }
       ]
     },
@@ -1403,6 +1548,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外贸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我国外贸基础稳活力足动能强",
+          "url": "https://www.douyin.com/hot/2466648",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         }
       ]
     }
