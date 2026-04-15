@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T15:40:22.218379+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-04-15T16:43:15.547502+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
@@ -61,7 +61,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -301,7 +301,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -427,6 +427,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "现货白银跌破79美元/盎司，日内跌0.68%。",
+          "url": "https://flash.jin10.com/detail/20260415161050751800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
           "url": "https://wallstreetcn.com/livenews/3088037",
           "source": "华尔街见闻-快讯",
@@ -477,7 +488,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -513,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "印尼能源部：将4月下半月5300大卡级别的煤炭基准价格设定为每吨77.71美元。将4月下半月4100大卡级别的煤炭基准价格设定为每吨52.84美元。",
+          "url": "https://flash.jin10.com/detail/20260415160558836800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "文件显示，挪威将解除对其规模达2.2万亿美元的主权财富基金投资叙利亚政府债券的禁令。",
@@ -617,7 +639,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：美国对伊朗的战争已经结束",
@@ -631,6 +653,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时51分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时40分 ~ 16时43分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时51分 ~ 16时43分]"
         },
         {
           "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
@@ -657,31 +705,6 @@
           "time_info": "[00时32分 ~ 06时22分]"
         },
         {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时51分 ~ 15时40分]"
-        },
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 15时40分]"
-        },
-        {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
           "url": "https://wallstreetcn.com/articles/3769872",
           "source": "华尔街见闻",
@@ -699,11 +722,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时51分 ~ 15时40分]"
+          "appearance_count": 12,
+          "time_info": "[08时51分 ~ 16时43分]"
         },
         {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
@@ -715,6 +739,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 03时35分]"
+        },
+        {
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时40分 ~ 16时43分]"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -742,19 +780,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时32分 ~ 08时51分]"
-        },
-        {
-          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344265",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 15时40分]"
         },
         {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
@@ -800,6 +825,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时46分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普：没有必要延长同伊朗的停火",
+          "url": "https://www.cls.cn/detail/2344586",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 16时43分]"
+        },
+        {
+          "title": "英媒：特朗普次子将以个人身份陪同访华",
+          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 16时43分]"
         },
         {
           "title": "伊朗战争丨特朗普：未来两天可能与伊朗再谈",
@@ -869,17 +918,6 @@
           "time_info": "11时13分"
         },
         {
-          "title": "英媒：特朗普次子将以个人身份陪同访华",
-          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时40分]"
-        },
-        {
           "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
           "url": "https://wallstreetcn.com/livenews/3087881",
           "source": "华尔街见闻-快讯",
@@ -904,15 +942,26 @@
           "time_info": "[14时47分 ~ 15时40分]"
         },
         {
-          "title": "特朗普：没有必要延长同伊朗的停火",
-          "url": "https://www.cls.cn/detail/2344586",
-          "source": "财联社热门",
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://news.ifeng.com/c/8sLS5AcutoB",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时40分]"
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
+        },
+        {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "摩根大通：特朗普所谓的“黑名单”说法毫无道理",
@@ -925,6 +974,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时35分]"
+        },
+        {
+          "title": "特朗普震惊意大利总理不帮美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%9C%87%E6%83%8A%E6%84%8F%E5%A4%A7%E5%88%A9%E6%80%BB%E7%90%86%E4%B8%8D%E5%B8%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "美国总统特朗普：正全力推动本周在众议院通过《外国情报监视法》第702条（FISA 702）的“干净延期”。",
@@ -966,7 +1026,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1194,7 +1254,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -1315,7 +1375,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1326,7 +1386,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1342,6 +1402,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "光持有黄金不够！瑞银建议拓宽大宗商品配置范围",
+          "url": "https://flash.jin10.com/detail/20260415160542982800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "现货黄金日内转跌，现报4824美元/盎司，较日高回落近50美元。",
           "url": "https://flash.jin10.com/detail/20260415103532298800",
           "source": "金十数据",
@@ -1351,6 +1422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260415160303907800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "现货黄金站上4870美元/盎司，日内涨0.61%。",
@@ -1373,12 +1455,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "上海黄金交易所4月15日（周三）交易行情",
+          "url": "https://flash.jin10.com/detail/20260415160234363800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
@@ -1400,8 +1493,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 15时40分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 16时43分]"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -1425,6 +1518,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时51分 ~ 09时41分]"
+        },
+        {
+          "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
+          "url": "https://www.cls.cn/detail/2344302",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -1492,6 +1596,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3088315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "耐克美股盘前上涨2.4%，此前首席执行官增持公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3088311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
@@ -1731,8 +1857,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 15时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 16时43分]"
         }
       ]
     },
@@ -1766,8 +1892,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 16时43分]"
         }
       ]
     }
