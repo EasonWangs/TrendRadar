@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T07:17:05.650421+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-04-19T08:52:22.262130+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -58,33 +58,36 @@
           "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
           "url": "https://www.cls.cn/detail/2348149",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
           "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -114,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -126,11 +130,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -138,11 +143,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -154,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -168,6 +185,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普集团将在格鲁吉亚首都合建摩天大楼",
+          "url": "https://flash.jin10.com/detail/20260419034558544800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 08时52分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -192,18 +222,6 @@
           "time_info": "[00时17分 ~ 03时21分]"
         },
         {
-          "title": "特朗普集团将在格鲁吉亚首都合建摩天大楼",
-          "url": "https://flash.jin10.com/detail/20260419034558544800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时17分]"
-        },
-        {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
           "url": "https://flash.jin10.com/detail/20260419021741854800",
           "source": "金十数据",
@@ -215,6 +233,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时15分]"
+        },
+        {
+          "title": "专家：伊朗短暂重开海峡后再次关闭，特朗普乐观谈判前景遭质疑",
+          "url": "https://flash.jin10.com/detail/20260419055846431800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
@@ -242,7 +271,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊停战谅解备忘录披露：双方目前讨论的解冻金额为200亿美元",
@@ -250,11 +279,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "又见内幕交易？霍尔木兹开放前20分钟，神秘交易员甩出7.6亿美元空单，精准做空原油",
@@ -262,11 +292,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
@@ -296,6 +327,17 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
+          "title": "原油市场再现“绝妙”押注 神秘空头卡点下单 一小时盈利7000万美元",
+          "url": "https://www.cls.cn/detail/2348356",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国总统特朗普：联邦政府将投入5000万美元用于伊博格碱的研究。",
           "url": "https://flash.jin10.com/detail/20260418212023087800",
           "source": "金十数据",
@@ -318,11 +360,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -348,11 +391,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         }
       ]
     },
@@ -368,8 +412,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         }
       ]
     },
@@ -385,8 +429,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 08时52分]"
         }
       ]
     }
