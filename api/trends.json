@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T06:22:13.549230+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-04-23T07:23:39.382462+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -28,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "国际货币基金组织：向厄瓜多尔拨付2.805亿特别提款权（合3.94亿美元）。",
@@ -75,6 +76,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时32分]"
+        },
+        {
+          "title": "特斯拉CFO：预计今年资本支出超过250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423055007923800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时23分]"
         },
         {
           "title": "美国政府或将持有精神航空90%股份，作为5亿美元救助计划的一部分",
@@ -242,17 +255,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "特斯拉CFO：预计今年资本支出超过250亿美元。",
-          "url": "https://flash.jin10.com/detail/20260423055007923800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "美元/瑞郎日内涨幅达0.5%，报0.7848。",
           "url": "https://wallstreetcn.com/livenews/3092840",
           "source": "华尔街见闻-快讯",
@@ -284,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计得州超级工厂的研究设施将耗资约30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423061256035800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美国西南航空公司一季度运营收入72.5亿美元，分析师预期72.9亿美元。",
@@ -328,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "WTI原油周四开盘失守95美元/桶，日内跌幅0.37%。",
+          "url": "https://flash.jin10.com/detail/20260423060032484800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "特斯拉一季度营收223.9亿美元，分析师预期221.9亿美元。 一季度调整后每股收益（EPS）为0.41美元，分析师预期0.34美元；一季度EPS为0.13美元，去年同期0.12美元。 一季度毛利润率21.1%，分析师预期17.7%。 特斯拉盘后涨3.85%。",
@@ -391,7 +415,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -473,6 +497,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "马斯克：正打算采用英特尔14A芯片制程。 预计特斯拉位于美国得州的Giga园区芯片研究的初始成本大约为30亿美元。 SpaceX将负责Terafab的初期工作。",
+          "url": "https://wallstreetcn.com/livenews/3092877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "WTI原油日内涨幅达3.0%，报92.39美元/桶；布伦特原油日内涨幅达3.0%，报101.5美元/桶。 美国能源信息署（EIA）周报显示，上周EIA燃料库存意外下降。",
           "url": "https://wallstreetcn.com/livenews/3092722",
           "source": "华尔街见闻-快讯",
@@ -490,7 +525,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -509,7 +544,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -519,8 +554,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -531,8 +566,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -578,8 +613,22 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时34分 ~ 07时23分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -628,19 +677,6 @@
           "time_info": "[05时23分 ~ 06时22分]"
         },
         {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时34分 ~ 06时22分]"
-        },
-        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
@@ -652,6 +688,17 @@
           "time_info": "[00时31分 ~ 01时27分]"
         },
         {
+          "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
           "url": "https://flash.jin10.com/detail/20260423011502024800",
           "source": "金十数据",
@@ -661,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "John Phelan已经从美国海军部长岗位被（特朗普政府）免职。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3092875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "白宫新闻秘书Leavitt：伊朗无法发出统一的意见。 我们等待伊朗的回应。 伊朗领导层内部存在很多分歧。 特朗普尚未针对伊朗提议设定明确的期限。 美国很清楚和伊朗的哪位谈判。 3-5天的停火时间线是不实的。",
@@ -744,6 +780,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时26分]"
+        },
+        {
+          "title": "John Phelan已经从美国海军部长岗位被（特朗普政府）免职。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3092875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时23分]"
         },
         {
           "title": "白宫新闻秘书莱维特：（关于伊朗停火延长）特朗普希望各方采取统一回应。他尚未设定最后期限。",
@@ -956,7 +1004,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -967,7 +1015,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -978,7 +1026,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -989,7 +1037,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -1008,7 +1056,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1032,8 +1080,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "美股尾盘走高，标普500指数涨幅扩大至1%。",
@@ -1096,15 +1156,15 @@
           "time_info": "[03时34分 ~ 04时26分]"
         },
         {
-          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
-          "url": "https://www.cls.cn/detail/2352859",
-          "source": "财联社热门",
+          "title": "英特尔美股盘后涨3%，马斯克在电话会议上官宣采用英特14A产品技术的交易。",
+          "url": "https://wallstreetcn.com/livenews/3092895",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
@@ -1124,7 +1184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -1135,7 +1195,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -1146,7 +1206,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -1173,6 +1233,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260423060230487800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "IBM（国际商业机器公司）一季度营收159.2亿美元，分析师预期156.7亿美元。 一季度软件营收70.5亿美元，同比增长11%，分析师预期70.4亿美元。 一季度咨询营收52.7亿美元，分析师预期52.9亿美元。 一季度运营每股收益（EPS）为1.91美元，分析师预期1.81美元。 一季度自由现金流（FCF）为22.2亿美元，分析师预期21.7亿美元。 一季度业绩报告不含商业预定（企业订单）。 维持全年营收预期（按恒定汇率）在增超5%不变，分析师预计增长5.1%。 IBM美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3092832",
           "source": "华尔街见闻-快讯",
@@ -1195,6 +1266,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "特斯拉美股盘后跌幅扩大至1.2%，业绩报告发布后曾一度上涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3092880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后涨3%。",
           "url": "https://flash.jin10.com/detail/20260423040428719800",
           "source": "金十数据",
@@ -1204,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "英特尔美股盘后涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3092878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美股收盘：标普500、纳指创收盘新高",
@@ -1231,7 +1324,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -1255,8 +1348,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "周三（4月22日）纽约尾盘，现货黄金涨0.41%，报4739.31美元/盎司，绝大部分时间处于上涨状态，北京时间06:50微跌至4715.72美元刷新日低，随后持续上扬，15:08刷新日高至4772.38美元，之后逐步回吐涨幅。 COMEX黄金期货涨0.76%，报4755.50美元/盎司，全天上涨，整体上也冲高回落。 现货白银涨1.26%，报77.6927美元/盎司，13:39涨至78.6770美元刷新日高，随后也逐步回吐涨幅。 COMEX白银期货涨1.54%，报78.230美元/盎司。 COMEX铜期货涨2.04%，报6.1955美元/磅。 现货铂金涨1.88%，现货钯金跌0.04%。",
@@ -1282,6 +1375,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 05时23分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.57吨，当前持仓量为1050.907吨。",
+          "url": "https://flash.jin10.com/detail/20260423061728073800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -1339,8 +1443,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时27分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时27分 ~ 07时23分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
@@ -1366,11 +1470,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "净利同比下降62%！4天3板太空光伏概念股发布2025年年度报告|盘后公告集锦",
@@ -1378,11 +1483,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时23分]"
         }
       ]
     },
@@ -1404,6 +1510,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】 白宫：特朗普未就与伊朗停火延长设最后期限；美股、油价、金价同步上涨",
+          "url": "https://www.cls.cn/detail/2352894",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1417,6 +1540,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外贸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "各地一季度外贸“成绩单”陆续公布，近半数省份跑赢“全国线”",
+          "url": "https://wallstreetcn.com/livenews/3092894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     }
