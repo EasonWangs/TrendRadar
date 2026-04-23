@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T20:32:25.500959+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2026-04-23T21:40:17.476605+08:00",
+  "total_titles_processed": 2044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
@@ -129,6 +129,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "美部长称600美元降到10美元是降价600%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%83%A8%E9%95%BF%E7%A7%B0600%E7%BE%8E%E5%85%83%E9%99%8D%E5%88%B010%E7%BE%8E%E5%85%83%E6%98%AF%E9%99%8D%E4%BB%B7600%25%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
         },
         {
           "title": "周三（4月22日），美联储隔夜逆回购协议（RRP）使用规模为5.38亿美元（交易对手16家），上个交易日报8.07亿美元。",
@@ -507,7 +519,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -554,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "巴拿马运河管理局：近期部分船只通过拍卖获得通行时段的费用已超过100万美元，但这主要是由于需求的暂时上升所致。在中东冲突爆发前，拍卖平均价格为13.5万至14万美元；冲突开始后，平均价格升至38.5万美元。",
+          "url": "https://flash.jin10.com/detail/20260423212225569800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "纽约期银日内跌幅达4%，现报74.83美元/盎司。现货白银日内跌近4%，现报74.67美元/盎司。",
@@ -765,17 +788,6 @@
           "time_info": "17时41分"
         },
         {
-          "title": "美部长称600美元降到10美元是降价600%",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%83%A8%E9%95%BF%E7%A7%B0600%E7%BE%8E%E5%85%83%E9%99%8D%E5%88%B010%E7%BE%8E%E5%85%83%E6%98%AF%E9%99%8D%E4%BB%B7600%25%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "美国财政部：在最新两周报告期内，外国投资者购买了57.89亿美元于2036年2月15日到期的10年期国债，而上月为69.24亿美元。",
           "url": "https://flash.jin10.com/detail/20260423030225273800",
           "source": "金十数据",
@@ -796,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美国天然气期货日内走低3.00%，现报2.640美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260423211445660800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美国财政部：在最新两周报告期内，外国投资者购买了23.13亿美元于2056年2月15日到期的30年期国债，而上月为25.23亿美元。",
@@ -1010,7 +1033,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -1044,8 +1067,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时07分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时07分 ~ 21时40分]"
         },
         {
           "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
@@ -1107,8 +1130,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时34分 ~ 20时32分]"
+          "appearance_count": 21,
+          "time_info": "[03时34分 ~ 21时40分]"
         },
         {
           "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
@@ -1118,8 +1141,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时07分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时07分 ~ 21时40分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -1175,6 +1198,22 @@
           "time_info": "[08时52分 ~ 17时41分]"
         },
         {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时40分 ~ 21时40分]"
+        },
+        {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
@@ -1209,22 +1248,6 @@
           "time_info": "[05时23分 ~ 06时22分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            17,
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时40分 ~ 20时32分]"
-        },
-        {
           "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
           "url": "https://www.cls.cn/detail/2352936",
           "source": "财联社热门",
@@ -1254,6 +1277,21 @@
           "time_info": "[08时52分 ~ 15时41分]"
         },
         {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 21时40分]"
+        },
+        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
@@ -1276,6 +1314,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "伊朗战争丨特朗普：伊朗159艘海军舰艇均已沉入海底",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
           "url": "https://flash.jin10.com/detail/20260423011502024800",
           "source": "金十数据",
@@ -1287,19 +1336,15 @@
           "time_info": "01时28分"
         },
         {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
+          "title": "特朗普认同，无需达成协议也能从伊朗获得他想要的东西。",
+          "url": "https://wallstreetcn.com/livenews/3093347",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            20,
-            17,
-            16,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 20时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "白宫新闻秘书Leavitt：伊朗无法发出统一的意见。 我们等待伊朗的回应。 伊朗领导层内部存在很多分歧。 特朗普尚未针对伊朗提议设定明确的期限。 美国很清楚和伊朗的哪位谈判。 3-5天的停火时间线是不实的。",
@@ -1344,6 +1389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "“特朗普说什么都没用” 德黑兰挂起巨幅海报宣告“永久控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3093344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "SpaceX参与开发美国总统特朗普所谓“金穹”反导系统的操作系统。（彭博）",
@@ -1491,6 +1547,28 @@
           "time_info": "[02时31分 ~ 02时32分]"
         },
         {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
+        },
+        {
+          "title": "美国内政部长Burgum：特朗普针对布雷船只的命令并非事态升级。",
+          "url": "https://wallstreetcn.com/livenews/3093343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "白宫：特朗普尚未设定与伊朗停火的最后期限",
           "url": "https://flash.jin10.com/detail/20260423033707983800",
           "source": "金十数据",
@@ -1546,6 +1624,28 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美国内政部长伯古姆：美国总统特朗普关于对布设水雷船只采取行动的命令并非升级。",
+          "url": "https://flash.jin10.com/detail/20260423212550093800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "特朗普宣称已“彻底封锁”霍尔木兹海峡 直至伊朗愿达成协议",
+          "url": "https://wallstreetcn.com/livenews/3093337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将决定停火期限的时间表。",
           "url": "https://flash.jin10.com/detail/20260423032914409800",
           "source": "金十数据",
@@ -1555,6 +1655,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普：我们完全控制霍尔木兹海峡。 在伊朗达成协议之前，霍尔木兹海峡将严密封锁。 未经美国批准，任何船只不得进出霍尔木兹海峡。 伊朗正艰难地试图搞清楚谁是领导人。",
+          "url": "https://wallstreetcn.com/livenews/3093333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "特朗普下令击沉霍尔木兹布雷船",
+          "url": "https://www.toutiao.com/trending/7631748432839770138/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-23）",
@@ -1612,15 +1734,15 @@
           "time_info": "03时34分"
         },
         {
-          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
-          "url": "https://www.zhihu.com/question/2030579933127391060",
-          "source": "知乎",
+          "title": "特朗普：霍尔木兹海峡被“紧紧封闭”，直到伊朗能够达成协议为止！",
+          "url": "https://flash.jin10.com/detail/20260423211914891800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时40分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普预计伊朗外长阿拉格齐将继续参与伊朗谈判。",
@@ -1645,6 +1767,28 @@
           "time_info": "06时22分"
         },
         {
+          "title": "特朗普称下令击沉霍尔木兹布雷船",
+          "url": "https://wallstreetcn.com/livenews/3093326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "美国总统特朗普：我们已完全控制霍尔木兹海峡，未经美国海军批准，任何船只都无法进出。在伊朗达成协议之前，该海峡将被“严密封锁”。",
+          "url": "https://flash.jin10.com/detail/20260423211645142800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://wallstreetcn.com/livenews/3092859",
           "source": "华尔街见闻-快讯",
@@ -1656,15 +1800,37 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美国总统特朗普：伊朗在确定领导人方面面临很大困难。他们根本无法形成共识，内部斗争正在“强硬派”与“温和派”之间展开。",
+          "url": "https://flash.jin10.com/detail/20260423211605502800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "无解死局？沃什想当美联储主席，只剩特朗普“认怂”一条路",
           "url": "https://flash.jin10.com/detail/20260423200435609800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "国际油价短线拉升，此前特朗普命令海军向在霍尔木兹海峡布雷的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3093320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "特朗普、白宫均否认就停火延长设最后期限",
@@ -1676,6 +1842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普：我们的扫雷舰现在正在清理海峡。 已下令海军向任何在霍尔木兹海峡布雷的船只开火。 已下令将霍尔木兹海峡的扫雷力量增至“三倍”水平。",
+          "url": "https://wallstreetcn.com/livenews/3093317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
@@ -1703,7 +1880,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -1744,6 +1921,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时21分 ~ 14时51分]"
+        },
+        {
+          "title": "美股盘初：纳指跌0.4%，特斯拉跌约4%，诺基亚涨约10%，超微电脑跌约10%",
+          "url": "https://wallstreetcn.com/livenews/3093346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "美股三大股指低开，特斯拉绩后跌超3%",
+          "url": "https://flash.jin10.com/detail/20260423213040955800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美股尾盘走高，标普500指数涨幅扩大至1%。",
@@ -1875,6 +2074,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美伊僵局拖累全球股债，美股盘前特斯拉跌约2%，金、银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "特斯拉美股盘后涨幅迅速收窄至1.6%。",
           "url": "https://wallstreetcn.com/livenews/3092865",
           "source": "华尔街见闻-快讯",
@@ -1895,6 +2105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
@@ -2027,6 +2248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3093319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美股收盘：标普500、纳指创收盘新高",
@@ -2182,7 +2414,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -2226,7 +2458,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -2248,7 +2480,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -2300,8 +2532,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时07分 ~ 20时32分]"
+          "appearance_count": 11,
+          "time_info": "[13时07分 ~ 21时40分]"
         },
         {
           "title": "光刻机、光刻胶概念股开盘活跃，怡达股份、百川股份竞价涨停，八亿时空、西陇科学、盛剑科技涨幅居前。",
@@ -2315,6 +2547,20 @@
           "time_info": "09时41分"
         },
         {
+          "title": "【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块",
+          "url": "https://www.cls.cn/detail/2353607",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 21时40分]"
+        },
+        {
           "title": "CPO概念股持续调整，赛微电子跌超16%，东田微、光库科技、腾景科技均跌超10%，德科立、联特科技、杰普特、华盛昌、富信科技、铭普光磁、天孚通信跌逾8%。",
           "url": "https://wallstreetcn.com/livenews/3093008",
           "source": "华尔街见闻-快讯",
@@ -2324,19 +2570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "【焦点复盘】沪指高开低走失守4100点，CPO概念现深幅调整，资金逆势抱团红利板块",
-          "url": "https://www.cls.cn/detail/2353607",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 20时32分]"
         },
         {
           "title": "A股CPO概念股持续调整，赛微电子跌超16%，东田微、光库科技、腾景科技均跌超10%，德科立、联特科技、杰普特、华盛昌、富信科技、铭普光磁、天孚通信跌逾8%。",
@@ -2492,11 +2725,12 @@
           "url": "https://www.zhihu.com/question/2030589948001084304",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
         }
       ]
     },
