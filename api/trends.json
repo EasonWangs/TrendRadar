@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T22:40:16.796311+08:00",
-  "total_titles_processed": 2229,
+  "generated_at": "2026-04-24T23:33:36.190198+08:00",
+  "total_titles_processed": 2322,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[05时22分 ~ 22时40分]"
+          "appearance_count": 22,
+          "time_info": "[05时22分 ~ 23时33分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时53分 ~ 22时40分]"
+          "appearance_count": 19,
+          "time_info": "[08时53分 ~ 23时33分]"
         },
         {
           "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时49分 ~ 22时40分]"
+          "appearance_count": 12,
+          "time_info": "[16时49分 ~ 23时33分]"
         },
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -70,6 +70,17 @@
           "time_info": "[00时41分 ~ 08时53分]"
         },
         {
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时31分 ~ 23时33分]"
+        },
+        {
           "title": "伊朗挂巨幅海报硬刚美国：特朗普说什么都没用",
           "url": "https://news.ifeng.com/c/8sZrcU36s8G",
           "source": "凤凰网",
@@ -81,15 +92,16 @@
           "time_info": "[08时53分 ~ 16时49分]"
         },
         {
-          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
-          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
+          "url": "https://news.ifeng.com/c/8saWP92grSp",
           "source": "凤凰网",
           "ranks": [
-            5
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时31分 ~ 22时40分]"
+          "appearance_count": 9,
+          "time_info": "[19时31分 ~ 23时33分]"
         },
         {
           "title": "【早报】伊朗：谈判重心已转为彻底停战；特朗普称“不想仓促行事”",
@@ -115,16 +127,23 @@
           "time_info": "[02时33分 ~ 07时23分]"
         },
         {
-          "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
-          "url": "https://news.ifeng.com/c/8saWP92grSp",
-          "source": "凤凰网",
+          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            2
+            18,
+            13,
+            12,
+            11,
+            10,
+            9,
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时31分 ~ 22时40分]"
+          "appearance_count": 17,
+          "time_info": "[11时14分 ~ 23时33分]"
         },
         {
           "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
@@ -148,29 +167,12 @@
             9,
             7,
             6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时09分 ~ 22时40分]"
-        },
-        {
-          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            12,
             11,
-            10,
-            9,
-            8,
-            6
+            15
           ],
           "is_new": false,
           "appearance_count": 16,
-          "time_info": "[11时14分 ~ 22时40分]"
+          "time_info": "[13时09分 ~ 23时33分]"
         },
         {
           "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
@@ -1135,7 +1137,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -1605,7 +1607,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
@@ -1631,11 +1633,12 @@
             15,
             6,
             7,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时49分 ~ 22时40分]"
+          "appearance_count": 14,
+          "time_info": "[14时49分 ~ 23时33分]"
         },
         {
           "title": "美军士兵押注“马杜罗被捕”暴赚40万美元后被捕！",
@@ -1699,6 +1702,19 @@
           "time_info": "02时33分"
         },
         {
+          "title": "世界杯决赛门票转手价近230万美元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E8%BD%AC%E6%89%8B%E4%BB%B7%E8%BF%91230%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 23时33分]"
+        },
+        {
           "title": "美部长称600美元降到10美元是降600%",
           "url": "https://www.toutiao.com/trending/7631736359019528234/",
           "source": "今日头条",
@@ -1732,6 +1748,17 @@
           "time_info": "14时50分"
         },
         {
+          "title": "市场消息：美国量化交易公司和做市商Jane Street录得创纪录的396亿美元交易收入。",
+          "url": "https://flash.jin10.com/detail/20260424230311960800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "现货白银日内跌超1.00%，现报74.66美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260424142336359800",
           "source": "金十数据",
@@ -1741,18 +1768,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
-        },
-        {
-          "title": "世界杯决赛门票转手价近230万美元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E8%BD%AC%E6%89%8B%E4%BB%B7%E8%BF%91230%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时38分 ~ 22时40分]"
         },
         {
           "title": "WTI原油周五低开0.6%，现报98.65美元/桶。",
@@ -1900,6 +1915,18 @@
           "time_info": "[03时35分 ~ 04时27分]"
         },
         {
+          "title": "美国财长贝森特：与各国就美元互换安排进行讨论是持续进行的理性沟通",
+          "url": "https://wallstreetcn.com/livenews/3094152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时33分]"
+        },
+        {
           "title": "WTI原油5分钟内下跌0.68美元/桶，报97.62美元/桶；纽约金5分钟内上涨19.2美元/盎司，报4699.8美元/盎司。 据以色列第13频道援引军方消息人士称，以色列未在伊朗领空开展活动。",
           "url": "https://wallstreetcn.com/livenews/3093463",
           "source": "华尔街见闻-快讯",
@@ -2015,17 +2042,6 @@
           "time_info": "04时27分"
         },
         {
-          "title": "美国财长贝森特：与各国就美元互换安排进行讨论是持续进行的理性沟通",
-          "url": "https://wallstreetcn.com/livenews/3094152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
           "title": "Avalyn Pharma Inc.申请美国IPO，寻求融资2.124亿美元，发行价指导区间为每股16-18美元。",
           "url": "https://wallstreetcn.com/livenews/3093519",
           "source": "华尔街见闻-快讯",
@@ -2087,7 +2103,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2136,6 +2152,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "美媒：美对伊战事日均花费近10亿美元",
+          "url": "https://www.toutiao.com/trending/7631621875227033636/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "美、布两油短线小幅走高，现分别报99.81美元/桶和101.4美元/桶。",
           "url": "https://flash.jin10.com/detail/20260424161459520800",
           "source": "金十数据",
@@ -2175,7 +2202,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2202,6 +2229,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "英伟达股价上涨3.08%，报205.790美元，盘中市值报5.00万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3094166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "摩根大通：将英特尔目标价从35美元上调至45美元。",
           "url": "https://flash.jin10.com/detail/20260424120352817800",
           "source": "金十数据",
@@ -2219,9 +2257,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
+        },
+        {
+          "title": "英伟达(NVDA.O)股价涨超3%，总市值重回5万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260424224618319800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "布伦特原油日内涨幅达4.5%，报106.52美元/桶。 WTI原油5分钟内上涨0.86美元/桶，报97.49美元/桶。",
@@ -2252,7 +2301,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -2447,7 +2496,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -2457,8 +2506,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时09分 ~ 22时40分]"
+          "appearance_count": 16,
+          "time_info": "[13时09分 ~ 23时33分]"
         },
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -2470,8 +2519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时09分 ~ 22时40分]"
+          "appearance_count": 16,
+          "time_info": "[13时09分 ~ 23时33分]"
         },
         {
           "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
@@ -2504,6 +2553,19 @@
           "time_info": "[14时49分 ~ 20时32分]"
         },
         {
+          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
+          "url": "https://www.zhihu.com/question/2030963912749924411",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时38分 ~ 23时33分]"
+        },
+        {
           "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
           "url": "https://www.cls.cn/detail/2354737",
           "source": "财联社热门",
@@ -2515,21 +2577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时49分 ~ 22时40分]"
-        },
-        {
-          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
-          "url": "https://www.zhihu.com/question/2030963912749924411",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时38分 ~ 22时40分]"
+          "appearance_count": 12,
+          "time_info": "[16时49分 ~ 23时33分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -2540,11 +2589,12 @@
             6,
             5,
             4,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时41分 ~ 22时40分]"
+          "appearance_count": 11,
+          "time_info": "[17时41分 ~ 23时33分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -2556,11 +2606,12 @@
             8,
             7,
             13,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时49分 ~ 22时40分]"
+          "appearance_count": 15,
+          "time_info": "[14时49分 ~ 23时33分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -2570,57 +2621,12 @@
             7,
             1,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时09分 ~ 22时40分]"
-        },
-        {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            9,
-            19,
-            20,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时41分 ~ 22时40分]"
-        },
-        {
-          "title": "DeepSeekV4预览版本上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            29,
-            23,
-            20,
-            27,
-            22,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时09分 ~ 22时40分]"
-        },
-        {
-          "title": "DeepSeek V4适配国产芯片",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时49分 ~ 21时39分]"
+          "appearance_count": 16,
+          "time_info": "[13时09分 ~ 23时33分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -2634,8 +2640,56 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时38分 ~ 22时40分]"
+          "appearance_count": 10,
+          "time_info": "[18时38分 ~ 23时33分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            9,
+            19,
+            20,
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时41分 ~ 23时33分]"
+        },
+        {
+          "title": "DeepSeekV4预览版本上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            29,
+            23,
+            20,
+            27,
+            22,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时09分 ~ 23时33分]"
+        },
+        {
+          "title": "DeepSeek V4适配国产芯片",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时49分 ~ 21时39分]"
         },
         {
           "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
@@ -2664,6 +2718,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时09分 ~ 17时41分]"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时38分 ~ 23时33分]"
         },
         {
           "title": "DeepSeek-V4 预览版正式上线",
@@ -2727,6 +2794,18 @@
           "time_info": "13时09分"
         },
         {
+          "title": "DeepSeek V4 Pro实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时39分 ~ 23时33分]"
+        },
+        {
           "title": "寒武纪已完成DeepSeek-V4适配",
           "url": "https://flash.jin10.com/detail/20260424122631112800",
           "source": "金十数据",
@@ -2736,17 +2815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        },
-        {
-          "title": "摩尔线程TileLang-MUSA Day-0支持DeepSeek-V4全新TileKernels",
-          "url": "https://wallstreetcn.com/livenews/3094157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "DeepSeek融资为何谁都不想错过",
@@ -2761,16 +2829,16 @@
           "time_info": "[13时09分 ~ 14时50分]"
         },
         {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "摩尔线程TileLang-MUSA Day-0支持DeepSeek-V4全新TileKernels",
+          "url": "https://wallstreetcn.com/livenews/3094157",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            9
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时38分 ~ 22时40分]"
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时33分]"
         },
         {
           "title": "DeepSeekV4 价格屠夫",
@@ -2808,6 +2876,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时09分 ~ 14时50分]"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 23时33分]"
         },
         {
           "title": "全新系列模型DeepSeek-V4预览版本正式上线并同步开源",
@@ -2856,28 +2936,6 @@
           "time_info": "[21时38分 ~ 21时39分]"
         },
         {
-          "title": "实测DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2477701",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 20时32分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
           "title": "摩尔线程S5000 + 智源FlagOS：基于原生FP8引擎，Day-0适配DeepSeek-V4",
           "url": "https://wallstreetcn.com/livenews/3093862",
           "source": "华尔街见闻-快讯",
@@ -2920,6 +2978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "腾讯云TokenHub上架DeepSeek-V4",
@@ -2991,7 +3060,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -3004,8 +3073,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时53分 ~ 22时40分]"
+          "appearance_count": 19,
+          "time_info": "[08时53分 ~ 23时33分]"
         },
         {
           "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
@@ -3145,8 +3214,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
+          "appearance_count": 3,
+          "time_info": "[22时39分 ~ 23时33分]"
         },
         {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
@@ -3206,6 +3275,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "美股三大股指走势分化，纳指涨超1%，标普500指数涨0.4%，道指跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260424225755350800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚芯片，用于其人工智能研发。",
           "url": "https://wallstreetcn.com/livenews/3094072",
           "source": "华尔街见闻-快讯",
@@ -3215,6 +3295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "美股开盘：英特尔涨约23%创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E7%BA%A623%25%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "通信片上系统（SOC）供应商MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。 该公司一季度净营收1.372亿美元，分析师预期1.345亿美元。 一季度调整后EPS为0.22美元，分析师预期0.18美元。 一季度调整后毛利润率59.5%，分析师预期59.5%。 预计二季度营收1.60亿-1.70亿美元，分析师预期1.371亿美元。 预计二季度调整后毛利率58%-61%，分析师预期59.6%。",
@@ -3322,7 +3413,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -3355,7 +3446,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -3385,7 +3476,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "现货黄金震荡下行，向下触及4680美元/盎司，日内跌0.28%。",
@@ -3427,7 +3518,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -3484,6 +3575,18 @@
           "time_info": "[14时49分 ~ 16时49分]"
         },
         {
+          "title": "男子30年前被扣押2859克黄金申请退赔，辽宁营口警方：正研究，将尽快答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044575",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时39分 ~ 23时33分]"
+        },
+        {
           "title": "纽元/美元日内跌幅达1.0%，报0.5842。 现货黄金日内跌幅达1.5%，报4664.8美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3093462",
           "source": "华尔街见闻-快讯",
@@ -3506,17 +3609,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时41分 ~ 11时14分]"
-        },
-        {
-          "title": "男子30年前被扣押2859克黄金申请退赔，辽宁营口警方：正研究，将尽快答复",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044575",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）上海黄金交易所市场行情",
@@ -3591,7 +3683,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -3646,9 +3738,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
+        },
+        {
+          "title": "黄金跌透了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E9%80%8F%E4%BA%86%E5%90%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "瑞士央行行长：我们目前没有增加或减少黄金储备的计划。",
@@ -3665,7 +3768,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "锐评黑袍纠察队概念神",
@@ -3821,6 +3924,17 @@
           "time_info": "14时50分"
         },
         {
+          "title": "雪铁龙ELO概念车、FE方程式赛车等车型亮相北京车展",
+          "url": "https://wallstreetcn.com/livenews/3094162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "4月24日午间收评：创业板指半日跌超2%，算力硬件、商业航天概念集体调整",
           "url": "https://wallstreetcn.com/livenews/3093693",
           "source": "华尔街见闻-快讯",
@@ -3968,7 +4082,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国际金价银价下跌",
@@ -3982,8 +4096,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时49分 ~ 22时40分]"
+          "appearance_count": 11,
+          "time_info": "[16时49分 ~ 23时33分]"
         },
         {
           "title": "金价何时迎来阶段性反弹",
@@ -4055,6 +4169,17 @@
           "time_info": "15时43分"
         },
         {
+          "title": "金价跌破神话了吗",
+          "url": "https://www.toutiao.com/trending/7632294513389604393/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "赤峰黄金：第一季度净利润同比增长104% 黄金价格同比较大幅度上涨",
           "url": "https://flash.jin10.com/detail/20260424160957125800",
           "source": "金十数据",
@@ -4076,11 +4201,12 @@
           "url": "https://wallstreetcn.com/livenews/3094156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时33分]"
         },
         {
           "title": "周四（4月23日）纽约尾盘，美国10年期国债收益率涨1.99个基点，报4.3200%，北京时间00:58出现一波短线拉升行情——从4.29%附近涨向4.35%。 两年期美债收益率涨2.52个基点，报3.8231%，也一度从3.8%下方拉升至3.8443%；30年期美债收益率涨1.53个基点，报4.9193%。",
@@ -4101,7 +4227,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         }
