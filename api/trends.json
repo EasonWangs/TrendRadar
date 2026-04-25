@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:17:35.841591+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-26T06:15:33.090275+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "特朗普，已经压不住油价了",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "“淡化”特朗普 美共和党调整中期选举策略",
@@ -39,19 +39,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
-          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
-          "url": "https://flash.jin10.com/detail/20260426043427804800",
+          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
+          "url": "https://flash.jin10.com/detail/20260426034614966800",
           "source": "金十数据",
           "ranks": [
-            5
+            1,
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普给一位身在伊斯兰堡的《纽约邮报》记者发了一条私信：“回家吧。”",
@@ -64,18 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时21分]"
-        },
-        {
-          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
-          "url": "https://flash.jin10.com/detail/20260426034614966800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时17分]"
         },
         {
           "title": "美国总统特朗普：我们不会费劲去巴基斯坦，只为从伊朗拿到一份毫无价值的协议。",
@@ -116,6 +106,18 @@
           "time_info": "[03时22分 ~ 05时17分]"
         },
         {
+          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260426043427804800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时15分]"
+        },
+        {
           "title": "美国总统特朗普谈伊朗：在取消巴基斯坦谈判10分钟后收到一份新提议。",
           "url": "https://flash.jin10.com/detail/20260426025031320800",
           "source": "金十数据",
@@ -134,11 +136,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普：我从未考虑过放弃停火。",
@@ -364,8 +367,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -375,19 +378,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -414,8 +418,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "黄金还能投吗？专家热议",
@@ -455,8 +459,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -468,8 +472,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时15分]"
         }
       ]
     },
@@ -482,11 +486,12 @@
           "url": "https://www.zhihu.com/question/492231086",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "归环概念PV",
