@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T05:29:59.269382+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-04-29T06:26:38.051526+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
+          "url": "https://wallstreetcn.com/articles/3771067",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时40分 ~ 06时26分]"
+        },
         {
           "title": "T-Mobile一季度营收231.1亿美元，分析师预期229.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3095994",
@@ -28,28 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "紫金矿业计划投资15亿美元开发秘鲁La Arena铜矿",
-          "url": "https://wallstreetcn.com/livenews/3096022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
-          "url": "https://wallstreetcn.com/articles/3771067",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时40分 ~ 05时29分]"
         },
         {
           "title": "周二（4月28日），韩元兑美元最终涨0.13%，报1472.56韩元，北京时间19:57曾跌至1478.81韩元刷新日低。",
@@ -115,6 +104,30 @@
           "time_info": "[02时41分 ~ 03时37分]"
         },
         {
+          "title": "紫金矿业计划投资15亿美元开发秘鲁La Arena铜矿",
+          "url": "https://wallstreetcn.com/livenews/3096022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
+        },
+        {
+          "title": "周二（4月28日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8402元，较周一纽约尾盘跌140点，日内整体交投于6.8241-6.8428元区间。 日线图上，离岸人民币4月7日以来持续交投于6.85元上方，一度逼近6.8元关口。",
+          "url": "https://wallstreetcn.com/livenews/3096020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
+        },
+        {
           "title": "阿联酋阿布扎比国家石油公司（ADNOC）：已将其基准穆尔班（Murban）原油5月份的官方售价（OSP）定为每桶110.75美元，较4月份每桶69.45美元的官方售价大幅上调。",
           "url": "https://wallstreetcn.com/livenews/3095973",
           "source": "华尔街见闻-快讯",
@@ -137,6 +150,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时41分]"
+        },
+        {
+          "title": "Robinhood预计2026年调整后运营开支和SBC为27亿-28.25亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
+        },
+        {
+          "title": "加拿大矿业公司第一量子一季度销售14亿美元，分析师预期13.2亿美元。 一季度调整后每股亏损0.18美元，分析师预期每股收益（EPS）为0.055美元。 该公司维持镍产量指引不变。",
+          "url": "https://wallstreetcn.com/livenews/3096017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
         },
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.175%（3月26日为4.255），投标倍数2.51（前次为2.43）。",
@@ -199,37 +236,39 @@
           "time_info": "[03时37分 ~ 04时36分]"
         },
         {
-          "title": "周二（4月28日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8402元，较周一纽约尾盘跌140点，日内整体交投于6.8241-6.8428元区间。 日线图上，离岸人民币4月7日以来持续交投于6.85元上方，一度逼近6.8元关口。",
-          "url": "https://wallstreetcn.com/livenews/3096020",
+          "title": "光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。 一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。 一季度资本开支0.199亿美元，分析师预期0.13亿美元。 一季度调整后每股收益（EPS）为0.47美元，分析师预期0.44美元。 预计二季度营收2.8亿-3.1亿美元，分析师预期2.968亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096008",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
+        },
+        {
+          "title": "南方铜业公司一季度销售42.5亿美元，分析师预期42.1亿美元。 一季度净利润15.8亿美元，分析师预期15.8亿美元。 一季度调整后EBITDA为27.1亿美元，分析师预期27.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
+        },
+        {
+          "title": "美国五角大楼已正式提出更名申请，拟将“国防部”更名为“战争部”，预计相关调整成本将超过5000万美元。据悉，五角大楼总法律顾问办公室已发布相关提案，推动修改法律以完成正式更名。",
+          "url": "https://flash.jin10.com/detail/20260429054636287800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "Robinhood预计2026年调整后运营开支和SBC为27亿-28.25亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "加拿大矿业公司第一量子一季度销售14亿美元，分析师预期13.2亿美元。 一季度调整后每股亏损0.18美元，分析师预期每股收益（EPS）为0.055美元。 该公司维持镍产量指引不变。",
-          "url": "https://wallstreetcn.com/livenews/3096017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时26分"
         },
         {
           "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
@@ -241,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "美元指数28日上涨",
+          "url": "https://flash.jin10.com/detail/20260429050156496800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
@@ -276,17 +326,6 @@
           "time_info": "02时41分"
         },
         {
-          "title": "光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。 一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。 一季度资本开支0.199亿美元，分析师预期0.13亿美元。 一季度调整后每股收益（EPS）为0.47美元，分析师预期0.44美元。 预计二季度营收2.8亿-3.1亿美元，分析师预期2.968亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
           "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095904",
           "source": "华尔街见闻-快讯",
@@ -298,24 +337,13 @@
           "time_info": "00时43分"
         },
         {
-          "title": "南方铜业公司一季度销售42.5亿美元，分析师预期42.1亿美元。 一季度净利润15.8亿美元，分析师预期15.8亿美元。 一季度调整后EBITDA为27.1亿美元，分析师预期27.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
           "title": "恩智浦一季度营收31.8亿美元，分析师预期31.5亿美元。 一季度调整后每股收益（EPS）为3.05美元，分析师预期2.99美元。 预计二季度营收33.5亿-35.5亿美元，分析师预期32.7亿美元。 预计二季度调整后EPS为3.29-3.72美元，分析师预期3.23美元。 预计二季度调整后运营利润11.3亿-12.6亿美元，分析师预期10.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3095999",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -326,15 +354,235 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
       ]
     },
     {
+      "keyword_group": "openai",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时26分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时29分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时26分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI与Anthropic向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
+          "url": "https://wallstreetcn.com/livenews/3095943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时41分]"
+        },
+        {
+          "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
+          "url": "https://wallstreetcn.com/livenews/3095938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时41分]"
+        },
+        {
+          "title": "马斯克将成为自己起诉OpenAI与Altman一案的第一位（出庭的）证人。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时36分]"
+        },
+        {
+          "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
+          "url": "https://wallstreetcn.com/livenews/3095934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时41分]"
+        },
+        {
+          "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
+          "url": "https://wallstreetcn.com/livenews/3095986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
+          "url": "https://flash.jin10.com/detail/20260429030025624800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260429010529383800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
+          "url": "https://flash.jin10.com/detail/20260429000106014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
+          "url": "https://flash.jin10.com/detail/20260429015838005800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
+          "url": "https://flash.jin10.com/detail/20260429025003263800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -345,8 +593,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时26分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -358,8 +606,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时26分]"
         },
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
@@ -382,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
+          "url": "https://wallstreetcn.com/livenews/3096034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "美国总统特朗普：德国总理对伊朗问题的发言毫无根据。",
@@ -429,6 +688,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时37分]"
+        },
+        {
+          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
+          "url": "https://wallstreetcn.com/livenews/3096010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
         },
         {
           "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
@@ -497,176 +768,11 @@
           "time_info": "01时39分"
         },
         {
-          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
-          "url": "https://wallstreetcn.com/livenews/3096010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
           "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
           "url": "https://flash.jin10.com/detail/20260429024103001800",
           "source": "金十数据",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
-          "url": "https://wallstreetcn.com/livenews/3095943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时41分]"
-        },
-        {
-          "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
-          "url": "https://wallstreetcn.com/livenews/3095938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时41分]"
-        },
-        {
-          "title": "马斯克将成为自己起诉OpenAI与Altman一案的第一位（出庭的）证人。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3095967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时36分]"
-        },
-        {
-          "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
-          "url": "https://wallstreetcn.com/livenews/3095934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时41分]"
-        },
-        {
-          "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
-          "url": "https://wallstreetcn.com/livenews/3095986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
-          "url": "https://flash.jin10.com/detail/20260429030025624800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260429010529383800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
-          "url": "https://flash.jin10.com/detail/20260429000106014800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
-          "url": "https://flash.jin10.com/detail/20260429015838005800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
-          "url": "https://flash.jin10.com/detail/20260429025003263800",
-          "source": "金十数据",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -683,11 +789,12 @@
           "url": "https://wallstreetcn.com/livenews/3096026",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
         },
         {
           "title": "美股盘前纳指跌超1.4%",
@@ -729,7 +836,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -740,7 +847,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -751,7 +858,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -770,11 +877,12 @@
             19,
             25,
             30,
-            29
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时26分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月28日（周二）晚盘收盘下跌1.23%报1014.23元/克；<br/>上海黄金交易所白银T+D 4月28日（周二）晚盘收盘下跌1.44%报18024.0元/千克。",
@@ -793,22 +901,24 @@
           "url": "https://wallstreetcn.com/livenews/3096016",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
           "url": "https://wallstreetcn.com/livenews/3096006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时26分]"
         }
       ]
     },
@@ -824,8 +934,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时26分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -837,6 +947,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 01时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     },
@@ -869,8 +996,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 06时26分]"
         }
       ]
     }
