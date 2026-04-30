@@ -1,11 +1,1301 @@
 {
-  "generated_at": "2026-04-30T22:49:41.738423+08:00",
-  "total_titles_processed": 2118,
+  "generated_at": "2026-04-30T23:41:37.476720+08:00",
+  "total_titles_processed": 2206,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 111,
+      "titles": [
+        {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[07时26分 ~ 21时41分]"
+        },
+        {
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时14分 ~ 23时41分]"
+        },
+        {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 11时16分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时26分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 11时16分]"
+        },
+        {
+          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
+          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 21时41分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            6,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时44分 ~ 23时41分]"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 20时43分]"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12,
+            11,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[06时26分 ~ 20时43分]"
+        },
+        {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时41分]"
+        },
+        {
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时16分]"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时55分 ~ 23时41分]"
+        },
+        {
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            26,
+            24,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时37分 ~ 07时26分]"
+        },
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时49分 ~ 23时41分]"
+        },
+        {
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 17时49分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
+          "url": "https://www.cls.cn/detail/2360313",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时30分 ~ 07时26分]"
+        },
+        {
+          "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260430012033940800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：（关于霍尔木兹海峡封锁）这是一项天才且万无一失的策略。",
+          "url": "https://flash.jin10.com/detail/20260430023125319800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
+          "url": "https://wallstreetcn.com/articles/3771197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 09时44分]"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://www.toutiao.com/trending/7633345228304416810/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "俄罗斯总统普京与美国总统特朗普进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260430012024015800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "德总理淡化与特朗普分歧 称彼此关系“依然良好”",
+          "url": "https://wallstreetcn.com/livenews/3097042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普要求以色列总理内塔尼亚胡行事更加谨慎，不要摧毁建筑物，因为这会损害以色列的形象。",
+          "url": "https://flash.jin10.com/detail/20260430011544167800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "硬刚特朗普！鲍威尔宣布“不走了”：称这是“前所未有的攻击”",
+          "url": "https://flash.jin10.com/detail/20260430065026729800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美联储主席鲍威尔在新闻发布会的开场白阶段称：美国经济一直稳步扩张。 就业增速一直偏低，失业率大致持稳。 就业人口增幅放缓，在一定程度上体现出（美国总统特朗普造成的）移民人口下降。 劳动力需求也显然趋于温和。 消费者开支一直稳固。 基于CPI的预测表明，美国3月PCE上升3.5%。 企业固定投资按较快的步伐扩张。 住房市场保持疲软。",
+          "url": "https://wallstreetcn.com/livenews/3096867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普批评鲍威尔将继续留任美联储（理事）的决定。",
+          "url": "https://wallstreetcn.com/livenews/3096971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普：阿联酋退出欧佩克有助于降低汽油和石油价格。",
+          "url": "https://flash.jin10.com/detail/20260430023027460800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普称赞的战列舰什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E%E7%9A%84%E6%88%98%E5%88%97%E8%88%B0%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
+          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "特朗普支持率降至任内新低",
+          "url": "https://www.douyin.com/hot/2482851",
+          "source": "抖音",
+          "ranks": [
+            7,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时37分 ~ 06时26分]"
+        },
+        {
+          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
+          "url": "https://www.zhihu.com/question/2032758360743883157",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时14分]"
+        },
+        {
+          "title": "【普京：特朗普延长对伊朗及周边地区停火的决定是正确的】俄罗斯总统助理乌沙科夫29日晚通报说，俄总统普京与美国总统特朗普当天举行电话会谈，双方就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。 据乌沙科夫介绍，特朗普在通话中向普京介绍了他对中东局势的看法。普京认为，特朗普延长对伊朗及周边地区停火的决定是正确的，这将有助于稳定局势。普京还表示，针对伊朗采取地面军事行动的选项是完全不可接受且极其危险的。 乌沙科夫说，此次通话是由俄方发起，持续超过一个半小时，双方对话“坦诚且务实”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3096914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普：将继续对伊朗实施海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3096819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普称正在研究削减驻德美军可能性",
+          "url": "https://wallstreetcn.com/livenews/3097085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时16分]"
+        },
+        {
+          "title": "普京与特朗普通话超一个半小时",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 11时16分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时40分 ~ 23时41分]"
+        },
+        {
+          "title": "伊朗战争丨美媒：特朗普将听取打击伊朗新方案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普拒绝伊朗提议，称将继续封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3096814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时38分]"
+        },
+        {
+          "title": "美国财政部长贝森特宣称：与伊朗的磋商正冲向终点线。 （特朗普政府）每天都在加大对伊朗的经济压力。",
+          "url": "https://wallstreetcn.com/livenews/3096944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普称将尽量多公布UFO相关信息",
+          "url": "https://flash.jin10.com/detail/20260430055845577800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普评鲍威尔留任理事：其他地方没人要他",
+          "url": "https://flash.jin10.com/detail/20260430055637436800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "普京与特朗普通话1个半小时",
+          "url": "https://www.toutiao.com/trending/7634319454465166874/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 09时44分]"
+        },
+        {
+          "title": "鲍威尔：我希望（我们）认为，我们能摆脱美联储承受压力的时期。 人们纷纷担忧，美联储可能会继续遭到（美国总统特朗普的）攻击。",
+          "url": "https://wallstreetcn.com/livenews/3096900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时32分]"
+        },
+        {
+          "title": "伊朗议长卡利巴夫：特朗普施压伊朗投降。 对抗敌人的唯一的解决方案就是国家团结。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3096804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普为何解散美国国家科学委员会",
+          "url": "https://www.toutiao.com/trending/7634518085713530418/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
+        },
+        {
+          "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
+          "url": "https://www.toutiao.com/trending/7634080529591238706/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B5%E6%89%8B%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%86%8D%E7%8E%B0%E6%8B%92%E7%BB%9D%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普特工的手枪瞄准镜疑似中国制造",
+          "url": "https://www.toutiao.com/trending/7634381061883134015/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "特朗普：在核问题解决之前 不会解除对伊朗的海上封锁",
+          "url": "https://flash.jin10.com/detail/20260429235520375800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "特朗普：现在是降息的良好时机。",
+          "url": "https://wallstreetcn.com/livenews/3096864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普称将尽量多公布UFO相关信息",
+          "url": "https://wallstreetcn.com/livenews/3096993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "亚马逊考虑重启《学徒》真人秀 特朗普长子有望担任主持人",
+          "url": "https://flash.jin10.com/detail/20260430091757966800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "特朗普置评阿联酋退出OPEC：太棒了。",
+          "url": "https://wallstreetcn.com/livenews/3096863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普再次对德国总理涉伊朗言论表达不满",
+          "url": "https://wallstreetcn.com/livenews/3097606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "美媒：特朗普将听取打击伊朗新方案",
+          "url": "https://www.toutiao.com/trending/7634378348331798042/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "美国总统特朗普：现在是降低利率的好时机。",
+          "url": "https://flash.jin10.com/detail/20260430022905690800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普称赞英特尔(INTC.O)股价上涨。",
+          "url": "https://flash.jin10.com/detail/20260430062207215800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：（关于阿联酋退出欧佩克）我认为这很棒。",
+          "url": "https://flash.jin10.com/detail/20260430022848640800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普告知内塔尼亚胡对黎巴嫩军事行动仅限“精准打击”",
+          "url": "https://flash.jin10.com/detail/20260430055438435800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：只能对黎巴嫩实施“外科手术式”袭击。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "特朗普称乌克兰在军事上已被击败",
+          "url": "https://wallstreetcn.com/livenews/3096988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "媒体报道称特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://wallstreetcn.com/livenews/3097120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "美国总统特朗普：我与英国国王查尔斯的关系可能有助于英国首相斯塔默。",
+          "url": "https://flash.jin10.com/detail/20260430022827739800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：我喜欢最高法院的判决结果。",
+          "url": "https://wallstreetcn.com/livenews/3096859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：如果由英国国王查尔斯做主，他“可能会帮助我们解决伊朗问题”。",
+          "url": "https://flash.jin10.com/detail/20260430022801015800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在研究和评估可能减少在德国驻军的事宜，将在短期内作出决定。",
+          "url": "https://flash.jin10.com/detail/20260430055020322800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "白宫顾问哈塞特：我们（特朗普政府）持续与众多石油企业沟通。 正考虑采取行动，迅速提高美国的石油产量。",
+          "url": "https://wallstreetcn.com/livenews/3097599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "特朗普施压伊朗签署协议 或延长对伊朗港口封锁措施",
+          "url": "https://www.cls.cn/detail/2360144",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9C%A8%E5%86%9B%E4%BA%8B%E4%B8%8A%E5%B7%B2%E8%A2%AB%E5%87%BB%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：在乌克兰问题上与北约存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260430022623187800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "默茨批美国“被伊朗羞辱”，特朗普回怼：考虑从德国撤军",
+          "url": "https://flash.jin10.com/detail/20260430091008005800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-30）",
+          "url": "https://flash.jin10.com/detail/20260430183107330800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯总统普京讨论了伊朗问题，谈话不错。 如果伊朗不达成协议，我将摧毁剩余的导弹和系统。 普京愿意在伊朗铀浓缩问题上提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3096856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：我认为俄罗斯总统普京早就准备好达成协议，我认为“某些人”让他达成协议变得困难。",
+          "url": "https://flash.jin10.com/detail/20260430022456978800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：对北约感到失望。",
+          "url": "https://flash.jin10.com/detail/20260430022418529800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "Semafor：特朗普将签署行政命令 扩大退休计划的覆盖范围",
+          "url": "https://wallstreetcn.com/livenews/3097487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "特朗普称或削减驻德美军",
+          "url": "https://flash.jin10.com/detail/20260430060755309800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国参议院军事委员会首席民主党议员表示，特朗普在战争问题上没有连贯的战略。",
+          "url": "https://flash.jin10.com/detail/20260430232044475800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "鲍威尔：按沃什的话来看，他会勇敢面对美国总统特朗普（施加的降息压力）。 法律支持美联储的独立性。 （近期）美联储不得不在法院捍卫自身的独立性。 需要尊重美联储与美国财政部之间的边界。 我认为，美联储独立性面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3096898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "【特朗普：同伊朗的谈判正通过电话进行】美国总统特朗普29日表示，美国同伊朗正在通过电话进行谈判，同时强调伊朗方面必须明确承诺彻底放弃核武器。 特朗普当天在白宫椭圆形办公室对媒体说，美伊一直在进行对话，现在通过电话进行沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。他说，这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。 特朗普说，目前双方谈判已经取得一些进展，但问题是伊朗方面所做让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝无可能达成任何协议。” 伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。白宫新闻秘书莱维特27日证实，特朗普当天召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3096956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普：海底有159艘伊朗船只。",
+          "url": "https://flash.jin10.com/detail/20260430022346633800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普：英特尔股价继续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3096980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "“特朗普关税”首批退款将于5月11日左右发放",
+          "url": "https://wallstreetcn.com/livenews/3097025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗经济正在崩。伊朗货币毫无价值，通货膨胀严重。",
+          "url": "https://flash.jin10.com/detail/20260430022316127800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "查尔斯三世当面嘲讽：若不是英国，你们还在说法语，特朗普表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33078167",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "美国总统特朗普：不会让伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260430022220179800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "中金：美联储理论上应将2次降息，实际要看油价和特朗普配合",
+          "url": "https://flash.jin10.com/detail/20260430080840199800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "美媒称特朗普将听取打击伊朗新方案",
+          "url": "https://flash.jin10.com/detail/20260430104551895800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "特朗普称海上封锁是“天才计划”，专家泼冷水：美国每次都这么想，每次都失望",
+          "url": "https://flash.jin10.com/detail/20260430141919731800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "美国总统特朗普：普京不想让伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260430022126556800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：我认为乌克兰和伊朗的战争持续时间差不多，都会在类似的时间结束。",
+          "url": "https://flash.jin10.com/detail/20260430022124924800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美媒：特朗普提出开放霍尔木兹海峡新计划",
+          "url": "https://flash.jin10.com/detail/20260430220822920800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动",
+          "url": "https://wallstreetcn.com/livenews/3097479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京希望能提供帮助。",
+          "url": "https://flash.jin10.com/detail/20260430022044516800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "据法庭听证会消息，刺杀特朗普未遂案的嫌疑人同意继续被拘留。",
+          "url": "https://flash.jin10.com/detail/20260430231418330800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "特朗普：向普京建议俄乌实施短期停火",
+          "url": "https://wallstreetcn.com/livenews/3096975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不达成协议，我将摧毁剩余的导弹和系统。",
+          "url": "https://flash.jin10.com/detail/20260430022004470800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，特朗普政府告知Anthropic，反对扩大对Mythos模型的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260430090057317800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "美国总统特朗普将签署命令，扩大工人参与退休计划的范围。（美国财经媒体Semafor）",
+          "url": "https://flash.jin10.com/detail/20260430171332972800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普告诉以色列总理内塔尼亚胡，在停火进展不顺之际，对黎巴嫩只能进行“外科手术式”（精准）的打击。",
+          "url": "https://flash.jin10.com/detail/20260430053102038800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普：我建议在乌克兰进行短暂停火。",
+          "url": "https://flash.jin10.com/detail/20260430021937515800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美媒：特朗普周四将听取对伊行动新方案简报 包括强力打击和部分控制霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260430103845310800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "特朗普：鲍威尔想留在美联储是因为在其他地方找不到工作",
+          "url": "https://wallstreetcn.com/livenews/3096971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普为何急于促成俄乌停火",
+          "url": "https://www.toutiao.com/trending/7634387752607288851/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "特朗普称乌克兰在军事上已败？或将伊朗混淆",
+          "url": "https://flash.jin10.com/detail/20260430052917316800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "特朗普提出重开霍尔木兹新计划，却可能来不及等到伊朗让步？",
+          "url": "https://flash.jin10.com/detail/20260430231124534800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 107,
+      "match_count": 110,
       "titles": [
         {
           "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
@@ -17,6 +1307,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 06时26分]"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时41分 ~ 23时41分]"
         },
         {
           "title": "WTI原油日内暴涨8.00%，现报109.52美元/桶。",
@@ -61,21 +1366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 22时49分]"
         },
         {
           "title": "瑞穗银行：将星巴克(SBUX.O)目标价从105美元上调至110美元。",
@@ -210,17 +1500,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
-          "url": "https://www.zhihu.com/question/2032585303555138489",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "布伦特原油向上触及110美元/桶，日内大涨逾6%。",
           "url": "https://flash.jin10.com/detail/20260429235647359800",
           "source": "金十数据",
@@ -265,6 +1544,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "商品货币澳元/美元日内涨幅达1.0%，报0.7188。纽元/美元日内涨幅达1.0%，报0.5888。",
+          "url": "https://wallstreetcn.com/livenews/3097608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "科磊第三财季营收34.2亿美元，预期33.7亿美元。",
           "url": "https://wallstreetcn.com/livenews/3096933",
           "source": "华尔街见闻-快讯",
@@ -287,6 +1577,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
+          "url": "https://www.zhihu.com/question/2032585303555138489",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时41分]"
         },
         {
           "title": "微软(MSFT.O)第四财季智能云收入预期为379.5亿美元至382.5亿美元，市场预期为374亿美元。",
@@ -443,6 +1745,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时38分]"
+        },
+        {
+          "title": "英镑兑美元涨0.57%，报1.3550。",
+          "url": "https://wallstreetcn.com/livenews/3097580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时41分]"
         },
         {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。 伊朗表示，为遇害领袖复仇仍在议事日程上。 据伊朗电视台，伊朗军事顾问称新领袖（穆杰塔巴·哈梅内伊）身体健康。",
@@ -771,7 +2085,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -785,17 +2099,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
-        },
-        {
-          "title": "英镑兑美元涨0.57%，报1.3550。",
-          "url": "https://wallstreetcn.com/livenews/3097580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "综合能源公司Entergy CEO：Meta Platforms(META.O)是公司资本计划增加140亿美元的关键推动因素。",
@@ -873,6 +2176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "谷歌A(GOOGL.O)日内大涨8%，股价创历史新高，单日市值增加3400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260430231956525800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "微软(MSFT.O)：预计第四财季资本支出将超过400亿美元。",
@@ -1090,7 +2404,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1183,6 +2497,17 @@
           "time_info": "19时36分"
         },
         {
+          "title": "美、布两油短线走低逾1美元，报107.1美元/桶和109.1美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260430230822512800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "墨西哥比索兑美元、南非兰特兑美元至少跌0.9%，刷新日低，鲍威尔正在举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3096883",
           "source": "华尔街见闻-快讯",
@@ -1203,1228 +2528,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 105,
-      "titles": [
-        {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时14分 ~ 22时49分]"
-        },
-        {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时26分 ~ 21时41分]"
-        },
-        {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时14分 ~ 22时49分]"
-        },
-        {
-          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
-          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 11时16分]"
-        },
-        {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时26分]"
-        },
-        {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 11时16分]"
-        },
-        {
-          "title": "鲍威尔宣布留任美联储理事，特朗普嘲讽：他找不到工作",
-          "url": "https://news.ifeng.com/c/8sk3JJHRdyH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 21时41分]"
-        },
-        {
-          "title": "普京与特朗普通话一个半小时，涉及众多议题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9,
-            6,
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时44分 ~ 22时49分]"
-        },
-        {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 20时43分]"
-        },
-        {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12,
-            11,
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时26分 ~ 20时43分]"
-        },
-        {
-          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
-          "url": "https://www.zhihu.com/question/2032828585195434245",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 18时41分]"
-        },
-        {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普再次无视英王室规矩拍国王肩膀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            26,
-            24,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时37分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 17时49分]"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            18,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时55分 ~ 22时49分]"
-        },
-        {
-          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
-          "url": "https://www.cls.cn/detail/2360313",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时14分]"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时49分 ~ 22时49分]"
-        },
-        {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时30分 ~ 07时26分]"
-        },
-        {
-          "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260430012033940800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国总统特朗普：（关于霍尔木兹海峡封锁）这是一项天才且万无一失的策略。",
-          "url": "https://flash.jin10.com/detail/20260430023125319800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
-          "url": "https://www.cls.cn/detail/2360339",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时14分]"
-        },
-        {
-          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
-          "url": "https://wallstreetcn.com/articles/3771197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 09时44分]"
-        },
-        {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://www.toutiao.com/trending/7633345228304416810/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "俄罗斯总统普京与美国总统特朗普进行了电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260430012024015800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "德总理淡化与特朗普分歧 称彼此关系“依然良好”",
-          "url": "https://wallstreetcn.com/livenews/3097042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "特朗普要求以色列总理内塔尼亚胡行事更加谨慎，不要摧毁建筑物，因为这会损害以色列的形象。",
-          "url": "https://flash.jin10.com/detail/20260430011544167800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "硬刚特朗普！鲍威尔宣布“不走了”：称这是“前所未有的攻击”",
-          "url": "https://flash.jin10.com/detail/20260430065026729800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美联储主席鲍威尔在新闻发布会的开场白阶段称：美国经济一直稳步扩张。 就业增速一直偏低，失业率大致持稳。 就业人口增幅放缓，在一定程度上体现出（美国总统特朗普造成的）移民人口下降。 劳动力需求也显然趋于温和。 消费者开支一直稳固。 基于CPI的预测表明，美国3月PCE上升3.5%。 企业固定投资按较快的步伐扩张。 住房市场保持疲软。",
-          "url": "https://wallstreetcn.com/livenews/3096867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普批评鲍威尔将继续留任美联储（理事）的决定。",
-          "url": "https://wallstreetcn.com/livenews/3096971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：阿联酋退出欧佩克有助于降低汽油和石油价格。",
-          "url": "https://flash.jin10.com/detail/20260430023027460800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普称赞的战列舰什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E%E7%9A%84%E6%88%98%E5%88%97%E8%88%B0%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "特朗普支持率降至任内新低",
-          "url": "https://www.douyin.com/hot/2482851",
-          "source": "抖音",
-          "ranks": [
-            7,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时37分 ~ 06时26分]"
-        },
-        {
-          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
-          "url": "https://www.zhihu.com/question/2032758360743883157",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时14分]"
-        },
-        {
-          "title": "【普京：特朗普延长对伊朗及周边地区停火的决定是正确的】俄罗斯总统助理乌沙科夫29日晚通报说，俄总统普京与美国总统特朗普当天举行电话会谈，双方就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。 据乌沙科夫介绍，特朗普在通话中向普京介绍了他对中东局势的看法。普京认为，特朗普延长对伊朗及周边地区停火的决定是正确的，这将有助于稳定局势。普京还表示，针对伊朗采取地面军事行动的选项是完全不可接受且极其危险的。 乌沙科夫说，此次通话是由俄方发起，持续超过一个半小时，双方对话“坦诚且务实”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3096914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 05时31分]"
-        },
-        {
-          "title": "特朗普：将继续对伊朗实施海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3096819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时38分]"
-        },
-        {
-          "title": "特朗普称正在研究削减驻德美军可能性",
-          "url": "https://wallstreetcn.com/livenews/3097085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 11时16分]"
-        },
-        {
-          "title": "普京与特朗普通话超一个半小时",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 11时16分]"
-        },
-        {
-          "title": "伊朗战争丨美媒：特朗普将听取打击伊朗新方案",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时14分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时49分]"
-        },
-        {
-          "title": "特朗普拒绝伊朗提议，称将继续封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3096814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时38分]"
-        },
-        {
-          "title": "美国财政部长贝森特宣称：与伊朗的磋商正冲向终点线。 （特朗普政府）每天都在加大对伊朗的经济压力。",
-          "url": "https://wallstreetcn.com/livenews/3096944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普称将尽量多公布UFO相关信息",
-          "url": "https://flash.jin10.com/detail/20260430055845577800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普评鲍威尔留任理事：其他地方没人要他",
-          "url": "https://flash.jin10.com/detail/20260430055637436800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "普京与特朗普通话1个半小时",
-          "url": "https://www.toutiao.com/trending/7634319454465166874/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 09时44分]"
-        },
-        {
-          "title": "鲍威尔：我希望（我们）认为，我们能摆脱美联储承受压力的时期。 人们纷纷担忧，美联储可能会继续遭到（美国总统特朗普的）攻击。",
-          "url": "https://wallstreetcn.com/livenews/3096900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时32分]"
-        },
-        {
-          "title": "伊朗议长卡利巴夫：特朗普施压伊朗投降。 对抗敌人的唯一的解决方案就是国家团结。（Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3096804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时38分]"
-        },
-        {
-          "title": "特朗普为何解散美国国家科学委员会",
-          "url": "https://www.toutiao.com/trending/7634518085713530418/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
-          "url": "https://www.toutiao.com/trending/7634080529591238706/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B5%E6%89%8B%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%86%8D%E7%8E%B0%E6%8B%92%E7%BB%9D%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 15时02分]"
-        },
-        {
-          "title": "特朗普特工的手枪瞄准镜疑似中国制造",
-          "url": "https://www.toutiao.com/trending/7634381061883134015/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "特朗普：在核问题解决之前 不会解除对伊朗的海上封锁",
-          "url": "https://flash.jin10.com/detail/20260429235520375800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "特朗普：现在是降息的良好时机。",
-          "url": "https://wallstreetcn.com/livenews/3096864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普称将尽量多公布UFO相关信息",
-          "url": "https://wallstreetcn.com/livenews/3096993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "亚马逊考虑重启《学徒》真人秀 特朗普长子有望担任主持人",
-          "url": "https://flash.jin10.com/detail/20260430091757966800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "特朗普置评阿联酋退出OPEC：太棒了。",
-          "url": "https://wallstreetcn.com/livenews/3096863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美媒：特朗普将听取打击伊朗新方案",
-          "url": "https://www.toutiao.com/trending/7634378348331798042/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "美国总统特朗普：现在是降低利率的好时机。",
-          "url": "https://flash.jin10.com/detail/20260430022905690800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普称赞英特尔(INTC.O)股价上涨。",
-          "url": "https://flash.jin10.com/detail/20260430062207215800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普：（关于阿联酋退出欧佩克）我认为这很棒。",
-          "url": "https://flash.jin10.com/detail/20260430022848640800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普告知内塔尼亚胡对黎巴嫩军事行动仅限“精准打击”",
-          "url": "https://flash.jin10.com/detail/20260430055438435800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：只能对黎巴嫩实施“外科手术式”袭击。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3096964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "特朗普称乌克兰在军事上已被击败",
-          "url": "https://wallstreetcn.com/livenews/3096988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "媒体报道称特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://wallstreetcn.com/livenews/3097120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "美国总统特朗普：我与英国国王查尔斯的关系可能有助于英国首相斯塔默。",
-          "url": "https://flash.jin10.com/detail/20260430022827739800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：我喜欢最高法院的判决结果。",
-          "url": "https://wallstreetcn.com/livenews/3096859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：如果由英国国王查尔斯做主，他“可能会帮助我们解决伊朗问题”。",
-          "url": "https://flash.jin10.com/detail/20260430022801015800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：美国正在研究和评估可能减少在德国驻军的事宜，将在短期内作出决定。",
-          "url": "https://flash.jin10.com/detail/20260430055020322800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "特朗普施压伊朗签署协议 或延长对伊朗港口封锁措施",
-          "url": "https://www.cls.cn/detail/2360144",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9C%A8%E5%86%9B%E4%BA%8B%E4%B8%8A%E5%B7%B2%E8%A2%AB%E5%87%BB%E8%B4%A5",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普：在乌克兰问题上与北约存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260430022623187800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "默茨批美国“被伊朗羞辱”，特朗普回怼：考虑从德国撤军",
-          "url": "https://flash.jin10.com/detail/20260430091008005800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-30）",
-          "url": "https://flash.jin10.com/detail/20260430183107330800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "美国总统特朗普：与俄罗斯总统普京讨论了伊朗问题，谈话不错。 如果伊朗不达成协议，我将摧毁剩余的导弹和系统。 普京愿意在伊朗铀浓缩问题上提供帮助。",
-          "url": "https://wallstreetcn.com/livenews/3096856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：我认为俄罗斯总统普京早就准备好达成协议，我认为“某些人”让他达成协议变得困难。",
-          "url": "https://flash.jin10.com/detail/20260430022456978800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：对北约感到失望。",
-          "url": "https://flash.jin10.com/detail/20260430022418529800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "Semafor：特朗普将签署行政命令 扩大退休计划的覆盖范围",
-          "url": "https://wallstreetcn.com/livenews/3097487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "特朗普称或削减驻德美军",
-          "url": "https://flash.jin10.com/detail/20260430060755309800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "鲍威尔：按沃什的话来看，他会勇敢面对美国总统特朗普（施加的降息压力）。 法律支持美联储的独立性。 （近期）美联储不得不在法院捍卫自身的独立性。 需要尊重美联储与美国财政部之间的边界。 我认为，美联储独立性面临风险。",
-          "url": "https://wallstreetcn.com/livenews/3096898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "【特朗普：同伊朗的谈判正通过电话进行】美国总统特朗普29日表示，美国同伊朗正在通过电话进行谈判，同时强调伊朗方面必须明确承诺彻底放弃核武器。 特朗普当天在白宫椭圆形办公室对媒体说，美伊一直在进行对话，现在通过电话进行沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。他说，这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。 特朗普说，目前双方谈判已经取得一些进展，但问题是伊朗方面所做让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝无可能达成任何协议。” 伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。白宫新闻秘书莱维特27日证实，特朗普当天召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3096956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：海底有159艘伊朗船只。",
-          "url": "https://flash.jin10.com/detail/20260430022346633800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普：英特尔股价继续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3096980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "“特朗普关税”首批退款将于5月11日左右发放",
-          "url": "https://wallstreetcn.com/livenews/3097025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗经济正在崩。伊朗货币毫无价值，通货膨胀严重。",
-          "url": "https://flash.jin10.com/detail/20260430022316127800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "查尔斯三世当面嘲讽：若不是英国，你们还在说法语，特朗普表情亮了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078167",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "美国总统特朗普：不会让伊朗拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260430022220179800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "中金：美联储理论上应将2次降息，实际要看油价和特朗普配合",
-          "url": "https://flash.jin10.com/detail/20260430080840199800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美媒称特朗普将听取打击伊朗新方案",
-          "url": "https://flash.jin10.com/detail/20260430104551895800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "特朗普称海上封锁是“天才计划”，专家泼冷水：美国每次都这么想，每次都失望",
-          "url": "https://flash.jin10.com/detail/20260430141919731800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "美国总统特朗普：普京不想让伊朗拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260430022126556800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：我认为乌克兰和伊朗的战争持续时间差不多，都会在类似的时间结束。",
-          "url": "https://flash.jin10.com/detail/20260430022124924800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美媒：特朗普提出开放霍尔木兹海峡新计划",
-          "url": "https://flash.jin10.com/detail/20260430220822920800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动",
-          "url": "https://wallstreetcn.com/livenews/3097479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯总统普京希望能提供帮助。",
-          "url": "https://flash.jin10.com/detail/20260430022044516800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普：向普京建议俄乌实施短期停火",
-          "url": "https://wallstreetcn.com/livenews/3096975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不达成协议，我将摧毁剩余的导弹和系统。",
-          "url": "https://flash.jin10.com/detail/20260430022004470800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，特朗普政府告知Anthropic，反对扩大对Mythos模型的访问权限。",
-          "url": "https://flash.jin10.com/detail/20260430090057317800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美国总统特朗普将签署命令，扩大工人参与退休计划的范围。（美国财经媒体Semafor）",
-          "url": "https://flash.jin10.com/detail/20260430171332972800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "据AXIOS：美国总统特朗普告诉以色列总理内塔尼亚胡，在停火进展不顺之际，对黎巴嫩只能进行“外科手术式”（精准）的打击。",
-          "url": "https://flash.jin10.com/detail/20260430053102038800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美国总统特朗普：我建议在乌克兰进行短暂停火。",
-          "url": "https://flash.jin10.com/detail/20260430021937515800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美媒：特朗普周四将听取对伊行动新方案简报 包括强力打击和部分控制霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260430103845310800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "特朗普：鲍威尔想留在美联储是因为在其他地方找不到工作",
-          "url": "https://wallstreetcn.com/livenews/3096971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普为何急于促成俄乌停火",
-          "url": "https://www.toutiao.com/trending/7634387752607288851/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "特朗普称乌克兰在军事上已败？或将伊朗混淆",
-          "url": "https://flash.jin10.com/detail/20260430052917316800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         }
       ]
     },
@@ -2477,9 +2580,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时41分]"
         },
         {
           "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
@@ -2699,8 +2802,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时26分 ~ 22时49分]"
+          "appearance_count": 16,
+          "time_info": "[07时26分 ~ 23时41分]"
         },
         {
           "title": "“电脑涨得比黄金还猛”",
@@ -2728,19 +2831,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 22时49分]"
-        },
-        {
-          "title": "2859.2克黄金被扣30年迎转机",
-          "url": "https://www.baidu.com/s?wd=2859.2%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E8%BF%8E%E8%BD%AC%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 23时41分]"
         },
         {
           "title": "央行、海关总署：进一步优化黄金及黄金制品进出口准许证“非一批一证”管理",
@@ -2774,6 +2866,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "2859.2克黄金被扣30年迎转机",
+          "url": "https://www.baidu.com/s?wd=2859.2%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E8%BF%8E%E8%BD%AC%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时41分]"
         },
         {
           "title": "周三（4月29日）纽约尾盘，现货黄金下跌1.15%，报4544.05美元/盎司，整体持续走低，交投于4610.29-4510.32美元，美股盘初刷新日低，美联储发布决议声明、鲍威尔新闻发布会期间交投于4540美元附近。 现货白银跌2.44%，报71.2949美元/盎司，13:45刷新日高至73.9497美元，随后在02:45（鲍威尔新闻发布会期间）刷新日低至70.8690美元。",
@@ -2860,7 +2964,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -2904,7 +3008,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -3064,7 +3168,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -3097,8 +3201,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时39分 ~ 22时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时39分 ~ 23时41分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -3109,8 +3213,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[18时41分 ~ 23时41分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -3123,8 +3227,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[19时36分 ~ 23时41分]"
         },
         {
           "title": "DeepSeek思考过程好萌",
@@ -3132,11 +3236,12 @@
           "source": "微博",
           "ranks": [
             10,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[21时40分 ~ 23时41分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -3162,6 +3267,17 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "DeepSeek新版本发布为何悄无声息",
           "url": "https://www.toutiao.com/trending/7634180089206279722/",
           "source": "今日头条",
@@ -3176,7 +3292,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价",
@@ -3229,6 +3345,17 @@
           "time_info": "[21时40分 ~ 21时41分]"
         },
         {
+          "title": "金价“跳水”背后藏着什么博弈",
+          "url": "https://www.toutiao.com/trending/7634525215950638633/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "花旗：维持黄金价格目标不变，0-3个月目标为4300美元，6-12个月目标为5000美元。",
           "url": "https://flash.jin10.com/detail/20260430203204106800",
           "source": "金十数据",
@@ -3249,6 +3376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "金价突涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "美国银行重申，未来12个月黄金价格预测为6000美元。",
