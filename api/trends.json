@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T02:39:11.821527+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-05-01T03:37:38.579108+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 51,
       "titles": [
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -28,8 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
+        },
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -43,15 +55,37 @@
           "time_info": "[00时38分 ~ 01时37分]"
         },
         {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
+        },
+        {
+          "title": "美国总统特朗普：试图以某种方式拯救伊朗。",
+          "url": "https://flash.jin10.com/detail/20260501032756806800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美国众议院投票，批准对国土安全部（DHS）预算拨款的主要条款，草案将移交给总统特朗普（签字为法律）。",
@@ -65,48 +99,59 @@
           "time_info": "01时37分"
         },
         {
-          "title": "美国总统特朗普向伊拉克候任总理表示祝贺。",
-          "url": "https://wallstreetcn.com/livenews/3097669",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我们要看看伊朗能撑多久。",
+          "url": "https://flash.jin10.com/detail/20260501032750451800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "03时37分"
         },
         {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：美国国务卿鲁比奥积极参与与伊朗的谈判。",
+          "url": "https://flash.jin10.com/detail/20260501032621467800",
+          "source": "金十数据",
           "ranks": [
-            12
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普变卦：转而提名妮科尔·萨菲尔担任卫生局局长",
-          "url": "https://wallstreetcn.com/livenews/3097666",
+          "title": "美国总统特朗普：伊朗渴望达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3097677",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普称只有他和少数几个人知道伊朗谈判的真实情况。",
+          "url": "https://flash.jin10.com/detail/20260501032430305800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普60天战争权限将于5月1日到期",
+          "url": "https://wallstreetcn.com/livenews/3097676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美国总统特朗普：美国卫生局长提名人凯西将继续为美国的卫生事业而战。",
@@ -120,16 +165,52 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美国总统特朗普：德国总理的表现糟糕透顶。",
+          "url": "https://flash.jin10.com/detail/20260501032342467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普向伊拉克候任总理表示祝贺。",
+          "url": "https://wallstreetcn.com/livenews/3097669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时37分]"
+        },
+        {
           "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
           "url": "https://wallstreetcn.com/livenews/3097647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            19
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普变卦：转而提名妮科尔·萨菲尔担任卫生局局长",
+          "url": "https://wallstreetcn.com/livenews/3097666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时39分]"
+          "time_info": "[02时39分 ~ 03时37分]"
         },
         {
           "title": "还是不解气，特朗普又炮轰默茨",
@@ -139,8 +220,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 03时37分]"
         },
         {
           "title": "美国联邦通信管理局（FCC）：我们针对迪士尼采取的（提前数年审查新闻）许可行动并没有得到总统特朗普的授意。",
@@ -155,6 +236,28 @@
           "time_info": "[01时37分 ~ 02时39分]"
         },
         {
+          "title": "美国总统特朗普：我们不需要任何关于伊朗的帮助。",
+          "url": "https://flash.jin10.com/detail/20260501032337584800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：（在被问及是否考虑从意大利和西班牙撤回美国军队时）可能会。",
+          "url": "https://flash.jin10.com/detail/20260501032239917800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "市场消息：美国众议院通过法案，为美国国土安全部大部分部门提供资金，该法案将提交给特朗普。",
           "url": "https://flash.jin10.com/detail/20260501010911115800",
           "source": "金十数据",
@@ -166,15 +269,59 @@
           "time_info": "01时37分"
         },
         {
+          "title": "特朗普决定取消某些威士忌关税",
+          "url": "https://wallstreetcn.com/livenews/3097672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：一旦伊朗战争结束，汽油价格将会下降。",
+          "url": "https://flash.jin10.com/detail/20260501031709849800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们正处于一场有些人称之为战争的境地。",
+          "url": "https://flash.jin10.com/detail/20260501031700335800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
           "url": "https://flash.jin10.com/detail/20260501021036394800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道我们是否需要与德黑兰达成协，尽管我们可能需要。",
+          "url": "https://flash.jin10.com/detail/20260501031547900800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普称参选美国总统的人应接受认知能力测试",
@@ -183,9 +330,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗参加世界杯：如果国际足联主席因凡蒂诺这么说，我就没意见。",
+          "url": "https://flash.jin10.com/detail/20260501031310686800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "市场消息：美国总统特朗普今天将签署一项行政命令，以扩大没有雇主提供退休计划的美国人对退休储蓄账户的使用。",
@@ -205,9 +363,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道我们是否需要打破与伊朗的停火协议，我们或许会这么做。",
+          "url": "https://flash.jin10.com/detail/20260501031246201800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -221,6 +390,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美国总统特朗普：没人知道伊朗的领导人是谁。",
+          "url": "https://flash.jin10.com/detail/20260501031230518800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
           "url": "https://flash.jin10.com/detail/20260501005752668800",
           "source": "金十数据",
@@ -232,15 +412,70 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉非常出色，现在我们在伊朗也正在做同样的事情。",
+          "url": "https://flash.jin10.com/detail/20260501031220754800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：希望我们能尽快与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260501031117942800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡的封锁令人难以置信，伊朗从石油中没有获得任何收入。",
+          "url": "https://flash.jin10.com/detail/20260501031111830800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "美国总统特朗普：美国众议院少数党领袖杰弗瑞斯竟然称美国最高法院是一个“非法的”法院。绝不应允许以这种方式诋毁世界上最伟大的机构之一。他必须立即撤回这一言论。",
           "url": "https://flash.jin10.com/detail/20260501014623242800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普重申美国已摧毁伊朗的核能力。",
+          "url": "https://flash.jin10.com/detail/20260501031006168800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260501030957414800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -254,15 +489,37 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美国总统特朗普：伊朗处境非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20260501030951036800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "白宫官员：美国总统特朗普预计将在周四签署国土安全部资金法案。",
           "url": "https://flash.jin10.com/detail/20260501014342741800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗约82%的无人机工厂停产了，近90%导弹工厂停产了。",
+          "url": "https://flash.jin10.com/detail/20260501030944510800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普：我提名妮可·B·萨菲尔博士（NICOLE B. SAPHIER）出任美国下一任卫生局长。",
@@ -274,6 +531,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的无人机和导弹工厂数量大幅下降。",
+          "url": "https://flash.jin10.com/detail/20260501030847994800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：尽管有人称之为战争，但股市仍创下新高。",
+          "url": "https://flash.jin10.com/detail/20260501030843356800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗渴望达成协议。伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260501030832860800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普再次对德国总理涉伊朗言论表达不满",
@@ -290,18 +580,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
           "url": "https://www.zhihu.com/question/2032585303555138489",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -311,8 +602,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.626万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "英镑/美元日内涨幅达1.0%，报1.3608。",
+          "url": "https://wallstreetcn.com/livenews/3097678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了12个对手方的82.61亿美元。",
@@ -343,7 +656,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -354,7 +667,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         },
@@ -388,11 +701,70 @@
           "url": "https://wallstreetcn.com/livenews/3097662",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时37分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌1.33美元/桶，报103.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3097658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时37分]"
+        },
+        {
+          "title": "周四（4月30日），美联储隔夜逆回购协议（RRP）使用规模为82.61亿美元（交易对手12家），上个交易日报6.43亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时37分]"
+        },
+        {
+          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
+          "url": "https://wallstreetcn.com/livenews/3097652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时37分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8310元，较周三夜盘收盘涨120点。成交量410.55亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3097674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "03时37分"
+        },
+        {
+          "title": "美国加州州长纽森：在特朗普与伊朗的冲突持续61天后，国家平均汽油价格已达到每加仑4.30美元，涨幅近30%。此外，食品、运输、航班等价格也在上涨。特朗普政府和共和党国会对此的反应？沉默无声。",
+          "url": "https://flash.jin10.com/detail/20260501032134400800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "GasBuddy的实时数据显示，全美平均油价达到每加仑4.35美元，并且今天还将继续上涨。",
@@ -401,9 +773,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "WTI 6月原油期货收报105.07美元/桶，4月份累涨超12.78%。 布伦特6月原油期货收报114.01美元/桶，4月份累涨超9.56%，4月30日亚太午盘曾达到126.41美元。 中东Abu Dhabi Murban原油期货报109.61美元/桶，4月份累涨2.62%。 NYMEX 6月天然气期货收报2.7670美元/百万英热单位。 NYMEX 5月汽油期货收报3.7715美元/加仑，NYMEX 5月取暖油期货收报4.1384美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3097671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美联储：截至4月29日当周，美国经季节性调整后的商业票据未偿余额增加43亿美元。",
@@ -428,17 +811,6 @@
           "time_info": "01时37分"
         },
         {
-          "title": "WTI原油5分钟内下跌1.33美元/桶，报103.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3097658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
           "title": "美联储：截至4月29日当周，美国未经季节性调整的商业票据未偿余额增加139亿美元。",
           "url": "https://flash.jin10.com/detail/20260501010142400800",
           "source": "金十数据",
@@ -461,26 +833,15 @@
           "time_info": "01时37分"
         },
         {
-          "title": "周四（4月30日），美联储隔夜逆回购协议（RRP）使用规模为82.61亿美元（交易对手12家），上个交易日报6.43亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3097653",
-          "source": "华尔街见闻-快讯",
+          "title": "英镑兑美元GBP/USD日内涨超1.00%，现报1.3611。",
+          "url": "https://flash.jin10.com/detail/20260501031040856800",
+          "source": "金十数据",
           "ranks": [
-            14
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "狗狗币涨超4%，4月份已累涨将近15%，比特币月内涨约12%一度逼近8万美元关口",
-          "url": "https://wallstreetcn.com/livenews/3097652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "03时37分"
         },
         {
           "title": "墨西哥石油公司Pemex一季度净亏损459.9亿墨西哥比索，上年同期亏损433.3亿比索。 一季度末，公司对供应商们的债务规模为207.63亿美元。",
@@ -511,7 +872,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         }
@@ -550,22 +911,24 @@
           "url": "https://wallstreetcn.com/livenews/3097661",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时37分]"
         },
         {
           "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
           "url": "https://wallstreetcn.com/livenews/3097659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时37分]"
         },
         {
           "title": "OpenAI为用户提供新安全措施 可抛弃密码登录",
@@ -574,7 +937,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         }
@@ -592,8 +955,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -604,19 +967,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -626,8 +990,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         }
       ]
     },
@@ -684,11 +1048,12 @@
             13,
             9,
             16,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "金价突涨",
@@ -697,11 +1062,12 @@
           "ranks": [
             29,
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -726,11 +1092,12 @@
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "2859.2克黄金被扣30年迎转机",
@@ -741,8 +1108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
         },
         {
           "title": "这4个小时是黄金睡眠时间",
@@ -754,25 +1121,37 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时37分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
           "url": "https://wallstreetcn.com/articles/3771356",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 02时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 03时37分]"
+        },
+        {
+          "title": "美股三大股指均涨超1%，纳斯达克中国金龙指数涨幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20260501031435034800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         }
       ]
     }
