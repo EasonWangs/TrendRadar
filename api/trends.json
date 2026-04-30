@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T21:41:03.582027+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-04-30T22:49:41.738423+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 103,
+      "match_count": 107,
       "titles": [
         {
           "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
@@ -61,6 +61,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 22时49分]"
         },
         {
           "title": "瑞穗银行：将星巴克(SBUX.O)目标价从105美元上调至110美元。",
@@ -195,6 +210,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
+          "url": "https://www.zhihu.com/question/2032585303555138489",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "布伦特原油向上触及110美元/桶，日内大涨逾6%。",
           "url": "https://flash.jin10.com/detail/20260429235647359800",
           "source": "金十数据",
@@ -237,20 +263,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时41分 ~ 21时41分]"
         },
         {
           "title": "科磊第三财季营收34.2亿美元，预期33.7亿美元。",
@@ -495,7 +507,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -753,6 +765,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "英镑兑美元GBP/USD日内涨超0.50%，现报1.3544。",
+          "url": "https://flash.jin10.com/detail/20260430221547965800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "巴克莱把微软目标价从600美元下调至545美元。",
           "url": "https://wallstreetcn.com/livenews/3097190",
           "source": "华尔街见闻-快讯",
@@ -762,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "英镑兑美元涨0.57%，报1.3550。",
+          "url": "https://wallstreetcn.com/livenews/3097580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "综合能源公司Entergy CEO：Meta Platforms(META.O)是公司资本计划增加140亿美元的关键推动因素。",
@@ -1034,7 +1068,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1048,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "美元/瑞郎日内跌幅达1.0%，报0.783。 欧元兑瑞郎跌超0.82%，至0.9155。",
+          "url": "https://wallstreetcn.com/livenews/3097571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "日本政府正考虑今年夏天重新启动电费和燃气补贴。 日本政府计划使用预备资金，目前不考虑追加预算。 7月至9月的财政措施成本可能约为31亿美元。（路透）",
@@ -1163,8 +1208,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 105,
       "titles": [
+        {
+          "title": "特朗普，居然这都能搞错？",
+          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 22时49分]"
+        },
         {
           "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
           "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
@@ -1176,6 +1233,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[07时26分 ~ 21时41分]"
+        },
+        {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 22时49分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -1198,28 +1267,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普，居然这都能搞错？",
-          "url": "https://news.ifeng.com/c/8sjpVZ3M3KQ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 21时41分]"
-        },
-        {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 21时41分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -1259,8 +1306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 21时41分]"
+          "appearance_count": 13,
+          "time_info": "[09时44分 ~ 22时49分]"
         },
         {
           "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
@@ -1368,6 +1415,21 @@
           "time_info": "[08时57分 ~ 17时49分]"
         },
         {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
           "url": "https://www.cls.cn/detail/2360313",
           "source": "财联社热门",
@@ -1382,6 +1444,18 @@
           "time_info": "[08时57分 ~ 13时14分]"
         },
         {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时49分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
           "url": "https://www.zhihu.com/question/2032422954055776061",
           "source": "知乎",
@@ -1393,32 +1467,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时30分 ~ 07时26分]"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 21时41分]"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时49分 ~ 21时41分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -1655,6 +1703,18 @@
           "time_info": "[11时15分 ~ 13时14分]"
         },
         {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普拒绝伊朗提议，称将继续封锁霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3096814",
           "source": "华尔街见闻-快讯",
@@ -1761,17 +1821,6 @@
           "time_info": "[11时15分 ~ 11时16分]"
         },
         {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
           "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B5%E6%89%8B%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%86%8D%E7%8E%B0%E6%8B%92%E7%BB%9D%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "百度热搜",
@@ -1782,6 +1831,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普特工的手枪瞄准镜疑似中国制造",
+          "url": "https://www.toutiao.com/trending/7634381061883134015/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "特朗普：在核问题解决之前 不会解除对伊朗的海上封锁",
@@ -2224,6 +2284,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "美媒：特朗普提出开放霍尔木兹海峡新计划",
+          "url": "https://flash.jin10.com/detail/20260430220822920800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动",
           "url": "https://wallstreetcn.com/livenews/3097479",
           "source": "华尔街见闻-快讯",
@@ -2359,7 +2430,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -2398,6 +2469,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时14分 ~ 19时36分]"
+        },
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "周四亚太盘初，道指期货跌约0.4%，标普股指期货跌0.1%，纳指期货跌超0.2%，罗素2000股指期货跌超0.5%。 目前，Meta（美股盘后）跌6.1%，奈飞跌超1%，甲骨文跌超0.6%，亚马逊涨1.3%，Sandisk涨1.5%，亚马逊涨2.1%，西部数据涨2.7%，谷歌A涨5.8%，高通涨15.8%。",
@@ -2510,7 +2592,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2606,7 +2688,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -2617,8 +2699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时26分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[07时26分 ~ 22时49分]"
         },
         {
           "title": "“电脑涨得比黄金还猛”",
@@ -2632,6 +2714,33 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时39分 ~ 09时44分]"
+        },
+        {
+          "title": "这4个小时是黄金睡眠时间",
+          "url": "https://www.toutiao.com/trending/7634205649488347163/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22,
+            24,
+            17,
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时02分 ~ 22时49分]"
+        },
+        {
+          "title": "2859.2克黄金被扣30年迎转机",
+          "url": "https://www.baidu.com/s?wd=2859.2%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E8%BF%8E%E8%BD%AC%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "央行、海关总署：进一步优化黄金及黄金制品进出口准许证“非一批一证”管理",
@@ -2665,21 +2774,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
-        },
-        {
-          "title": "这4个小时是黄金睡眠时间",
-          "url": "https://www.toutiao.com/trending/7634205649488347163/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            22,
-            24,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 20时43分]"
         },
         {
           "title": "周三（4月29日）纽约尾盘，现货黄金下跌1.15%，报4544.05美元/盎司，整体持续走低，交投于4610.29-4510.32美元，美股盘初刷新日低，美联储发布决议声明、鲍威尔新闻发布会期间交投于4540美元附近。 现货白银跌2.44%，报71.2949美元/盎司，13:45刷新日高至73.9497美元，随后在02:45（鲍威尔新闻发布会期间）刷新日低至70.8690美元。",
@@ -2744,7 +2838,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2755,9 +2849,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "2859克黄金被扣30年迎转机",
+          "url": "https://s.weibo.com/weibo?q=%232859%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E8%BF%8E%E8%BD%AC%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月30日（周四）早盘盘初下跌0.24%报1008.8元/克；<br/>上海黄金交易所白银T+D 4月30日（周四）早盘盘初下跌1.6%报17788.0元/千克。",
@@ -2791,6 +2896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "数据显示，截至3月底，印度央行在国内持有的黄金储备为680.05吨，而黄金储备总量为880.52吨。",
+          "url": "https://flash.jin10.com/detail/20260430220450927800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "现货黄金日内涨超2%，报4637.60美元/盎司；现货白银涨超3%，现报73.6美元/盎司。",
@@ -2981,8 +3097,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时39分 ~ 21时41分]"
+          "appearance_count": 25,
+          "time_info": "[00时39分 ~ 22时49分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -2993,8 +3109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时41分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 22时49分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -3003,11 +3119,24 @@
           "ranks": [
             18,
             6,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时36分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时36分 ~ 22时49分]"
+        },
+        {
+          "title": "DeepSeek思考过程好萌",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时49分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -3020,17 +3149,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 03时37分]"
-        },
-        {
-          "title": "DeepSeek思考过程好萌",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -3074,6 +3192,19 @@
           "time_info": "[00时39分 ~ 11时16分]"
         },
         {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            17,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 22时49分]"
+        },
+        {
           "title": "国际金价继续回撤至4500美元附近",
           "url": "https://www.toutiao.com/trending/7634171899290848787/",
           "source": "今日头条",
@@ -3085,19 +3216,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 03时37分]"
-        },
-        {
-          "title": "影响金价的关键因素是什么",
-          "url": "https://www.douyin.com/hot/2482875",
-          "source": "抖音",
-          "ranks": [
-            17,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 21时41分]"
         },
         {
           "title": "金价又起飞了",
@@ -3139,7 +3257,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -3190,7 +3308,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
