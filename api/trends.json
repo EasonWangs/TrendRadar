@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:22:08.413755+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-04T08:58:24.312368+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时58分]"
         },
         {
           "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时58分]"
         },
         {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
@@ -63,11 +63,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时58分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -79,11 +80,12 @@
             16,
             14,
             17,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[01时22分 ~ 08时58分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -93,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时58分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -104,8 +106,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时58分]"
         },
         {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
@@ -152,11 +154,23 @@
             2,
             5,
             9,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 08时58分]"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "特朗普称伊朗的“新提议”不可接受",
@@ -199,6 +213,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时26分 ~ 05时21分]"
+        },
+        {
+          "title": "特朗普宣称美伊战事“结束”出于哪些考量",
+          "url": "https://wallstreetcn.com/articles/3771501",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 08时58分]"
         },
         {
           "title": "特朗普：美国将从周一开始帮助一些船只离开霍尔木兹海峡",
@@ -288,18 +314,6 @@
           "time_info": "[05时21分 ~ 06时20分]"
         },
         {
-          "title": "特朗普宣称美伊战事“结束”出于哪些考量",
-          "url": "https://wallstreetcn.com/articles/3771501",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 07时22分]"
-        },
-        {
           "title": "美国代理司法部长：如果美联储监察官发现犯罪行为的证据，特朗普将调查美联储",
           "url": "https://wallstreetcn.com/livenews/3098311",
           "source": "华尔街见闻-快讯",
@@ -387,13 +401,25 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
+          "url": "https://wallstreetcn.com/livenews/3098312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 08时58分]"
+        },
+        {
           "title": "美国总统特朗普在社交媒体平台Truth Social上发布了一张照片，照片中他手持多张卡片，并配文“我手头拥有所有卡牌（I have all the cards）”。",
           "url": "https://flash.jin10.com/detail/20260504062617636800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -404,7 +430,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -426,20 +452,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
-          "url": "https://wallstreetcn.com/livenews/3098312",
+          "title": "特朗普谈及伊朗时表示：进展非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3098328",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "08时58分"
+        },
+        {
+          "title": "本周重要事件与数据预告——美国非农、中国贸易帐；特朗普威胁提高欧盟输美汽车关税",
+          "url": "https://flash.jin10.com/detail/20260504075755813800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）进展非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260504073715393800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "美国财长贝森特：特朗普应该因在英特尔投资中获利而获得认可。",
@@ -451,12 +499,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国总统特朗普：我们绝不能为了州立法机构的“方便”，就放任一场违宪的选举举行。如果他们必须进行两次投票，那就这样吧。我们应当要求州立法机构遵照最高法院的裁决行事。这比行政上的便利更为重要。其结果是，共和党将在即将到来的中期选举中获得超过20个众议院席位。",
+          "url": "https://flash.jin10.com/detail/20260504073702274800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "美官员澄清：特朗普“解救”霍尔木兹海峡被困船只的行动不涉及军舰护航",
+          "url": "https://flash.jin10.com/detail/20260504070247017800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
@@ -482,22 +552,45 @@
             5,
             6,
             7,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时58分]"
         },
         {
-          "title": "游戏驿站（GameStop）首席执行官Cohen 称提议以560亿美元收购eBay。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3098323",
+          "title": "美媒：游戏驿站提出以约560亿美元收购eBay",
+          "url": "https://flash.jin10.com/detail/20260504084137136800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "游戏驿站（GameStop）：提议以每股125美元的价格收购eBay，收购方式为现金加股票。",
+          "url": "https://wallstreetcn.com/livenews/3098341",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "市场消息：机器人初创企业灵心巧手(Linkerbot)表示，公司将在下一轮融资中寻求60亿美元的估值，是刚刚完成的融资轮估值的两倍。",
+          "url": "https://flash.jin10.com/detail/20260504083134115800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "08时58分"
         },
         {
           "title": "美元兑日元跌超0.2%，刷新日低至156.70日元下方。",
@@ -505,11 +598,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 08时58分]"
         },
         {
           "title": "亚行将为亚太地区两项新倡议提供700亿美元支持",
@@ -522,6 +616,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时22分]"
+        },
+        {
+          "title": "游戏驿站（GameStop）首席执行官Cohen 称提议以560亿美元收购eBay。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 08时58分]"
         },
         {
           "title": "着眼经济转型，阿联酋石油巨头布局550亿美元项目",
@@ -554,7 +660,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -565,9 +671,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "据华尔街日报：游戏驿站(GME.N)提出以每股125美元或约合560亿美元的价格收购eBay(EBAY.O)。",
+          "url": "https://flash.jin10.com/detail/20260504070408438800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
@@ -582,7 +699,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -592,11 +709,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时22分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 08时58分]"
         },
         {
           "title": "周一开盘，现货黄金高开10美元，报4624.39美元/盎司。",
@@ -605,7 +723,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -613,7 +731,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -623,11 +741,23 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时27分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[03时27分 ~ 08时58分]"
+        },
+        {
+          "title": "巴菲特谈美股投机风气",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
@@ -636,9 +766,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     }
