@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T00:41:41.994733+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-05T01:38:32.320953+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -26,8 +26,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
+          "url": "https://flash.jin10.com/detail/20260505013344120800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时38分"
+        },
+        {
+          "title": "标普500指数跌幅收窄至0.35%。 美国总统特朗普声称，美军海格塞斯和Caine将于周二早间举行新闻发布会。 伊朗曾就船只通行问题，对与冲突无关的国家发动过一些打击，包括一艘韩国货船。也许是时候让韩国加入这个行动了。",
+          "url": "https://wallstreetcn.com/livenews/3098572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -37,8 +59,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
+        },
+        {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普又有新绰号：NACHO",
+          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         },
         {
           "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
@@ -52,37 +107,59 @@
           "time_info": "00时41分"
         },
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
-          "source": "凤凰网",
+          "title": "特朗普宣称：伊朗若攻击美国船只，将会被“炸飞”",
+          "url": "https://wallstreetcn.com/livenews/3098566",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普又有新绰号：NACHO",
-          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：国防部长赫格塞思和参谋长联席会议主席丹·凯恩将于明日上午（北京时间周二晚上）举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260505011949161800",
+          "source": "金十数据",
           "ranks": [
-            9
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：除韩国船只外，截至目前，通过海峡的船只尚未出现损失。",
+          "url": "https://flash.jin10.com/detail/20260505011927654800",
+          "source": "金十数据",
           "ranks": [
-            13
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：我们已击沉七艘小型船只。",
+          "url": "https://flash.jin10.com/detail/20260505011917249800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗曾就船只通行问题，对与冲突无关的国家发动过一些打击，包括一艘韩国货船。也许是时候让韩国加入这个行动了。",
+          "url": "https://flash.jin10.com/detail/20260505011817172800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "学者：特朗普2.0经济政策逻辑与趋势",
@@ -98,6 +175,80 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。 WTI原油跌破105美元/桶关口，报104.93美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
+        },
+        {
+          "title": "彭博美元指数涨0.3%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3098558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
+        },
+        {
+          "title": "周一（5月4日），美联储隔夜逆回购协议（RRP）使用规模为6.18亿美元（交易对手11家）。",
+          "url": "https://wallstreetcn.com/livenews/3098570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3098567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "阿联酋外交部声明称，阿联酋保留对伊朗袭击做出回应的“全部及合法权利”。 伊朗的袭击标志着局势严重升级，并对该国的安全构成直接威胁。 WTI原油5分钟内上涨0.51美元/桶，报105.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的6.18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260505011745661800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -106,11 +257,12 @@
           "url": "https://wallstreetcn.com/articles/3771543",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
@@ -156,11 +308,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%A4%A7%E8%B7%8C%E4%BA%86&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         },
         {
           "title": "金价跌2%，布油涨穿114美元，阿联酋称伊朗袭击Fujairah",
@@ -184,50 +337,41 @@
           "url": "https://www.toutiao.com/trending/7636037468252278318/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         },
         {
           "title": "阿联酋称，防空系统正针对另外一轮空袭做出响应。 WTI原油5分钟内上涨0.53美元/桶，报105.81美元/桶；布伦特原油5分钟内上涨0.54美元/桶，报114.45美元/桶。 标普500日内跌幅达0.5%，报7193.42。 现货黄金5分钟内下跌7.2美元/盎司，报4520.09美元/盎司；纽约金5分钟内下跌6.29美元/盎司，报4530.9美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3098546",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。 WTI原油跌破105美元/桶关口，报104.93美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098560",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "彭博美元指数涨0.3%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3098558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时38分"
         }
       ]
     },
@@ -243,8 +387,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         }
       ]
     },
@@ -260,8 +404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         }
       ]
     }
