@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T08:52:58.762839+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-05-05T09:42:11.171200+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 08时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时42分]"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 08时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时42分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -60,8 +60,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 08时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时42分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时27分 ~ 09时42分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -76,26 +87,16 @@
           "time_info": "[00时41分 ~ 06时27分]"
         },
         {
-          "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时27分 ~ 08时52分]"
-        },
-        {
-          "title": "特朗普未明言伊朗违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3098681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "[08时52分 ~ 09时42分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.35%。 美国总统特朗普声称，美军海格塞斯和Caine将于周二早间举行新闻发布会。 伊朗曾就船只通行问题，对与冲突无关的国家发动过一些打击，包括一艘韩国货船。也许是时候让韩国加入这个行动了。",
@@ -107,6 +108,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
+          "url": "https://wallstreetcn.com/livenews/3098668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时42分]"
         },
         {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
@@ -146,16 +160,16 @@
           "time_info": "[05时30分 ~ 06时27分]"
         },
         {
-          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
-          "url": "https://wallstreetcn.com/livenews/3098668",
+          "title": "特朗普未明言伊朗违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3098681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时24分 ~ 08时52分]"
+          "time_info": "[08时52分 ~ 09时42分]"
         },
         {
           "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
@@ -187,11 +201,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 08时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时42分]"
         },
         {
           "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
@@ -199,11 +214,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时42分]"
+        },
+        {
+          "title": "日本怂恿特朗普访华途中访日",
+          "url": "https://www.toutiao.com/trending/7635392980899069998/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时24分 ~ 08时52分]"
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "美媒：特朗普政府考虑对新AI模型引入政府监管",
@@ -314,17 +341,6 @@
           "time_info": "[00时41分 ~ 03时40分]"
         },
         {
-          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
-          "url": "https://wallstreetcn.com/articles/3771548",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
           "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
           "url": "https://flash.jin10.com/detail/20260505002813048800",
           "source": "金十数据",
@@ -430,7 +446,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -551,6 +567,20 @@
           "time_info": "02时42分"
         },
         {
+          "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 09时42分]"
+        },
+        {
           "title": "纽约期金跌2.5%，一度逼近4500美元",
           "url": "https://wallstreetcn.com/livenews/3098646",
           "source": "华尔街见闻-快讯",
@@ -577,19 +607,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时36分 ~ 07时24分]"
-        },
-        {
-          "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 08时52分]"
         },
         {
           "title": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。 WTI原油跌破105美元/桶关口，报104.93美元/桶。",
@@ -639,6 +656,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时27分]"
+        },
+        {
+          "title": "WTI原油期货跌1.3%，报105.11美元，市场评估霍尔木兹海峡通行对供应面的影响。",
+          "url": "https://wallstreetcn.com/livenews/3098661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 09时42分]"
         },
         {
           "title": "福泰制药（VRTX）一季度调整后每股收益（EPS）为4.47美元，分析师预期4.19美元。 维持全年总收入预期在129.5亿-131亿美元不变，分析师预期130.4亿美元。",
@@ -701,18 +731,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时36分]"
-        },
-        {
-          "title": "WTI原油期货跌1.3%，报105.11美元，市场评估霍尔木兹海峡通行对供应面的影响。",
-          "url": "https://wallstreetcn.com/livenews/3098661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 08时52分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
@@ -836,7 +854,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
         },
@@ -877,7 +895,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -888,8 +906,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 08时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时42分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -993,6 +1011,17 @@
           "time_info": "[04时36分 ~ 06时27分]"
         },
         {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260505003052330800",
           "source": "金十数据",
@@ -1029,7 +1058,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
@@ -1054,6 +1083,17 @@
           "time_info": "[00时41分 ~ 04时36分]"
         },
         {
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
+          "url": "https://flash.jin10.com/detail/20260505090141713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
           "url": "https://wallstreetcn.com/livenews/3098593",
           "source": "华尔街见闻-快讯",
@@ -1068,7 +1108,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "牛散集体换仓：科技稀土黄金成新猎物",
@@ -1107,6 +1147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "现货黄金向上触及4530美元/盎司，日内涨0.14%。",
+          "url": "https://flash.jin10.com/detail/20260505085905623800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
@@ -1154,8 +1205,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 08时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时42分]"
         },
         {
           "title": "2/10年期美债收益率涨约7个基点",
