@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T13:13:19.820713+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-05-06T15:06:26.914077+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "市场消息：美国国务院批准向乌克兰潜在销售联合直接攻击弹药增程型及相关设备，金额为3.736亿美元。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "摩根大通：将AMD(AMD.O)的目标价从270美元上调至385美元。",
+          "url": "https://flash.jin10.com/detail/20260506145019747800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。",
@@ -69,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -133,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 11时16分]"
+        },
+        {
+          "title": "全球存储巨头集体狂飙：美光和海力士市值站上7000亿美元 三星升破1万亿",
+          "url": "https://www.cls.cn/detail/2363338",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 15时06分]"
         },
         {
           "title": "韩元兑美元汇率突破1美元兑1460韩元，创下4月17日以来的最高水平。",
@@ -197,17 +220,6 @@
           "time_info": "[05时21分 ~ 05时50分]"
         },
         {
-          "title": "全球存储巨头集体狂飙：美光和海力士市值站上7000亿美元 三星升破1万亿",
-          "url": "https://www.cls.cn/detail/2363338",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
           "title": "纽元兑美元NZD/USD上涨0.87%，报0.59380，为3月11日以来最高水平。",
           "url": "https://flash.jin10.com/detail/20260506111046026800",
           "source": "金十数据",
@@ -225,7 +237,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -258,7 +270,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -269,7 +281,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -280,7 +292,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -467,7 +479,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -582,6 +594,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "韩元于当地时间下午3:30在岸收盘报1,455.1韩元兑1美元，创下自2月27日以来最强水平。",
+          "url": "https://flash.jin10.com/detail/20260506143101554800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
           "title": "周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。",
           "url": "https://wallstreetcn.com/livenews/3098915",
           "source": "华尔街见闻-快讯",
@@ -599,7 +622,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -618,7 +641,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -728,6 +751,17 @@
           "time_info": "[00时46分 ~ 03时40分]"
         },
         {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 15时06分]"
+        },
+        {
           "title": "特朗普承认自己曾“不得不”常买中国货",
           "url": "https://www.cls.cn/detail/2363024",
           "source": "财联社热门",
@@ -740,6 +774,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时52分 ~ 13时13分]"
+        },
+        {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "美国国务卿鲁比奥：美国特使威特科夫和特朗普女婿库什纳正在努力推动外交进程。",
@@ -781,18 +826,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
-          "url": "https://news.ifeng.com/c/8su3Btl2lle",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -809,6 +843,30 @@
           "time_info": "[01时46分 ~ 02时45分]"
         },
         {
+          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
+          "url": "https://www.cls.cn/detail/2363248",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 15时06分]"
+        },
+        {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 15时06分]"
+        },
+        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://wallstreetcn.com/livenews/3098974",
           "source": "华尔街见闻-快讯",
@@ -821,6 +879,18 @@
           "time_info": "[07时23分 ~ 08时53分]"
         },
         {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 15时06分]"
+        },
+        {
           "title": "特朗普避谈伊朗何种行为将被视为违反停火协议：你们会知道的",
           "url": "https://wallstreetcn.com/livenews/3098873",
           "source": "华尔街见闻-快讯",
@@ -831,18 +901,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时45分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
-          "url": "https://www.cls.cn/detail/2363248",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时13分]"
         },
         {
           "title": "美国总统特朗普：燃油价格上涨是（美国和以色列发动战争）需要付出的一点小小的代价。",
@@ -868,35 +926,13 @@
           "time_info": "[09时43分 ~ 09时44分]"
         },
         {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
           "title": "伊朗媒体称特朗普暂停“自由计划”是为掩盖失败",
           "url": "https://wallstreetcn.com/livenews/3099125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -932,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "特朗普：德黑兰“应该挥舞白旗投降”",
@@ -1009,6 +1056,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "韩国青瓦台：目前尚不需要对特朗普提出的参与“自由计划”的呼吁进行审议。",
+          "url": "https://flash.jin10.com/detail/20260506142948332800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         }
       ]
     },
@@ -1016,6 +1074,18 @@
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 15时06分]"
+        },
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
           "url": "https://www.cls.cn/detail/2362725",
@@ -1029,18 +1099,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时46分 ~ 08时53分]"
-        },
-        {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 13时13分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
@@ -1130,6 +1188,18 @@
           "time_info": "[05时21分 ~ 06时30分]"
         },
         {
+          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
+          "url": "https://www.cls.cn/detail/2363413",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 15时06分]"
+        },
+        {
           "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
           "url": "https://www.cls.cn/detail/2362959",
           "source": "财联社热门",
@@ -1163,17 +1233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
-        },
-        {
-          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
-          "url": "https://www.cls.cn/detail/2363413",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
         },
         {
           "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
@@ -1410,6 +1469,140 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097949",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 11时16分]"
+        },
+        {
+          "title": "抓住晨起后的黄金时间 做好这几件事",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%99%A8%E8%B5%B7%E5%90%8E%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E9%97%B4+%E5%81%9A%E5%A5%BD%E8%BF%99%E5%87%A0%E4%BB%B6%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 11时16分]"
+        },
+        {
+          "title": "现在“抄底”黄金是捡漏吗",
+          "url": "https://www.toutiao.com/trending/7636550911220780586/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 11时16分]"
+        },
+        {
+          "title": "现货黄金盘中涨至4600.22美元/盎司，日内涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3099008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 09时44分]"
+        },
+        {
+          "title": "现货黄金突破4600美元/盎司，日内涨0.96%。",
+          "url": "https://flash.jin10.com/detail/20260506082237978800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "A股黄金股震荡走高，晓程科技涨近10%，四川黄金涨超8%，赤峰黄金、山金国际、湖南黄金纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3099155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "现货黄金站上4660美元/盎司，日内涨2.31%。 纽约期金站上4670美元/盎司，日内涨2.25%。",
+          "url": "https://wallstreetcn.com/livenews/3099153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "特朗普突然叫停“自由计划”，中东局势有所缓和，现货黄金卖出信号有所减弱、美油多空陷入拉锯......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260506105845359800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1034.054吨。",
+          "url": "https://flash.jin10.com/detail/20260506061702400800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "抓住晨起后的“黄金时间”",
+          "url": "https://www.toutiao.com/trending/7635847759528116278/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "港股黄金股午后震荡走高，山东黄金、灵宝黄金涨超5%，洛阳钼业涨超3%，周大福、紫金矿业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3099145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "概念",
       "match_count": 8,
       "titles": [
@@ -1508,96 +1701,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097949",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时46分 ~ 11时16分]"
-        },
-        {
-          "title": "抓住晨起后的黄金时间 做好这几件事",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%99%A8%E8%B5%B7%E5%90%8E%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E9%97%B4+%E5%81%9A%E5%A5%BD%E8%BF%99%E5%87%A0%E4%BB%B6%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时16分]"
-        },
-        {
-          "title": "现在“抄底”黄金是捡漏吗",
-          "url": "https://www.toutiao.com/trending/7636550911220780586/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 11时16分]"
-        },
-        {
-          "title": "现货黄金盘中涨至4600.22美元/盎司，日内涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3099008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 09时44分]"
-        },
-        {
-          "title": "现货黄金突破4600美元/盎司，日内涨0.96%。",
-          "url": "https://flash.jin10.com/detail/20260506082237978800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "特朗普突然叫停“自由计划”，中东局势有所缓和，现货黄金卖出信号有所减弱、美油多空陷入拉锯......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260506105845359800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1034.054吨。",
-          "url": "https://flash.jin10.com/detail/20260506061702400800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1657,8 +1760,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时40分 ~ 13时13分]"
+          "appearance_count": 14,
+          "time_info": "[03时40分 ~ 15时06分]"
         },
         {
           "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
@@ -1706,8 +1809,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 13时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 15时06分]"
         }
       ]
     },
