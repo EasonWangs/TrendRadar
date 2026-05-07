@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T09:44:00.599413+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-05-07T11:17:40.765698+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -15,11 +15,12 @@
             4,
             2,
             7,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 09时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 11时17分]"
         },
         {
           "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
@@ -49,6 +50,18 @@
           "time_info": "[00时42分 ~ 09时44分]"
         },
         {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 11时17分]"
+        },
+        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
           "source": "澎湃新闻",
@@ -60,18 +73,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时42分 ~ 07时24分]"
-        },
-        {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 09时44分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -94,6 +95,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "特朗普乐观预测“一周内与伊朗达成协议”，现货金银多头情绪强烈、美油仍陷多空拉锯战，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260507105127049800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E5%BE%97%E4%B8%8D%E2%80%9D%E5%B8%B8%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 11时17分]"
         },
         {
           "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
@@ -156,18 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时37分]"
-        },
-        {
-          "title": "为什么特朗普“不得不”常买中国货",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E5%BE%97%E4%B8%8D%E2%80%9D%E5%B8%B8%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 09时44分]"
         },
         {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
@@ -365,6 +389,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "特朗普晒出“战争时长图” 称“伊朗行动”只用时6周",
+          "url": "https://flash.jin10.com/detail/20260507104246739800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普对与伊朗问题的框架持乐观态度。在被问及对伊朗行动时间表时，特朗普回应称“一周”。",
           "url": "https://flash.jin10.com/detail/20260507021102391800",
           "source": "金十数据",
@@ -459,9 +494,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "美国燃油出口飙升至历史新高！特朗普或重拾出口禁令选项？",
+          "url": "https://flash.jin10.com/detail/20260507103103663800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "以色列总理内塔尼亚胡：美国总统特朗普和我一致认为，伊朗最重要的目标是消除所有浓缩铀并拆除伊朗的浓缩能力。",
@@ -500,7 +546,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "2026美加墨世界杯转播权涨到3亿美元，央视选择拒绝",
@@ -677,6 +723,18 @@
           "time_info": "[01时55分 ~ 03时39分]"
         },
         {
+          "title": "美国汽油价格突破每加仑4.54美元",
+          "url": "https://www.toutiao.com/trending/7635934809948848166/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时17分]"
+        },
+        {
           "title": "韩国4月外汇储备 4278.8亿美元，前值4236.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260507050002133800",
           "source": "金十数据",
@@ -809,17 +867,6 @@
           "time_info": "[01时55分 ~ 02时44分]"
         },
         {
-          "title": "美国汽油价格突破每加仑4.54美元",
-          "url": "https://www.toutiao.com/trending/7635934809948848166/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
           "title": "华友钴业：拟以2.1亿美元收购Atlantic Lithium",
           "url": "https://flash.jin10.com/detail/20260507083042776800",
           "source": "金十数据",
@@ -837,7 +884,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -881,7 +928,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -983,12 +1030,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "在岸人民币兑美元涨116点至6.8033元，创2023年2月14日以来新高。 离岸人民币兑美元涨107点至6.8024元，创2023年2月10日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3099682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -1003,17 +1061,31 @@
           "time_info": "[00时42分 ~ 05时30分]"
         },
         {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 11时17分]"
+        },
+        {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2364164",
           "source": "财联社热门",
           "ranks": [
             13,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 09时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 11时17分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -1029,18 +1101,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 08时57分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 09时44分]"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -1065,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时39分]"
+        },
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时17分]"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -1101,17 +1172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时44分]"
-        },
-        {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
         },
         {
           "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
@@ -1168,12 +1228,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "美股冲高，阿波罗CEO警告称市场将出现调整",
+          "url": "https://flash.jin10.com/detail/20260507103105734800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股商业航天概念板块反复活跃，金螳螂走出12天10板，宇环数控4天3板，炼石航空涨停，上海港湾、德恩精工、春晖智控、理工导航等跟涨。",
@@ -1182,7 +1253,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -1193,7 +1264,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -1241,7 +1312,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -1252,7 +1323,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -1263,9 +1334,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3099685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -1281,8 +1363,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时31分 ~ 09时44分]"
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 11时17分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
@@ -1349,7 +1431,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         }
@@ -1430,23 +1512,23 @@
           "time_info": "[00时42分 ~ 09时44分]"
         },
         {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 11时17分]"
+        },
+        {
           "title": "国家队领投DeepSeek首轮融资",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%A2%86%E6%8A%95DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 09时44分]"
-        },
-        {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
