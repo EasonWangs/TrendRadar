@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T17:03:04.700527+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-05-07T18:50:05.694354+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "2026美加墨世界杯转播权涨到3亿美元，央视选择拒绝",
@@ -56,11 +56,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时50分]"
         },
         {
           "title": "世界杯中国赞助商已投入超5亿美元",
@@ -68,11 +69,23 @@
           "source": "今日头条",
           "ranks": [
             4,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时50分]"
+        },
+        {
+          "title": "世界杯中国赞助商已投入超5亿美元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -103,7 +116,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -117,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "以色列央行：以色列外汇储备在4月为2357.45亿美元，3月为2294.19亿美元。",
+          "url": "https://flash.jin10.com/detail/20260507183143204800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "离岸人民币兑美元升破6.8，创2023年2月来新高。",
@@ -444,7 +468,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -471,6 +495,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "现货白银日内涨幅达4.0%，报80.46美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "澳元兑美元AUD/USD日内涨超0.50%，现报0.7239。",
           "url": "https://flash.jin10.com/detail/20260507062533280800",
           "source": "金十数据",
@@ -488,7 +523,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -510,7 +545,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -554,7 +589,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -625,6 +660,17 @@
           "time_info": "05时30分"
         },
         {
+          "title": "现货白银站上80美元/盎司，日内涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3099912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "Arm(ARM.O)2026财年Q4营收14.9亿美元，上年同期12.41亿美元，市场预期14.71亿美元。",
           "url": "https://flash.jin10.com/detail/20260507041458953800",
           "source": "金十数据",
@@ -653,7 +699,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -675,7 +721,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -686,15 +732,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
+        },
+        {
+          "title": "日本可能花费320亿美元进行日元买入干预",
+          "url": "https://wallstreetcn.com/livenews/3099891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
@@ -707,6 +764,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时56分 ~ 17时03分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 18时50分]"
         },
         {
           "title": "中方再回应特朗普访华",
@@ -739,6 +807,17 @@
           "time_info": "[01时54分 ~ 09时44分]"
         },
         {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时50分]"
+        },
+        {
           "title": "为什么特朗普“不得不”常买中国货",
           "url": "https://news.ifeng.com/c/8sugghRWW2t",
           "source": "凤凰网",
@@ -749,17 +828,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时42分 ~ 09时44分]"
-        },
-        {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 17时03分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
@@ -773,17 +841,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时42分 ~ 07时24分]"
-        },
-        {
-          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
-          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时03分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -808,6 +865,32 @@
           "time_info": "[13时15分 ~ 15时24分]"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 18时50分]"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时50分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
           "url": "https://flash.jin10.com/detail/20260507030743676800",
           "source": "金十数据",
@@ -828,19 +911,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 17时03分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -916,18 +986,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时37分]"
-        },
-        {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时03分]"
         },
         {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
@@ -1026,6 +1084,17 @@
           "time_info": "[01时55分 ~ 02时44分]"
         },
         {
+          "title": "特朗普盟友访华对中美关系有何影响",
+          "url": "https://www.toutiao.com/trending/7636787672865833002/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 18时50分]"
+        },
+        {
           "title": "特朗普称暂停自由计划行动",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
@@ -1101,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-07）",
+          "url": "https://flash.jin10.com/detail/20260507182119393800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
@@ -1257,6 +1337,17 @@
           "time_info": "13时15分"
         },
         {
+          "title": "市场消息：美国总统特朗普在明尼阿波利斯的移民突击行动，严重拖慢了美国其他刑事起诉案件的进程。",
+          "url": "https://flash.jin10.com/detail/20260507180038509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
           "url": "https://flash.jin10.com/detail/20260507010132533800",
           "source": "金十数据",
@@ -1395,6 +1486,18 @@
           "time_info": "[00时42分 ~ 08时57分]"
         },
         {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 18时50分]"
+        },
+        {
           "title": "国际油价短线跳水，布伦特原油日内跌幅达3.0%，报98.1美元/桶。 美股股指期货快速拉升，纳指期货日内涨幅扩大至0.3%。 美元指数短线走低，日内跌0.16%。",
           "url": "https://wallstreetcn.com/livenews/3099839",
           "source": "华尔街见闻-快讯",
@@ -1404,17 +1507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时43分 ~ 17时03分]"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -1439,6 +1531,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时39分]"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 18时50分]"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -1475,17 +1579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时44分]"
-        },
-        {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
@@ -1528,7 +1621,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -1579,8 +1672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时31分 ~ 17时03分]"
+          "appearance_count": 15,
+          "time_info": "[06时31分 ~ 18时50分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
@@ -1647,7 +1740,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -1658,7 +1751,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -1906,6 +1999,57 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 08时57分]"
+        },
+        {
+          "title": "金价涨2.8%，逼近4700美元",
+          "url": "https://wallstreetcn.com/livenews/3099570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "金价今年或涨至5200美元",
+          "url": "https://www.douyin.com/hot/2491112",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 18时50分]"
+        },
+        {
+          "title": "金十图示：2026年05月07日（周四）上海金午盘价为1038.9元/克，较国际金价(1036.18元/克)高2.72元/克",
+          "url": "https://flash.jin10.com/detail/20260507150146866800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 3,
       "titles": [
@@ -1916,11 +2060,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 17时03分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 18时50分]"
         },
         {
           "title": "UP主优化DeepSeek V4",
@@ -1948,46 +2093,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 09时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 08时57分]"
-        },
-        {
-          "title": "金价涨2.8%，逼近4700美元",
-          "url": "https://wallstreetcn.com/livenews/3099570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时31分]"
-        },
-        {
-          "title": "金十图示：2026年05月07日（周四）上海金午盘价为1038.9元/克，较国际金价(1036.18元/克)高2.72元/克",
-          "url": "https://flash.jin10.com/detail/20260507150146866800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
         }
       ]
     },
