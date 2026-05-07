@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T01:39:18.621071+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-05-08T02:44:48.459906+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "周四（5月7日），美联储隔夜逆回购协议（RRP）使用规模为7.73亿美元，上个交易日报16.33亿美元。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.52美元/桶，报94.93美元/桶；布伦特原油5分钟内下跌0.57美元/桶，报100.6美元/桶。 据半岛电视台，美国官员表示，关于准备重启“自由行动”的报道不属实。",
+          "url": "https://wallstreetcn.com/livenews/3100151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "美联储数据显示，5月6日当周，美国经季节性调整的商业票据未偿还余额增加73亿美元；美国未经季节性调整的外国金融商业票据未偿还余额减少111亿美元；美国未经季节性调整的商业票据未偿还余额减少210亿美元。",
@@ -25,18 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "美元兑日元涨0.17%，刷新日高至156.65。",
-          "url": "https://wallstreetcn.com/livenews/3100133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -53,6 +53,18 @@
           "time_info": "[00时41分 ~ 01时39分]"
         },
         {
+          "title": "美元兑日元涨0.17%，刷新日高至156.65。",
+          "url": "https://wallstreetcn.com/livenews/3100133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时44分]"
+        },
+        {
           "title": "世界杯中国赞助商已投入超5亿美元",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -61,19 +73,42 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
         },
         {
           "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
           "url": "https://wallstreetcn.com/livenews/3100128",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时44分]"
+        },
+        {
+          "title": "报道：美伊战争消息发布前的油价博弈总额达70亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时44分"
+        },
+        {
+          "title": "布伦特原油期货转涨，此前一度下跌5美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3100139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "美国天然气期货日内涨超3.00%，现报2.812美元/百万英热。",
@@ -109,13 +144,24 @@
           "time_info": "00时41分"
         },
         {
+          "title": "周四（5月7日），美联储隔夜逆回购协议（RRP）使用规模为7.73亿美元（交易对手6家），上个交易日报16.33亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
           "title": "Arm控股跌超10.7%，报211.51美元。 高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。高盛称此举的理由是智能手机市场的疲软程度令人震惊，且ARM核心版权费收入已连续两个季度不及预期。",
           "url": "https://wallstreetcn.com/livenews/3100116",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -126,7 +172,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -155,6 +201,112 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
+        },
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
+        },
+        {
+          "title": "特朗普政府正寻求重启“自由计划”，最早可能在本周实施",
+          "url": "https://wallstreetcn.com/livenews/3100152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "特朗普访华前瞻——台湾怎么办？",
+          "url": "https://news.ifeng.com/c/8swQYqpheqc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
+        },
+        {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
+        },
+        {
+          "title": "美国总统特朗普：我们的代表计划会面，商讨一些关键问题。未来几个月内，将根据需要安排进一步的会晤。",
+          "url": "https://flash.jin10.com/detail/20260508022342968800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国总统特朗普：我们讨论了许多议题，包括贸易，特别是关税问题。会晤进行得很顺利。",
+          "url": "https://flash.jin10.com/detail/20260508022329882800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美国总统特朗普：刚刚结束了与巴西总统卢拉的会晤。",
+          "url": "https://flash.jin10.com/detail/20260508022320310800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
@@ -166,8 +318,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股盘中）",
@@ -176,7 +328,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -187,7 +339,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -199,8 +351,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -211,76 +363,64 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
+      "keyword_group": "openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
+          "url": "https://flash.jin10.com/detail/20260508023402510800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
-          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
-          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            6
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
-          "title": "特朗普访华前瞻——台湾怎么办？",
-          "url": "https://news.ifeng.com/c/8swQYqpheqc",
-          "source": "凤凰网",
+          "title": "据The Information：OpenAI与博通(AVGO.O)的AI芯片交易遭遇180亿美元融资障碍。",
+          "url": "https://flash.jin10.com/detail/20260508021432233800",
+          "source": "金十数据",
           "ranks": [
-            6
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
+          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
+          "url": "https://wallstreetcn.com/livenews/3100136",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -290,19 +430,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时44分]"
         },
         {
           "title": "首都机场海关查获710克黄金制品",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7710%E5%85%8B%E9%BB%84%E9%87%91%E5%88%B6%E5%93%81",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 02时44分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月7日（周四）晚盘收盘下跌0.14%报1032.84元/克；<br/>上海黄金交易所白银T+D 5月7日（周四）晚盘收盘上涨1.96%报19656.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260508023058536800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "陈茂波：香港打造全球大宗商品与黄金交易中心",
@@ -343,11 +495,12 @@
           "url": "https://wallstreetcn.com/livenews/3100123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 02时44分]"
         }
       ]
     }
