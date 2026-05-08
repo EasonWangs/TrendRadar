@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T21:41:53.033859+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2026-05-08T22:44:43.241604+08:00",
+  "total_titles_processed": 2125,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,25 @@
             10,
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时13分 ~ 21时41分]"
+          "appearance_count": 12,
+          "time_info": "[11时13分 ~ 22时44分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 22时44分]"
         },
         {
           "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
@@ -95,18 +109,6 @@
           "time_info": "[11时13分 ~ 19时36分]"
         },
         {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 21时41分]"
-        },
-        {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
           "url": "https://wallstreetcn.com/articles/3771687",
           "source": "华尔街见闻",
@@ -117,6 +119,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时44分]"
         },
         {
           "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
@@ -141,18 +155,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时41分 ~ 21时41分]"
-        },
-        {
-          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
-          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时41分]"
         },
         {
           "title": "美国总统特朗普：已同意给欧盟委员会主席冯德莱恩时间至美国建国250周年纪念日；否则，很遗憾，他们的关税将立即大幅上调。",
@@ -238,7 +240,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -290,6 +292,18 @@
           "time_info": "[06时29分 ~ 07时24分]"
         },
         {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 22时44分]"
+        },
+        {
           "title": "德国副总理：德国将推动建立新的联盟以对抗特朗普。 德国和欧盟必须防范“勒索”。 欧盟应进一步与英国和加拿大开展合作。",
           "url": "https://wallstreetcn.com/livenews/3100672",
           "source": "华尔街见闻-快讯",
@@ -312,18 +326,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时51分 ~ 16时42分]"
-        },
-        {
-          "title": "美国贸易法院裁定特朗普10%全球关税无效",
-          "url": "https://wallstreetcn.com/articles/3771788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 21时41分]"
         },
         {
           "title": "市场消息：美国贸易法院裁定特朗普提出的10%全球关税提案不成立。",
@@ -842,7 +844,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -855,8 +857,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 21时41分]"
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 22时44分]"
         },
         {
           "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
@@ -906,6 +908,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "哈塞特质疑“新债王”的债务言论，宣称：美国信奉强势美元",
+          "url": "https://wallstreetcn.com/livenews/3100792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "泰国央行：泰国国际储备在5月1日为2870亿美元，较4月24日的2872亿美元略有下降。",
           "url": "https://flash.jin10.com/detail/20260508153027999800",
           "source": "金十数据",
@@ -934,7 +947,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -956,7 +969,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -996,6 +1009,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 05时26分]"
+        },
+        {
+          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
+          "url": "https://www.zhihu.com/question/2035688647794635303",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 22时44分]"
         },
         {
           "title": "美元兑日元涨0.17%，刷新日高至156.65。",
@@ -1081,18 +1107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时41分 ~ 18时39分]"
-        },
-        {
-          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
-          "url": "https://www.zhihu.com/question/2035688647794635303",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 21时41分]"
         },
         {
           "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
@@ -1223,6 +1237,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "巴克莱：青睐做多2026年12月ICE柴油与布伦特原油的裂解价差，截至撰稿时该价差为33.4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260508222603718800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "市场消息：美国国务卿鲁比奥批准向中东国家提供258亿美元的武器支持。",
           "url": "https://flash.jin10.com/detail/20260508025852117800",
           "source": "金十数据",
@@ -1240,7 +1265,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1265,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油均价每桶100美元的预测，风险倾向于上行。",
+          "url": "https://flash.jin10.com/detail/20260508222321307800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "美国天然气期货日内涨超3.00%，现报2.812美元/百万英热。",
@@ -1498,6 +1534,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "苹果股价上涨2%，股价刷新记录新高，总市值报4.31万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "摩根大通：将DoorDash目标价从244美元上调至250美元。",
           "url": "https://flash.jin10.com/detail/20260508103330948800",
           "source": "金十数据",
@@ -1551,6 +1598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "据悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。有关上述信息，记者向Plaud及腾讯方面求证，双方均表示消息不实。（36氪）",
+          "url": "https://wallstreetcn.com/livenews/3100764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
@@ -1731,7 +1789,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1742,7 +1800,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1816,7 +1874,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -1827,8 +1885,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时56分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[08时56分 ~ 22时44分]"
         },
         {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
@@ -1965,9 +2023,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "美股三大指数集体高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "美股大类资产类ETF普遍收跌，小盘股指ETF、新兴市场ETF至少跌超1.3%",
@@ -1995,8 +2064,21 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
+          "url": "https://www.cls.cn/detail/2366145",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 22时44分]"
+        },
         {
           "title": "A股光纤概念板块走势分化，杭电股份盘中创新高，通鼎互联封板涨停，新能泰山、云南锗业、大族激光跟涨；法尔胜跌超7.5%，致尚科技跌超5%，福晶科技、光库科技、长飞光纤等跟跌。",
           "url": "https://flash.jin10.com/detail/20260508093834548800",
@@ -2020,19 +2102,6 @@
           "time_info": "09时44分"
         },
         {
-          "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
-          "url": "https://www.cls.cn/detail/2366145",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 21时41分]"
-        },
-        {
           "title": "欧洲半导体概念股涨跌各异，Suess MicroTec AG收涨8.66%，Soitec涨2.66%，阿斯麦控股则跌0.38%，ASM国际跌1.45%，德国爱思强跌1.94%。",
           "url": "https://wallstreetcn.com/livenews/3100123",
           "source": "华尔街见闻-快讯",
@@ -2043,6 +2112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时44分]"
+        },
+        {
+          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
+          "url": "https://www.cls.cn/detail/2366511",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "A股AI应用概念板块竞价高开，南威软件两连板，国安股份竞价涨停，博睿数据、引力传媒、完美世界等跟涨。",
@@ -2249,7 +2329,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
@@ -2310,9 +2390,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "金价今年会涨至5200美元吗",
+          "url": "https://www.toutiao.com/trending/7637144858989170214/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "金价破4700追不追",
@@ -2424,7 +2515,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "分析师：中东局势缓和预期打压美元与美债收益率",
@@ -2447,6 +2538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "新债王Gundlach押注小概率事件，将部分高票息美债替换为低票息品种",
+          "url": "https://wallstreetcn.com/livenews/3100783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "美联储威廉姆斯：对美债的需求依然强劲",
@@ -2477,7 +2579,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
