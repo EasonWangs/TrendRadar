@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T11:13:58.734160+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-05-08T13:07:26.270547+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -38,8 +38,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 11时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 13时07分]"
+        },
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时07分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -52,19 +65,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 11时13分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -123,6 +123,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "伊朗又追着阿联酋打，特朗普却忙着催伊朗签协议",
+          "url": "https://flash.jin10.com/detail/20260508123631773800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "特朗普政府正寻求重启“自由计划”，最早可能在本周实施",
           "url": "https://wallstreetcn.com/livenews/3100152",
           "source": "华尔街见闻-快讯",
@@ -159,6 +170,28 @@
           "time_info": "[06时29分 ~ 07时24分]"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 13时07分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 13时07分]"
+        },
+        {
           "title": "市场消息：美国贸易法院裁定特朗普提出的10%全球关税提案不成立。",
           "url": "https://flash.jin10.com/detail/20260508045940660800",
           "source": "金十数据",
@@ -181,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时34分]"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 13时07分]"
         },
         {
           "title": "巴西总统卢拉在与特朗普会晤后，预见美巴关系将迎来重启",
@@ -254,17 +298,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
           "title": "特朗普称美驱逐舰成功穿过海峡 威胁伊朗迅速达成协议",
           "url": "https://flash.jin10.com/detail/20260508064638405800",
           "source": "金十数据",
@@ -274,28 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
         },
         {
           "title": "美国总统特朗普：伊朗由疯狂的领导人掌控，如果有机会使用核武器，他们会毫不犹豫地这样做——但他们永远不会有这个机会。",
@@ -329,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://flash.jin10.com/detail/20260508122632973800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
@@ -373,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://wallstreetcn.com/livenews/3100397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国总统特朗普：我们的代表计划会面，商讨一些关键问题。未来几个月内，将根据需要安排进一步的会晤。",
@@ -441,6 +474,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "特朗普：“特朗普的股市再创新高”",
+          "url": "https://flash.jin10.com/detail/20260508121730526800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
           "url": "https://flash.jin10.com/detail/20260508062437973800",
           "source": "金十数据",
@@ -496,6 +540,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "据英国金融时报：美国企业敦促特朗普干预欧盟新消费者规则。",
+          "url": "https://flash.jin10.com/detail/20260508120936185800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "特朗普将欧盟批准关税协议的最后期限延长至7月4日",
           "url": "https://flash.jin10.com/detail/20260508034301244800",
           "source": "金十数据",
@@ -527,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
+          "url": "https://flash.jin10.com/detail/20260508120539317800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美法院裁定特朗普的10%关税不成立",
@@ -620,7 +686,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "韩国3月未季调经常帐 373.3亿美元，前值由231.927亿美元修正为231.9亿美元。",
@@ -667,15 +733,15 @@
           "time_info": "01时39分"
         },
         {
-          "title": "中国投资者被假皇室骗1800万美元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E8%A2%AB%E5%81%87%E7%9A%87%E5%AE%A4%E9%AA%971800%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "加拿大皇家银行：将爱彼迎(ABNB.O)目标价从170美元上调至173美元。",
+          "url": "https://flash.jin10.com/detail/20260508123619365800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "13时07分"
         },
         {
           "title": "世界杯中国赞助商已投入超5亿美元",
@@ -762,6 +828,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时29分]"
+        },
+        {
+          "title": "中国投资者被假皇室骗1800万美元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E8%A2%AB%E5%81%87%E7%9A%87%E5%AE%A4%E9%AA%971800%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 13时07分]"
         },
         {
           "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
@@ -864,7 +942,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -886,7 +964,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -933,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
+          "url": "https://wallstreetcn.com/livenews/3100390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
@@ -1007,7 +1096,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -1051,7 +1140,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -1081,7 +1170,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -1170,13 +1259,24 @@
           "time_info": "02时44分"
         },
         {
+          "title": "6G产业化进程加速 工信部批复“黄金频谱”用于试验",
+          "url": "https://www.cls.cn/detail/2365676",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "睡觉也能炒黄金？金银永续合约上线，最高25倍杠杆",
           "url": "https://flash.jin10.com/detail/20260508105356021800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -1198,9 +1298,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "国际现货黄金多头要“立足”，今晚还要看两道“验收题”",
+          "url": "https://flash.jin10.com/detail/20260508120205137800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "陈茂波：香港打造全球大宗商品与黄金交易中心",
@@ -1220,7 +1331,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -1231,7 +1342,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
@@ -1265,6 +1376,17 @@
           "time_info": "[00时41分 ~ 08时57分]"
         },
         {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 13时07分]"
+        },
+        {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2365305",
           "source": "财联社热门",
@@ -1279,17 +1401,6 @@
           "time_info": "[00时41分 ~ 09时44分]"
         },
         {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时13分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
@@ -1299,8 +1410,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 11时13分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时07分]"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股盘中）",
@@ -1395,7 +1506,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -1407,8 +1518,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时44分 ~ 11时13分]"
+          "appearance_count": 14,
+          "time_info": "[02时44分 ~ 13时07分]"
         },
         {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
@@ -1432,6 +1543,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时37分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 13时07分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -1463,18 +1586,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         },
@@ -1488,76 +1600,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时13分]"
         },
         {
-          "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
-          "url": "https://wallstreetcn.com/livenews/3100231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时24分]"
-        },
-        {
-          "title": "金十图示：2026年05月08日（周五）上海金早盘价为1036.12元/克，较国际金价(1030.95元/克)高5.17元/克",
-          "url": "https://flash.jin10.com/detail/20260508110136464800",
+          "title": "Anthropic将筹集百亿剑指算力 估值或近万亿超OpenAI",
+          "url": "https://flash.jin10.com/detail/20260508120310089800",
           "source": "金十数据",
           "ranks": [
-            8
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "金价破4700追不追",
-          "url": "https://www.toutiao.com/trending/7637144466515578431/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "市场对美伊和平协议持乐观态度 金价有望实现周度上涨",
-          "url": "https://flash.jin10.com/detail/20260508104552106800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时13分"
+          "time_info": "13时07分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股光纤概念板块走势分化，杭电股份盘中创新高，通鼎互联封板涨停，新能泰山、云南锗业、大族激光跟涨；法尔胜跌超7.5%，致尚科技跌超5%，福晶科技、光库科技、长飞光纤等跟跌。",
@@ -1611,7 +1670,82 @@
           "ranks": [
             19
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "5月8日午间收评：科创50指数半日跌近3%，机器人概念股逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3100381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 13时07分]"
+        },
+        {
+          "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
+          "url": "https://wallstreetcn.com/livenews/3100231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时24分]"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）上海金早盘价为1036.12元/克，较国际金价(1030.95元/克)高5.17元/克",
+          "url": "https://flash.jin10.com/detail/20260508110136464800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "金价破4700追不追",
+          "url": "https://www.toutiao.com/trending/7637144466515578431/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "市场对美伊和平协议持乐观态度 金价有望实现周度上涨",
+          "url": "https://flash.jin10.com/detail/20260508104552106800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
         }
@@ -1653,6 +1787,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek-TUI是如何火起来的",
+          "url": "https://www.toutiao.com/trending/7637338304165187078/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     },
