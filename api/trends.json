@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T03:36:43.902898+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-05-09T04:29:33.396843+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
+        },
+        {
+          "title": "花旗：维持对未来3个月原油价格120美元的预测。",
+          "url": "https://flash.jin10.com/detail/20260509041423086800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.113万亿美元，之前一周19.080万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "WTI 6月原油期货收涨0.61美元，涨幅0.64%，报95.42美元/桶。 中东Abu Dhabi Murban原油期货涨2.78%，报99.35美元/桶，本周累跌4.25%。 NYMEX 6月天然气期货收报2.7570美元/百万英热单位。 NYMEX 6月汽油期货收报3.5267美元/加仑，NYMEX 6月取暖油期货收报3.8991美元/加仑。",
@@ -25,9 +47,56 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "花旗维持0-3个月石油价格预期在120美元不变。",
+          "url": "https://wallstreetcn.com/livenews/3100913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
+          "url": "https://www.zhihu.com/question/2035688647794635303",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "周五（5月8日），美联储隔夜逆回购协议（RRP）使用规模为7.87亿美元（交易对手5家），上个交易日报7.73亿美元。",
@@ -89,41 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时36分]"
-        },
-        {
-          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
-          "url": "https://www.zhihu.com/question/2035688647794635303",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
         },
         {
           "title": "据华尔街日报，苹果与英特尔达成初步的芯片制造协议。 英特尔涨幅扩大至18.9%，盘中市值突破6500亿美元。",
@@ -192,7 +226,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -203,7 +237,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -225,7 +259,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -252,6 +286,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "据知情人士透露，IMF董事会批准根据现有安排向巴基斯坦发放合计12亿美元贷款。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3100899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "摩根大通警告美国汽油或涨至每加仑5美元",
           "url": "https://flash.jin10.com/detail/20260508235129984800",
           "source": "金十数据",
@@ -261,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "阿斯麦ADR创盘中历史新高，成为首家市值突破6000亿美元的欧洲公司",
@@ -294,6 +350,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "周五（5月8日）纽约尾盘，美元兑日元跌0.13%，报156.72日元，本周累跌0.19%，交投区间为157.94-155.04日元，5月6日亚太午盘显著跳水。 欧元兑日元累涨0.28%，报184.64日元；英镑兑日元累涨0.20%，报213.535日元。",
+          "url": "https://wallstreetcn.com/livenews/3100887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "周五（5月8日）纽约尾盘，ICE美元指数跌0.19%，报87.876点，本周累计下跌0.28%，交投区间为98.579-97.625点，整体呈现出M形走势。 彭博美元指数跌0.23%，报1187.73点，本周累跌0.47%，交投区间为1196.97-1184.67点。",
+          "url": "https://wallstreetcn.com/livenews/3100886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美联储报告：2025年第四季度，银行对其他金融机构的贷款显著增长，达到2.5万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260509040247345800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8005元，较周四夜盘收盘涨63点。成交量419.71亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -309,8 +409,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
@@ -319,7 +419,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -344,6 +444,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普针对122关税条款的判决结果提出上诉。",
@@ -408,19 +522,6 @@
           "time_info": "[02时39分 ~ 03时36分]"
         },
         {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
-        },
-        {
           "title": "美国总统特朗普：我们有一个问题，因为墨西哥由毒贩们经营。",
           "url": "https://wallstreetcn.com/livenews/3100846",
           "source": "华尔街见闻-快讯",
@@ -462,7 +563,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -506,7 +607,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -539,7 +640,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -569,7 +670,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月5日当周，COMEX黄金投机者净多头头寸增加4,090手，达到95,664手。",
@@ -578,7 +679,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
         },
@@ -595,6 +696,17 @@
           "time_info": "[02时39分 ~ 03时36分]"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：5月5日当周，投机者所持黄金净多头头寸增加4,090手合约，至95,664手合约。 所持COMEX白银净多头头寸创三周新高。 所持COMEX铜净多头头寸创四个月新高。 所持NYMEX铂金净多头头寸创五周新低。",
+          "url": "https://wallstreetcn.com/livenews/3100888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "水贝黄金“预定价”全面崩盘始末",
           "url": "https://www.toutiao.com/trending/7637480469109411364/",
           "source": "今日头条",
@@ -604,6 +716,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040608974800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040559474800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     },
@@ -619,8 +770,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
@@ -631,8 +782,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 04时29分]"
         },
         {
           "title": "欧洲半导体概念股普遍收涨，Soitec涨13.67%，英飞凌涨3.63%，ASM国际、BE半导体实业公司、Nordisk Semiconductor、德国爱思强至多涨2.72%，阿斯麦控股涨1.49%表现较差。",
@@ -663,23 +814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 03时36分]"
         }
       ]
     }
