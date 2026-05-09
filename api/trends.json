@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T00:25:04.367429+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-10T01:25:05.995134+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3771888",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -25,9 +26,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时25分]"
         },
         {
           "title": "霍尔木兹海峡受阻，德航运巨头称每周额外花费超5000万美元",
@@ -36,9 +37,49 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
+        },
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时25分]"
         }
       ]
     },
@@ -51,11 +92,12 @@
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -65,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
         }
       ]
     },
@@ -82,47 +124,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
           "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
         }
       ]
     },
@@ -138,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
         }
       ]
     },
@@ -152,11 +167,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%81%B7%E8%B5%B0%E8%BF%91600%E4%BB%B6%E9%BB%84%E9%87%91%E9%A5%B0%E5%93%81",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时25分]"
         }
       ]
     }
