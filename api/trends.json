@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T13:11:44.690022+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-05-09T14:54:24.760252+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 13时11分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 14时54分]"
         },
         {
           "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
@@ -123,6 +123,28 @@
           "time_info": "04时29分"
         },
         {
+          "title": "今年1-4月汽车出口额达569亿美元 同比增54%",
+          "url": "https://wallstreetcn.com/livenews/3101015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 14时54分]"
+        },
+        {
           "title": "周五（5月8日），美联储隔夜逆回购协议（RRP）使用规模为7.87亿美元（交易对手5家），上个交易日报7.73亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100861",
           "source": "华尔街见闻-快讯",
@@ -175,6 +197,19 @@
           "time_info": "[06时27分 ~ 08时56分]"
         },
         {
+          "title": "中国4月份对美国出口同比增长11.4%至367.6亿美元，自美国进口同比上升9.4%至136.9亿美元，对美国贸易顺差230.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 14时54分]"
+        },
+        {
           "title": "市场消息：阿波罗、黑石正考虑为博通(AVGO.O)提供350亿美元融资。",
           "url": "https://flash.jin10.com/detail/20260509012323493800",
           "source": "金十数据",
@@ -223,18 +258,6 @@
           "time_info": "[02时39分 ~ 03时36分]"
         },
         {
-          "title": "中国4月份对美国出口同比增长11.4%至367.6亿美元，自美国进口同比上升9.4%至136.9亿美元，对美国贸易顺差230.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时11分]"
-        },
-        {
           "title": "美联储报告：2025年第四季度，银行对其他金融机构的贷款显著增长，达到2.5万亿美元。",
           "url": "https://flash.jin10.com/detail/20260509040247345800",
           "source": "金十数据",
@@ -247,15 +270,56 @@
           "time_info": "[04时29分 ~ 07时26分]"
         },
         {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
+          "title": "中国1-4月份以美元计价出口同比增长14.5%，进口同比增长23.6%，贸易顺差3,477亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100995",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7,
+            17,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时11分]"
+          "time_info": "[11时16分 ~ 14时54分]"
+        },
+        {
+          "title": "中国4月以美元计价出口同比增长14.1%， 预估为+8.4%。 中国4月以美元计价进口同比增长25.3%，预估为+20.0%。 中国4月贸易顺差848.2亿美元，预估为顺差836.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 14时54分]"
+        },
+        {
+          "title": "中国4月贸易帐(按美元计) 848.2亿美元，前值 511.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 14时54分]"
+        },
+        {
+          "title": "中国4月进口同比(按美元计) 25.3%，前值 27.8%。",
+          "url": "https://wallstreetcn.com/livenews/3100989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 14时54分]"
         },
         {
           "title": "据华尔街日报，苹果与英特尔达成初步的芯片制造协议。 英特尔涨幅扩大至18.9%，盘中市值突破6500亿美元。",
@@ -271,6 +335,19 @@
           "time_info": "[01时38分 ~ 03时36分]"
         },
         {
+          "title": "中国4月出口同比(按美元计) 14.1%，前值 2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3100988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 14时54分]"
+        },
+        {
           "title": "报道：阿波罗、黑石考虑为博通提供350亿美元融资",
           "url": "https://wallstreetcn.com/livenews/3100865",
           "source": "华尔街见闻-快讯",
@@ -281,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时36分]"
-        },
-        {
-          "title": "中国1-4月份以美元计价出口同比增长14.5%，进口同比增长23.6%，贸易顺差3,477亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时11分]"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -307,52 +372,15 @@
           "time_info": "[05时28分 ~ 06时27分]"
         },
         {
-          "title": "中国4月以美元计价出口同比增长14.1%， 预估为+8.4%。 中国4月以美元计价进口同比增长25.3%，预估为+20.0%。 中国4月贸易顺差848.2亿美元，预估为顺差836.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100991",
-          "source": "华尔街见闻-快讯",
+          "title": "中国4月以美元计价出口同比增长14.1%，进口同比增长25.3%",
+          "url": "https://wallstreetcn.com/articles/3771888",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            21
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时11分]"
-        },
-        {
-          "title": "中国4月贸易帐(按美元计) 848.2亿美元，前值 511.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时11分]"
-        },
-        {
-          "title": "中国4月进口同比(按美元计) 25.3%，前值 27.8%。",
-          "url": "https://wallstreetcn.com/livenews/3100989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时11分]"
-        },
-        {
-          "title": "中国4月出口同比(按美元计) 14.1%，前值 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3100988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 13时11分]"
+          "time_info": "[14时53分 ~ 14时54分]"
         },
         {
           "title": "据知情人士透露，IMF董事会批准根据现有安排向巴基斯坦发放合计12亿美元贷款。（路透）",
@@ -411,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "离岸人民币对美元汇率升破6.8，市场对人民币资产信心显著增强",
+          "url": "https://flash.jin10.com/detail/20260509135619467800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
@@ -584,6 +623,18 @@
           "time_info": "[00时38分 ~ 09时43分]"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时54分]"
+        },
+        {
           "title": "中方回应何时发布特朗普访华消息",
           "url": "https://www.toutiao.com/trending/7637034985857810475/",
           "source": "今日头条",
@@ -599,18 +650,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时26分]"
-        },
-        {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时11分]"
         },
         {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
@@ -1135,6 +1174,19 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 14时54分]"
+        },
+        {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
           "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
@@ -1142,20 +1194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时11分]"
-        },
-        {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时25分 ~ 13时11分]"
+          "time_info": "[08时56分 ~ 14时54分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -1303,7 +1343,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -1362,7 +1402,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -1395,7 +1435,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -1414,8 +1454,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 13时11分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 14时54分]"
         },
         {
           "title": "【每日收评】三大指数震荡调整，商业航天、机器人概念联袂爆发，两市成交额连续三日突破3万亿",
@@ -1469,30 +1509,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 13时11分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时54分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 14时54分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 14时54分]"
         }
       ]
     },
