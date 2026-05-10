@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T20:28:38.582183+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-05-10T21:36:35.409211+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -96,11 +96,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时36分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -208,6 +209,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
+          "url": "https://www.zhihu.com/question/2036716290836883357",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 21时36分]"
+        },
+        {
           "title": "中国4月以美元计价出口同比增长14.1%，进口同比增长25.3%",
           "url": "https://wallstreetcn.com/articles/3771888",
           "source": "华尔街见闻",
@@ -221,29 +234,18 @@
           "time_info": "[00时24分 ~ 09时43分]"
         },
         {
-          "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
-          "url": "https://www.zhihu.com/question/2036716290836883357",
-          "source": "知乎",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 20时28分]"
-        },
-        {
           "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
           "url": "https://www.toutiao.com/trending/7637174028100403226/",
           "source": "今日头条",
           "ranks": [
             23,
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 20时28分]"
+          "appearance_count": 7,
+          "time_info": "[15时04分 ~ 21时36分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -390,11 +392,12 @@
             10,
             8,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 20时28分]"
+          "appearance_count": 7,
+          "time_info": "[15时04分 ~ 21时36分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -402,11 +405,12 @@
           "source": "金十数据",
           "ranks": [
             18,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 20时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 21时36分]"
         },
         {
           "title": "新债王：若黄金跌到3500美元会买入",
@@ -460,8 +464,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时24分 ~ 20时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 21时36分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -508,11 +512,66 @@
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 09时43分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 17时37分]"
+        },
+        {
+          "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
+          "url": "https://www.zhihu.com/question/2035727857624637860",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "21时36分"
         }
       ]
     },
@@ -556,8 +615,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 20时28分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 21时36分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -569,49 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 09时43分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时24分 ~ 17时37分]"
-        },
-        {
-          "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
-          "url": "https://www.zhihu.com/question/2035727857624637860",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
         }
       ]
     },
@@ -633,18 +649,6 @@
           "time_info": "[17时37分 ~ 19时25分]"
         },
         {
-          "title": "要对存钱有概念",
-          "url": "https://s.weibo.com/weibo?q=%E8%A6%81%E5%AF%B9%E5%AD%98%E9%92%B1%E6%9C%89%E6%A6%82%E5%BF%B5&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 20时28分]"
-        },
-        {
           "title": "给阿嬷的情书9.1分是什么概念",
           "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A69.1%E5%88%86%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -653,11 +657,25 @@
             25,
             26,
             22,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 20时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时36分]"
+        },
+        {
+          "title": "要对存钱有概念",
+          "url": "https://s.weibo.com/weibo?q=%E8%A6%81%E5%AF%B9%E5%AD%98%E9%92%B1%E6%9C%89%E6%A6%82%E5%BF%B5&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 21时36分]"
         }
       ]
     },
