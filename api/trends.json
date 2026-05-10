@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T05:22:58.207653+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-05-11T06:22:04.319411+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
@@ -15,66 +15,23 @@
             1,
             5,
             11,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 06时22分]"
         },
         {
-          "title": "特朗普：联邦机构必须优先采购美国货",
-          "url": "https://wallstreetcn.com/livenews/3101161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "伊媒：特朗普对伊朗回应的反应无关紧要",
-          "url": "https://flash.jin10.com/detail/20260511044544545800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101173",
+          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
+          "url": "https://wallstreetcn.com/livenews/3101184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
-          "url": "https://flash.jin10.com/detail/20260511043952589800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "06时22分"
         },
         {
           "title": "内塔尼亚胡与特朗普通电话",
@@ -82,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：我们刚刚成功促成三名波兰人和两名摩尔多瓦人获释，他们此前被关押在白俄罗斯和俄罗斯的拘留所。",
@@ -94,11 +52,25 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
+          "url": "https://wallstreetcn.com/livenews/3101168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：伊朗将无法再嘲笑美国。",
@@ -113,6 +85,18 @@
           "time_info": "[02时27分 ~ 03时30分]"
         },
         {
+          "title": "特朗普：联邦机构必须优先采购美国货",
+          "url": "https://wallstreetcn.com/livenews/3101161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
           "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
           "url": "https://flash.jin10.com/detail/20260511015611933800",
           "source": "金十数据",
@@ -123,18 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时30分]"
-        },
-        {
-          "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
-          "url": "https://wallstreetcn.com/livenews/3101168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）援引以色列媒体报道，以色列总理内塔尼亚胡今晚将与美国总统特朗普通电话。",
@@ -159,6 +131,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时30分 ~ 04时22分]"
+        },
+        {
+          "title": "伊媒：特朗普对伊朗回应的反应无关紧要",
+          "url": "https://flash.jin10.com/detail/20260511044544545800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
+          "url": "https://flash.jin10.com/detail/20260511043952589800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
         },
         {
           "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
@@ -186,6 +206,18 @@
           "time_info": "[04时22分 ~ 05时22分]"
         },
         {
+          "title": "特朗普：伊朗的回应完全不可接受",
+          "url": "https://flash.jin10.com/detail/20260511041440041800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
           "title": "据以色列第12频道：以色列总理内塔尼亚胡刚刚结束与美国总统特朗普的通话。",
           "url": "https://flash.jin10.com/detail/20260511032554131800",
           "source": "金十数据",
@@ -208,17 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时30分]"
-        },
-        {
-          "title": "特朗普：伊朗的回应完全不可接受",
-          "url": "https://flash.jin10.com/detail/20260511041440041800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "据以色列第i24频道：以色列总理内塔尼亚胡离开在死海举行的德鲁兹派与切尔克斯派地方领导人会议，他向与会者表示，必须赶回耶路撒冷接听美国总统特朗普的紧急来电。",
@@ -257,7 +278,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
@@ -270,8 +291,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
@@ -285,8 +306,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
@@ -304,26 +325,61 @@
           "time_info": "[01时25分 ~ 05时22分]"
         },
         {
-          "title": "美国总统特朗普：“任何支付给美国的钱都无需退还。”——如果美国最高法院当初在那项备受争议的关税裁决中加入这句话，美国本可以省下1590亿美元！",
-          "url": "https://flash.jin10.com/detail/20260511045057242800",
+          "title": "WTI原油周一开盘大涨3%，现报98.44美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260511060144279800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "现货白银跌超1%，现报79.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260511060052783800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：“任何支付给美国的钱都无需退还。”——如果美国最高法院当初在那项备受争议的关税裁决中加入这句话，美国本可以省下1590亿美元！",
+          "url": "https://flash.jin10.com/detail/20260511045057242800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
         },
         {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
           "url": "https://wallstreetcn.com/livenews/3101174",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260511053851456800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时22分"
+          "time_info": "06时22分"
         },
         {
           "title": "据卡塔尔通讯社：阿曼将建立2.5亿美元电动车及电池生产项目。",
@@ -353,8 +409,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -365,19 +421,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 06时22分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -389,6 +446,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
+          "url": "https://wallstreetcn.com/articles/3771915",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
+        },
+        {
+          "title": "现货黄金周一低开近20美元，现报4699.3美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260511060153180800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "周一亚太盘初，标普、道指期货跌超0.2%，纳指期货跌0.1%。 COMEX黄金期货跌超0.5%，报4705美元；现货黄金跌0.3%，报4698美元。 白银跌1.2%，报79.91美元。",
+          "url": "https://wallstreetcn.com/livenews/3101183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -406,40 +530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
-          "url": "https://wallstreetcn.com/articles/3771915",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时22分]"
         }
       ]
     },
