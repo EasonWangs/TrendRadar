@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-05-11T09:01:54.800508+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-05-11T09:46:06.299629+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "伊朗知情人士：特朗普不满意反而更好",
+          "url": "https://news.ifeng.com/c/8t246befcan",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 09时46分]"
+        },
+        {
+          "title": "外交部官宣特朗普访华日期",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "中方宣布特朗普访华日期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.douyin.com/hot/2494766",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
           "url": "https://wallstreetcn.com/livenews/3101151",
@@ -21,17 +87,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 06时22分]"
-        },
-        {
-          "title": "伊朗知情人士：特朗普不满意反而更好",
-          "url": "https://news.ifeng.com/c/8t246befcan",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         },
         {
           "title": "内塔尼亚胡与特朗普通电话",
@@ -235,6 +290,39 @@
           "time_info": "[05时22分 ~ 06时22分]"
         },
         {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3771944",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037095315845664890",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "据以色列第12频道：以色列总理内塔尼亚胡刚刚结束与美国总统特朗普的通话。",
           "url": "https://flash.jin10.com/detail/20260511032554131800",
           "source": "金十数据",
@@ -292,6 +380,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/livenews/3101245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉现在是一个非常幸福的国家。他们曾经痛苦，现在却很快乐。现在的石油产量巨大。",
           "url": "https://flash.jin10.com/detail/20260510231829313800",
           "source": "金十数据",
@@ -317,7 +416,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
@@ -347,8 +446,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 09时46分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
@@ -372,7 +471,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -383,29 +482,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "日元兑美元汇率跌破157.00关口。",
-          "url": "https://wallstreetcn.com/livenews/3101237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "WTI原油期货涨幅扩大至4%，报每桶99.37美元。",
-          "url": "https://wallstreetcn.com/livenews/3101233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -447,6 +524,18 @@
           "time_info": "[06时22分 ~ 07时24分]"
         },
         {
+          "title": "日元兑美元汇率跌破157.00关口。",
+          "url": "https://wallstreetcn.com/livenews/3101237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时46分]"
+        },
+        {
           "title": "现货白银跌超1%，现报79.25美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260511060052783800",
           "source": "金十数据",
@@ -457,6 +546,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时24分]"
+        },
+        {
+          "title": "WTI原油期货涨幅扩大至4%，报每桶99.37美元。",
+          "url": "https://wallstreetcn.com/livenews/3101233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时46分]"
+        },
+        {
+          "title": "阿波罗正就出售私人信贷基金MidCap Financial Investment Corp.（MFIC）进行洽谈，对MFIC的估值约为30亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时46分]"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
@@ -482,15 +595,26 @@
           "time_info": "07时24分"
         },
         {
-          "title": "阿波罗正就出售私人信贷基金MidCap Financial Investment Corp.（MFIC）进行洽谈，对MFIC的估值约为30亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3101230",
+          "title": "韩元兑美元日内跌幅扩大至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3101255",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "09时46分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8467，创2023年3月24日以来新高，上调35点；上一交易日中间价6.8502，上一交易日官方收盘价6.8017，上日夜盘报收6.8005。",
+          "url": "https://wallstreetcn.com/livenews/3101248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "据卡塔尔通讯社：阿曼将建立2.5亿美元电动车及电池生产项目。",
@@ -510,7 +634,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -521,7 +645,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -537,11 +661,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 09时46分]"
         },
         {
           "title": "现货黄金短线走低近20美元，现报4677.19美元/盎司。",
@@ -550,7 +675,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -607,7 +732,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -629,8 +754,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 09时46分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -639,11 +764,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时25分 ~ 09时01分]"
+          "appearance_count": 13,
+          "time_info": "[01时25分 ~ 09时46分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -654,8 +780,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 09时46分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -667,6 +793,86 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI放开员工售股 AI财富效应开始兑现",
+          "url": "https://flash.jin10.com/detail/20260511094218983800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "OpenAI允许员工出售价值至多3000万美元的股票。去年10月，超过600名OpenAI员工出售了股票，总共获利66亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "要对存钱有概念",
+          "url": "https://s.weibo.com/weibo?q=%E8%A6%81%E5%AF%B9%E5%AD%98%E9%92%B1%E6%9C%89%E6%A6%82%E5%BF%B5&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时24分]"
+        },
+        {
+          "title": "A股商业航天概念延续强势，红板科技、风华高科、钧达股份、中航光电四股涨停，飞沃科技、沃格光电、信维通信、信科移动跟涨。",
+          "url": "https://flash.jin10.com/detail/20260511094147524800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "A股光纤概念股盘初走高，通鼎互联涨停，三旺通信、吴通控股、光电股份、石英股份、中航光电跟涨。",
+          "url": "https://flash.jin10.com/detail/20260511093440024800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
@@ -683,8 +889,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 09时46分]"
         },
         {
           "title": "美股三大股指期货周一开盘微跌。",
@@ -697,42 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "要对存钱有概念",
-          "url": "https://s.weibo.com/weibo?q=%E8%A6%81%E5%AF%B9%E5%AD%98%E9%92%B1%E6%9C%89%E6%A6%82%E5%BF%B5&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时24分]"
         }
       ]
     }
