@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T07:24:03.068959+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-05-11T09:01:54.800508+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 06时22分]"
+        },
+        {
+          "title": "伊朗知情人士：特朗普不满意反而更好",
+          "url": "https://news.ifeng.com/c/8t246befcan",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "内塔尼亚胡与特朗普通电话",
@@ -265,7 +276,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -276,7 +287,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -306,7 +317,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
@@ -316,11 +327,12 @@
             6,
             7,
             5,
-            2
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时01分]"
         },
         {
           "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
@@ -331,11 +343,12 @@
             15,
             17,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时01分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
@@ -351,6 +364,50 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 05时22分]"
+        },
+        {
+          "title": "WTI原油再度涨至100美元关口",
+          "url": "https://flash.jin10.com/detail/20260511085251731800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美元兑日元USD/JPY站上157，日内涨0.20%。",
+          "url": "https://flash.jin10.com/detail/20260511085211342800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日元兑美元汇率跌破157.00关口。",
+          "url": "https://wallstreetcn.com/livenews/3101237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "WTI原油期货涨幅扩大至4%，报每桶99.37美元。",
+          "url": "https://wallstreetcn.com/livenews/3101233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
@@ -420,9 +477,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "阿波罗正就出售私人信贷基金MidCap Financial Investment Corp.（MFIC）进行洽谈，对MFIC的估值约为30亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "据卡塔尔通讯社：阿曼将建立2.5亿美元电动车及电池生产项目。",
@@ -434,23 +502,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "韩国海关数据：2026年5月1日至10日，韩国出口同比增长43.7%，进口同比增长14.9%，贸易顺差初值为17亿美元。",
+          "url": "https://flash.jin10.com/detail/20260511080305607800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "WTI原油向上触及99美元/桶，日内涨3.80%。",
+          "url": "https://flash.jin10.com/detail/20260511075641710800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
           "url": "https://wallstreetcn.com/articles/3771915",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时01分]"
+        },
+        {
+          "title": "现货黄金短线走低近20美元，现报4677.19美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260511085331493800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "金十图示：2026年05月11日（周一）黄金ETF持仓报告",
@@ -459,7 +561,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -494,9 +596,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "中信证券研报认为，展望2026年5月，大类资产配置层面，建议增配黄金、商品和权益资产；股票风格配置层面，看好小市值风格和成长风格；股票行业配置层面，锂电池和半导体等行业具有较好的配置价值。",
+          "url": "https://flash.jin10.com/detail/20260511083119919800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -516,8 +629,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时01分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -525,11 +638,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 09时01分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -540,8 +654,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时01分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -565,11 +679,12 @@
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时01分]"
         },
         {
           "title": "美股三大股指期货周一开盘微跌。",
