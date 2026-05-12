@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T08:55:54.531988+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-05-12T09:43:04.433530+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 09时43分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -85,11 +85,12 @@
             4,
             2,
             1,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 09时43分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -100,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 09时43分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -118,6 +119,28 @@
           "time_info": "[01时47分 ~ 08时55分]"
         },
         {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 09时43分]"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 09时43分]"
+        },
+        {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
           "url": "https://www.toutiao.com/trending/7638642573942197823/",
           "source": "今日头条",
@@ -129,28 +152,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 03时38分]"
-        },
-        {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
         },
         {
           "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
@@ -170,9 +171,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 09时43分]"
         },
         {
           "title": "伊朗战事决策细节频频曝光，特朗普施压司法部彻查",
@@ -181,7 +194,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -245,6 +258,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时25分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 09时43分]"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 09时43分]"
+        },
+        {
+          "title": "特朗普金卡翻车",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 09时43分]"
         },
         {
           "title": "白宫官员：美国总统特朗普将于周一签署行政命令，允许增加牛肉进口，并支持美国牛群规模的恢复。",
@@ -403,17 +452,6 @@
           "time_info": "[02时47分 ~ 03时38分]"
         },
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
           "url": "https://flash.jin10.com/detail/20260512054116878800",
           "source": "金十数据",
@@ -431,18 +469,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -464,18 +491,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -508,7 +524,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -577,17 +593,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普金卡翻车",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
         },
         {
           "title": "美国总统特朗普：正在努力降低牛肉价格。",
@@ -711,6 +716,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普推迟降低牛肉进口关税。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "美国总统特朗普：现在没人想当伊朗总统。",
           "url": "https://flash.jin10.com/detail/20260512000601966800",
           "source": "金十数据",
@@ -780,7 +796,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "中美元首会晤官宣为何是全球利好",
@@ -1018,6 +1034,17 @@
           "time_info": "[01时48分 ~ 02时47分]"
         },
         {
+          "title": "外交部：中美元首将就事关中美关系以及世界和平与发展的重大问题深入交换意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33155631",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 09时43分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.33亿美元。",
           "url": "https://flash.jin10.com/detail/20260512011942801800",
           "source": "金十数据",
@@ -1073,6 +1100,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "人民币兑美元中间价报6.8426，上调41点；上一交易日中间价6.8467，上一交易日官方收盘价6.7954，上日夜盘报收6.7963。",
+          "url": "https://wallstreetcn.com/livenews/3101941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "周一（5月11日）纽约尾盘，ICE美元指数涨0.06%，报97.955点，日内交投区间为98.153-97.805点，亚太午盘刷新日高，之后逐步回撤，纽约早间转跌、北京时间22:43刷新日低。 彭博美元指数涨0.10%，报1189.10点，日内交投区间为1190.88-1187.80点。",
           "url": "https://wallstreetcn.com/livenews/3101835",
           "source": "华尔街见闻-快讯",
@@ -1101,9 +1139,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "韩元兑美元下跌0.7%，跑输亚洲新兴市场货币。",
+          "url": "https://wallstreetcn.com/livenews/3101936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美元兑日元USD/JPY走高，日内涨0.2%，最新报157.50。日本财务大臣片山皋月对日本央行在6月加息的可能性不予置评。",
+          "url": "https://flash.jin10.com/detail/20260512092626751800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "分析：特朗普暂停征收燃油税或每月损失数十亿美元税收",
@@ -1126,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伦锡日内涨幅扩大至2.00%，现报56120.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260512092028213800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
@@ -1154,8 +1225,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 09时43分]"
         },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -1165,8 +1236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[06时29分 ~ 09时43分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1178,8 +1249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 08时55分]"
+          "appearance_count": 5,
+          "time_info": "[06时29分 ~ 09时43分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -1208,6 +1279,19 @@
           "time_info": "[04时41分 ~ 06时29分]"
         },
         {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时43分]"
+        },
+        {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260512040533688800",
           "source": "金十数据",
@@ -1218,18 +1302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时35分]"
-        },
-        {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 08时55分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -1358,6 +1430,68 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260512023036729800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时38分]"
+        },
+        {
+          "title": "A股黄金概念盘初走强，福达合金、兴业银锡、宝鼎科技涨超5%，湖南白银、白银有色、江西铜业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512093153652800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "新闻交易员：当印度开始劝民别买黄金，外汇约束就不是玩笑",
+          "url": "https://flash.jin10.com/detail/20260512081313188800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.1%，深证成指涨0.34%，创业板指涨0.46%。黄金概念、盐湖提锂、CPO板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260512092517305800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.285吨，当前持仓量为1036.28吨。",
+          "url": "https://flash.jin10.com/detail/20260512061630524800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 3,
       "titles": [
@@ -1400,42 +1534,31 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 3,
+      "keyword_group": "概念",
+      "match_count": 2,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260512023036729800",
-          "source": "金十数据",
+          "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
+          "url": "https://www.cls.cn/detail/2367989",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            15
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时25分]"
         },
         {
-          "title": "新闻交易员：当印度开始劝民别买黄金，外汇约束就不是玩笑",
-          "url": "https://flash.jin10.com/detail/20260512081313188800",
-          "source": "金十数据",
+          "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3101954",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.285吨，当前持仓量为1036.28吨。",
-          "url": "https://flash.jin10.com/detail/20260512061630524800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "09时43分"
         }
       ]
     },
@@ -1450,9 +1573,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 09时43分]"
         }
       ]
     },
@@ -1471,24 +1594,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
-          "url": "https://www.cls.cn/detail/2367989",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时25分]"
         }
       ]
     }
