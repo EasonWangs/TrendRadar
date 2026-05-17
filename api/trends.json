@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T21:36:56.488240+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-05-17T22:37:09.197845+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 21时36分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 22时37分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,11 +37,12 @@
             3,
             1,
             2,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时02分 ~ 21时36分]"
+          "appearance_count": 16,
+          "time_info": "[09时02分 ~ 22时37分]"
         },
         {
           "title": "特朗普警告台独",
@@ -94,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时25分 ~ 21时36分]"
+          "appearance_count": 26,
+          "time_info": "[00时25分 ~ 22时37分]"
         },
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -104,11 +105,12 @@
           "ranks": [
             13,
             14,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时07分 ~ 21时36分]"
+          "appearance_count": 12,
+          "time_info": "[15时07分 ~ 22时37分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -199,6 +201,18 @@
           "time_info": "[02时27分 ~ 07时23分]"
         },
         {
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时31分 ~ 22时37分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡表示，将于今天与特朗普总统通话。",
           "url": "https://flash.jin10.com/detail/20260517185935987800",
           "source": "金十数据",
@@ -222,6 +236,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时36分 ~ 21时36分]"
+        },
+        {
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
@@ -257,11 +282,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 21时36分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 22时37分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -276,18 +302,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时22分 ~ 09时02分]"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 21时36分]"
         },
         {
           "title": "特朗普警告“台独”",
@@ -427,6 +441,17 @@
           "time_info": "[20时30分 ~ 21时36分]"
         },
         {
+          "title": "据韩联社：韩国总统李在明与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260517213955159800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
           "url": "https://flash.jin10.com/detail/20260517102530488800",
           "source": "金十数据",
@@ -507,7 +532,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "报道：贝莱德或将在SpaceX IPO中投资数十亿美元",
@@ -542,6 +567,19 @@
           "time_info": "[00时25分 ~ 17时40分]"
         },
         {
+          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
+          "url": "https://wallstreetcn.com/articles/3772438",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时50分 ~ 22时37分]"
+        },
+        {
           "title": "时隔4年重启慈善午餐拍卖 巴菲特、库里合力砍下900万美元善款",
           "url": "https://www.cls.cn/detail/2373011",
           "source": "财联社热门",
@@ -565,8 +603,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时24分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[13时24分 ~ 22时37分]"
         },
         {
           "title": "郑丽文回应中美元首会晤",
@@ -579,19 +617,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时25分 ~ 11时17分]"
-        },
-        {
-          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
-          "url": "https://wallstreetcn.com/articles/3772438",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时50分 ~ 21时36分]"
         },
         {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
@@ -624,6 +649,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时50分 ~ 21时36分]"
+        },
+        {
+          "title": "27年前捐5000美元植树的美国人找到了",
+          "url": "https://www.baidu.com/s?wd=27%E5%B9%B4%E5%89%8D%E6%8D%905000%E7%BE%8E%E5%85%83%E6%A4%8D%E6%A0%91%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "据Punchbowl：多方消息人士透露，美国众议院交通与基础设施委员会已就一项总额达5800亿美元的公路、公共交通及基础设施法案达成协议。该委员会将于周四对这项授权延期法案进行审议修改。法案文本预计将在未来几天内公布。",
@@ -818,8 +854,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时16分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[11时16分 ~ 22时37分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -857,6 +893,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260517104541794800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            2,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 22时37分]"
+        },
+        {
           "title": "别错过孩子身高黄金干预期",
           "url": "https://www.toutiao.com/trending/7640737791575556147/",
           "source": "今日头条",
@@ -868,19 +918,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时35分 ~ 20时30分]"
-        },
-        {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260517104541794800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 21时36分]"
         }
       ]
     },
@@ -959,8 +996,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时24分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[13时24分 ~ 22时37分]"
         }
       ]
     },
