@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T17:40:22.808458+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-05-17T18:36:13.843813+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时36分]"
+        },
+        {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时36分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -36,24 +49,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时40分]"
-        },
-        {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 17时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时36分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -78,8 +79,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时36分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -154,6 +155,19 @@
           "time_info": "[11时16分 ~ 17时40分]"
         },
         {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 18时36分]"
+        },
+        {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
@@ -170,17 +184,38 @@
           "time_info": "[02时27分 ~ 07时23分]"
         },
         {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            9,
-            10
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 17时40分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 18时36分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -209,18 +244,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时22分 ~ 09时02分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 17时40分]"
         },
         {
           "title": "特朗普警告“台独”",
@@ -270,6 +293,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 13时24分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
+          "url": "https://flash.jin10.com/detail/20260517181141541800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，他与美国总统特朗普的政治分歧并不影响其作为国家元首与他特朗普的关系。",
+          "url": "https://flash.jin10.com/detail/20260517181008473800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
+          "url": "https://flash.jin10.com/detail/20260517180941712800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
@@ -412,6 +468,20 @@
           "time_info": "[00时25分 ~ 11时17分]"
         },
         {
+          "title": "如何看待央视最终以 6500 万美元获得世界杯转播权?",
+          "url": "https://www.zhihu.com/question/2038657177729102743",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 18时36分]"
+        },
+        {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
           "url": "https://wallstreetcn.com/livenews/3104824",
           "source": "华尔街见闻-快讯",
@@ -442,19 +512,6 @@
           "time_info": "[05时22分 ~ 09时02分]"
         },
         {
-          "title": "如何看待央视最终以 6500 万美元获得世界杯转播权?",
-          "url": "https://www.zhihu.com/question/2038657177729102743",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时40分]"
-        },
-        {
           "title": "贝莱德考虑向SpaceX的IPO投资50亿至100亿美元",
           "url": "https://flash.jin10.com/detail/20260517000922683800",
           "source": "金十数据",
@@ -479,6 +536,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时08分 ~ 17时40分]"
+        },
+        {
+          "title": "韩国将投入超1亿美元扶持中小企业 覆盖半导体产业",
+          "url": "https://wallstreetcn.com/livenews/3104845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时36分]"
         },
         {
           "title": "据The Information：贝莱德针对SpaceX此次发行的认购订单，规模可能高达750亿美元。",
@@ -517,18 +587,6 @@
           "time_info": "[00时25分 ~ 01时26分]"
         },
         {
-          "title": "韩国将投入超1亿美元扶持中小企业 覆盖半导体产业",
-          "url": "https://wallstreetcn.com/livenews/3104845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
-        },
-        {
           "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
           "url": "https://wallstreetcn.com/articles/3772438",
           "source": "华尔街见闻",
@@ -537,8 +595,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时36分]"
         },
         {
           "title": "FBI悬赏20万美元通缉前女特工",
@@ -547,9 +605,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 18时36分]"
         },
         {
           "title": "台媒：中美元首会晤涉台表述划红线",
@@ -613,19 +671,6 @@
           "time_info": "[00时25分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时40分]"
-        },
-        {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
           "url": "https://www.zhihu.com/question/2038931746901710643",
           "source": "知乎",
@@ -643,6 +688,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时26分 ~ 15时08分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 18时36分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -667,8 +726,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 18时36分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -678,11 +737,40 @@
             10,
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 18时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "别错过孩子身高黄金干预期",
+          "url": "https://www.toutiao.com/trending/7640737791575556147/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260517104541794800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -747,23 +835,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260517104541794800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -777,8 +848,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 18时36分]"
         }
       ]
     },
@@ -792,11 +863,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时36分]"
         }
       ]
     },
