@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T07:24:56.468221+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-05-18T09:03:20.097200+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时03分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -59,13 +59,35 @@
           "time_info": "[04时23分 ~ 07时24分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
           "url": "https://flash.jin10.com/detail/20260518064310354800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -215,7 +237,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -259,7 +281,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -299,90 +321,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "27年前捐5000美元植树的美国人找到了",
-          "url": "https://www.baidu.com/s?wd=27%E5%B9%B4%E5%89%8D%E6%8D%905000%E7%BE%8E%E5%85%83%E6%A4%8D%E6%A0%91%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            8,
-            6,
-            9,
-            23,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时24分]"
-        },
-        {
-          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
-          "url": "https://wallstreetcn.com/articles/3772438",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时23分]"
-        },
-        {
-          "title": "如何看待央视最终以 6500 万美元获得世界杯转播权?",
-          "url": "https://www.zhihu.com/question/2038657177729102743",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时24分]"
-        },
-        {
-          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时24分]"
-        },
-        {
-          "title": "现货白银日内涨幅达1.00%，现报76.67美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260518063201642800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "WTI原油周一高开1.2%，现报106.6美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260518060158836800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十图示：2026年05月18日（周一）黄金ETF持仓报告",
@@ -391,9 +331,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月18日（周一）早盘盘初下跌1.75%报991.0元/克；<br/>上海黄金交易所白银T+D 5月18日（周一）早盘盘初下跌7.07%报18400.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260518090207076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "现货黄金日内跌近1%，报4485.89美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3104965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "别错过孩子身高黄金干预期",
@@ -422,13 +384,35 @@
           "time_info": "[04时23分 ~ 07时24分]"
         },
         {
+          "title": "现货黄金短线回升20美元，现报4513美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518085950372800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金下破4500美元 美日留意多单押注",
+          "url": "https://flash.jin10.com/detail/20260518085510423800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "现货黄金站上4550美元/盎司，日内涨0.26%。",
           "url": "https://flash.jin10.com/detail/20260518060522768800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -439,15 +423,165 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "香港经济日报：香港交易所将很快公布黄金期货新机制",
+          "url": "https://wallstreetcn.com/livenews/3104948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "现货黄金失守4500美元",
+          "url": "https://flash.jin10.com/detail/20260518083416933800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "27年前捐5000美元植树的美国人找到了",
+          "url": "https://www.baidu.com/s?wd=27%E5%B9%B4%E5%89%8D%E6%8D%905000%E7%BE%8E%E5%85%83%E6%A4%8D%E6%A0%91%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8,
+            6,
+            9,
+            23,
+            17,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时03分]"
+        },
+        {
+          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
+          "url": "https://wallstreetcn.com/articles/3772438",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
+        },
+        {
+          "title": "英伟达正洽谈领投印度AI初创公司Simplismart总额2000万美元的融资。（印度《经济时报》）",
+          "url": "https://wallstreetcn.com/livenews/3104964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "如何看待央视最终以 6500 万美元获得世界杯转播权?",
+          "url": "https://www.zhihu.com/question/2038657177729102743",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时24分]"
+        },
+        {
+          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时03分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报76.67美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518063201642800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "中俄贸易连续三年突破 2000 亿美元，此次普京访华可能给中俄贸易带来哪些新机遇？会利好哪些产业？",
+          "url": "https://www.zhihu.com/question/2039040286517454238",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "WTI原油周一高开1.2%，现报106.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260518060158836800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "现货白银日内跌幅达2.00%，现报74.38美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518084149262800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "现货钯金回落至1400美元/盎司下方，日内跌0.69%。",
+          "url": "https://flash.jin10.com/detail/20260518083151893800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -458,8 +592,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时03分]"
         },
         {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
@@ -467,11 +601,23 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时24分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时03分]"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -480,9 +626,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普亲手“拆台”沃什新政，美股长牛面临考验！",
+          "url": "https://flash.jin10.com/detail/20260518083334771800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         }
       ]
     },
@@ -506,11 +663,29 @@
           "url": "https://wallstreetcn.com/articles/3772455",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "GPT-5.5 涨价，而 DeepSeek 再次降价？为什么会同时出现「涨价」和「降价」共存的情况？",
+          "url": "https://www.zhihu.com/question/2037925163765691524",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "09时03分"
         }
       ]
     },
@@ -525,7 +700,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
