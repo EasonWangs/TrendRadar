@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T04:50:16.585166+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-21T05:39:57.751554+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 34,
       "titles": [
         {
           "title": "WTI 6月原油期货收跌5.89美元，跌幅5.66%，报98.26美元/桶。 中东Abu Dhabi Murban原油期货跌4.52%，报102.50美元/桶。 NYMEX 6月天然气期货收报3.0040美元/百万英热单位。 NYMEX 6月汽油期货收报3.4874美元/加仑，NYMEX 6月取暖油期货收报3.9471美元/加仑。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "SpaceX的COO（首席运营官）去年总薪酬8580万美元。",
+          "url": "https://wallstreetcn.com/livenews/3106936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "特朗普政府将提供另外2亿美元，以在明年启动改造后的纽约宾州车站。",
@@ -50,28 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "英伟达：董事会授权追加800亿美元股票回购，将季度股息从每股0.01美元提高至0.25美元。",
-          "url": "https://wallstreetcn.com/livenews/3106917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "英伟达2027财年一季度营收816.2亿美元，分析师预期791.9亿美元。 一季度数据中心营收752亿美元，分析师预期734.8亿美元。 一季度计算与网络营收745.50亿美元，Graphics营收70.65亿美元，边缘计算营收64亿美元。 在数据中心营收中，超大规模云服务商（Hyperscaler）收入占比大约50%。 公司切换到新版报告框架，将报告数据与边缘计算。 预计二季度营收891.8亿-873.6亿美元，分析师预期873.6亿美元。 Vera Rubin处于下半年（交付给客户）的正轨之上。 英伟达盘后涨0.3%，随后转而跌2.18%。半导体ETF盘后跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3106915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
         },
         {
           "title": "美国财政部拍卖160亿美元20年期国债，得标利率5.122%（4月22日为4.883%），投标倍数2.55（前次为2.68）。",
@@ -110,6 +99,30 @@
           "time_info": "[03时49分 ~ 04时50分]"
         },
         {
+          "title": "英伟达：董事会授权追加800亿美元股票回购，将季度股息从每股0.01美元提高至0.25美元。",
+          "url": "https://wallstreetcn.com/livenews/3106917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
+        },
+        {
+          "title": "英伟达2027财年一季度营收816.2亿美元，分析师预期791.9亿美元。 一季度数据中心营收752亿美元，分析师预期734.8亿美元。 一季度计算与网络营收745.50亿美元，Graphics营收70.65亿美元，边缘计算营收64亿美元。 在数据中心营收中，超大规模云服务商（Hyperscaler）收入占比大约50%。 公司切换到新版报告框架，将报告数据与边缘计算。 预计二季度营收891.8亿-873.6亿美元，分析师预期873.6亿美元。 Vera Rubin处于下半年（交付给客户）的正轨之上。 英伟达盘后涨0.3%，随后转而跌2.18%。半导体ETF盘后跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3106915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7972元，较周二夜盘收盘涨150点。成交量556.24亿美元。",
           "url": "https://wallstreetcn.com/livenews/3106891",
           "source": "华尔街见闻-快讯",
@@ -132,6 +145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时50分]"
+        },
+        {
+          "title": "财捷Intuit第三财季净营收85.6亿美元，分析师预期85.4亿美元。 预计全年营收213.4亿-213.7亿美元，公司原本预计210亿-211.9亿美元。 预计第四财季营收将增长11%-12%。",
+          "url": "https://wallstreetcn.com/livenews/3106908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
         },
         {
           "title": "周三（5月20日），韩元兑美元最终涨0.70%，报1496.95韩元，北京时间22:14开启一波持续上涨的行情。",
@@ -170,13 +195,35 @@
           "time_info": "[02时57分 ~ 03时49分]"
         },
         {
+          "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
+          "url": "https://flash.jin10.com/detail/20260521045829764800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "周三（5月20日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8022元，较周二纽约尾盘涨147点，日内整体交投于6.8193-6.7981元区间。",
+          "url": "https://wallstreetcn.com/livenews/3106930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "英伟达(NVDA.O)2027财年Q1 EPS为2.39美元，市场预期为1.75美元，上年同期为0.76美元。",
           "url": "https://flash.jin10.com/detail/20260521042431459800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -187,9 +234,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "SpaceX：预计太空探索工作将催化可能重塑地球产业的变革性突破，并催生在月球、火星及其他星球上价值数万亿美元的新市场。",
+          "url": "https://flash.jin10.com/detail/20260521045626812800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "英伟达(NVDA.O)：2027财年第一季度，通过股票回购和股息向股东返还了200亿美元。",
@@ -198,20 +256,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
         {
-          "title": "财捷Intuit第三财季净营收85.6亿美元，分析师预期85.4亿美元。 预计全年营收213.4亿-213.7亿美元，公司原本预计210亿-211.9亿美元。 预计第四财季营收将增长11%-12%。",
-          "url": "https://wallstreetcn.com/livenews/3106908",
+          "title": "SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。 一季度调整后EBITDA为11.3亿美元。 一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。 2025年营收113.9亿美元，运营净利润44.2亿美元。 2025年资本支出207.4亿美元，其中AI资本开支127.3亿美元。 星链（Starlink）拥有大约1030万用户。 至3月31日，大约9600颗卫星在近地点轨道运行。 Grok和X等AI平台活跃账户超过13亿。",
+          "url": "https://wallstreetcn.com/livenews/3106925",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时39分"
         },
         {
           "title": "英伟达(NVDA.O)宣布新增800亿美元的股票回购授权，并将季度股息提高至每股0.25美元。",
@@ -220,9 +278,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "SpaceX：根据期权协议，Cursor公司有权获得15亿美元的终止费；根据算力协议，有权获得85亿美元的递延服务费。",
+          "url": "https://flash.jin10.com/detail/20260521045446353800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "英伟达(NVDA.O)预计2027财年Q2营收为910亿美元；市场预期867.88亿美元。",
@@ -231,9 +300,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "Anthropic PBC在融资过程中披露的数据显示，第二季度收入料增逾一倍，至109亿美元。 预计6月当季实现营收利润。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3106923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "英伟达(NVDA.O)2027财年Q1数据中心业务收入为752亿美元，市场预期728亿美元，上年同期为391.12亿美元。",
@@ -242,7 +322,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -253,9 +333,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "SpaceX 2025年营收为186.7亿美元，第一季度净亏损为42.76亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521045203290800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "SpaceX第一季度太空部门收入为6.19亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521044723154800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "SpaceX第一季度人工智能部门收入为8.18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521044706973800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "美元指数20日下跌",
@@ -264,15 +377,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，SpaceX第一季度收入46.94亿美元，运营亏损19.43亿美元。",
+          "url": "https://flash.jin10.com/detail/20260521044506948800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -282,8 +406,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -293,8 +417,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -304,8 +428,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
@@ -396,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息",
+          "url": "https://wallstreetcn.com/livenews/3106922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "特朗普坚持伊朗问题的外交解决方案 内塔尼亚胡强烈反对",
@@ -522,7 +657,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
@@ -534,8 +669,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -546,30 +681,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
           "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
-          "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
-          "url": "https://wallstreetcn.com/livenews/3106919",
+          "title": "英伟达美股盘后跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3106935",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时39分"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后转涨，其第一财季营收及第二财季营收展望均超出平均预期。",
@@ -578,31 +714,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/3106919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
         },
         {
           "title": "小盘股指ETF收涨超2.5%，与新兴市场ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3106914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
         },
         {
           "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
           "url": "https://wallstreetcn.com/livenews/3106910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时39分]"
         },
         {
           "title": "英伟达(NVDA.O)财报公布后，美股盘后跌超3%。",
@@ -611,7 +761,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -622,7 +772,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -633,7 +783,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -644,7 +794,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -655,7 +805,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
@@ -663,7 +813,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "通胀担忧高企，美长债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
@@ -674,8 +824,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "黄金跌破4500美元 调整还将持续多久",
@@ -687,8 +837,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
@@ -712,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "周三（5月20日）纽约尾盘，现货黄金涨1.35%，报4543.20美元/盎司。 COMEX黄金期货涨0.78%，报4546.40美元/盎司。 现货白银涨2.92%，报75.8819美元/盎司。 COMEX白银期货涨3.01%，报75.9510美元/盎司。 COMEX铜期货涨2.04%，报6.3330美元/磅。 现货铂金涨1.57%，现货钯金涨0.87%。",
+          "url": "https://wallstreetcn.com/livenews/3106927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         }
       ]
     },
@@ -780,8 +941,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         }
       ]
     },
@@ -798,8 +959,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         },
         {
           "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
@@ -829,8 +990,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 05时39分]"
         }
       ]
     },
