@@ -1,933 +1,12 @@
 {
-  "generated_at": "2026-05-21T23:14:55.173824+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-05-22T01:02:28.433982+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 75,
-      "titles": [
-        {
-          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
-          "url": "https://wallstreetcn.com/articles/3772763",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时05分 ~ 23时14分]"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "WTI 6月原油期货收跌5.89美元，跌幅5.66%，报98.26美元/桶。 中东Abu Dhabi Murban原油期货跌4.52%，报102.50美元/桶。 NYMEX 6月天然气期货收报3.0040美元/百万英热单位。 NYMEX 6月汽油期货收报3.4874美元/加仑，NYMEX 6月取暖油期货收报3.9471美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3106890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "中远海发：子公司东方富利11拟通过概括继受造船合同项下权利义务的方式向惠丰公司购入由扬州重工在建的8艘21万吨级散货船，交易金额13.87亿元转让款及4.24亿美元剩余造船款；子公司东方富利12拟通过概括继受造船合同项下权利义务的方式向敦和船务购入由舟山重工在建的2艘6.4万吨级散货船，交易金额2498.97万美元转让款及4615万美元剩余造船款。",
-          "url": "https://wallstreetcn.com/livenews/3107380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "特朗普政府将提供另外2亿美元，以在明年启动改造后的纽约宾州车站。",
-          "url": "https://flash.jin10.com/detail/20260521023857768800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "WTI原油突破105美元/桶，日内涨2.49%。",
-          "url": "https://flash.jin10.com/detail/20260521211204984800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将设立一项价值2000万美元的能源影响基金。",
-          "url": "https://flash.jin10.com/detail/20260521033514958800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "韩国财政部声明：韩国将于7月6日起首次启动美元兑韩元现货市场24小时交易。",
-          "url": "https://flash.jin10.com/detail/20260521110118814800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "美元兑日元USD/JPY站上159，日内涨0.06%。",
-          "url": "https://flash.jin10.com/detail/20260521131701009800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "谷歌将在美国密苏里州投资150亿美元建设基础设施，包括在蒙哥马利县的新佛罗伦斯建立一座数据中心。",
-          "url": "https://flash.jin10.com/detail/20260521033458078800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美国财政部拍卖160亿美元20年期国债，得标利率5.122%（4月22日为4.883%），投标倍数2.55（前次为2.68）。",
-          "url": "https://wallstreetcn.com/livenews/3106864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时57分]"
-        },
-        {
-          "title": "SpaceX的COO（首席运营官）去年总薪酬8580万美元。",
-          "url": "https://wallstreetcn.com/livenews/3106936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时37分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：Vera CPU的独立销售额未包含在Blackwell和Rubin芯片1万亿美元收入的预测中，Vera将成为1万亿美元预测之外最大的销售贡献来源。",
-          "url": "https://flash.jin10.com/detail/20260521060128162800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "美元指数跌超0.2%",
-          "url": "https://wallstreetcn.com/livenews/3106896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时50分]"
-        },
-        {
-          "title": "英伟达：董事会授权追加800亿美元股票回购，将季度股息从每股0.01美元提高至0.25美元。",
-          "url": "https://wallstreetcn.com/livenews/3106917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时39分]"
-        },
-        {
-          "title": "SpaceX在“星舰”巨型火箭上已砸超150亿美元，马斯克曾豪言最低20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3106959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "英伟达2027财年一季度营收816.2亿美元，分析师预期791.9亿美元。 一季度数据中心营收752亿美元，分析师预期734.8亿美元。 一季度计算与网络营收745.50亿美元，Graphics营收70.65亿美元，边缘计算营收64亿美元。 在数据中心营收中，超大规模云服务商（Hyperscaler）收入占比大约50%。 公司切换到新版报告框架，将报告数据与边缘计算。 预计二季度营收891.8亿-873.6亿美元，分析师预期873.6亿美元。 Vera Rubin处于下半年（交付给客户）的正轨之上。 英伟达盘后涨0.3%，随后转而跌2.18%。半导体ETF盘后跌1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3106915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时39分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：Vera CPU 200亿美元的预估是针对独立CPU销售额，不包含与Rubin芯片组合销售的情况。",
-          "url": "https://flash.jin10.com/detail/20260521054630952800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7972元，较周二夜盘收盘涨150点。成交量556.24亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3106891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时50分]"
-        },
-        {
-          "title": "周三（5月20日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8022元，较周二纽约尾盘涨147点，日内整体交投于6.8193-6.7981元区间。",
-          "url": "https://wallstreetcn.com/livenews/3106930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时37分]"
-        },
-        {
-          "title": "WTI 6月原油期货收跌5.89美元，跌幅5.66%，报98.26美元/桶。 布伦特7月原油期货收跌6.26美元，跌幅5.63%，报105.02美元/桶。 中东Abu Dhabi Murban原油期货跌4.52%，报102.50美元/桶。 NYMEX 6月天然气期货收报3.0040美元/百万英热单位。 NYMEX 6月汽油期货收报3.4874美元/加仑，NYMEX 6月取暖油期货收报3.9471美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3106890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时50分]"
-        },
-        {
-          "title": "德文能源独占鳌头，美国政府40亿美元油气开采权拍卖创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3106955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "马斯克离全球首位万亿美元富翁又近了一步",
-          "url": "https://news.ifeng.com/c/8tIqDq4kbYk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时18分]"
-        },
-        {
-          "title": "财捷Intuit第三财季净营收85.6亿美元，分析师预期85.4亿美元。 预计全年营收213.4亿-213.7亿美元，公司原本预计210亿-211.9亿美元。 预计第四财季营收将增长11%-12%。",
-          "url": "https://wallstreetcn.com/livenews/3106908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时39分]"
-        },
-        {
-          "title": "周三（5月20日），韩元兑美元最终涨0.70%，报1496.95韩元，北京时间22:14开启一波持续上涨的行情。",
-          "url": "https://wallstreetcn.com/livenews/3106872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时49分]"
-        },
-        {
-          "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
-          "url": "https://wallstreetcn.com/livenews/3106871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时49分]"
-        },
-        {
-          "title": "周三（5月20日），美联储隔夜逆回购协议（RRP）使用规模为248.67亿美元（交易对手16家），上个交易日报129.11亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3106867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时49分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达2.0%，报100.24美元/桶。 布伦特原油日内涨幅达2.0%，报107.16美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3107373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
-          "url": "https://www.cls.cn/detail/2378228",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
-          "url": "https://flash.jin10.com/detail/20260521045829764800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "布伦特原油5分钟内上涨1.67美元/桶，报106.12美元/桶；WTI原油5分钟内上涨1.46美元/桶，报99.53美元/桶。据报道，伊朗最高领袖下令：接近武器级的铀必须留在国内。",
-          "url": "https://wallstreetcn.com/livenews/3107372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "英伟达(NVDA.O)2027财年Q1 EPS为2.39美元，市场预期为1.75美元，上年同期为0.76美元。",
-          "url": "https://flash.jin10.com/detail/20260521042431459800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "澳元兑美元扩大跌幅，最新跌0.58%报0.7111。",
-          "url": "https://wallstreetcn.com/livenews/3107099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "马斯克冲击全球首位万亿美元富翁",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%B2%E5%87%BB%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%8C%E7%BF%81%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "英伟达(NVDA.O)2027财年Q1净利润583亿美元，市场预期为422.44亿美元，上年同期为187.75亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521042424820800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "SpaceX：预计太空探索工作将催化可能重塑地球产业的变革性突破，并催生在月球、火星及其他星球上价值数万亿美元的新市场。",
-          "url": "https://flash.jin10.com/detail/20260521045626812800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "梅利乌斯研究公司：将英伟达(NVDA.O)目标价从380美元上调至400美元。",
-          "url": "https://flash.jin10.com/detail/20260521105333519800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "汇丰：维持2026年TTF价格预测为每百万英热单位16美元，2027年为12美元，2028年为9美元。",
-          "url": "https://flash.jin10.com/detail/20260521184639869800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "印度为稳定卢比汇率绞尽脑汁 据悉在讨论加息、发美元债等多种方案",
-          "url": "https://wallstreetcn.com/livenews/3107251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：2027财年第一季度，通过股票回购和股息向股东返还了200亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521042211854800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从300美元上调至315美元。",
-          "url": "https://flash.jin10.com/detail/20260521151048849800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "巴克莱：将可口可乐公司的目标价从85美元上调至89美元。",
-          "url": "https://flash.jin10.com/detail/20260521184523262800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。 一季度调整后EBITDA为11.3亿美元。 一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。 2025年营收113.9亿美元，运营净利润44.2亿美元。 2025年资本支出207.4亿美元，其中AI资本开支127.3亿美元。 星链（Starlink）拥有大约1030万用户。 至3月31日，大约9600颗卫星在近地点轨道运行。 Grok和X等AI平台活跃账户超过13亿。",
-          "url": "https://wallstreetcn.com/livenews/3106925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "英伟达(NVDA.O)宣布新增800亿美元的股票回购授权，并将季度股息提高至每股0.25美元。",
-          "url": "https://flash.jin10.com/detail/20260521042153451800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "SpaceX：根据期权协议，Cursor公司有权获得15亿美元的终止费；根据算力协议，有权获得85亿美元的递延服务费。",
-          "url": "https://flash.jin10.com/detail/20260521045446353800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "马斯克离全球首位万亿美元富翁又近了一步",
-          "url": "https://www.cls.cn/detail/2377533",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "英伟达(NVDA.O)预计2027财年Q2营收为910亿美元；市场预期867.88亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521042101740800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "Anthropic PBC在融资过程中披露的数据显示，第二季度收入料增逾一倍，至109亿美元。 预计6月当季实现营收利润。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3106923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "英伟达(NVDA.O)2027财年Q1数据中心业务收入为752亿美元，市场预期728亿美元，上年同期为391.12亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521042039281800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "英伟达(NVDA.O)2027财年Q1营收816亿美元，市场预期为786.72亿美元，上年同期为440.62亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521042018490800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "摩根大通：将英伟达目标价从265美元上调至280美元。",
-          "url": "https://wallstreetcn.com/livenews/3107150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：公司对Blackwell和Rubin芯片在2025年至2027年期间实现1万亿美元收入的预测充满信心。",
-          "url": "https://flash.jin10.com/detail/20260521052624543800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "布伦特原油向上触及104美元/桶，日内涨1.70%。",
-          "url": "https://flash.jin10.com/detail/20260521184100390800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "SpaceX 2025年营收为186.7亿美元，第一季度净亏损为42.76亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521045203290800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "英伟达：完全相信能实现1万亿美元目标。",
-          "url": "https://wallstreetcn.com/livenews/3106944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
-          "url": "https://wallstreetcn.com/livenews/3106967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：现在拥有超过1000亿美元回购授权。",
-          "url": "https://flash.jin10.com/detail/20260521052119209800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "英伟达：现在拥有超过1000亿美元回购授权。",
-          "url": "https://wallstreetcn.com/livenews/3106943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "英伟达Q1净利润583亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BEQ1%E5%87%80%E5%88%A9%E6%B6%A6583%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：预计今年CPU收入将达到200亿美元。Vera CPU使公司能够进入价值2000亿美元的CPU潜在市场。",
-          "url": "https://flash.jin10.com/detail/20260521052025920800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "金十数据整理：英伟达财报超预期引多家机构上调目标价，最高上看400美元",
-          "url": "https://flash.jin10.com/detail/20260521183834221800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "三星芯片员工据估算将平均获得34万美元奖金",
-          "url": "https://wallstreetcn.com/livenews/3107349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "黎巴嫩财政部长贾比尔：预计由于以色列与黎巴嫩真主党的战争，黎巴嫩经济今年将收缩7%-10%。战争损失估计高达200亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521224945415800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.7960，较上一交易日官方收盘价涨100点，较上日夜盘收盘涨12点。",
-          "url": "https://wallstreetcn.com/livenews/3107309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "高盛将支付5亿美元，来了结一马发展（1MDB）相关的诉讼。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3107494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "SpaceX第一季度太空部门收入为6.19亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521044723154800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美媒：美国将向量子计算公司提供20亿美元资助并考虑入股",
-          "url": "https://flash.jin10.com/detail/20260521183653372800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "SpaceX招股书：星链年赚113亿美元",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E6%8B%9B%E8%82%A1%E4%B9%A6%EF%BC%9A%E6%98%9F%E9%93%BE%E5%B9%B4%E8%B5%9A113%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "SpaceX第一季度人工智能部门收入为8.18亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521044706973800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "英伟达：（CFO在分析师电话会议上表示）需求正在加速。 预计到这个十年（2021-2030年）末尾，年度AI开支将达到3万亿-4万亿美元。 今年的CPU收入有望达到200亿美元。 相信公司能获得供应来支持增长。 AI行业将研发、投资列为优先事项。",
-          "url": "https://wallstreetcn.com/livenews/3106934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "美元指数20日下跌",
-          "url": "https://flash.jin10.com/detail/20260521035335949800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "瑞穗银行：将英伟达公司目标价从275美元上调至300美元。",
-          "url": "https://flash.jin10.com/detail/20260521183321858800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "供应受损与需求放缓博弈 油市形成“100美元天花板”共识",
-          "url": "https://wallstreetcn.com/livenews/3107420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美国证券交易委员会（SEC）文件显示，SpaceX第一季度收入46.94亿美元，运营亏损19.43亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521044506948800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "网易云音乐(09899.HK)：2026年第一季度净收入为人民币20亿元（2.872亿美元），上一季度和去年同期分别为人民币20亿元和人民币19亿元。",
-          "url": "https://flash.jin10.com/detail/20260521183301533800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
-          "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 23时14分]"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 21时19分]"
-        },
-        {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普，“退了一万亿”",
-          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 17时18分]"
-        },
         {
           "title": "中方回应特朗普称将与赖清德对话",
           "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
@@ -936,19 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
-          "title": "中方回应特朗普称将与赖清德谈军售",
-          "url": "https://www.toutiao.com/trending/7642244493529321014/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：如果DC（华盛顿特区）和波多黎各成为州，那将是“灾难”。",
+          "url": "https://wallstreetcn.com/livenews/3107557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
@@ -958,563 +48,378 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 23时14分]"
-        },
-        {
-          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
-          "url": "https://www.cls.cn/detail/2377710",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时29分 ~ 23时14分]"
-        },
-        {
-          "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
-          "url": "https://flash.jin10.com/detail/20260521024115124800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "01时02分"
         },
         {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://flash.jin10.com/detail/20260521085427052800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "特朗普声称将会与赖清德通电话",
-          "url": "https://news.ifeng.com/c/8tIqnPf6rAB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "美国总统特朗普：古巴表示已接受美国提供的人道主义援助。",
-          "url": "https://flash.jin10.com/detail/20260521230755704800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "外交部回应“特朗普将与赖清德交谈”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 23时14分]"
-        },
-        {
-          "title": "报道称特朗普政府已开始制定对古巴军事行动方案",
-          "url": "https://wallstreetcn.com/livenews/3107164",
+          "title": "美国总统特朗普：牛肉价格将下降。",
+          "url": "https://wallstreetcn.com/livenews/3107554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "01时02分"
         },
         {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
-          "source": "凤凰网",
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 19时11分]"
-        },
-        {
-          "title": "特朗普称卸任后不排除去竞选以总理",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8D%B8%E4%BB%BB%E5%90%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8E%BB%E7%AB%9E%E9%80%89%E4%BB%A5%E6%80%BB%E7%90%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "01时02分"
         },
         {
-          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2377369",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 17时18分]"
-        },
-        {
-          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 23时14分]"
-        },
-        {
-          "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
-          "url": "https://wallstreetcn.com/livenews/3106894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 04时50分]"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时18分]"
-        },
-        {
-          "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3106875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时49分]"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普淡化升级对古巴行动的必要性",
-          "url": "https://flash.jin10.com/detail/20260521033103701800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普特使强行访问格陵兰后称：美国是时候重新上岛了",
-          "url": "https://news.ifeng.com/c/8tJB4De0lqd",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "特朗普访华同款四季酒店探秘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%90%8C%E6%AC%BE%E5%9B%9B%E5%AD%A3%E9%85%92%E5%BA%97%E6%8E%A2%E7%A7%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美国参议员肯尼迪：参议院未获得通过特朗普舞厅资金提案的足够支持。",
-          "url": "https://flash.jin10.com/detail/20260521023330632800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "土耳其总统府：埃尔多安对特朗普表示，延长与伊朗的停火是积极的，认为有争议的问题可以得到解决。",
-          "url": "https://flash.jin10.com/detail/20260521022407177800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "土耳其总统府：土耳其总统埃尔多安与特朗普进行了电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260521022129482800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "特朗普继续口头威胁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3106851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "特朗普称愿意多花几天等待伊方消息",
-          "url": "https://wallstreetcn.com/livenews/3106922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "特朗普儿媳强烈推荐打卡长城",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AA%B3%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E6%89%93%E5%8D%A1%E9%95%BF%E5%9F%8E%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "特朗普坚持伊朗问题的外交解决方案 内塔尼亚胡强烈反对",
-          "url": "https://flash.jin10.com/detail/20260521022114581800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "美国总统特朗普：就破冰船问题感谢芬兰。 短期内将形成55艘破冰船的（船队）规模。",
-          "url": "https://wallstreetcn.com/livenews/3106849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
-          "url": "https://flash.jin10.com/detail/20260521024809837800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "特朗普政府拟推迟超级污染物限制令以削减成本",
-          "url": "https://wallstreetcn.com/livenews/3107498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "特朗普：土耳其总统埃尔多安一直是盟友。",
-          "url": "https://flash.jin10.com/detail/20260521024751852800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普：与土耳其总统埃尔多安进行了良好的通话。",
-          "url": "https://flash.jin10.com/detail/20260521024640790800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普：如果我没有得到关于伊朗的正确答案，事情会迅速发展；我需要伊朗提供完全100%的好答案。",
-          "url": "https://flash.jin10.com/detail/20260521024612399800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普：将等待伊朗的回应几天；在达成协议之前不会作出任何放松。",
-          "url": "https://flash.jin10.com/detail/20260521024553061800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普：（关于伊朗）我们正在与理性的人打交道。",
-          "url": "https://flash.jin10.com/detail/20260521024427486800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美伊谈判出现缓和信号，特朗普称美伊谈判已进入最后阶段，美以对伊政策分歧日益公开化......当前金银多头情绪不减、美油陷入多空拉锯，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260521103458120800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普：（关于伊朗）我们必须得到正确的答案。",
-          "url": "https://flash.jin10.com/detail/20260521024415165800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普：必须帮助古巴人民，我们正在解放古巴。古巴局势不会升级局势。",
-          "url": "https://flash.jin10.com/detail/20260521024401137800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美国总统特朗普：在伊朗问题上，美国受到广泛尊重。 关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
-          "url": "https://wallstreetcn.com/livenews/3106837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 38,
-      "titles": [
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 23时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
-          "url": "https://www.cls.cn/detail/2377305",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时36分 ~ 15时29分]"
-        },
-        {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 15时29分]"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 05时39分]"
-        },
-        {
-          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 06时37分]"
-        },
-        {
-          "title": "分析师：特朗普口头利好再救美股，市场继续照单全收",
-          "url": "https://flash.jin10.com/detail/20260521131731594800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "礼来美股盘前跌近2%，礼来表示，使用Retatrutide最高剂量的患者体重减轻28.3%。",
-          "url": "https://wallstreetcn.com/livenews/3107376",
+          "title": "美国总统特朗普兜售股市上涨。 目前，标普跌超0.3%，道指跌107点，纳指跌0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3107553",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
+          "url": "https://wallstreetcn.com/livenews/3107551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普宣称，美国将获得伊朗的浓缩铀。 新华社此前援引路透报道称，伊朗最高领袖穆杰塔巴·哈梅内伊已下达指令，要求该国浓缩铀库存不得运往国外。",
+          "url": "https://wallstreetcn.com/livenews/3107547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：（关于人工智能行政命令）这一政令被推迟，因为我对某些方面不满意。",
+          "url": "https://flash.jin10.com/detail/20260522002027520800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：正就伊朗问题进行谈判。 正在关注阿曼与霍尔木兹海峡通行费的问题。 我们（美国）完全掌控霍尔木兹海峡，封锁是100%有效的。 未经美国批准，任何船只都不能经过伊朗。 一旦伊朗（战争）结束，美国的汽油价格就会下降。 与伊朗的冲突很快就结束。",
+          "url": "https://wallstreetcn.com/livenews/3107545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：看来我得在古巴问题上采取一些行动了。",
+          "url": "https://wallstreetcn.com/livenews/3107544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗冲突将很快结束。",
+          "url": "https://flash.jin10.com/detail/20260522001800513800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们会获得伊朗的浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260522001643997800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不能保留浓缩铀。一旦获得这些浓缩铀，可能会予以销毁。我们不想要它。",
+          "url": "https://flash.jin10.com/detail/20260522001633023800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国在霍尔木兹海峡的封锁完全有效；现已推出两个月前尚未出现的新型反无人机技术。",
+          "url": "https://flash.jin10.com/detail/20260522001531135800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有出色的无人机技术，可以打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260522001451145800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会允许伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260522001437518800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：不希望霍尔木兹海峡收取过路费。",
+          "url": "https://flash.jin10.com/detail/20260522001415848800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：可能需要在伊朗采取非常激烈的措施。",
+          "url": "https://flash.jin10.com/detail/20260522001400063800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：摧毁了伊朗98%的导弹能力。",
+          "url": "https://flash.jin10.com/detail/20260522001257799800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：（就伊朗-阿曼将收取霍尔木兹海峡通行费）正在关注此事；对霍尔木兹海峡拥有完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260522001227198800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "外交部回应“特朗普将与赖清德交谈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "苹果1.8亿美元玻璃亭有哪些黑科技",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C1.8%E4%BA%BF%E7%BE%8E%E5%85%83%E7%8E%BB%E7%92%83%E4%BA%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%BB%91%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
+          "url": "https://www.cls.cn/detail/2378228",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "土耳其出售60亿美元外汇。",
+          "url": "https://wallstreetcn.com/livenews/3107552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
+          "url": "https://wallstreetcn.com/articles/3772763",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普声称，可能要退还总值1490亿美元的关税，会用不同的方式征收关税。 目前，标普跌0.3%，纳指跌0.4%，半导体指数涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3107549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们将不得不退还1490亿美元的关税。",
+          "url": "https://flash.jin10.com/detail/20260522001849483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204831",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "中东股市收盘播报｜周四（5月21日），土耳其伊斯坦布尔证交所全国100指数收跌6.05%，报13163.88点，整体持续走低，北京时间22:20以来加速下跌，逼近4月7日收盘位12921.56点。 伊斯坦布尔证交所银行指数收跌8.63%，报14947.10点，逼近11月18日收盘位14472.10点。。 土耳其里拉兑美元反弹至45.5811里拉刷新日高，北京时间22:32曾跌至45.6269里拉创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3107536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "《经济日报》发文称当下黄金已变成风险资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2040526913467327783",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "油价暴跌 黄金白银上涨",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -1523,770 +428,43 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘后转涨，其第一财季营收及第二财季营收展望均超出平均预期。",
-          "url": "https://flash.jin10.com/detail/20260521042616685800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
-        },
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
-          "url": "https://wallstreetcn.com/livenews/3106919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时39分]"
-        },
-        {
-          "title": "英伟达美股盘后跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3106935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时37分]"
-        },
-        {
-          "title": "Applied Digital Corp.（APLD）美股盘前涨近12%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
-          "url": "https://wallstreetcn.com/livenews/3107332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时11分]"
-        },
-        {
-          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3106958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "小盘股指ETF收涨超2.5%，与新兴市场ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3106914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时39分]"
-        },
-        {
-          "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
-          "url": "https://wallstreetcn.com/livenews/3106910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时39分]"
-        },
-        {
-          "title": "美银：对冲基金上周抛售美股规模创纪录",
-          "url": "https://wallstreetcn.com/livenews/3106953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3107443",
-          "source": "华尔街见闻-快讯",
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "核谈判僵持，油价攀升，美股涨势受阻，量子计算股盘前拉升，美债震荡",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "英伟达(NVDA.O)财报公布后，美股盘后跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260521042254934800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-05-21）",
-          "url": "https://flash.jin10.com/detail/20260521210515704800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3106952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3106951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "美股量子计算股盘前拉升，美国将向9家量子计算公司划拨20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3107366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
-          "url": "https://wallstreetcn.com/livenews/3106949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "蔚来美股盘前涨超5%，公司第一季度营收255.3亿元，预估255.8亿元。",
-          "url": "https://wallstreetcn.com/livenews/3107363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "40年铁律警示：美债熊市未止，美股大跌才是唯一出路",
-          "url": "https://flash.jin10.com/detail/20260521210315743800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3106946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260521040629314800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
-          "url": "https://wallstreetcn.com/livenews/3106945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "美股三大指数均涨超1% 特斯拉涨3.25%",
-          "url": "https://www.toutiao.com/trending/7642114363104431662/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260521040610507800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美债收益率至少跌超7个基点，美股盘初显著走低",
-          "url": "https://wallstreetcn.com/livenews/3106899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美股三大指数收涨超1% CPU概念股强势",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8%E8%B6%851%25+CPU%E6%A6%82%E5%BF%B5%E8%82%A1%E5%BC%BA%E5%8A%BF",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时05分"
-        },
-        {
-          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3106963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "网易第一季度营收306亿元人民币，预估295.1亿元人民币。 第一季度毛利212亿元人民币，预估191.1亿元人民币。 第一季度经调整每股ADS持续经营净收益17.46元人民币，预估15.47元人民币。 第一季度在线游戏服务净收入257.1亿元人民币，预估247.1亿元人民币。 第一季度创新及其他业务净收入15.5亿元人民币，预估15.8亿元人民币。 网易美股盘前跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3107310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "美股收盘：三大股指涨超1% 特斯拉涨3%",
-          "url": "https://flash.jin10.com/detail/20260521040127045800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "通胀担忧高企，美长债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3772605",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 06时37分]"
-        },
-        {
-          "title": "黄金跌破4500美元 调整还将持续多久",
-          "url": "https://www.toutiao.com/trending/7641949478945033782/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            22,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "国际黄金震荡格局或将延续？反弹机会何时到来？顺姐正在连线国信期货首席分析师顾冯达讲解，点击观看直播<font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260521211049531800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "女子在水贝捡十几条黄金首饰后报警",
-          "url": "https://www.toutiao.com/trending/7642243568236777006/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时11分]"
-        },
-        {
-          "title": "《经济日报》发文称当下黄金已变成风险资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2040526913467327783",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 23时14分]"
-        },
-        {
-          "title": "油价暴跌 黄金白银上涨",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 23时14分]"
-        },
-        {
-          "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3106884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时49分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月20日（周三）晚盘收盘上涨1.05%报994.34元/克；<br/>上海黄金交易所白银T+D 5月20日（周三）晚盘收盘上涨2.69%报18594.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260521023711581800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "分析师：美债收益率与美元联手施压，黄金多头短期“难有作为”",
-          "url": "https://flash.jin10.com/detail/20260521170258310800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "周三（5月20日）纽约尾盘，现货黄金涨1.35%，报4543.20美元/盎司。 COMEX黄金期货涨0.78%，报4546.40美元/盎司。 现货白银涨2.92%，报75.8819美元/盎司。 COMEX白银期货涨3.01%，报75.9510美元/盎司。 COMEX铜期货涨2.04%，报6.3330美元/磅。 现货铂金涨1.57%，现货钯金涨0.87%。",
-          "url": "https://wallstreetcn.com/livenews/3106927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "黄金短线进入箱体震荡，新的震荡区间在何处？不同周期需关注哪些信号？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260521210329550800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "黄金牛市终结了吗",
-          "url": "https://www.toutiao.com/trending/7642245949514845747/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "油价退守95，黄金上冲4600，市场最怕的利率剧本又回来了｜市场赔率数据表",
-          "url": "https://flash.jin10.com/detail/20260521150834919800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日维持不变，当前持仓量为1036.851吨。",
-          "url": "https://flash.jin10.com/detail/20260521062229867800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "现货黄金跌破4500美元/盎司，日内跌0.96%。",
-          "url": "https://flash.jin10.com/detail/20260521210028743800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "挂单报告：国际现货黄金回落 国际现货白银上方筹码稀疏",
-          "url": "https://flash.jin10.com/detail/20260521150549413800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "俄罗斯至5月15日当周央行黄金和外汇储备 7689亿美元，前值7710亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521210003426800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "国际现货黄金只是获得短暂喘息？行情反复的警钟持续敲响...",
-          "url": "https://flash.jin10.com/detail/20260521103040673800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
           "url": "https://www.zhihu.com/question/2040738759281473391",
           "source": "知乎",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 23时14分]"
-        },
-        {
-          "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3106863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时57分]"
-        },
-        {
-          "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
-          "url": "https://flash.jin10.com/detail/20260521030904258800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
-          "url": "https://wallstreetcn.com/livenews/3106852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
-          "url": "https://flash.jin10.com/detail/20260521051358120800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "欧洲半导体概念股普遍收涨，Soitec涨10.37%，阿斯麦控股涨6.73%，意法半导体米兰股价涨6%，BE半导体实业公司涨3.96%，ASM国际涨3.93%。",
-          "url": "https://wallstreetcn.com/livenews/3106873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 03时49分]"
-        },
-        {
-          "title": "创新药概念震荡拉升，昭衍新药触及涨停，昂利康此前封板，迪哲医药、益方生物、一品红、康辰药业、君实生物涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3107083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "A股机器人概念股反复活跃，北投科技反包涨停，昊志机电涨超10%，科森科技、信邦智能、福莱新材、浙江荣泰涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3107073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "5月21日午间收评：科创50指数冲高回落翻绿，玻璃基板概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3107134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "A股商业航天概念早盘拉升，铖昌科技直线涨停，瑞华泰、东方钽业、海格通信、春晖智控、上海港湾跟涨，消息上，SpaceX向SEC提交S-1注册声明，将在纳斯达克上市，股票代码为SPCX。",
-          "url": "https://wallstreetcn.com/livenews/3107064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
-          "url": "https://wallstreetcn.com/livenews/3106887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时50分]"
-        },
-        {
-          "title": "机构测算：土耳其在三月清空了其持有的几乎所有美债",
-          "url": "https://flash.jin10.com/detail/20260521210113709800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
-          "url": "https://www.zhihu.com/question/2040450519303288568",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 07时34分]"
-        },
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 23时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 09时05分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "01时02分"
         }
       ]
     }
