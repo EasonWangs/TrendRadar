@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T09:44:54.359458+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-05-23T11:15:04.181096+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 11时15分]"
         },
         {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
@@ -83,6 +83,17 @@
           "time_info": "[02时45分 ~ 03时37分]"
         },
         {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 11时15分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
           "url": "https://wallstreetcn.com/livenews/3108245",
           "source": "华尔街见闻-快讯",
@@ -109,6 +120,17 @@
           "time_info": "[04时39分 ~ 06时28分]"
         },
         {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
           "url": "https://wallstreetcn.com/livenews/3108228",
           "source": "华尔街见闻-快讯",
@@ -119,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时31分]"
-        },
-        {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时44分]"
         },
         {
           "title": "美国总统特朗普：图尔西·加巴德将于6月30日离开政府；国家情报局副局长亚伦·卢卡斯将担任国家情报局代理局长。",
@@ -309,6 +320,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时39分]"
+        },
+        {
+          "title": "美媒：伊朗革命卫队训练人员密谋刺杀特朗普长女伊万卡",
+          "url": "https://flash.jin10.com/detail/20260523095127844800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
+          "url": "https://wallstreetcn.com/livenews/3108300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         },
         {
           "title": "美联储主席沃什：感谢美国总统特朗普。我们正处于一个重要的时刻。",
@@ -785,8 +818,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 11时15分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -797,8 +830,22 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 11时15分]"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            20,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时30分 ~ 09时44分]"
+          "time_info": "[07时31分 ~ 11时15分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -837,19 +884,6 @@
           "time_info": "[04时39分 ~ 09时01分]"
         },
         {
-          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3108274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时44分]"
-        },
-        {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260523021145540800",
           "source": "金十数据",
@@ -879,11 +913,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时15分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
@@ -891,11 +926,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时15分]"
         },
         {
           "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
@@ -903,11 +939,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时15分]"
         },
         {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
@@ -1020,6 +1057,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 11时15分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 2,
       "titles": [
@@ -1028,22 +1094,24 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 11时15分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
           "url": "https://flash.jin10.com/detail/20260523091339971800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时15分]"
         }
       ]
     },
@@ -1090,8 +1158,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 11时15分]"
         },
         {
           "title": "人民日报评所谓碳水脸概念走红",
@@ -1107,24 +1175,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时37分 ~ 09时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
-          "url": "https://www.zhihu.com/question/2041260640740927118",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时44分]"
         }
       ]
     },
