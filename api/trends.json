@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T07:31:15.407292+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-23T09:01:48.934043+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 09时01分]"
         },
         {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
@@ -309,6 +310,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "特朗普主持沃什就任美联储主席仪式",
           "url": "https://flash.jin10.com/detail/20260523000549977800",
           "source": "金十数据",
@@ -515,6 +527,19 @@
           "time_info": "[01时39分 ~ 03时37分]"
         },
         {
+          "title": "Tradeweb运营数据显示，受国际货币基金组织（IMF）积极表态的刺激，塞内加尔2033年到期的美元主权债券上涨0.5美分，买盘报价略高于面值的53%（53美分/1美元），刷新了5月月中以来的最高水平。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3108265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 09时01分]"
+        },
+        {
           "title": "周五（5月22日）纽约尾盘，ICE美元指数跌0.02%，报99.243点，本周累计下跌0.02%，交投区间为99.515-98.946点，整体出现三波V形走势。 彭博美元指数涨0.08%，报1202.61点，本周大致持平，交投区间为1205.25-1199.01点。 美元兑日元涨0.10%，报159.14日元，本周累涨0.24%，交投区间为158.54-159.34日元。",
           "url": "https://wallstreetcn.com/livenews/3108213",
           "source": "华尔街见闻-快讯",
@@ -527,28 +552,17 @@
           "time_info": "[03时37分 ~ 04时39分]"
         },
         {
-          "title": "Tradeweb运营数据显示，受国际货币基金组织（IMF）积极表态的刺激，塞内加尔2033年到期的美元主权债券上涨0.5美分，买盘报价略高于面值的53%（53美分/1美元），刷新了5月月中以来的最高水平。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3108265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
-        },
-        {
           "title": "塞内加尔财长警告，燃料补贴赤字恐超预算20亿美元",
           "url": "https://wallstreetcn.com/livenews/3108263",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 09时01分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7978元，较周四夜盘收盘跌18点。成交量466.56亿美元。",
@@ -587,6 +601,19 @@
           "time_info": "[05时31分 ~ 07时31分]"
         },
         {
+          "title": "风电审批遭遇全面“停摆”，危及美国500亿美元能源项目",
+          "url": "https://wallstreetcn.com/livenews/3108259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 09时01分]"
+        },
+        {
           "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
           "url": "https://wallstreetcn.com/livenews/3108243",
           "source": "华尔街见闻-快讯",
@@ -622,18 +649,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时37分]"
-        },
-        {
-          "title": "风电审批遭遇全面“停摆”，危及美国500亿美元能源项目",
-          "url": "https://wallstreetcn.com/livenews/3108259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时31分]"
         },
         {
           "title": "WTI 6月原油期货收涨0.25美元，涨幅0.26%，报96.60美元/桶。 布伦特7月原油期货收涨0.96美元，涨幅0.94%，报103.54美元/桶。 中东Abu Dhabi Murban原油期货die 1.76%，报100.35美元/桶，本周累计下跌7.08%。 NYMEX 6月天然气期货收报2.9070美元/百万英热单位。 NYMEX 6月汽油期货收报3.4539美元/加仑，NYMEX 6月取暖油期货收报3.8878美元/加仑。",
@@ -756,29 +771,79 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时01分]"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 09时01分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 09时01分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040726833800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 09时01分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 高通涨超11%",
+          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 09时01分]"
         },
         {
           "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
           "url": "https://wallstreetcn.com/livenews/3108274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 09时01分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -805,50 +870,6 @@
           "time_info": "[02时45分 ~ 03时37分]"
         },
         {
-          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040728628800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时31分]"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040726833800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时31分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 高通涨超11%",
-          "url": "https://flash.jin10.com/detail/20260523040305525800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时31分]"
-        },
-        {
-          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
-          "url": "https://www.cls.cn/detail/2379649",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
           "url": "https://wallstreetcn.com/livenews/3108158",
           "source": "华尔街见闻-快讯",
@@ -873,6 +894,28 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
           "url": "https://wallstreetcn.com/livenews/3108253",
           "source": "华尔街见闻-快讯",
@@ -882,12 +925,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3108281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美股标普连涨八周 富途控股跌27.53%",
+          "url": "https://www.toutiao.com/trending/7642859924128550441/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄金又跌破4500美元了",
@@ -899,6 +964,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.855吨，当前持仓量为1034.853吨。",
+          "url": "https://flash.jin10.com/detail/20260523082312670800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月22日（周五）晚盘收盘下跌0.14%报990.6元/克；<br/>上海黄金交易所白银T+D 5月22日（周五）晚盘收盘上涨0.14%报18650.0元/千克。",
@@ -957,7 +1033,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -973,11 +1049,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 09时01分]"
         },
         {
           "title": "人民日报评所谓碳水脸概念走红",
@@ -987,11 +1064,12 @@
             19,
             18,
             16,
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时37分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[03时37分 ~ 09时01分]"
         }
       ]
     },
@@ -1008,8 +1086,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 09时01分]"
         }
       ]
     },
