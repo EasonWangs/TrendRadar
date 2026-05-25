@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T02:42:21.559370+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-05-26T03:36:27.733963+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中美元首会晤是否谈及日本？外交部回应",
@@ -15,19 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时36分]"
         },
         {
-          "title": "周一（5月25日），韩元兑美元最终涨0.39%，报1511.65韩元。",
-          "url": "https://wallstreetcn.com/livenews/3108999",
+          "title": "周一，WTI原油期货最终下跌6.52%，报90.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3109014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "03时36分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3109012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "WTI原油跌破90美元/桶，为5月7日以来首次。",
@@ -46,11 +57,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
+        },
+        {
+          "title": "周一（5月25日），韩元兑美元最终涨0.39%，报1511.65韩元。",
+          "url": "https://wallstreetcn.com/livenews/3108999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "time_info": "[02时42分 ~ 03时36分]"
         },
         {
           "title": "国际油价短线跌幅扩大，布伦特原油日内跌超7%，现报93.58美元/桶，此前阿拉伯媒体称美伊草案协议达成。",
@@ -58,11 +82,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.83%，暂报2819.51点，整体持续走高。 MarketVectorTM数字资产100中盘指数涨3.32%，报3109.24点。 MarketVector数字资产100指数涨1.37%，报15322.20点。 目前，Solana涨1.09%，狗狗币涨1.46%，XRP涨1.05%。 比特币涨1.33%，暂报77637.47美元；以太坊涨1.74%，暂报2133.16美元。",
@@ -70,11 +95,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "WTI原油期货跌超6.6%，报90.15美元。",
@@ -82,11 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "美、布两油持续走低，布伦特原油失守94美元/桶，日内跌超6%。",
@@ -94,33 +121,36 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "布伦特7月原油期货收跌7.40美元，跌幅超过7.14%，报96.14美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3108993",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时36分]"
         },
         {
           "title": "WTI原油期货跌破90美元/桶，为5月7日以来首次。",
           "url": "https://flash.jin10.com/detail/20260526011633800800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时36分]"
         },
         {
           "title": "美、布两油短线下挫1美元，现分别报93.4美元/桶和94.71美元/桶。",
@@ -147,8 +177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时36分]"
         },
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -158,8 +188,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时36分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引以色列第12频道的消息报道，美国特使威特科夫和特朗普高级顾问库什纳正前往以色列，以商讨一项可能的美伊合作协议。此次会谈将围绕华盛顿与德黑兰之间可能达成的协议展开讨论，会谈还将继续就霍尔木兹海峡问题和核问题进行协商。",
@@ -167,11 +197,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "美国总统特朗普：重申伊朗永远都不会拥有核武器。",
@@ -179,11 +210,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "美国总统特朗普：现在与委内瑞拉政府紧密接触。",
@@ -191,11 +223,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -203,11 +236,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
+        },
+        {
+          "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
+          "url": "https://flash.jin10.com/detail/20260526013137022800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "time_info": "[02时42分 ~ 03时36分]"
         },
         {
           "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
@@ -220,17 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时37分]"
-        },
-        {
-          "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
-          "url": "https://flash.jin10.com/detail/20260526013137022800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
         },
         {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
@@ -247,8 +282,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 5月25日（周一）晚盘收盘上涨0.33%报999.82元/克；<br/>上海黄金交易所白银T+D 5月25日（周一）晚盘收盘上涨0.9%报19050.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260526023853541800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
         {
           "title": "黄金三个月跌了近20% 后市如何",
           "url": "https://www.toutiao.com/trending/7643815607711829513/",
@@ -256,11 +302,12 @@
           "ranks": [
             6,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时36分]"
         },
         {
           "title": "美、布两油短线小幅下挫0.4美元，现货黄金波动不大。",
@@ -268,11 +315,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时36分]"
         },
         {
           "title": "谈判重启黄金反弹，空头压制真解除了吗？",
@@ -292,6 +340,19 @@
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
+        {
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 03时36分]"
+        },
         {
           "title": "金十图示：2026年05月25日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260526003132448800",
@@ -315,18 +376,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时42分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "中国500万美股账户被冻结 后续怎么办",
-          "url": "https://www.toutiao.com/trending/7643690261362196489/",
-          "source": "今日头条",
+          "title": "金价跳空高开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            26,
-            21
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     }
