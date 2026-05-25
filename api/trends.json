@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T11:20:04.798073+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-05-25T13:41:01.738942+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -116,6 +116,18 @@
           "time_info": "[00时28分 ~ 06时25分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 13时41分]"
+        },
+        {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
           "url": "https://wallstreetcn.com/livenews/3108545",
           "source": "华尔街见闻-快讯",
@@ -167,18 +179,6 @@
           "time_info": "[02时31分 ~ 04时27分]"
         },
         {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 11时20分]"
-        },
-        {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
           "url": "https://flash.jin10.com/detail/20260525025220703800",
           "source": "金十数据",
@@ -189,6 +189,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时41分]"
         },
         {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
@@ -248,15 +260,111 @@
           "time_info": "[02时31分 ~ 03时34分]"
         },
         {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
+          "title": "报道：特朗普想把美伊协议同“亚伯拉罕协议”挂钩",
+          "url": "https://wallstreetcn.com/livenews/3108666",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "谈判重启黄金大涨，但真正解除抛压只有一种情景！",
+          "url": "https://flash.jin10.com/detail/20260525131828925800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "金十图示：2026年05月25日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260525060643592800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时27分]"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.00%，现报4552.92美元/盎司。纽约期银日内涨幅扩大至2.00%，现报77.77美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260525060458075800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "黄金白银又拉涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%88%E6%8B%89%E6%B6%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
+          "title": "黄金再跌也不能买了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%86%8D%E8%B7%8C%E4%B9%9F%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%BA%86&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "现货黄金突破4560美元/盎司，日内涨1.17%。",
+          "url": "https://flash.jin10.com/detail/20260525063236258800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至1.5%，现货白银涨幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3108567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     },
@@ -339,7 +447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -350,83 +458,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月25日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260525060643592800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时27分]"
-        },
-        {
-          "title": "现货黄金日内涨幅达1.00%，现报4552.92美元/盎司。纽约期银日内涨幅扩大至2.00%，现报77.77美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260525060458075800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时27分]"
-        },
-        {
-          "title": "黄金白银又拉涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%88%E6%8B%89%E6%B6%A8%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "黄金再跌也不能买了",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%86%8D%E8%B7%8C%E4%B9%9F%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%BA%86&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
-          "title": "现货黄金突破4560美元/盎司，日内涨1.17%。",
-          "url": "https://flash.jin10.com/detail/20260525063236258800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "现货黄金日内涨幅扩大至1.5%，现货白银涨幅扩大至4%。",
-          "url": "https://wallstreetcn.com/livenews/3108567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
         }
       ]
     },
@@ -443,8 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时41分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -465,11 +499,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时41分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -477,17 +512,18 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 11时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时41分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -499,6 +535,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 06时25分]"
+        },
+        {
+          "title": "欧美股指期货上涨，标普500指数期货涨幅扩大至0.95%，纳指期货上涨1.43%；欧洲斯托克50指数期货上涨1.1%，德国DAX30指数期货上涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260525132554099800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
@@ -527,8 +574,30 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "A股玻纤概念股涨势扩大，宏和科技2连板，股价续创历史新高，此前长海股份20cm涨停，山东玻纤、中材科技、国际复材、中国巨石跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3108684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "A股国家大基金持股概念午后拉升，华大九天、华虹公司20CM涨停，拓荆科技、中芯国际、精测电子、艾森股份、燕东微纷纷拉升。",
+          "url": "https://flash.jin10.com/detail/20260525130429779800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
         {
           "title": "A股CPO概念股短线拉升，新易盛、天孚通信涨超5%，中际旭创、仕佳光子纷纷跟涨。",
           "url": "https://flash.jin10.com/detail/20260525105244432800",
@@ -536,7 +605,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -547,7 +616,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
@@ -599,8 +668,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时41分]"
         }
       ]
     }
