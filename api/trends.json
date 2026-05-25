@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T09:06:17.856017+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-05-25T11:20:04.798073+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -167,6 +167,18 @@
           "time_info": "[02时31分 ~ 04时27分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 11时20分]"
+        },
+        {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
           "url": "https://flash.jin10.com/detail/20260525025220703800",
           "source": "金十数据",
@@ -188,17 +200,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "特朗普：若与伊朗达成协议，将是“良好且正当的”",
@@ -245,12 +246,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时34分]"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "现货白银站上78美元/盎司，日内涨3.41%。",
@@ -319,12 +331,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "摩根士丹利：2030年全球半导体产业市场规模或达1.5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260525105841593800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8318，上调55点；上一交易日中间价6.8373，上一交易日官方收盘价6.7947，上日夜盘报收6.7978。",
+          "url": "https://wallstreetcn.com/livenews/3108600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年05月25日（周一）黄金ETF持仓报告",
@@ -362,6 +396,17 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "黄金再跌也不能买了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%86%8D%E8%B7%8C%E4%B9%9F%E4%B8%8D%E8%83%BD%E4%B9%B0%E4%BA%86&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
           "title": "现货黄金突破4560美元/盎司，日内涨1.17%。",
           "url": "https://flash.jin10.com/detail/20260525063236258800",
           "source": "金十数据",
@@ -379,7 +424,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         }
@@ -394,11 +439,12 @@
           "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 11时20分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -418,22 +464,24 @@
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 11时20分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 09时06分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 11时20分]"
         }
       ]
     },
@@ -471,9 +519,37 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股CPO概念股短线拉升，新易盛、天孚通信涨超5%，中际旭创、仕佳光子纷纷跟涨。",
+          "url": "https://flash.jin10.com/detail/20260525105244432800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "A股PCB概念股反复活跃，鹏鼎控股2连板，股价续创历史新高，正业科技涨超10%，博敏电子、满坤科技、生益科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3108613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -505,9 +581,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外贸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长三角外贸交出亮眼成绩单",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E4%B8%89%E8%A7%92%E5%A4%96%E8%B4%B8%E4%BA%A4%E5%87%BA%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     }
