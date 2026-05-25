@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T05:31:43.922534+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-26T06:28:52.506786+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 05时31分]"
-        },
-        {
-          "title": "美元指数25日下跌",
-          "url": "https://flash.jin10.com/detail/20260526042947544800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 06时28分]"
         },
         {
           "title": "周一，WTI原油期货最终下跌6.52%，报90.30美元。",
@@ -37,11 +25,39 @@
           "ranks": [
             1,
             5,
-            16
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时36分 ~ 06时28分]"
+        },
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260526042947544800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时36分 ~ 05时31分]"
+          "time_info": "[04时36分 ~ 06时28分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3109012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时36分 ~ 06时28分]"
         },
         {
           "title": "WTI原油跌破90美元/桶，为5月7日以来首次。",
@@ -83,29 +99,17 @@
           "time_info": "[02时42分 ~ 05时31分]"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3109012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时36分 ~ 05时31分]"
-        },
-        {
           "title": "美元指数跌超0.2%",
           "url": "https://wallstreetcn.com/livenews/3109019",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时28分]"
         },
         {
           "title": "国际油价短线跌幅扩大，布伦特原油日内跌超7%，现报93.58美元/桶，此前阿拉伯媒体称美伊草案协议达成。",
@@ -190,11 +194,12 @@
           "url": "https://wallstreetcn.com/livenews/3109023",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
         },
         {
           "title": "美、布两油短线下挫1美元，现分别报93.4美元/桶和94.71美元/桶。",
@@ -211,7 +216,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -221,8 +226,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 06时28分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
@@ -242,7 +247,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -262,15 +267,26 @@
           "time_info": "[01时37分 ~ 05时31分]"
         },
         {
-          "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
-          "url": "https://wallstreetcn.com/livenews/3109030",
+          "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
+          "url": "https://flash.jin10.com/detail/20260526054700468800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "06时28分"
         },
         {
           "title": "美国总统特朗普：重申伊朗永远都不会拥有核武器。",
@@ -299,6 +315,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时37分 ~ 04时36分]"
+        },
+        {
+          "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
+          "url": "https://wallstreetcn.com/livenews/3109030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -341,6 +369,39 @@
           "time_info": "[00时49分 ~ 01时37分]"
         },
         {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://flash.jin10.com/detail/20260526051929396800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要么移交浓缩铀给美国，要么销毁。",
+          "url": "https://wallstreetcn.com/livenews/3109041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://wallstreetcn.com/livenews/3109035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
           "url": "https://wallstreetcn.com/livenews/3108943",
           "source": "华尔街见闻-快讯",
@@ -367,11 +428,12 @@
             16,
             20,
             14,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 06时28分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月25日（周一）晚盘收盘上涨0.33%报999.82元/克；<br/>上海黄金交易所白银T+D 5月25日（周一）晚盘收盘上涨0.9%报19050.0元/千克。",
@@ -380,11 +442,12 @@
           "ranks": [
             4,
             16,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时36分 ~ 05时31分]"
+          "appearance_count": 4,
+          "time_info": "[03时36分 ~ 06时28分]"
         },
         {
           "title": "现货黄金涨超1.3%，白银涨超3.3%",
@@ -392,11 +455,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时28分]"
         },
         {
           "title": "美、布两油短线小幅下挫0.4美元，现货黄金波动不大。",
@@ -477,11 +541,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 06时28分]"
         }
       ]
     }
