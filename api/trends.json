@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T17:19:19.958980+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-05-27T19:20:32.897956+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "美光告别“周期魔咒”？瑞银给出1600美元天价目标：LTA或撑起1.8万亿美元市值",
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时13分 ~ 17时19分]"
+          "appearance_count": 14,
+          "time_info": "[01时13分 ~ 19时20分]"
         },
         {
           "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
@@ -29,11 +29,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 17时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 19时20分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -47,6 +48,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时37分 ~ 13时37分]"
+        },
+        {
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 19时20分]"
         },
         {
           "title": "英伟达(NVDA.O)首席执行官：公司每年在中国台湾的投入额约为1500亿美元。",
@@ -69,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.5%，报74.15美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "存储三巨头市值均超1万亿美元 法拉利首款电动车引发股价下跌 | 环球市场",
@@ -108,18 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时47分]"
-        },
-        {
-          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
-          "url": "https://wallstreetcn.com/articles/3773207",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 17时19分]"
         },
         {
           "title": "白宫格斗赛“八角笼”效果图亮相 搞一张门票可能需上百万美元",
@@ -238,6 +251,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "现货白银日内跌幅达3.00%，现报74.56美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260527185035011800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美光科技涨19%，收盘市值突破1万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3109640",
           "source": "华尔街见闻-快讯",
@@ -255,7 +279,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -269,6 +293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
+          "url": "https://www.zhihu.com/question/2042901886798403259",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "WTI原油向下触及95美元/桶，日内跌1.37%。",
@@ -288,7 +323,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -299,7 +334,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -343,7 +378,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -409,7 +444,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -420,7 +455,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -486,7 +521,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -522,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "【Q1全球DRAM市占排名：三星继续领跑 长鑫存储份额升至7.7%】据CFM闪存市场数据显示，三星一季度DRAM销售收入达382.14亿美元，环比增长98.4%，市场份额为40.5%，进一步拉大和其他供应商的份额差距，排名第一；SK海力士一季度DRAM销售收入达279.25亿美元，因其HBM供应占比较多，总收入环比增长62.1%低于其他供应商，市场份额为29.6%，排名第二；美光一季度（2025年12月-2026年2月）DRAM销售收入达187.68亿美元，环比增长73.6%，市场份额19.9%，排名第三；长鑫存储一季度DRAM销售收入达73.09亿美元，环比增长115.1%，市场份额进一步提升至7.7%，排名第四。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3110001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
@@ -540,11 +586,25 @@
             11,
             9,
             8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时13分 ~ 19时20分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时13分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 19时20分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -557,18 +617,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时05分 ~ 17时19分]"
-        },
-        {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 17时19分]"
         },
         {
           "title": "市场不信特朗普的“和平剧本”：不信海峡很快打开，不敢建立原油头寸",
@@ -897,7 +945,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
@@ -959,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -1033,6 +1092,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260527040525791800",
           "source": "金十数据",
@@ -1053,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "中信证券：维持美股好于美债、美元指数有支撑的观点",
@@ -1077,6 +1158,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "拼多多(PDD.O)美股盘前跌超3.3%，消息面上，公司2026年Q1营收1062亿元，上年同期956.7亿元。",
+          "url": "https://flash.jin10.com/detail/20260527183308629800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "三巨头超级IPO或搅动美股",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%B6%85%E7%BA%A7IPO%E6%88%96%E6%90%85%E5%8A%A8%E7%BE%8E%E8%82%A1",
           "source": "bilibili 热搜",
@@ -1091,7 +1183,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "俄罗斯再次未能成功出售黄金生产商UGC的股权",
@@ -1153,6 +1245,28 @@
           "time_info": "[05时37分 ~ 06时34分]"
         },
         {
+          "title": "现货黄金日内跌幅达1%，报4461.2美元/盎司。 纽约金日内跌幅达1%，报4484.9美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "现货黄金短线下挫，日内跌超1.00%，现报4454美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260527184646106800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "新闻交易员：地缘没凉，为什么黄金先挨打？答案在利率里",
           "url": "https://flash.jin10.com/detail/20260527082013248800",
           "source": "金十数据",
@@ -1195,12 +1309,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "港交所：推出黄金期货全市场交易费用豁免优惠",
+          "url": "https://wallstreetcn.com/livenews/3110024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -1261,6 +1386,17 @@
           "time_info": "13时37分"
         },
         {
+          "title": "【焦点复盘】科创50冲高回落跌2.8%，机器人概念遭重挫，夏季用电高峰引爆电力股",
+          "url": "https://www.cls.cn/detail/2383049",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "A股白酒概念持续冲高，水井坊涨停，金徽酒涨超4%，酒鬼酒、皇台酒业、山西汾酒、今世缘跟涨。",
           "url": "https://flash.jin10.com/detail/20260527131327350800",
           "source": "金十数据",
@@ -1281,6 +1417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "真视通：近期市场对液冷、高压快充相关概念关注度较高，公司液冷和高压快充业务占公司总收入比例较低，且相关业务在短期内对公司业绩影响较小。",
+          "url": "https://wallstreetcn.com/livenews/3110033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
