@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T21:27:25.860566+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-05-28T23:17:38.847280+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
@@ -148,6 +148,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "AI初创公司Groq据悉正为新实体筹集6.5亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260528225227812800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
           "url": "https://www.zhihu.com/question/2042901886798403259",
           "source": "知乎",
@@ -222,6 +233,19 @@
           "time_info": "[03时46分 ~ 04时49分]"
         },
         {
+          "title": "Snowflake盘后暴涨超30%，与AWS签订60亿美元采购协议",
+          "url": "https://wallstreetcn.com/articles/3773285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 23时17分]"
+        },
+        {
           "title": "美国原油期货结算价为每桶88.68美元，下跌5.21美元，跌幅5.55%。",
           "url": "https://flash.jin10.com/detail/20260528023115072800",
           "source": "金十数据",
@@ -268,18 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时38分]"
-        },
-        {
-          "title": "Snowflake盘后暴涨超30%，与AWS签订60亿美元采购协议",
-          "url": "https://wallstreetcn.com/articles/3773285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时27分]"
         },
         {
           "title": "美国官员：美国国防部向微软(MSFT.O)授予了97亿美元的企业软件合同，旨在降低成本。",
@@ -398,6 +410,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "国际原油价格抹去涨幅，WTI原油期货接近每桶87美元。",
+          "url": "https://wallstreetcn.com/livenews/3110816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶94.29美元，下跌5.29美元，跌幅5.31%。",
           "url": "https://flash.jin10.com/detail/20260528024144188800",
           "source": "金十数据",
@@ -492,7 +515,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -588,7 +611,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
@@ -623,11 +646,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 21时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 23时17分]"
         },
         {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
@@ -721,8 +745,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 23时17分]"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时27分]"
+          "time_info": "[21时27分 ~ 23时17分]"
         },
         {
           "title": "特朗普政府要求在肯尼亚隔离埃博拉病毒接触人员，专家：在美国、德国治疗的效果更好",
@@ -839,17 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "美国总统特朗普：正在努力重新开放加利福尼亚的石油储备。",
@@ -1050,6 +1074,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "让家长帮子女理财 “特朗普账户”APP在美国各大应用商店上线",
+          "url": "https://flash.jin10.com/detail/20260528223945726800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国总统特朗普在被问及免征燃油税（Gas Tax Holiday）时表示：这是我们可能会讨论的事情，让我们看看会发生什么。",
           "url": "https://wallstreetcn.com/livenews/3110206",
           "source": "华尔街见闻-快讯",
@@ -1138,6 +1173,17 @@
           "time_info": "13时33分"
         },
         {
+          "title": "美媒曝美伊就一份谅解备忘录达成一致，只待特朗普“点头”",
+          "url": "https://flash.jin10.com/detail/20260528223343667800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美国财政部长贝森特宣称：我们抵御能源价格波动影响的能力更强了。 美国最近四个季度GDP增长2.7%。 兜售私人行业的就业形势。 “特朗普账户”签约已经达到将近600万。",
           "url": "https://wallstreetcn.com/livenews/3110200",
           "source": "华尔街见闻-快讯",
@@ -1163,7 +1209,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -1286,6 +1332,17 @@
           "time_info": "[08时58分 ~ 09时44分]"
         },
         {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 23时17分]"
+        },
+        {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
           "url": "https://wallstreetcn.com/livenews/3110274",
           "source": "华尔街见闻-快讯",
@@ -1365,17 +1422,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2384590",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "Snowflake美股盘前涨近35%，公司与AWS签订60亿美元采购协议。",
           "url": "https://wallstreetcn.com/livenews/3110604",
           "source": "华尔街见闻-快讯",
@@ -1393,7 +1439,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1418,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "报道称伊朗与美国达成协议，油价、美元下跌，欧美股市一度走高",
+          "url": "https://wallstreetcn.com/livenews/3110810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "“泡沫预言家”：美股或面临十年低迷",
@@ -1445,8 +1502,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 21时27分]"
+          "appearance_count": 12,
+          "time_info": "[08时58分 ~ 23时17分]"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
@@ -1471,6 +1528,18 @@
           "time_info": "07时33分"
         },
         {
+          "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
+          "url": "https://www.zhihu.com/question/2043314967013581849",
+          "source": "知乎",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 23时17分]"
+        },
+        {
           "title": "现货黄金高开，向上触及4460美元/盎司，日内涨0.17%。",
           "url": "https://flash.jin10.com/detail/20260528060142425800",
           "source": "金十数据",
@@ -1493,18 +1562,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时46分]"
-        },
-        {
-          "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
-          "url": "https://www.zhihu.com/question/2043314967013581849",
-          "source": "知乎",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 21时27分]"
         },
         {
           "title": "4分钟黄金凯格尔运动",
@@ -1581,7 +1638,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1735,11 +1792,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 23时17分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -1846,6 +1904,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 23时17分]"
+        },
+        {
           "title": "金价银价还在跌",
           "url": "https://www.douyin.com/hot/2514737",
           "source": "抖音",
@@ -1857,19 +1929,6 @@
           "time_info": "15时33分"
         },
         {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 21时27分]"
-        },
-        {
           "title": "金价跌了反而不敢买了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -1879,6 +1938,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini联合SpaceX和xAI推出Command Center（指挥中心）。这是一项个性化的市场信息流（Market Feed）。",
+          "url": "https://wallstreetcn.com/livenews/3110808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX、OpenAI排队上市：华尔街开始提前“腾仓位”了",
+          "url": "https://flash.jin10.com/detail/20260528223736409800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
