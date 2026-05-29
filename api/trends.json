@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T17:21:22.044208+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-05-29T19:13:54.308120+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
@@ -151,6 +151,18 @@
           "time_info": "[04时54分 ~ 05时44分]"
         },
         {
+          "title": "Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 19时13分]"
+        },
+        {
           "title": "Anthropic：推出Claude Opus 4.8，收费为10美元/100万tokens。 对常规使用Opus 4.7的收费维持现状不变。",
           "url": "https://wallstreetcn.com/livenews/3110870",
           "source": "华尔街见闻-快讯",
@@ -271,17 +283,6 @@
           "time_info": "[04时54分 ~ 05时44分]"
         },
         {
-          "title": "Anthropic官宣估值升至9650亿美元",
-          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 13时35分]"
-        },
-        {
           "title": "周四（5月28日），美联储隔夜逆回购协议（RRP）使用规模为11.63亿美元（交易对手7家），上个交易日报18.53亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110881",
           "source": "华尔街见闻-快讯",
@@ -339,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "WTI原油日内跌幅达一度2.00%，现报89.24美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260529184833866800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "Anthropic官宣估值升至9650亿美元",
@@ -435,7 +447,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -457,9 +469,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "新诺威：控股子公司收到与阿斯利康签署的战略合作与授权协议4.2亿美元首付款。",
+          "url": "https://wallstreetcn.com/livenews/3111367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "印度卢比兑美元涨幅扩大至0.5%，至95.27。",
@@ -468,7 +491,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -506,6 +529,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "瑞银集团：将戴尔(DELL.N)目标价从243美元上调至440美元。",
+          "url": "https://flash.jin10.com/detail/20260529183307089800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "SpaceX据称将IPO估值目标下调到至少1.8万亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3111037",
           "source": "华尔街见闻-快讯",
@@ -520,7 +554,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊达成 60 天停火备忘录框架，霍尔木兹海峡恢复无限制通航，油价跳水，黄金转涨，哪些信息值得关注？",
@@ -557,8 +591,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 19时13分]"
         },
         {
           "title": "黄金为什么暴涨暴跌",
@@ -608,7 +642,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -705,13 +739,24 @@
           "time_info": "07时34分"
         },
         {
+          "title": "现货黄金日内涨幅达1.0%，报4542.06美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3111375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "廉价手机的黄金时代正在迎来终结",
           "url": "https://www.baidu.com/s?wd=%E5%BB%89%E4%BB%B7%E6%89%8B%E6%9C%BA%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E6%AD%A3%E5%9C%A8%E8%BF%8E%E6%9D%A5%E7%BB%88%E7%BB%93",
           "source": "百度热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -725,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.00%，现报4541.55美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260529183829972800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "现货黄金突破4500美元/盎司，日内涨0.99%。",
@@ -747,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "警方高速上拦下价值200余万被盗黄金",
+          "url": "https://www.toutiao.com/trending/7645135399023607814/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "这一轮黄金回调藏着哪些信号",
@@ -996,7 +1063,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
@@ -1027,8 +1094,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 19时13分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -1084,8 +1151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时35分 ~ 19时13分]"
         },
         {
           "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
@@ -1287,8 +1354,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 19时13分]"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -1425,9 +1492,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时13分]"
         }
       ]
     },
