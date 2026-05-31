@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T04:31:26.433550+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-06-01T05:27:05.514844+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时27分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -27,8 +27,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时30分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 05时27分]"
+        },
+        {
+          "title": "多名艺人辞演后特朗普决定自己上台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 05时27分]"
+        },
+        {
+          "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
+          "url": "https://flash.jin10.com/detail/20260601044554841800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
@@ -56,30 +81,28 @@
           "time_info": "[01时30分 ~ 04时31分]"
         },
         {
-          "title": "多名艺人辞演后特朗普决定自己上台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 04时31分]"
-        },
-        {
           "title": "叙利亚总统沙拉与特朗普通电话，沙拉告诉特朗普解除对叙利亚剩余的制裁措施是重振叙利亚经济的重要一步。",
           "url": "https://flash.jin10.com/detail/20260601025902421800",
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 05时27分]"
+        },
+        {
+          "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
+          "url": "https://flash.jin10.com/detail/20260601042418213800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "美国总统特朗普：白宫舞厅屋顶的无人机港口可能将成为世界上最先进的设施！它将长期保障我国首都华盛顿特区的安全。",
@@ -102,6 +125,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "新西兰财长阴阳美防长：我们沙发底下可没藏几十亿美元",
+          "url": "https://news.ifeng.com/c/8tZt6kKXSqT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普肖像上250美元钞票有哪些难题",
+          "url": "https://www.toutiao.com/trending/7646031446183792154/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            18,
+            19,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时27分]"
+        },
+        {
+          "title": "穆迪：美国家庭平均每月的能源支出增加450美元",
+          "url": "https://flash.jin10.com/detail/20260601044626789800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)以85亿美元收购美国住宅建筑开发商泰勒·莫里森家庭公司（Taylor Morrison Home Corporation），交易价值每股72.5美元，股权价值68亿美元。",
+          "url": "https://flash.jin10.com/detail/20260601043215842800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
@@ -134,38 +211,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新西兰财长阴阳美防长：我们沙发底下可没藏几十亿美元",
-          "url": "https://news.ifeng.com/c/8tZt6kKXSqT",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普肖像上250美元钞票有哪些难题",
-          "url": "https://www.toutiao.com/trending/7646031446183792154/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            18,
-            19,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时31分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -174,11 +219,12 @@
           "url": "https://www.zhihu.com/question/2043802300246915002",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时27分]"
         }
       ]
     },
@@ -195,8 +241,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时27分]"
         }
       ]
     }
