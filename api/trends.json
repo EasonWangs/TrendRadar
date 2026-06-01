@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-01T07:29:33.075726+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-06-01T09:13:00.282533+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "新西兰财长阴阳美防长：我们沙发底下可没藏几十亿美元",
           "url": "https://news.ifeng.com/c/8tZt6kKXSqT",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时13分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
@@ -45,6 +46,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "据日经新闻：日本计划在五年内向美国领导的创世使命人工智能倡议投入5亿美元，成为首个加入该项目的国家。",
+          "url": "https://flash.jin10.com/detail/20260601090600365800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报91.14美元/桶。",
@@ -125,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -136,15 +148,48 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "高盛将2026年底LME铜价预测上调至13,735美元/吨，将2027年LME平均铜价预测上调至13,800美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3112013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "欧盟拟冻结俄油价格上限，或咬死44.10美元限价",
+          "url": "https://flash.jin10.com/detail/20260601084220203800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "美元基金募资回暖 硬科技领域成共识",
+          "url": "https://wallstreetcn.com/livenews/3112010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -155,8 +200,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时13分]"
         },
         {
           "title": "多名艺人辞演后特朗普决定自己上台",
@@ -187,6 +232,17 @@
           "time_info": "[01时30分 ~ 07时29分]"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
           "url": "https://wallstreetcn.com/livenews/3111962",
           "source": "华尔街见闻-快讯",
@@ -196,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "据日经新闻：日本将参与美国特朗普政府的“创世使命”（Genesis Mission）AI项目，以推动科研创新。",
+          "url": "https://flash.jin10.com/detail/20260601090324279800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
@@ -274,7 +341,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年06月01日（周一）黄金ETF持仓报告",
@@ -283,7 +350,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -306,15 +373,37 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260601090047512800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月1日（周一）早盘盘初上涨0.64%报986.8元/克；<br/>上海黄金交易所白银T+D 6月1日（周一）早盘盘初下跌1.13%报18052.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260601090930784800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大股指期货周一基本平开。",
@@ -349,6 +438,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 06时27分]"
+        },
+        {
+          "title": "美股期货走高，标普500指数期货涨0.1%，纳斯达克100指数期货涨0.3%。 欧股期货走低，欧洲Stoxx 50指数期货跌0.3%，德国DAX指数期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3112021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
