@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T17:37:12.105530+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-06-02T19:37:14.344704+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "戏剧性一幕，特朗普被迫打了一个电话",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时10分 ~ 17时37分]"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 19时37分]"
         },
         {
           "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时31分 ~ 13时43分]"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 17时37分]"
         },
         {
           "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 06时08分]"
+        },
+        {
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "特朗普称美伊或于1周内达成协议，谈判出现“小插曲”",
@@ -613,8 +624,22 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 19时37分]"
+        },
         {
           "title": "韩国 SK 海力士工厂突发火灾，有哪些信息值得关注？公司市值刚突破 1 万亿美元，火灾会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2044805544947494930",
@@ -629,20 +654,6 @@
           "time_info": "[02时09分 ~ 09时11分]"
         },
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 17时37分]"
-        },
-        {
           "title": "打破\"只买不卖\"惯例！MSTR首度出售比特币，套现250万美元",
           "url": "https://wallstreetcn.com/articles/3773584",
           "source": "华尔街见闻",
@@ -651,8 +662,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时36分 ~ 17时37分]"
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 19时37分]"
         },
         {
           "title": "算力、存储之后是光连接？黄仁勋“钦点”下一家万亿美元公司",
@@ -663,8 +674,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时37分]"
+        },
+        {
+          "title": "黄仁勋：Marvell可能会成为“下一家万亿美元公司”",
+          "url": "https://wallstreetcn.com/articles/3773635",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时37分]"
         },
         {
           "title": "伯克希尔“新王”上任“第一把火”：85亿美元！卖油气，买地产",
@@ -721,17 +744,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "黄仁勋：Marvell可能会成为“下一家万亿美元公司”",
-          "url": "https://wallstreetcn.com/articles/3773635",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时37分]"
         },
         {
           "title": "Alphabet拟融资800亿美元推进AI战略 伯克希尔将认购100亿美元股份",
@@ -792,6 +804,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 13时43分]"
+        },
+        {
+          "title": "伯克希尔投资100亿美元加码谷歌",
+          "url": "https://www.douyin.com/hot/2520581",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
+        },
+        {
+          "title": "谷歌前CEO被诬告强奸获赔千万美元",
+          "url": "https://www.toutiao.com/trending/7646587677566828586/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "周一（6月1日），美联储隔夜逆回购协议（RRP）使用规模为13.02亿美元（交易对手5家），上个交易日报116.77亿美元。",
@@ -932,7 +966,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -965,7 +999,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1001,6 +1035,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "伦敦金属交易所（LME） 三个月期铅上涨1.1%，至每公吨2,028.50美元，为1月29日以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260602190252820800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "比特币自4月8日以来首次跌破7万美元。",
@@ -1147,6 +1192,18 @@
           "time_info": "[04时32分 ~ 06时08分]"
         },
         {
+          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
+          "url": "https://www.cls.cn/detail/2388081",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 19时37分]"
+        },
+        {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
           "url": "https://wallstreetcn.com/livenews/3112654",
           "source": "华尔街见闻-快讯",
@@ -1180,17 +1237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
-          "url": "https://www.cls.cn/detail/2388081",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "新华社：美股AI热潮是否面临“泡沫破裂”风险",
@@ -1287,7 +1333,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
@@ -1303,11 +1349,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时37分]"
         },
         {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
@@ -1382,7 +1429,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1404,7 +1451,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1423,7 +1470,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "大部分人都对尺寸没有概念",
@@ -1447,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
+          "url": "https://www.cls.cn/detail/2388469",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "协鑫集团董事长朱共山：单一光伏制造企业的概念或许会消失",
@@ -1540,7 +1598,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "油价跌了黄金也没涨，市场开始担心一个新问题",
@@ -1593,6 +1651,29 @@
           "time_info": "[02时09分 ~ 06时08分]"
         },
         {
+          "title": "美联储降息只是推迟并非取消？国际黄金多头防线仍在 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260602151939337800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 19时37分]"
+        },
+        {
+          "title": "能拉动10吨卡车的“黑黄金”量产了",
+          "url": "https://www.toutiao.com/trending/7646703806205739049/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
+        },
+        {
           "title": "黄金震荡下跌",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E9%9C%87%E8%8D%A1%E4%B8%8B%E8%B7%8C&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -1602,6 +1683,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "“大宗牛市”未完待续？瑞银：原油、黄金和铜铝都有“基本面支撑”！",
+          "url": "https://www.cls.cn/detail/2388313",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
@@ -1615,17 +1707,6 @@
           "time_info": "06时08分"
         },
         {
-          "title": "美联储降息只是推迟并非取消？国际黄金多头防线仍在 | Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260602151939337800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.286吨，当前持仓量为1028.856吨。",
           "url": "https://flash.jin10.com/detail/20260602062057713800",
           "source": "金十数据",
@@ -1635,6 +1716,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
+        },
+        {
+          "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
+          "url": "https://wallstreetcn.com/livenews/3112923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
@@ -1664,23 +1773,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
-          "url": "https://wallstreetcn.com/livenews/3112923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         }
       ]
     }
