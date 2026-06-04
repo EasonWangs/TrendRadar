@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T05:38:13.406937+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-06-05T06:37:21.049209+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -53,17 +53,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
-          "url": "https://wallstreetcn.com/livenews/3114648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
           "source": "凤凰网",
@@ -97,17 +86,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
-          "url": "https://flash.jin10.com/detail/20260605045725566800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
           "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
           "url": "https://wallstreetcn.com/livenews/3114629",
           "source": "华尔街见闻-快讯",
@@ -130,6 +108,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时38分]"
+        },
+        {
+          "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
+          "url": "https://wallstreetcn.com/livenews/3114648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
         },
         {
           "title": "特朗普：Pulte不会成为正式的国家情报总监",
@@ -156,6 +146,18 @@
           "time_info": "[04时49分 ~ 05时38分]"
         },
         {
+          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
+          "url": "https://flash.jin10.com/detail/20260605045725566800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
           "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
           "url": "https://wallstreetcn.com/livenews/3114582",
           "source": "华尔街见闻-快讯",
@@ -168,6 +170,18 @@
           "time_info": "[02时57分 ~ 03时47分]"
         },
         {
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://flash.jin10.com/detail/20260605044910796800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
           "title": "美国总统特朗普：不需要欧洲在霍尔木兹海峡问题上提供帮助。 不需要欧洲其他国家在霍尔木兹问题上提供帮助。 我们已经杀害几乎所有的伊朗领导人。 伊朗没有海军，也没有空军。 如果伊朗打死美军，将迅速重启战争。 （黎巴嫩）真主党联系了我们。",
           "url": "https://wallstreetcn.com/livenews/3114619",
           "source": "华尔街见闻-快讯",
@@ -178,6 +192,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
+          "url": "https://flash.jin10.com/detail/20260605044557857800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
+          "url": "https://flash.jin10.com/detail/20260605044520253800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
+          "url": "https://wallstreetcn.com/livenews/3114633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
+          "url": "https://flash.jin10.com/detail/20260605043740083800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "特朗普称黎以和平谈判取得一定进展",
+          "url": "https://flash.jin10.com/detail/20260605043607203800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
+          "url": "https://wallstreetcn.com/livenews/3114631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
         },
         {
           "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
@@ -203,6 +289,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
+          "url": "https://flash.jin10.com/detail/20260605055248462800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
           "title": "美国总统特朗普：有望达成一项确保伊朗保持无核武器状态的协议。",
           "url": "https://flash.jin10.com/detail/20260605042006613800",
           "source": "金十数据",
@@ -214,15 +311,15 @@
           "time_info": "04时49分"
         },
         {
-          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
-          "url": "https://flash.jin10.com/detail/20260605044910796800",
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://flash.jin10.com/detail/20260605054401786800",
           "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时37分"
         },
         {
           "title": "伊朗最高领袖顾问：特朗普想施压迫使我们接受他的条件，同时将我们的条件置于模糊状态。当前草案存在模糊之处，必须予以澄清。",
@@ -258,15 +355,26 @@
           "time_info": "04时49分"
         },
         {
-          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
-          "url": "https://flash.jin10.com/detail/20260605044557857800",
+          "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
+          "url": "https://flash.jin10.com/detail/20260605053303350800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://wallstreetcn.com/livenews/3114655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "美国总统特朗普：我相信我们拥有全球任何国家中最不诚实的选举！",
@@ -291,17 +399,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
-          "url": "https://flash.jin10.com/detail/20260605044520253800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
           "title": "美国总统特朗普：如果没有美国的军事支持，乌克兰将无法继续作战。",
           "url": "https://flash.jin10.com/detail/20260605041433585800",
           "source": "金十数据",
@@ -324,17 +421,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
-          "url": "https://wallstreetcn.com/livenews/3114633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
           "title": "美国总统特朗普：关于黎巴嫩问题，我与真主党进行了沟通。",
           "url": "https://flash.jin10.com/detail/20260605041301762800",
           "source": "金十数据",
@@ -346,17 +432,6 @@
           "time_info": "04时49分"
         },
         {
-          "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
-          "url": "https://flash.jin10.com/detail/20260605043740083800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
           "title": "美国总统特朗普：伊朗还剩下一些导弹，但数量很少。",
           "url": "https://flash.jin10.com/detail/20260605041242756800",
           "source": "金十数据",
@@ -366,28 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
-        },
-        {
-          "title": "特朗普称黎以和平谈判取得一定进展",
-          "url": "https://flash.jin10.com/detail/20260605043607203800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
-          "url": "https://wallstreetcn.com/livenews/3114631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         },
         {
           "title": "美国总统特朗普：（关于黎巴嫩）我认为那边会发生一些事情。黎巴嫩能有些和平是件好事。",
@@ -407,7 +460,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -418,7 +471,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -440,7 +493,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -451,7 +504,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -484,7 +537,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -506,7 +559,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -517,7 +570,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -550,7 +603,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -561,7 +614,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -580,7 +633,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -590,19 +643,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 06时37分]"
         },
         {
           "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33305986",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 06时37分]"
         },
         {
           "title": "数字货币市场普跌，比特币在亚太早盘下探6.1万美元",
@@ -614,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260605060453998800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "LME期铜收涨107美元，报13932美元/吨。 LME期铝收跌38美元，报3666美元/吨。 LME期锌收跌22美元，报3588美元/吨。 LME期铅收跌6美元，报2017美元/吨。 LME期镍收跌182美元，报18689美元/吨。 LME期锡收跌1664美元，报55744美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -660,6 +725,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时47分]"
+        },
+        {
+          "title": "周四（6月4日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7769元，较周三纽约尾盘涨34点，日内整体交投于6.7803-6.7701元区间。",
+          "url": "https://wallstreetcn.com/livenews/3114641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至6月3日的一周内，货币市场基金总资产增加了1092.5亿美元，达到7.89万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605044825280800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产7.894万亿美元，创历史新高。",
@@ -710,15 +799,15 @@
           "time_info": "[02时57分 ~ 03时47分]"
         },
         {
-          "title": "周四（6月4日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7769元，较周三纽约尾盘涨34点，日内整体交投于6.7803-6.7701元区间。",
-          "url": "https://wallstreetcn.com/livenews/3114641",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：SpaceX告知投资银行，其IPO价格定为每股135美元，且不会变动。",
+          "url": "https://flash.jin10.com/detail/20260605054543841800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时37分"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：6月3日当周，美国杠杆贷款基金获得7.555亿美元资金流入，为连续第九周出现资金流入。",
@@ -730,17 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：截至6月3日的一周内，货币市场基金总资产增加了1092.5亿美元，达到7.89万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260605044825280800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         },
         {
           "title": "报道：数据中心零部件生产商Xnrgy考虑按100亿美元出售",
@@ -826,7 +904,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -867,7 +945,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -877,8 +955,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 06时37分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -889,8 +967,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 06时37分]"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -899,11 +977,12 @@
           "ranks": [
             8,
             23,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时56分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[02时56分 ~ 06时37分]"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -928,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时38分]"
+        },
+        {
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "金十图示：2026年06月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -975,11 +1065,12 @@
           "ranks": [
             29,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 06时37分]"
         },
         {
           "title": "女子7万购黄金镶钻手镯5天掉了5颗钻",
@@ -998,11 +1089,12 @@
           "url": "https://wallstreetcn.com/livenews/3114638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时37分]"
         },
         {
           "title": "1.6T光模块量产 测试设备迎黄金时代",
@@ -1042,19 +1134,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 06时37分]"
         },
         {
           "title": "MLCC成“下一个存储”？多家概念股发异动公告",
           "url": "https://www.cls.cn/detail/2391173",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 06时37分]"
         },
         {
           "title": "【数据看盘】北向资金、一线游资联手抢筹玻璃基板人气股，多家机构扎堆存储芯片概念股",
