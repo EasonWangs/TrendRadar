@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T02:57:11.290623+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-05T03:47:05.926050+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 03时47分]"
         },
         {
           "title": "数字货币市场普跌，比特币在亚太早盘下探6.1万美元",
@@ -47,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "美国总统特朗普宣称：对众多煤炭工厂投资7亿美元。 正采取历史性行动来降低能源价格。",
+          "url": "https://wallstreetcn.com/livenews/3114600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
@@ -59,19 +70,43 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 03时47分]"
         },
         {
           "title": "阿根廷经济部长Luis Caputo：阿根廷批准RIGI投资方案中的两个项目，价值大约15.1亿美元。 San Matias天然气管道涉及13亿美元投资，将从Neuquen向Rio Negro输送2700万立方米/日的天然气。 Posco在Sal de Oro Lithium项目的第二阶段涉及0.2亿美元投资。",
           "url": "https://wallstreetcn.com/livenews/3114581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时47分]"
+        },
+        {
+          "title": "高盛：预计SpaceX到2028年的资本开支将达3600亿美元",
+          "url": "https://wallstreetcn.com/livenews/3114574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时47分]"
+        },
+        {
+          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：6月3日当周，美国杠杆贷款基金获得7.555亿美元资金流入，为连续第九周出现资金流入。",
+          "url": "https://wallstreetcn.com/livenews/3114592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "03时47分"
         },
         {
           "title": "报道：数据中心零部件生产商Xnrgy考虑按100亿美元出售",
@@ -85,26 +120,37 @@
           "time_info": "01时11分"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7742元，较周三夜盘收盘涨51点。成交量507.88亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "据TheInformation：高盛预测到2030年，SpaceX累计现金消耗将达3500亿美元。",
           "url": "https://flash.jin10.com/detail/20260605023417026800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
         {
-          "title": "高盛：预计SpaceX到2028年的资本开支将达3600亿美元",
-          "url": "https://wallstreetcn.com/livenews/3114574",
+          "title": "WTI 7月原油期货收跌2.98美元，跌幅3.10%，报93.04美元/桶。 布伦特8月原油期货收跌2.78美元，跌幅2.84报95.03美元/桶。 NYMEX 7月天然气期货收报3.3360美元/百万英热单位。 NYMEX 7月汽油期货收报3.0383美元/加仑，NYMEX 7月取暖油期货收报3.6738美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3114585",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "03时47分"
         },
         {
           "title": "据知情人士透露，Hut 8 Corp.寻求发行高评级（投资级）债券，融资超过40亿美元。 这笔资金将用于支持一个与英伟达相关的数据中心。（彭博）",
@@ -124,7 +170,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -135,7 +181,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -143,8 +189,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美国总统特朗普就煤炭问题发表声明。",
+          "url": "https://flash.jin10.com/detail/20260605032432338800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
@@ -157,17 +214,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
-          "url": "https://wallstreetcn.com/livenews/3114582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
           "source": "澎湃新闻",
@@ -176,19 +222,54 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 03时47分]"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时47分]"
         },
         {
           "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
           "url": "https://wallstreetcn.com/livenews/3114570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：特朗普想施压迫使我们接受他的条件，同时将我们的条件置于模糊状态。当前草案存在模糊之处，必须予以澄清。",
+          "url": "https://flash.jin10.com/detail/20260605025734076800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时57分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：我相信我们拥有全球任何国家中最不诚实的选举！",
+          "url": "https://flash.jin10.com/detail/20260605025523299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
@@ -208,7 +289,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -226,19 +307,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 03时47分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
           "url": "https://wallstreetcn.com/articles/3773846",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 03时47分]"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -280,23 +362,24 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "最灿烂不一定要许多钻石黄金",
+          "url": "https://www.douyin.com/hot/2523543",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 03时47分]"
+        },
+        {
           "title": "女子7万购黄金镶钻手镯5天掉了5颗钻",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%907%E4%B8%87%E8%B4%AD%E9%BB%84%E9%87%91%E9%95%B6%E9%92%BB%E6%89%8B%E9%95%AF5%E5%A4%A9%E6%8E%89%E4%BA%865%E9%A2%97%E9%92%BB",
           "source": "百度热搜",
           "ranks": [
             25,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时57分]"
-        },
-        {
-          "title": "最灿烂不一定要许多钻石黄金",
-          "url": "https://www.douyin.com/hot/2523543",
-          "source": "抖音",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -320,7 +403,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -364,11 +447,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 03时47分]"
         }
       ]
     }
