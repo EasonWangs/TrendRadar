@@ -1,548 +1,11 @@
 {
-  "generated_at": "2026-06-06T05:36:22.727161+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-06-06T06:32:29.849501+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 46,
-      "titles": [
-        {
-          "title": "在这件事上，特朗普宣布要花7亿美元",
-          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
-        },
-        {
-          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606041804168800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时36分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606011824365800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "现货钯金日内大跌6.00%，现报1229.41美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260606031855460800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
-          "url": "https://flash.jin10.com/detail/20260606042427126800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "纽约期金跌破4350美元/盎司，日内跌3.44%。",
-          "url": "https://flash.jin10.com/detail/20260606003208915800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
-          "url": "https://flash.jin10.com/detail/20260606021701992800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
-          "url": "https://flash.jin10.com/detail/20260606041131799800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时36分]"
-        },
-        {
-          "title": "美国国务院：批准向新西兰出售MH-60R多任务直升机及相关设备，交易金额估计为15亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606003834127800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时48分]"
-        },
-        {
-          "title": "现货白银日内跌幅达8.0%，报67.93美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3115310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时42分]"
-        },
-        {
-          "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
-          "url": "https://flash.jin10.com/detail/20260606003514905800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
-          "url": "https://wallstreetcn.com/livenews/3115295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时39分]"
-        },
-        {
-          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
-          "url": "https://wallstreetcn.com/livenews/3115309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时42分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.333万亿美元，之前一周19.285万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时36分]"
-        },
-        {
-          "title": "纽约期铜日内走低4.00%，现报6.2735美元/磅。",
-          "url": "https://flash.jin10.com/detail/20260606003437632800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
-          "url": "https://wallstreetcn.com/livenews/3115261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "SpaceX与谷歌签署300亿美元算力协议",
-          "url": "https://wallstreetcn.com/livenews/3115327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时36分]"
-        },
-        {
-          "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3115292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时39分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周四夜盘收盘跌136点。成交量421.10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时42分]"
-        },
-        {
-          "title": "芯片股惨遭抛售，股市市值蒸发超1万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3115326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时36分]"
-        },
-        {
-          "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
-          "url": "https://wallstreetcn.com/livenews/3115258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3115270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时48分]"
-        },
-        {
-          "title": "美国4月消费信贷变动 207.33亿美元，预期 180亿美元，前值 248.55亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时42分]"
-        },
-        {
-          "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
-          "url": "https://wallstreetcn.com/livenews/3115255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 布伦特8月原油期货收跌1.94美元，跌幅2.04%，报93.09美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3115301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时42分]"
-        },
-        {
-          "title": "LME期铜跌3%，报13514美元。",
-          "url": "https://wallstreetcn.com/livenews/3115253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "机构：GLP-1减重与糖尿病药物市场规模将在2030年达到1500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3115252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3115251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "纽约期银跌破68美元/盎司，日内跌8.08%。",
-          "url": "https://flash.jin10.com/detail/20260606034210786800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时36分]"
-        },
-        {
-          "title": "美国国务院：美国将向埃博拉疫情应对工作追加约3800万美元资金支持。",
-          "url": "https://flash.jin10.com/detail/20260606021505859800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "周五（6月5日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7907元，较周四纽约尾盘跌138点，日内整体交投于6.7648-6.7920元区间。",
-          "url": "https://wallstreetcn.com/livenews/3115346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "布伦特原油跌破92美元/桶，日内跌2.52%。",
-          "url": "https://flash.jin10.com/detail/20260606003037655800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "据福布斯：人工智能编程初创公司Lovable正在洽谈融资，目标估值约120亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606030632331800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国国务院表示，已批准一项“可能的军售”，计划向意大利出售两栖突击车辆及相关装备，总价值约3060万美元。",
-          "url": "https://flash.jin10.com/detail/20260606005444239800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国国务院表示，已批准一项“可能的军售”，计划向韩国出售联合直接攻击弹药，预计价值约1.06亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606005311427800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "据The Information：Meta Platforms(META.O)正考虑推出每月200美元的消费级人工智能代理工具。",
-          "url": "https://flash.jin10.com/detail/20260606020547795800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时48分"
-        },
-        {
-          "title": "WTI原油日内大跌3.00%，现报91.62美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260606002640513800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国4月消费信贷 207.3亿美元，预期180亿美元，前值由248.55亿美元修正为222.3亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606030021423800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持日元净空头头寸创2024年7月份以来新高。 杠杆交易员所持日元空头头寸达到105,136手合约，持仓价值大约82亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "现货白银向下触及68美元/盎司，日内跌7.96%。",
-          "url": "https://flash.jin10.com/detail/20260606024237553800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "据CNN：美国与伊朗潜在的协议取决于美国是否同意释放240亿美元被冻结的伊朗资产。",
-          "url": "https://flash.jin10.com/detail/20260606000418792800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美元指数DXY突破100，日内涨0.56%。",
-          "url": "https://flash.jin10.com/detail/20260606000040620800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "消息人士：SpaceX的IPO认购需求约为路演初期750亿美元募资规模的两倍。",
-          "url": "https://flash.jin10.com/detail/20260606023646884800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "英镑兑美元GBP/USD日内跌超0.50%，现报1.3357。",
-          "url": "https://flash.jin10.com/detail/20260605235757412800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "纽约银日内跌幅达7.0%，报68.74美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3115238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 51,
       "titles": [
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -553,11 +16,12 @@
             13,
             11,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -584,15 +48,48 @@
           "time_info": "03时39分"
         },
         {
-          "title": "美国总统特朗普：加拿大苛刻地对待美国农民。",
-          "url": "https://wallstreetcn.com/livenews/3115348",
+          "title": "美国白宫幕僚长Wiles：总统特朗普提名Blanche为司法部长，对其表示祝贺。",
+          "url": "https://wallstreetcn.com/livenews/3115371",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
+          "url": "https://flash.jin10.com/detail/20260606060416092800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260606060340835800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
+          "url": "https://flash.jin10.com/detail/20260606060257951800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
@@ -605,6 +102,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时39分]"
+        },
+        {
+          "title": "美国总统特朗普：加拿大苛刻地对待美国农民。",
+          "url": "https://wallstreetcn.com/livenews/3115348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
         },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
@@ -643,6 +152,18 @@
           "time_info": "[02时48分 ~ 03时39分]"
         },
         {
+          "title": "美国总统特朗普：美联储主席沃什将做一份不错的工作。 我们正在处理前美联储主席鲍威尔。",
+          "url": "https://wallstreetcn.com/livenews/3115344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
           "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
           "url": "https://wallstreetcn.com/livenews/3115289",
           "source": "华尔街见闻-快讯",
@@ -653,6 +174,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时39分]"
+        },
+        {
+          "title": "美国总统特朗普：农民们将在未来90天看到好事发生。",
+          "url": "https://wallstreetcn.com/livenews/3115343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普：夸赞5月非农就业报告。 为之前两个月的数据得到上修点赞。 当数据好的时候，市场就应该上涨。 （经济）增长实际上遏制通胀",
+          "url": "https://wallstreetcn.com/livenews/3115342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
         },
         {
           "title": "美国总统特朗普：对于汽油价格，我们有很多替代方案。 人们认为，油桶会变得更昂贵。 在美国的介入下，大量石油流出霍尔木兹海峡。",
@@ -703,6 +248,17 @@
           "time_info": "[02时48分 ~ 03时39分]"
         },
         {
+          "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
+          "url": "https://flash.jin10.com/detail/20260606060212679800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "消息人士：特朗普在铀浓缩处理时间及冻结资金问题上与伊朗存在分歧",
           "url": "https://flash.jin10.com/detail/20260606030808995800",
           "source": "金十数据",
@@ -714,37 +270,48 @@
           "time_info": "03时39分"
         },
         {
-          "title": "美国总统特朗普：美联储主席沃什将做一份不错的工作。 我们正在处理前美联储主席鲍威尔。",
-          "url": "https://wallstreetcn.com/livenews/3115344",
+          "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
+          "url": "https://flash.jin10.com/detail/20260606054357490800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗还剩下21%-22%的导弹。 伊朗还剩下一些导弹，还剩下一些无人机，我们知道在哪里。 （谈伊朗为何不达成协议）这对他们来说非常艰难。 （除了达成协议）伊朗别无选择，这需要一些时间。",
+          "url": "https://wallstreetcn.com/livenews/3115363",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时32分"
         },
         {
-          "title": "美国总统特朗普：农民们将在未来90天看到好事发生。",
-          "url": "https://wallstreetcn.com/livenews/3115343",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：埃隆之前犯了个错，但现在他又是我的朋友了。",
+          "url": "https://flash.jin10.com/detail/20260606053901777800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时32分"
         },
         {
-          "title": "美国总统特朗普：夸赞5月非农就业报告。 为之前两个月的数据得到上修点赞。 当数据好的时候，市场就应该上涨。 （经济）增长实际上遏制通胀",
-          "url": "https://wallstreetcn.com/livenews/3115342",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
+          "url": "https://flash.jin10.com/detail/20260606053856908800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时32分"
         },
         {
           "title": "金十提示：美国总统特朗普结束在空军一号上的讲话。",
@@ -756,6 +323,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及能源与化肥领域）正在筹划相关举措。",
+          "url": "https://flash.jin10.com/detail/20260606053834497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国总统特朗普：我并不是西班牙的死忠（big fan）。",
+          "url": "https://wallstreetcn.com/livenews/3115360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局 否认最高领袖与特朗普可能的会晤",
@@ -780,15 +369,37 @@
           "time_info": "02时48分"
         },
         {
+          "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
+          "url": "https://flash.jin10.com/detail/20260606053657743800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "美国总统特朗普：当美国离开伊朗，石油、汽油价格都将下跌。 化肥价格也将下跌。",
           "url": "https://wallstreetcn.com/livenews/3115340",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗冲突结束之后，我们“准备开干（古巴）”。",
+          "url": "https://wallstreetcn.com/livenews/3115359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
@@ -802,13 +413,24 @@
           "time_info": "03时39分"
         },
         {
+          "title": "美国总统特朗普：当数据好的时候，市场就应该上涨。",
+          "url": "https://flash.jin10.com/detail/20260606053637196800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "美国总统特朗普：我们已经在极大程度上完成了（伊朗协议的磋商），你们会看到（结果）的。 要么用书面（协议）方式结束伊朗问题，要么换一种方式。 相比书面方式，强硬地对待伊朗要容易得多。 美国封锁霍尔木兹海峡取得成果。 很快就会结束伊朗问题。",
           "url": "https://wallstreetcn.com/livenews/3115339",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -822,6 +444,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普夸赞就业数据。",
+          "url": "https://flash.jin10.com/detail/20260606053520855800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
+          "url": "https://wallstreetcn.com/livenews/3115357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
@@ -947,8 +591,581 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 49,
+      "titles": [
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
+        },
+        {
+          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606041804168800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时32分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606011824365800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "现货钯金日内大跌6.00%，现报1229.41美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260606031855460800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "纽约期金跌破4350美元/盎司，日内跌3.44%。",
+          "url": "https://flash.jin10.com/detail/20260606003208915800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
+          "url": "https://flash.jin10.com/detail/20260606021701992800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
+          "url": "https://flash.jin10.com/detail/20260606041131799800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时36分]"
+        },
+        {
+          "title": "美国国务院：批准向新西兰出售MH-60R多任务直升机及相关设备，交易金额估计为15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606003834127800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
+        },
+        {
+          "title": "现货白银日内跌幅达8.0%，报67.93美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
+          "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
+          "url": "https://flash.jin10.com/detail/20260606003514905800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
+          "url": "https://flash.jin10.com/detail/20260606042427126800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
+          "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
+          "url": "https://wallstreetcn.com/livenews/3115295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时39分]"
+        },
+        {
+          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
+          "url": "https://wallstreetcn.com/livenews/3115309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.333万亿美元，之前一周19.285万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时36分]"
+        },
+        {
+          "title": "纽约期铜日内走低4.00%，现报6.2735美元/磅。",
+          "url": "https://flash.jin10.com/detail/20260606003437632800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
+          "url": "https://wallstreetcn.com/livenews/3115261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "SpaceX与谷歌签署300亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3115327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时36分]"
+        },
+        {
+          "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3115292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 03时39分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周四夜盘收盘跌136点。成交量421.10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
+          "title": "芯片股惨遭抛售，股市市值蒸发超1万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3115326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时36分]"
+        },
+        {
+          "title": "周五（6月5日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7907元，较周四纽约尾盘跌138点，日内整体交投于6.7648-6.7920元区间。",
+          "url": "https://wallstreetcn.com/livenews/3115346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
+          "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
+          "url": "https://wallstreetcn.com/livenews/3115258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3115270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
+        },
+        {
+          "title": "美国4月消费信贷变动 207.33亿美元，预期 180亿美元，前值 248.55亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
+          "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
+          "url": "https://wallstreetcn.com/livenews/3115255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 布伦特8月原油期货收跌1.94美元，跌幅2.04%，报93.09美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3115301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
+          "title": "LME期铜跌3%，报13514美元。",
+          "url": "https://wallstreetcn.com/livenews/3115253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "机构：GLP-1减重与糖尿病药物市场规模将在2030年达到1500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3115252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3115251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "纽约期银跌破68美元/盎司，日内跌8.08%。",
+          "url": "https://flash.jin10.com/detail/20260606034210786800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时36分]"
+        },
+        {
+          "title": "美国国务院：美国将向埃博拉疫情应对工作追加约3800万美元资金支持。",
+          "url": "https://flash.jin10.com/detail/20260606021505859800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "布伦特原油跌破92美元/桶，日内跌2.52%。",
+          "url": "https://flash.jin10.com/detail/20260606003037655800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "据福布斯：人工智能编程初创公司Lovable正在洽谈融资，目标估值约120亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606030632331800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "美国国务院表示，已批准一项“可能的军售”，计划向意大利出售两栖突击车辆及相关装备，总价值约3060万美元。",
+          "url": "https://flash.jin10.com/detail/20260606005444239800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国国务院表示，已批准一项“可能的军售”，计划向韩国出售联合直接攻击弹药，预计价值约1.06亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606005311427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)正考虑推出每月200美元的消费级人工智能代理工具。",
+          "url": "https://flash.jin10.com/detail/20260606020547795800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "WTI原油日内大跌3.00%，现报91.62美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260606002640513800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美国4月消费信贷 207.3亿美元，预期180亿美元，前值由248.55亿美元修正为222.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606030021423800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "渣打银行美洲区经济学家Dan Pan：这种“引爆级”的（美国非农就业）数据“让美国例外论的故事卷土重来”。 美国利率的飙升和美元的走强，给新兴市场的表现带来了沉重打击。",
+          "url": "https://wallstreetcn.com/livenews/3115355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持日元净空头头寸创2024年7月份以来新高。 杠杆交易员所持日元空头头寸达到105,136手合约，持仓价值大约82亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "阿波罗资管和黑石集团已为Anthropic敲定350亿美元的融资方案，用于扩建其AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3115354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260606052940978800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "现货白银向下触及68美元/盎司，日内跌7.96%。",
+          "url": "https://flash.jin10.com/detail/20260606024237553800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "据CNN：美国与伊朗潜在的协议取决于美国是否同意释放240亿美元被冻结的伊朗资产。",
+          "url": "https://flash.jin10.com/detail/20260606000418792800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美元指数DXY突破100，日内涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20260606000040620800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "消息人士：SpaceX的IPO认购需求约为路演初期750亿美元募资规模的两倍。",
+          "url": "https://flash.jin10.com/detail/20260606023646884800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD日内跌超0.50%，现报1.3357。",
+          "url": "https://flash.jin10.com/detail/20260605235757412800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "纽约银日内跌幅达7.0%，报68.74美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -959,8 +1176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -969,7 +1186,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -1022,6 +1239,18 @@
           "time_info": "[04时42分 ~ 05时36分]"
         },
         {
+          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
+          "url": "https://wallstreetcn.com/livenews/3115345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
           "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
           "url": "https://flash.jin10.com/detail/20260606040542544800",
           "source": "金十数据",
@@ -1034,15 +1263,15 @@
           "time_info": "[04时42分 ~ 05时36分]"
         },
         {
-          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
-          "url": "https://wallstreetcn.com/livenews/3115345",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时36分"
+          "time_info": "06时32分"
         },
         {
           "title": "费城半导体指数在美股午后盘中下跌近9%。",
@@ -1062,7 +1291,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -1087,12 +1316,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "迈威尔科技（美满电子）美股盘后涨6%，该公司将被纳入标普500指数。 伟创力盘后上涨3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3115352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "男子偷走百万黄金 留下半瓶可乐",
@@ -1102,8 +1342,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "黄金",
@@ -1116,8 +1356,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "母亲把黄金藏水壶被女儿当废品卖了",
@@ -1143,8 +1383,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时32分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫超4%，半导体指数暴跌10%，黄金抹去年内涨幅",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。 所持COMEX白银净多头头寸降低至10,433手合约。 所持COMEX铜净多头头寸增至77,131手合约，创逾五年新高。 所持NYMEX铂金净多头头寸减少至11,974手合约，创10周新低。 所持NYMEX钯金净空头头寸降低至3,476手合约。",
@@ -1224,11 +1475,12 @@
           "url": "https://wallstreetcn.com/livenews/3115341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 06时32分]"
         }
       ]
     },
@@ -1247,8 +1499,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -1286,11 +1538,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
@@ -1318,8 +1571,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时32分]"
         }
       ]
     }
