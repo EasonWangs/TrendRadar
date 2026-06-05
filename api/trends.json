@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T01:41:15.904823+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-06-06T02:48:10.911484+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
@@ -26,20 +26,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
         {
-          "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115276",
+          "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
+          "url": "https://wallstreetcn.com/livenews/3115295",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时48分"
         },
         {
           "title": "纽约期金跌破4350美元/盎司，日内跌3.44%。",
@@ -53,6 +53,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
+          "url": "https://flash.jin10.com/detail/20260606021701992800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
           "title": "美国国务院：批准向新西兰出售MH-60R多任务直升机及相关设备，交易金额估计为15亿美元。",
           "url": "https://flash.jin10.com/detail/20260606003834127800",
           "source": "金十数据",
@@ -63,6 +74,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
         },
         {
           "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
@@ -113,6 +136,18 @@
           "time_info": "[00时55分 ~ 01时41分]"
         },
         {
+          "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3115270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时48分]"
+        },
+        {
           "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
           "url": "https://wallstreetcn.com/livenews/3115255",
           "source": "华尔街见闻-快讯",
@@ -161,6 +196,28 @@
           "time_info": "[00时55分 ~ 01时41分]"
         },
         {
+          "title": "美国国务院：美国将向埃博拉疫情应对工作追加约3800万美元资金支持。",
+          "url": "https://flash.jin10.com/detail/20260606021505859800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3115292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
           "title": "布伦特原油跌破92美元/桶，日内跌2.52%。",
           "url": "https://flash.jin10.com/detail/20260606003037655800",
           "source": "金十数据",
@@ -172,24 +229,13 @@
           "time_info": "00时55分"
         },
         {
-          "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3115270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
           "title": "美国国务院表示，已批准一项“可能的军售”，计划向意大利出售两栖突击车辆及相关装备，总价值约3060万美元。",
           "url": "https://flash.jin10.com/detail/20260606005444239800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -200,9 +246,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)正考虑推出每月200美元的消费级人工智能代理工具。",
+          "url": "https://flash.jin10.com/detail/20260606020547795800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         },
         {
           "title": "WTI原油日内大跌3.00%，现报91.62美元/桶。",
@@ -263,8 +320,44 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
+          "url": "https://wallstreetcn.com/livenews/3115296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
+        },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
           "url": "https://wallstreetcn.com/livenews/3115260",
@@ -275,29 +368,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时41分]"
         },
         {
@@ -313,6 +383,50 @@
           "time_info": "[00时55分 ~ 01时41分]"
         },
         {
+          "title": "美国总统特朗普：房利美和房地美IPO并非不可能，但也不着急。",
+          "url": "https://wallstreetcn.com/livenews/3115290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
+          "url": "https://wallstreetcn.com/livenews/3115289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普结束在空军一号上的讲话。",
+          "url": "https://flash.jin10.com/detail/20260606020344188800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：对于汽油价格，我们有很多替代方案。 人们认为，油桶会变得更昂贵。 在美国的介入下，大量石油流出霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3115287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局 否认最高领袖与特朗普可能的会晤",
           "url": "https://flash.jin10.com/detail/20260606002247873800",
           "source": "金十数据",
@@ -324,6 +438,39 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美国总统特朗普：正筛选五名人选角逐国家情报总监一职。",
+          "url": "https://flash.jin10.com/detail/20260606020323134800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：如果情报主管Pulte裁员，我并不会介意。",
+          "url": "https://wallstreetcn.com/livenews/3115286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：房利美和房地美的IPO计划并未被排除在外，但也不必急于推进。",
+          "url": "https://flash.jin10.com/detail/20260606020207553800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普表示，我要求情报主管普尔特解雇该部门的员工，国家情报总监办公室应“大幅缩减规模”，甚至可能予以撤销。",
           "url": "https://flash.jin10.com/detail/20260606001124639800",
           "source": "金十数据",
@@ -333,6 +480,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：在美国的帮助下，大量石油通过霍尔木兹海峡运出。",
+          "url": "https://flash.jin10.com/detail/20260606015848159800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "特朗普：将把利率决策交由沃什负责",
+          "url": "https://wallstreetcn.com/livenews/3115282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：大量石油正在进入美国。",
+          "url": "https://flash.jin10.com/detail/20260606015628182800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：即将与人工智能公司举行会议。他们可能下周会来白宫。",
+          "url": "https://flash.jin10.com/detail/20260606015601597800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：人们原本以为油价会更高。",
+          "url": "https://flash.jin10.com/detail/20260606015401229800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普重申伊朗不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260606015315245800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：（关于汽油价格）我们有很多选择。",
+          "url": "https://flash.jin10.com/detail/20260606015233419800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席沃什（是否）降息，我不会介意。",
+          "url": "https://flash.jin10.com/detail/20260606015220862800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         },
         {
           "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
@@ -360,8 +595,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         },
         {
           "title": "男子偷走百万黄金 留下半瓶可乐",
@@ -371,8 +606,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         },
         {
           "title": "母亲把黄金藏水壶被女儿当废品卖了",
@@ -380,22 +615,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
-        },
-        {
-          "title": "现货黄金延续跌势，失守4330美元/盎司，日内跌幅3.26%。",
-          "url": "https://flash.jin10.com/detail/20260606000653169800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         },
         {
           "title": "最灿烂不一定要许多钻石黄金",
@@ -403,6 +628,17 @@
           "source": "抖音",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时48分]"
+        },
+        {
+          "title": "现货黄金延续跌势，失守4330美元/盎司，日内跌幅3.26%。",
+          "url": "https://flash.jin10.com/detail/20260606000653169800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -423,8 +659,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -433,7 +669,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -444,7 +680,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
@@ -452,8 +688,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 02时48分]"
+        },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
           "url": "https://wallstreetcn.com/articles/3773946",
@@ -471,11 +718,12 @@
           "url": "https://www.zhihu.com/question/6607165102",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         }
       ]
     },
@@ -492,19 +740,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
           "url": "https://www.cls.cn/detail/2391915",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         }
       ]
     },
@@ -520,8 +769,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时48分]"
         }
       ]
     }
