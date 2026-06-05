@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T15:41:35.085869+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-06-05T17:18:59.101041+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 17时18分]"
         },
         {
           "title": "特朗普最新支持率曝光，压力骤增",
@@ -728,6 +728,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "特朗普开会睡觉视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "特朗普又遭“自己人”背叛：18名共和党人联手民主党，强行通过援乌法案",
           "url": "https://flash.jin10.com/detail/20260605104333055800",
           "source": "金十数据",
@@ -753,7 +764,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -796,7 +807,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -821,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "美、布两油短线走低近1美元，现分别报93.59美元/桶和93.36美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260605171420722800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美元指数4日下跌",
@@ -1021,6 +1043,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7712，较上一交易日官方收盘价涨56点，较上日夜盘收盘涨30点。",
+          "url": "https://wallstreetcn.com/livenews/3114937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "据悉SpaceX锁定IPO发行价为135美元",
           "url": "https://flash.jin10.com/detail/20260605062623003800",
           "source": "金十数据",
@@ -1054,6 +1087,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "摩根大通：将高通(QCOM.O)目标价从160美元上调至265美元。",
+          "url": "https://flash.jin10.com/detail/20260605170657123800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "据知情人士透露，Hut 8 Corp.寻求发行高评级（投资级）债券，融资超过40亿美元。 这笔资金将用于支持一个与英伟达相关的数据中心。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3114536",
           "source": "华尔街见闻-快讯",
@@ -1085,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "【外资本周抛售逾100亿美元韩国股票】韩国首尔综指收盘下跌5.5%，三星电子和SK海力士至少下跌6%。外国投资者再卖3.5万亿韩元(约23亿美元)的韩国股票，本周累积抛售逾100亿美元。韩元跌至2009年3月以来的最低水准。KB Securities经济学家Oh Jaeyoung表示，油价上涨引发的韩元下跌，因外资抛售韩股而加剧；随着首尔综指下跌，这种压力被进一步放大。从短期市场情绪来看，韩元可能仍有进一步下跌的空间。",
+          "url": "https://wallstreetcn.com/livenews/3114928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国货币市场基金资产规模达到创纪录的7.894万亿美元。",
@@ -1126,7 +1181,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1145,7 +1200,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1289,12 +1344,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美股盘前，科技股延续跌势，英伟达跌超1.5%，美光科技跌2.77%，ARM跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3114919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
@@ -1399,7 +1465,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1424,12 +1490,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.15%，恒生科技指数收跌1.75%。大模型概念股普跌，MINIMAX跌超16%，智谱跌超9%。半导体、存储板块走弱，华虹半导体跌超7%，中芯国际跌超7%，澜起科技跌超9%，兆易创新跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3114923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "最灿烂不一定要许多钻石黄金",
@@ -1493,6 +1570,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "1.6T光模块量产 测试设备迎黄金时代",
           "url": "https://www.toutiao.com/trending/7647497038082346523/",
           "source": "今日头条",
@@ -1510,7 +1598,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1543,7 +1631,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
@@ -1551,8 +1639,20 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 17时18分]"
+        },
         {
           "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
           "url": "https://wallstreetcn.com/livenews/3114670",
@@ -1565,15 +1665,15 @@
           "time_info": "07时33分"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时41分"
+          "time_info": "17时18分"
         },
         {
           "title": "OpenAI：改善ChatGPT中的记忆合成，以优化新鲜度、连续性和相关性。",
@@ -1610,7 +1710,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
