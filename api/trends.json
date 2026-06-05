@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T03:39:50.286309+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-06-06T04:42:26.246685+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
@@ -31,15 +31,15 @@
           "time_info": "01时41分"
         },
         {
-          "title": "现货白银日内跌幅达8.0%，报67.93美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3115310",
-          "source": "华尔街见闻-快讯",
+          "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606041804168800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "04时42分"
         },
         {
           "title": "现货钯金日内大跌6.00%，现报1229.41美元/盎司。",
@@ -48,20 +48,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
         {
-          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
-          "url": "https://wallstreetcn.com/livenews/3115309",
+          "title": "美联储：美国上周银行存款19.333万亿美元，之前一周19.285万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115329",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "04时42分"
+        },
+        {
+          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
+          "url": "https://flash.jin10.com/detail/20260606041131799800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "纽约期金跌破4350美元/盎司，日内跌3.44%。",
@@ -84,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "SpaceX与谷歌签署300亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3115327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "美国国务院：批准向新西兰出售MH-60R多任务直升机及相关设备，交易金额估计为15亿美元。",
@@ -110,6 +132,18 @@
           "time_info": "[01时41分 ~ 02时48分]"
         },
         {
+          "title": "现货白银日内跌幅达8.0%，报67.93美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
           "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
           "url": "https://flash.jin10.com/detail/20260606003514905800",
           "source": "金十数据",
@@ -132,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 03时39分]"
+        },
+        {
+          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
+          "url": "https://wallstreetcn.com/livenews/3115309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
         },
         {
           "title": "纽约期铜日内走低4.00%，现报6.2735美元/磅。",
@@ -170,6 +216,18 @@
           "time_info": "[02时48分 ~ 03时39分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周四夜盘收盘跌136点。成交量421.10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
           "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
           "url": "https://wallstreetcn.com/livenews/3115258",
           "source": "华尔街见闻-快讯",
@@ -194,6 +252,18 @@
           "time_info": "[01时41分 ~ 02时48分]"
         },
         {
+          "title": "美国4月消费信贷变动 207.33亿美元，预期 180亿美元，前值 248.55亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
           "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
           "url": "https://wallstreetcn.com/livenews/3115255",
           "source": "华尔街见闻-快讯",
@@ -204,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 布伦特8月原油期货收跌1.94美元，跌幅2.04%，报93.09美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3115301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
         },
         {
           "title": "LME期铜跌3%，报13514美元。",
@@ -253,15 +335,15 @@
           "time_info": "02时48分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周四夜盘收盘跌136点。成交量421.10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115304",
+          "title": "芯片股惨遭抛售，股市市值蒸发超1万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3115326",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "04时42分"
         },
         {
           "title": "布伦特原油跌破92美元/桶，日内跌2.52%。",
@@ -281,18 +363,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国4月消费信贷变动 207.33亿美元，预期 180亿美元，前值 248.55亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -330,17 +401,6 @@
           "time_info": "02时48分"
         },
         {
-          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 布伦特8月原油期货收跌1.94美元，跌幅2.04%，报93.09美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3115301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
           "title": "WTI原油日内大跌3.00%，现报91.62美元/桶。",
           "url": "https://flash.jin10.com/detail/20260606002640513800",
           "source": "金十数据",
@@ -358,7 +418,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -369,7 +429,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -402,9 +462,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "纽约期银跌破68美元/盎司，日内跌8.08%。",
+          "url": "https://flash.jin10.com/detail/20260606034210786800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "英镑兑美元GBP/USD日内跌超0.50%，现报1.3357。",
@@ -432,7 +503,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -442,11 +513,12 @@
             18,
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -458,8 +530,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
@@ -468,7 +540,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -557,6 +629,18 @@
           "time_info": "[02时48分 ~ 03时39分]"
         },
         {
+          "title": "美国特使Witkoff和特朗普女婿库什纳在田纳西州召集核专家。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3115298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
+        },
+        {
           "title": "特朗普：将把利率决策交由沃什负责",
           "url": "https://wallstreetcn.com/livenews/3115282",
           "source": "华尔街见闻-快讯",
@@ -575,7 +659,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -619,18 +703,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "美国特使Witkoff和特朗普女婿库什纳在田纳西州召集核专家。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3115298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -644,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
+          "url": "https://wallstreetcn.com/livenews/3115313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普表示，我要求情报主管普尔特解雇该部门的员工，国家情报总监办公室应“大幅缩减规模”，甚至可能予以撤销。",
@@ -666,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普重申非农就业数据不错。",
+          "url": "https://wallstreetcn.com/livenews/3115312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "美国总统特朗普：大量石油正在进入美国。",
@@ -747,85 +842,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
-        },
-        {
-          "title": "男子偷走百万黄金 留下半瓶可乐",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
-        },
-        {
-          "title": "母亲把黄金藏水壶被女儿当废品卖了",
-          "url": "https://www.toutiao.com/trending/7647722605785612351/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
-        },
-        {
-          "title": "最灿烂不一定要许多钻石黄金",
-          "url": "https://www.douyin.com/hot/2523543",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时39分]"
-        },
-        {
-          "title": "现货黄金延续跌势，失守4330美元/盎司，日内跌幅3.26%。",
-          "url": "https://flash.jin10.com/detail/20260606000653169800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "现货黄金回吐年内涨幅",
-          "url": "https://flash.jin10.com/detail/20260606023916949800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -836,8 +854,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
+        },
+        {
+          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3115331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3115328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040853818800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040847799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "费城半导体指数在美股午后盘中下跌近9%。",
@@ -846,9 +908,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260606040542544800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股盘中）",
@@ -875,6 +948,106 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "男子偷走百万黄金 留下半瓶可乐",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
+        },
+        {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.toutiao.com/trending/7647722605785612351/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
+        },
+        {
+          "title": "最灿烂不一定要许多钻石黄金",
+          "url": "https://www.douyin.com/hot/2523543",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时42分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。 所持COMEX白银净多头头寸降低至10,433手合约。 所持COMEX铜净多头头寸增至77,131手合约，创逾五年新高。 所持NYMEX铂金净多头头寸减少至11,974手合约，创10周新低。 所持NYMEX钯金净空头头寸降低至3,476手合约。",
+          "url": "https://wallstreetcn.com/livenews/3115316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "现货黄金延续跌势，失守4330美元/盎司，日内跌幅3.26%。",
+          "url": "https://flash.jin10.com/detail/20260606000653169800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "现货黄金回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606023916949800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，COMEX黄金期货投机性净多头头寸增加 14,409手至111,341手。",
+          "url": "https://flash.jin10.com/detail/20260606033734075800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -885,11 +1058,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -899,8 +1073,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时47分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[02时47分 ~ 04时42分]"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -927,7 +1101,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         },
@@ -936,11 +1110,12 @@
           "url": "https://wallstreetcn.com/livenews/3115302",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时42分]"
         }
       ]
     },
@@ -957,8 +1132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
@@ -969,8 +1144,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
         }
       ]
     },
@@ -986,8 +1161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时42分]"
         }
       ]
     }
