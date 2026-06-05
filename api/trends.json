@@ -1,66 +1,45 @@
 {
-  "generated_at": "2026-06-06T00:55:52.608840+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-06T01:41:15.904823+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "美国国务院：批准向新西兰出售MH-60R多任务直升机及相关设备，交易金额估计为15亿美元。",
-          "url": "https://flash.jin10.com/detail/20260606003834127800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
-          "url": "https://flash.jin10.com/detail/20260606003514905800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "纽约期铜日内走低4.00%，现报6.2735美元/磅。",
-          "url": "https://flash.jin10.com/detail/20260606003437632800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
-          "url": "https://wallstreetcn.com/livenews/3115261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606011824365800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "纽约期金跌破4350美元/盎司，日内跌3.44%。",
@@ -74,15 +53,112 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美国国务院：批准向新西兰出售MH-60R多任务直升机及相关设备，交易金额估计为15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606003834127800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
+          "url": "https://flash.jin10.com/detail/20260606003514905800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "纽约期铜日内走低4.00%，现报6.2735美元/磅。",
+          "url": "https://flash.jin10.com/detail/20260606003437632800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
+          "url": "https://wallstreetcn.com/livenews/3115261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
           "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
           "url": "https://wallstreetcn.com/livenews/3115258",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
+          "url": "https://wallstreetcn.com/livenews/3115255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "LME期铜跌3%，报13514美元。",
+          "url": "https://wallstreetcn.com/livenews/3115253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "机构：GLP-1减重与糖尿病药物市场规模将在2030年达到1500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3115252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3115251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "布伦特原油跌破92美元/桶，日内跌2.52%。",
@@ -96,15 +172,37 @@
           "time_info": "00时55分"
         },
         {
-          "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
-          "url": "https://wallstreetcn.com/livenews/3115255",
+          "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3115270",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国国务院表示，已批准一项“可能的军售”，计划向意大利出售两栖突击车辆及相关装备，总价值约3060万美元。",
+          "url": "https://flash.jin10.com/detail/20260606005444239800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国国务院表示，已批准一项“可能的军售”，计划向韩国出售联合直接攻击弹药，预计价值约1.06亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606005311427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "WTI原油日内大跌3.00%，现报91.62美元/桶。",
@@ -112,39 +210,6 @@
           "source": "金十数据",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "LME期铜跌3%，报13514美元。",
-          "url": "https://wallstreetcn.com/livenews/3115253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "机构：GLP-1减重与糖尿病药物市场规模将在2030年达到1500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3115252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3115251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -205,22 +270,47 @@
           "url": "https://wallstreetcn.com/livenews/3115260",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3115259",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局 否认最高领袖与特朗普可能的会晤",
@@ -234,33 +324,11 @@
           "time_info": "00时55分"
         },
         {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
           "title": "据华尔街日报：美国总统特朗普表示，我要求情报主管普尔特解雇该部门的员工，国家情报总监办公室应“大幅缩减规模”，甚至可能予以撤销。",
           "url": "https://flash.jin10.com/detail/20260606001124639800",
           "source": "金十数据",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -288,11 +356,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "男子偷走百万黄金 留下半瓶可乐",
@@ -302,19 +371,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "母亲把黄金藏水壶被女儿当废品卖了",
           "url": "https://www.toutiao.com/trending/7647722605785612351/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "现货黄金延续跌势，失守4330美元/盎司，日内跌幅3.26%。",
@@ -341,6 +411,46 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260606004348604800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260606004343832800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -349,11 +459,12 @@
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "美国如何一次性解决 36 万亿美债问题？",
@@ -363,8 +474,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         }
       ]
     },
@@ -377,11 +488,12 @@
           "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
@@ -391,8 +503,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         }
       ]
     },
@@ -408,25 +520,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时41分]"
         }
       ]
     }
