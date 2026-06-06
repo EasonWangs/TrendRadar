@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T17:49:46.572890+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-06-06T18:44:23.226623+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：将迅速结束伊朗战事",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 18时44分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时32分 ~ 09时04分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
+          "url": "https://flash.jin10.com/detail/20260606181845712800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
@@ -587,6 +598,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "据阿拉比亚电视台：阿拉伯消息人士称，特朗普告知调解人员，他不会进行超过60天的谈判，并要求伊朗迅速作出回应。",
+          "url": "https://flash.jin10.com/detail/20260606173931503800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
           "url": "https://wallstreetcn.com/livenews/3115313",
           "source": "华尔街见闻-快讯",
@@ -766,8 +788,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时44分]"
         },
         {
           "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
@@ -780,8 +802,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 18时44分]"
         },
         {
           "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
@@ -1406,7 +1428,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -1417,8 +1439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 17时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 18时44分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -1443,8 +1465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时32分 ~ 17时49分]"
+          "appearance_count": 11,
+          "time_info": "[06时32分 ~ 18时44分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -1454,8 +1476,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 18时44分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -1600,6 +1622,17 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时44分]"
+        },
+        {
           "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
           "url": "https://flash.jin10.com/detail/20260606040542544800",
           "source": "金十数据",
@@ -1635,15 +1668,26 @@
           "time_info": "[06时32分 ~ 07时33分]"
         },
         {
-          "title": "美股一夜蒸发超万亿美元市值",
-          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "title": "如何看待美股一夜蒸发2万亿",
+          "url": "https://www.toutiao.com/trending/7648181420996693523/",
           "source": "今日头条",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时49分"
+          "time_info": "18时44分"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "费城半导体指数在美股午后盘中下跌近9%。",
@@ -1726,7 +1770,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "黄金",
@@ -1756,6 +1800,20 @@
           "time_info": "[00时55分 ~ 11时16分]"
         },
         {
+          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
+          "url": "https://www.cls.cn/detail/2392464",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时04分 ~ 18时44分]"
+        },
+        {
           "title": "母亲把黄金藏水壶被女儿当废品卖了",
           "url": "https://www.toutiao.com/trending/7647722605785612351/",
           "source": "今日头条",
@@ -1769,19 +1827,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时33分]"
-        },
-        {
-          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
-          "url": "https://www.cls.cn/detail/2392464",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 17时49分]"
         },
         {
           "title": "最灿烂不一定要许多钻石黄金",
@@ -1817,6 +1862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "女子60克黄金藏水壶 女儿当废品卖了",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9060%E5%85%8B%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6+%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "分析师：持有黄金的成本正在变得越来越高",
@@ -2024,11 +2080,12 @@
           "ranks": [
             2,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时44分]"
         }
       ]
     },
@@ -2099,11 +2156,12 @@
             13,
             12,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 18时44分]"
         }
       ]
     }
