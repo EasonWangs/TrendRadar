@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T20:38:02.249154+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-06-06T21:37:52.005909+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时01分 ~ 20时38分]"
+          "appearance_count": 8,
+          "time_info": "[17时01分 ~ 21时37分]"
         },
         {
           "title": "特朗普：将迅速结束伊朗战事",
@@ -780,7 +781,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -803,8 +804,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时14分 ~ 20时38分]"
+          "appearance_count": 9,
+          "time_info": "[15时14分 ~ 21时37分]"
         },
         {
           "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
@@ -817,8 +818,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 20时38分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 21时37分]"
         },
         {
           "title": "美国银行存款从上周的19.285万亿美元上升至19.333万亿美元。",
@@ -953,6 +954,19 @@
           "time_info": "[03时39分 ~ 04时42分]"
         },
         {
+          "title": "派拉蒙天舞公司已做好准备在必要时剥离部分儿童电视网络资产，以期促使欧盟批准其对华纳兄弟探索公司价值1100亿美元的收购案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3115453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 21时37分]"
+        },
+        {
           "title": "美国国务院：批准向新西兰出售MK 54鱼雷，预计交易金额为6900万美元。",
           "url": "https://flash.jin10.com/detail/20260606003514905800",
           "source": "金十数据",
@@ -1049,16 +1063,17 @@
           "time_info": "[04时42分 ~ 05时36分]"
         },
         {
-          "title": "派拉蒙天舞公司已做好准备在必要时剥离部分儿童电视网络资产，以期促使欧盟批准其对华纳兄弟探索公司价值1100亿美元的收购案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3115453",
+          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
+          "url": "https://wallstreetcn.com/livenews/3115452",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            12
+            6,
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 21时37分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -1119,18 +1134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时32分]"
-        },
-        {
-          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
-          "url": "https://wallstreetcn.com/livenews/3115452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 20时38分]"
         },
         {
           "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
@@ -1376,6 +1379,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "马桶干翻价值130亿美元的航母",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%A1%B6%E5%B9%B2%E7%BF%BB%E4%BB%B7%E5%80%BC130%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%88%AA%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持日元净空头头寸创2024年7月份以来新高。 杠杆交易员所持日元空头头寸达到105,136手合约，持仓价值大约82亿美元。",
           "url": "https://wallstreetcn.com/livenews/3115336",
           "source": "华尔街见闻-快讯",
@@ -1467,7 +1481,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -1478,8 +1492,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时33分 ~ 20时38分]"
+          "appearance_count": 14,
+          "time_info": "[07时33分 ~ 21时37分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -1504,8 +1518,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时32分 ~ 20时38分]"
+          "appearance_count": 15,
+          "time_info": "[06时32分 ~ 21时37分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -1513,11 +1527,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 20时38分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 21时37分]"
         },
         {
           "title": "如何看待美股一夜蒸发2万亿",
@@ -1526,11 +1541,26 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 20时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 21时37分]"
+        },
+        {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 21时37分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -1564,19 +1594,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 20时38分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
@@ -1735,6 +1752,17 @@
           "time_info": "[06时32分 ~ 07时33分]"
         },
         {
+          "title": "如何应对美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "费城半导体指数在美股午后盘中下跌近9%。",
           "url": "https://flash.jin10.com/detail/20260606030109177800",
           "source": "金十数据",
@@ -1856,8 +1884,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时04分 ~ 20时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时04分 ~ 21时37分]"
         },
         {
           "title": "母亲把黄金藏水壶被女儿当废品卖了",
@@ -1893,11 +1921,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 20时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 21时37分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少5.223吨，当前持仓量为1019.921吨。",
@@ -1934,6 +1963,18 @@
           "time_info": "[13时25分 ~ 15时14分]"
         },
         {
+          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
+          "url": "https://wallstreetcn.com/articles/3773995",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 21时37分]"
+        },
+        {
           "title": "现货黄金抹去今年涨幅",
           "url": "https://www.toutiao.com/trending/7647060727076880438/",
           "source": "今日头条",
@@ -1944,18 +1985,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时04分 ~ 13时25分]"
-        },
-        {
-          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
-          "url": "https://wallstreetcn.com/articles/3773995",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时38分]"
         },
         {
           "title": "废品站称没见60g黄金母亲疑其撒谎",
@@ -2039,7 +2068,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
@@ -2098,6 +2127,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "金价年内大跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -2231,8 +2271,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 20时38分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 21时37分]"
         }
       ]
     }
