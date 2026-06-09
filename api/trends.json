@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T19:10:53.512779+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-06-09T21:11:19.759357+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
@@ -86,6 +86,21 @@
           "time_info": "[11时17分 ~ 17时19分]"
         },
         {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时32分 ~ 21时11分]"
+        },
+        {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
           "url": "https://wallstreetcn.com/articles/3774115",
           "source": "华尔街见闻",
@@ -111,21 +126,6 @@
           "time_info": "[01时14分 ~ 07时32分]"
         },
         {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时32分 ~ 19时10分]"
-        },
-        {
           "title": "特朗普“体面送别”：会想念她",
           "url": "https://news.ifeng.com/c/8toXpSpAK0f",
           "source": "凤凰网",
@@ -135,6 +135,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 21时11分]"
         },
         {
           "title": "特朗普提名前私人律师，任司法部长",
@@ -171,18 +183,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
-          "url": "https://www.cls.cn/detail/2394559",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时10分]"
-        },
-        {
           "title": "特朗普曾警告内塔尼亚胡：再开战，将遭孤立",
           "url": "https://news.ifeng.com/c/8toEUKCFcdF",
           "source": "凤凰网",
@@ -200,7 +200,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -272,6 +272,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 21时11分]"
         },
         {
           "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
@@ -366,17 +377,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "特朗普拟推动政府持股AI企业，本周或开启关键谈判",
           "url": "https://flash.jin10.com/detail/20260609144536111800",
           "source": "金十数据",
@@ -416,7 +416,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -655,7 +655,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "LME期铜收涨96美元，报13616美元/吨。 LME期铝收涨12美元，报3604美元/吨。 LME期锌收涨7美元，报3537美元/吨。 LME期铅收跌15美元，报1990美元/吨。 LME期镍收跌240美元，报18341美元/吨。 LME期锡收跌656美元，报52279美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -675,7 +675,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -899,6 +899,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "阿联酋航空总裁：认为油价将逐步回落至每桶60美元中段至70美元低段的区间。",
+          "url": "https://flash.jin10.com/detail/20260609203854807800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "中国5月贸易帐(按美元计) 1054.3亿美元，前值 848.2亿美元。",
           "url": "https://wallstreetcn.com/livenews/3116482",
           "source": "华尔街见闻-快讯",
@@ -954,6 +965,17 @@
           "time_info": "17时19分"
         },
         {
+          "title": "美国4月贸易帐 -559亿美元，预期 -561亿美元，前值 -603亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3116832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "美国国会预算办公室预计美国5月赤字达2940亿美元。",
           "url": "https://flash.jin10.com/detail/20260609021244299800",
           "source": "金十数据",
@@ -965,6 +987,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "美国4月石油进口价格为78.24美元/桶，相比3月的63.40美元/桶有所上涨，较去年同期的66.06美元/桶上涨了18.4%。",
+          "url": "https://flash.jin10.com/detail/20260609203138356800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "韩元兑美元跳涨近1% 市场担心当局可能干预",
           "url": "https://wallstreetcn.com/livenews/3116473",
           "source": "华尔街见闻-快讯",
@@ -974,6 +1007,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "美国4月进口 3830亿美元，前值3812亿美元。",
+          "url": "https://flash.jin10.com/detail/20260609203040924800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "美国4月出口 3271亿美元，前值3209亿美元。",
+          "url": "https://flash.jin10.com/detail/20260609203032069800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "佰维存储：与某存储原厂签订日常经营性采购合同，总承诺采购金额为18.6080亿美元",
+          "url": "https://wallstreetcn.com/livenews/3116822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "美国4月贸易帐 -559亿美元，预期-561亿美元，前值由-603亿美元修正为-566亿美元。",
+          "url": "https://flash.jin10.com/detail/20260609203002553800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "美元指数8日下跌",
@@ -1048,7 +1125,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -1078,7 +1155,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1086,11 +1163,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时37分 ~ 19时10分]"
+          "appearance_count": 11,
+          "time_info": "[06时37分 ~ 21时11分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -1168,8 +1246,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时10分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 21时11分]"
         },
         {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
@@ -1194,6 +1272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3116848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -1313,13 +1402,24 @@
           "time_info": "09时03分"
         },
         {
+          "title": "美股存储芯片股全线杀跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E6%9D%80%E8%B7%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "台积电美股盘前跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3116742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         }
@@ -1327,19 +1427,8 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "印度政府官员：自进口关税上调以来，黄金进口量持续下降，政府没有计划采取更多措施来限制进口。",
-          "url": "https://wallstreetcn.com/livenews/3116772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
         {
           "title": "跌跌不休!印度抛黄金救卢比",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
@@ -1347,11 +1436,23 @@
           "ranks": [
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时10分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 21时11分]"
+        },
+        {
+          "title": "印度政府官员：自进口关税上调以来，黄金进口量持续下降，政府没有计划采取更多措施来限制进口。",
+          "url": "https://wallstreetcn.com/livenews/3116772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "今年以来黄金涨幅几乎悉数回吐 短期仍以震荡为主",
@@ -1414,15 +1515,37 @@
           "time_info": "[03时49分 ~ 03时50分]"
         },
         {
+          "title": "黄金趋势没有改变，下方还有多少下跌空间？空头剑指何方？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260609204222345800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "印度政府官员：自从提高进口关税以来，黄金进口持续下降，未来没有计划采取更多措施限制进口。",
           "url": "https://flash.jin10.com/detail/20260609184339088800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
+        },
+        {
+          "title": "DeepTalk：特朗普提名沃什另有深意？国际现货黄金等待“归来”时刻！",
+          "url": "https://flash.jin10.com/detail/20260609204059730800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "花旗将黄金短线目标价下调至4,000美元 因加息预期升温",
@@ -1497,7 +1620,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         }
@@ -1516,8 +1639,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 21时11分]"
         },
         {
           "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
@@ -1676,7 +1799,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价下跌后郑州金店被挤爆",
@@ -1702,8 +1825,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时37分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[06时37分 ~ 21时11分]"
         },
         {
           "title": "金十图示：2026年06月09日（周二）上海金早盘价为946.07元/克，较国际金价(944.4元/克)，高1.67元/克",
@@ -1751,6 +1874,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "金饰价格跌回2025年底，业内人士：短期金价或将宽幅震荡",
+          "url": "https://wallstreetcn.com/livenews/3116828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
