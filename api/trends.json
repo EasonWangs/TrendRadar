@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T05:47:19.501910+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-06-11T06:42:56.139213+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时42分]"
         },
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时42分]"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
@@ -36,11 +36,24 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时42分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 06时42分]"
         },
         {
           "title": "伊朗总统：将反对（美国总统特朗普发出的）任何威胁。",
@@ -52,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "【伊朗：武力无法达成可持续协议，特朗普应停止威胁】伊朗常驻联合国代表10日就美国总统特朗普威胁打击伊朗回应称，威胁、恐吓或诉诸武力无法达成可持续协议，特朗普应停止威胁伊朗。 据伊朗伊斯兰共和国通讯社报道，伊朗常驻联合国代表伊拉瓦尼于当地时间10日在联合国安理会会议上说，特朗普应停止对伊朗反复威胁，包括他当天再次发出诉诸武力的威胁。 特朗普当天早些时候称，美国将对伊朗再次发起打击，而且会“非常猛烈”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3117718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
         },
         {
           "title": "伊朗总统回应特朗普威胁",
@@ -98,16 +100,16 @@
           "time_info": "01时14分"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
+          "title": "【伊朗：武力无法达成可持续协议，特朗普应停止威胁】伊朗常驻联合国代表10日就美国总统特朗普威胁打击伊朗回应称，威胁、恐吓或诉诸武力无法达成可持续协议，特朗普应停止威胁伊朗。 据伊朗伊斯兰共和国通讯社报道，伊朗常驻联合国代表伊拉瓦尼于当地时间10日在联合国安理会会议上说，特朗普应停止对伊朗反复威胁，包括他当天再次发出诉诸武力的威胁。 特朗普当天早些时候称，美国将对伊朗再次发起打击，而且会“非常猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3117718",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 05时47分]"
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时42分]"
         },
         {
           "title": "据两名美国消息人士透露，总统特朗普就对伊朗打击计划召开战情室会议。 万斯、卢比奥、Ratcliff、凯恩、威特科夫出席了会议。 战争部长海格塞思从美军中央司令部总部参加会议。（Axios）",
@@ -375,6 +377,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "据Politico：特朗普将不会出席美国“世界杯”揭幕赛。",
+          "url": "https://flash.jin10.com/detail/20260611054524776800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "美国总统特朗普：（关于房利美，房地美）有权出售它。",
           "url": "https://flash.jin10.com/detail/20260611000015571800",
           "source": "金十数据",
@@ -406,12 +419,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普说伊朗谈判太长必须付出代价",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E5%A4%AA%E9%95%BF%E5%BF%85%E9%A1%BB%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。",
@@ -448,6 +472,18 @@
           "time_info": "[05时00分 ~ 05时47分]"
         },
         {
+          "title": "电话会：甲骨文预计2027财年净资本开支700亿美元。 预付款项使得资本开支指引（较之前预期显得）更高。",
+          "url": "https://wallstreetcn.com/livenews/3117716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时42分]"
+        },
+        {
           "title": "甲骨文预计2027财年通过债务和股权融资约400亿美元。 甲骨文2027财年融资包括已宣布的200亿美元按市价发行计划。",
           "url": "https://wallstreetcn.com/livenews/3117692",
           "source": "华尔街见闻-快讯",
@@ -482,26 +518,37 @@
           "time_info": "05时00分"
         },
         {
-          "title": "电话会：甲骨文预计2027财年净资本开支700亿美元。 预付款项使得资本开支指引（较之前预期显得）更高。",
-          "url": "https://wallstreetcn.com/livenews/3117716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
           "title": "甲骨文(ORCL.N)CEO：2026财年Q4签署了670亿美元的人工智能基础设施合同，其中大部分要么自带硬件，要么预付款项。",
           "url": "https://flash.jin10.com/detail/20260611052228013800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "WTI原油突破93美元/桶，日内涨0.35%。",
+          "url": "https://flash.jin10.com/detail/20260611061144353800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "现货白银盘初下跌1.00%，现报62.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260611061016162800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "周三（6月10日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7822元，较周二纽约尾盘跌36点，日内整体交投于6.7746-6.7837元区间。",
@@ -510,9 +557,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
+          "url": "https://www.cls.cn/detail/2396520",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "美国总统特朗普：重申房利美和房地美的估值可能达到1万亿美元。",
@@ -694,7 +752,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "跌跌不休!印度抛黄金救卢比",
@@ -704,8 +762,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 06时42分]"
         },
         {
           "title": "现货黄金跌破4100美元 创去年11月以来新低",
@@ -717,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1013.640吨，较前一个交易日减少2.855吨。",
+          "url": "https://flash.jin10.com/detail/20260611061911488800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "现货黄金失守 4200 美元，创近 3 个月新低，黄金的逻辑变了吗？",
@@ -754,6 +823,28 @@
           "time_info": "[05时00分 ~ 05时47分]"
         },
         {
+          "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "现货黄金盘初跌破4050美元/盎司，日内跌0.51%。",
+          "url": "https://flash.jin10.com/detail/20260611061608874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
           "url": "https://wallstreetcn.com/livenews/3117660",
           "source": "华尔街见闻-快讯",
@@ -763,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "现货黄金失守4060美元/盎司，日内跌幅0.26%。",
+          "url": "https://flash.jin10.com/detail/20260611060336921800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月10日（周三）晚盘收盘下跌2.19%报896.69元/克；<br/>上海黄金交易所白银T+D 6月10日（周三）晚盘收盘上涨0.17%报15564.0元/千克。",
@@ -782,7 +884,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
@@ -790,7 +892,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -804,6 +906,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 05时47分]"
+        },
+        {
+          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2396570",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -830,6 +943,18 @@
           "time_info": "[05时00分 ~ 05时47分]"
         },
         {
+          "title": "美股泡沫为何逐渐得到认同",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E4%B8%BA%E4%BD%95%E9%80%90%E6%B8%90%E5%BE%97%E5%88%B0%E8%AE%A4%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时42分]"
+        },
+        {
           "title": "甲骨文第四财季调整后营收191.8亿美元，分析师预期190.9亿美元。 第四财季软件营收68.2亿美元，分析师预期68.8亿美元；软件租赁营收18.8亿美元，分析师预期19.3亿美元；分析师软件支持营收49.4亿美元，预期49.8亿美元。 第四财季云基础设施营收（IAAS）为57.9亿美元，分析师预期57.2亿美元。 第四财季云收入（IAAS+SAAS）为99.1亿美元，分析师预期100亿美元。 确认2027财年总收入900亿美元的指引。 上调2027财年调整后每股收益（EPS）预期至8.05美元，符合分析师预期。 预计第一财季营收按恒定汇率将增长27%-29%，调整后EPS将为1.72-1.76美元、分析师预期1.69美元。 甲骨文（ORCL）美股盘后跌8%。",
           "url": "https://wallstreetcn.com/livenews/3117686",
           "source": "华尔街见闻-快讯",
@@ -850,24 +975,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
-        },
-        {
-          "title": "美股泡沫为何逐渐得到认同",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E4%B8%BA%E4%BD%95%E9%80%90%E6%B8%90%E5%BE%97%E5%88%B0%E8%AE%A4%E5%90%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "OpenAI：OpenAI与甲骨文合作，使OpenAI的前沿模型和Codex更易于甲骨文云基础设施客户访问。",
+          "url": "https://flash.jin10.com/detail/20260611062614227800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
           "url": "https://wallstreetcn.com/livenews/3117653",
@@ -893,6 +1029,37 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            26,
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 06时42分]"
+        },
+        {
+          "title": "花旗继续唱空金价",
+          "url": "https://www.douyin.com/hot/2529361",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 1,
       "titles": [
@@ -906,25 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 05时47分]"
         }
       ]
     },
@@ -956,7 +1104,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
