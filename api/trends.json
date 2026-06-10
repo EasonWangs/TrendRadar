@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T09:10:05.372217+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-06-10T11:17:55.838512+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "日本石油、天然气和金属国家公司：日本液化天然气现货到港价格为每百万英热单位18.10美元。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -80,9 +80,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "世纪IPO炸场！报道：SpaceX认购规模狂飙至2500亿美元，近四倍超额认购",
+          "url": "https://wallstreetcn.com/articles/3774260",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时17分]"
         },
         {
           "title": "美国法官初步批准Visa(V.N)和万事达卡(MA.N)与商户达成的380亿美元刷卡费和解协议。",
@@ -194,17 +206,6 @@
           "time_info": "[06时38分 ~ 07时34分]"
         },
         {
-          "title": "世纪IPO炸场！报道：SpaceX认购规模狂飙至2500亿美元，近四倍超额认购",
-          "url": "https://wallstreetcn.com/articles/3774260",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
           "title": "谷歌(GOOG.O)为Anthropic350亿美元芯片交易提供兜底支持。在谷歌的协助下，Anthropic将在5个数据中心租赁芯片。",
           "url": "https://flash.jin10.com/detail/20260610023250783800",
           "source": "金十数据",
@@ -301,6 +302,17 @@
           "time_info": "[02时53分 ~ 03时46分]"
         },
         {
+          "title": "华尔街抢疯了！SpaceX已获4倍超额认购 认购需求高达2500亿美元",
+          "url": "https://www.cls.cn/detail/2395457",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "秘鲁索尔兑美元涨超3%，投资者预计Fujimori有望在大选胜出。",
           "url": "https://wallstreetcn.com/livenews/3116954",
           "source": "华尔街见闻-快讯",
@@ -340,7 +352,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -373,7 +385,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -436,7 +448,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
@@ -445,33 +457,36 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 09时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 11时17分]"
         },
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
           "url": "https://news.ifeng.com/c/8tooQUA09O3",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 09时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 11时17分]"
         },
         {
           "title": "特朗普证实美军打击伊朗",
           "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 09时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 11时17分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
@@ -507,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "特朗普称伊朗击落美军阿帕奇直升机、美方将作出回应",
@@ -549,11 +575,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 09时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 11时17分]"
         },
         {
           "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
@@ -563,8 +590,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普训以总理对赖清德意味着什么",
+          "url": "https://www.toutiao.com/trending/7649427544734957595/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时17分]"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要”",
@@ -591,17 +641,6 @@
           "time_info": "[06时38分 ~ 07时34分]"
         },
         {
-          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
-          "url": "https://www.cls.cn/detail/2395421",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
           "title": "特朗普称对伊朗进行打击“非常重要”",
           "url": "https://flash.jin10.com/detail/20260610055938102800",
           "source": "金十数据",
@@ -612,17 +651,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普训以总理对赖清德意味着什么",
-          "url": "https://www.toutiao.com/trending/7649427544734957595/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
         },
         {
           "title": "伊朗外长疑似回应特朗普 警告外国军事力量远离伊朗",
@@ -709,7 +737,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
         },
@@ -779,6 +807,18 @@
           "time_info": "[01时02分 ~ 05时40分]"
         },
         {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 11时17分]"
+        },
+        {
           "title": "美股高开低走，盘中跳水，纳指跌超3%，迈威尔科技大跌13%，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
@@ -788,18 +828,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时40分]"
-        },
-        {
-          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
-          "url": "https://www.cls.cn/detail/2395384",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 09时10分]"
         },
         {
           "title": "美股三大股指短线下挫，纳指跌幅扩大至3.5%。",
@@ -975,7 +1003,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "黄金跌懵了 接下来会发生什么",
@@ -999,8 +1027,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 09时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 11时17分]"
+        },
+        {
+          "title": "【早报】美伊又打起来了；黄金、白银、原油集体下跌",
+          "url": "https://www.cls.cn/detail/2395413",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 11时17分]"
         },
         {
           "title": "现货黄金跌破4230美元/盎司，日内跌0.73%。",
@@ -1020,21 +1060,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "【早报】美伊又打起来了；黄金、白银、原油集体下跌",
-          "url": "https://www.cls.cn/detail/2395413",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 09时10分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
@@ -1065,11 +1093,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33341489",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 11时17分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时34分 ~ 09时10分]"
+          "time_info": "[09时09分 ~ 11时17分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月9日（周二）晚盘收盘下跌1.54%报932.0元/克；<br/>上海黄金交易所白银T+D 6月9日（周二）晚盘收盘下跌3.64%报15750.0元/千克。",
@@ -1082,17 +1123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时46分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
         },
         {
           "title": "现货黄金跌约1.6%，纽约中午一度跌穿4100美元关口，白银跌超4%",
@@ -1129,6 +1159,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "技术面已垮，就差CPI这把火：黄金4000美元守不住了？",
+          "url": "https://flash.jin10.com/detail/20260610105300820800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "金饰消费持续承压，倒逼黄金珠宝企业提升品牌力",
           "url": "https://wallstreetcn.com/livenews/3117061",
           "source": "华尔街见闻-快讯",
@@ -1160,13 +1201,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "伊朗对巴林与科威特美军基地发动空袭，叠加美国CPI数据今晚来袭，现货黄金日内大跌2%，卖出信号高达86%......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260610104919851800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金十图示：2026年06月10日（周三）上海金早盘价为912.95元/克，较国际金价(909.42元/克)，高3.53元/克",
+          "url": "https://flash.jin10.com/detail/20260610110836946800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
         {
           "title": "金价大跌女子狂卖2斤金条",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A5%B3%E5%AD%90%E7%8B%82%E5%8D%962%E6%96%A4%E9%87%91%E6%9D%A1%23&t=31&band_rank=29&Refer=top",
@@ -1179,6 +1242,28 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
+          "title": "金价连续大跌",
+          "url": "https://www.douyin.com/hot/2529220",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "中东冲突再起，油价美元双双走高拖累金价下跌",
+          "url": "https://flash.jin10.com/detail/20260610105607725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
           "url": "https://wallstreetcn.com/livenews/3117058",
           "source": "华尔街见闻-快讯",
@@ -1188,6 +1273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "国际油价金价大跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -1244,8 +1340,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 09时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时17分]"
         }
       ]
     },
