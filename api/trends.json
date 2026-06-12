@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T15:49:52.775198+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-06-12T17:34:14.148659+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时22分 ~ 15时49分]"
+          "appearance_count": 15,
+          "time_info": "[01时22分 ~ 17时34分]"
         },
         {
           "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时22分 ~ 07时37分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时37分 ~ 17时34分]"
         },
         {
           "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时40分 ~ 09时13分]"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 15时49分]"
         },
         {
           "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
@@ -252,6 +252,17 @@
           "time_info": "[04时56分 ~ 05时46分]"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
+        {
           "title": "特朗普称伊朗各方均已批准美伊协议",
           "url": "https://flash.jin10.com/detail/20260612042328842800",
           "source": "金十数据",
@@ -262,6 +273,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时46分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
@@ -324,6 +346,17 @@
           "time_info": "[06时41分 ~ 07时37分]"
         },
         {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
+        {
           "title": "特朗普说今晚将重创伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%8A%E6%99%9A%E5%B0%86%E9%87%8D%E5%88%9B%E4%BC%8A%E6%9C%97%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -363,7 +396,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -473,7 +506,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -575,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普涉伊朗表态“大转弯” 以总理“猝不及防”",
+          "url": "https://wallstreetcn.com/livenews/3118751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "美国总统特朗普：提名Jay Clayton为下一任国家情报局局长。",
@@ -734,7 +778,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
@@ -746,6 +790,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 03时09分]"
+        },
+        {
+          "title": "每天花100万美元够花2700年！今夜，人类历史上首位万亿富豪将诞生？",
+          "url": "https://www.cls.cn/detail/2398034",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时34分]"
         },
         {
           "title": "据NewsNation：一位美国国防部官员表示，五角大楼正准备将国防补充拨款请求送回白宫，该请求金额预计在500亿至800亿美元之间。",
@@ -838,17 +894,6 @@
           "time_info": "[04时56分 ~ 07时37分]"
         },
         {
-          "title": "每天花100万美元够花2700年！今夜，人类历史上首位万亿富豪将诞生？",
-          "url": "https://www.cls.cn/detail/2398034",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "高盛：维持2026年第四季度布伦特原油价格预测为每桶90美元。",
           "url": "https://flash.jin10.com/detail/20260612083840387800",
           "source": "金十数据",
@@ -866,7 +911,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -893,6 +938,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时09分]"
+        },
+        {
+          "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
+          "url": "https://wallstreetcn.com/articles/3774485",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时34分]"
         },
         {
           "title": "美国国务院：批准向巴西出售FIM-92K“毒刺”导弹，估值3.3亿美元。",
@@ -1011,17 +1067,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
-          "url": "https://wallstreetcn.com/articles/3774485",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         },
         {
           "title": "市场消息：SpaceX美国IPO散户认购金额据悉已突破1000亿美元。",
@@ -1151,7 +1196,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1195,9 +1240,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "美元指数回吐日内涨幅；国际油价下跌，布伦特原油、WTI原油均跌超4%。此前报道称，美国和伊朗的谅解备忘录规定霍尔木兹海峡将在30天内重新开放。",
+          "url": "https://wallstreetcn.com/livenews/3118730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "甲骨文称积压订单达6380亿美元",
@@ -1258,7 +1314,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1272,6 +1328,18 @@
           "time_info": "[01时22分 ~ 06时41分]"
         },
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时37分 ~ 17时34分]"
+        },
+        {
           "title": "四年来首次入熊，黄金背刺了所有相信它的人",
           "url": "https://wallstreetcn.com/articles/3774419",
           "source": "华尔街见闻",
@@ -1281,8 +1349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时08分 ~ 15时49分]"
+          "appearance_count": 13,
+          "time_info": "[03时08分 ~ 17时34分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -1295,18 +1363,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 05时46分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 15时49分]"
         },
         {
           "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
@@ -1341,6 +1397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "金十图示：2026年06月12日（周五）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260612170615368800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "周末也开盘！ 芝商所拟推全天候交易的原油黄金合约",
@@ -1416,6 +1483,32 @@
           "time_info": "[05时46分 ~ 06时41分]"
         },
         {
+          "title": "30年前被扣押2859克黄金事件双方和解",
+          "url": "https://www.toutiao.com/trending/7650343017169043492/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 17时34分]"
+        },
+        {
+          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 17时34分]"
+        },
+        {
           "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
           "url": "https://www.cls.cn/detail/2397705",
           "source": "财联社热门",
@@ -1429,18 +1522,6 @@
           "time_info": "[09时13分 ~ 13时43分]"
         },
         {
-          "title": "30年前被扣押2859克黄金事件双方和解",
-          "url": "https://www.toutiao.com/trending/7650343017169043492/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 15时49分]"
-        },
-        {
           "title": "黄金看空情绪升温！交易员押注未来两年将再跌40%",
           "url": "https://wallstreetcn.com/articles/3774379",
           "source": "华尔街见闻",
@@ -1452,16 +1533,15 @@
           "time_info": "[11时19分 ~ 13时43分]"
         },
         {
-          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
-          "source": "澎湃新闻",
+          "title": "国内最大黄金盗窃案告破：被盗27公斤黄金全追回，两主犯均为研究生毕业",
+          "url": "https://www.cls.cn/detail/2398176",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时43分 ~ 15时49分]"
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "现货黄金涨超3.4%，白银涨6%，纽约铜涨约3.1%",
@@ -1550,7 +1630,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1594,7 +1674,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1616,7 +1696,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1782,7 +1862,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
@@ -1832,6 +1912,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 15时49分]"
+        },
+        {
+          "title": "【午报】三大指数均涨超1%，两市半日成交额放量超4600亿，有色金属概念全线爆发",
+          "url": "https://www.cls.cn/detail/2398057",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "SpaceX募资750亿美元创史上最大IPO，太空概念股集体飙升",
@@ -1986,11 +2077,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 17时34分]"
         },
         {
           "title": "金价跌了生意却没疯涨时好",
@@ -2010,7 +2102,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -2021,7 +2113,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -2032,7 +2124,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         }
@@ -2089,9 +2181,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时34分]"
         }
       ]
     }
