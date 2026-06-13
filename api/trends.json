@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-06-13T07:37:37.604600+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-06-13T09:12:18.913083+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
-        {
-          "title": "美国银行存款从上周的19.338万亿美元降至19.296万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260613041905027800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
-        },
-        {
-          "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
-          "url": "https://flash.jin10.com/detail/20260613041809603800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
-        },
         {
           "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
           "url": "https://wallstreetcn.com/articles/3774485",
@@ -54,6 +32,41 @@
           "time_info": "[02时49分 ~ 04时51分]"
         },
         {
+          "title": "美国银行存款从上周的19.338万亿美元降至19.296万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260613041905027800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
+        },
+        {
+          "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
+          "url": "https://flash.jin10.com/detail/20260613041809603800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
+        },
+        {
+          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
+          "url": "https://wallstreetcn.com/articles/3774544",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 09时12分]"
+        },
+        {
           "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
           "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
@@ -63,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时38分]"
-        },
-        {
-          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月9日当周，投机者所持美元净多头头寸创2025年2月份以来新高。",
@@ -98,6 +100,21 @@
           "time_info": "02时49分"
         },
         {
+          "title": "美联储：美国上周银行存款19.296万亿美元，之前一周19.338万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            21,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
+        },
+        {
           "title": "报道称阿联酋同意为伊朗解冻数十亿美元资金",
           "url": "https://flash.jin10.com/detail/20260613022138398800",
           "source": "金十数据",
@@ -107,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "SpaceX(SPCX.O)股价攀升至盘中高点170美元，较发行价涨超25%。",
@@ -120,18 +148,16 @@
           "time_info": "01时08分"
         },
         {
-          "title": "美联储：美国上周银行存款19.296万亿美元，之前一周19.338万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119075",
-          "source": "华尔街见闻-快讯",
+          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
+          "url": "https://wallstreetcn.com/articles/3774506",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            12,
-            21,
-            22
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
         },
         {
           "title": "周五（6月12日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7636元，较周四纽约尾盘跌1点，日内整体交投于6.7592-6.7692元区间。 本周，离岸人民币累计上涨大约270点，涨幅0.40%。",
@@ -140,11 +166,12 @@
           "ranks": [
             5,
             14,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 07时37分]"
+          "appearance_count": 4,
+          "time_info": "[05时39分 ~ 09时12分]"
         },
         {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
@@ -159,15 +186,18 @@
           "time_info": "[02时49分 ~ 03时45分]"
         },
         {
-          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
-          "url": "https://wallstreetcn.com/articles/3774506",
-          "source": "华尔街见闻",
+          "title": "美国法官同意暂缓撤销10万美元H-1B签证费的裁决",
+          "url": "https://wallstreetcn.com/livenews/3119080",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            7,
+            16,
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
+          "time_info": "[05时39分 ~ 09时12分]"
         },
         {
           "title": "交易员对美元看涨程度升至逾一年来最高水平",
@@ -179,19 +209,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 07时37分]"
-        },
-        {
-          "title": "美国法官同意暂缓撤销10万美元H-1B签证费的裁决",
-          "url": "https://wallstreetcn.com/livenews/3119080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 07时37分]"
         },
         {
           "title": "SpaceX 今日上市，超级 IPO 能否助力美国国际收支平衡，并让美元再度走强？",
@@ -297,7 +314,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -434,6 +451,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
           "url": "https://flash.jin10.com/detail/20260613025928526800",
           "source": "金十数据",
@@ -525,7 +553,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -545,11 +573,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时37分]"
+          "appearance_count": 3,
+          "time_info": "[06时38分 ~ 09时12分]"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
@@ -559,11 +588,12 @@
             1,
             9,
             18,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
@@ -573,11 +603,12 @@
             2,
             10,
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
@@ -587,11 +618,12 @@
             3,
             11,
             20,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
@@ -601,22 +633,62 @@
             5,
             13,
             22,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260613040515542800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
+        },
+        {
+          "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260613040511043800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 09时12分]"
+        },
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 09时12分]"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
+          "time_info": "[05时39分 ~ 09时12分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
@@ -627,17 +699,6 @@
             14,
             23,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时37分]"
-        },
-        {
-          "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260613040511043800",
-          "source": "金十数据",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -669,19 +730,6 @@
           "time_info": "[04时51分 ~ 07时37分]"
         },
         {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 07时37分]"
-        },
-        {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
           "url": "https://wallstreetcn.com/livenews/3119009",
           "source": "华尔街见闻-快讯",
@@ -705,15 +753,15 @@
           "time_info": "03时45分"
         },
         {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
+          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
+          "url": "https://wallstreetcn.com/livenews/3119107",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "09时12分"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股盘中）",
@@ -744,15 +792,17 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            13,
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 09时12分]"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
@@ -762,20 +812,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 09时12分]"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            14
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 03时45分]"
         },
         {
           "title": "市场消息：美国法官驳回特朗普政府提出的请求，不同意暂缓执行肯尼迪中心案件中的永久禁令。",
@@ -859,18 +908,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
           "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 09时12分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -895,6 +945,67 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时45分 ~ 05时39分]"
+        },
+        {
+          "title": "黄金上涨原因",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1013.640吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260613081241470800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "美多州总检察长联合调查OpenAI",
+          "url": "https://flash.jin10.com/detail/20260613080751669800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "消息人士：美国多州总检察长联合对OpenAI展开调查。",
+          "url": "https://flash.jin10.com/detail/20260613080242771800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     },
@@ -947,11 +1058,12 @@
           "ranks": [
             1,
             10,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 07时37分]"
+          "appearance_count": 4,
+          "time_info": "[05时39分 ~ 09时12分]"
         }
       ]
     },
@@ -967,8 +1079,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 09时12分]"
         }
       ]
     }
