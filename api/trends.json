@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T17:14:49.181233+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-06-14T19:04:54.021530+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -69,11 +69,26 @@
           "ranks": [
             5,
             3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 19时04分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时13分 ~ 17时14分]"
+          "time_info": "[11时19分 ~ 19时04分]"
         },
         {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
@@ -90,6 +105,22 @@
           "time_info": "[05时34分 ~ 11时19分]"
         },
         {
+          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
+          "url": "https://wallstreetcn.com/livenews/3119179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            9,
+            17,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 19时04分]"
+        },
+        {
           "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
           "url": "https://flash.jin10.com/detail/20260614045258501800",
           "source": "金十数据",
@@ -104,21 +135,6 @@
           "time_info": "[05时34分 ~ 11时19分]"
         },
         {
-          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
-          "url": "https://wallstreetcn.com/livenews/3119179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            9,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 17时14分]"
-        },
-        {
           "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
           "url": "https://flash.jin10.com/detail/20260614025927509800",
           "source": "金十数据",
@@ -131,19 +147,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时37分 ~ 07时31分]"
-        },
-        {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 17时14分]"
         },
         {
           "title": "一名以色列高级官员就特朗普的伊朗协议对以色列第12频道表示：“这是一笔糟糕透顶的协议。”",
@@ -198,6 +201,19 @@
           "time_info": "[00时38分 ~ 01时36分]"
         },
         {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 19时04分]"
+        },
+        {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
           "url": "https://flash.jin10.com/detail/20260614005805979800",
           "source": "金十数据",
@@ -237,18 +253,6 @@
           "time_info": "[01时36分 ~ 03时37分]"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 17时14分]"
-        },
-        {
           "title": "特朗普将在G7峰会期间会晤中东伙伴",
           "url": "https://flash.jin10.com/detail/20260614000131278800",
           "source": "金十数据",
@@ -285,6 +289,17 @@
           "time_info": "[01时36分 ~ 02时38分]"
         },
         {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 19时04分]"
+        },
+        {
           "title": "美国总统特朗普就伊朗问题表示：在适当的时候，当一切平静时，我们将进入并获取核尘埃。",
           "url": "https://flash.jin10.com/detail/20260614004827925800",
           "source": "金十数据",
@@ -309,15 +324,15 @@
           "time_info": "[01时36分 ~ 02时38分]"
         },
         {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
+          "title": "据路透社/益普索民调：美国总统特朗普在美国乡村地区选民中的支持率降至50%，为其总统任内最低水平，较2025年2月的60%有所下降。",
+          "url": "https://flash.jin10.com/detail/20260614180317033800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "19时04分"
         },
         {
           "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
@@ -329,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "以色列官员：以色列总理内塔尼亚胡与美国总统特朗普关系良好，盟友之间难免会出现分歧，这些分歧能够被克服。",
+          "url": "https://flash.jin10.com/detail/20260614173808225800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "特朗普称14日签署美伊协议 伊朗否认",
@@ -367,7 +393,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
@@ -387,11 +413,12 @@
           "ranks": [
             3,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 17时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 19时04分]"
         },
         {
           "title": "又一家万亿美元级别IPO！SK海力士计划8月在纳斯达克上市，募资高达140亿美元",
@@ -429,8 +456,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 17时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 19时04分]"
         },
         {
           "title": "SpaceX亏损达413亿美元",
@@ -477,6 +504,18 @@
           "time_info": "[07时31分 ~ 17时14分]"
         },
         {
+          "title": "记者实测最贵世界杯 1瓶水5.25美元",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF+1%E7%93%B6%E6%B0%B45.25%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 19时04分]"
+        },
+        {
           "title": "高盛与大摩预计将分别从SpaceX IPO中获得约1亿美元承销费用",
           "url": "https://flash.jin10.com/detail/20260614114455223800",
           "source": "金十数据",
@@ -489,15 +528,26 @@
           "time_info": "[13时43分 ~ 15时47分]"
         },
         {
-          "title": "记者实测最贵世界杯 1瓶水5.25美元",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF+1%E7%93%B6%E6%B0%B45.25%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "美被曝同意伊朗稀释高浓缩铀库存，解冻伊朗250亿美元资产",
+          "url": "https://flash.jin10.com/detail/20260614182219346800",
+          "source": "金十数据",
           "ranks": [
-            15
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "19时04分"
+        },
+        {
+          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
+          "url": "https://wallstreetcn.com/articles/3774608",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "沙特王国控股公司：按SpaceX上周五每股160.95美元的收盘价计算，公司所持股份的公允价值约为68.3亿美元（256.0亿沙特里亚尔）。",
@@ -542,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "科威特将7月出口至亚洲的官方原油售价设定为较阿曼/迪拜均价升水5.25美元。",
+          "url": "https://flash.jin10.com/detail/20260614173445158800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
@@ -555,11 +616,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 19时04分]"
         },
         {
           "title": "金价飙升 豪华表成“炼金”原料",
@@ -573,6 +635,17 @@
           "time_info": "[15时47分 ~ 17时14分]"
         },
         {
+          "title": "金价跌至900元关口 大妈又来抄底了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3900%E5%85%83%E5%85%B3%E5%8F%A3+%E5%A4%A7%E5%A6%88%E5%8F%88%E6%9D%A5%E6%8A%84%E5%BA%95%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 19时04分]"
+        },
+        {
           "title": "金价跌至900元关口，大妈又来抄底了",
           "url": "https://finance.ifeng.com/c/8twgIbNI5vX",
           "source": "凤凰网",
@@ -582,17 +655,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
-        },
-        {
-          "title": "金价跌至900元关口 大妈又来抄底了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3900%E5%85%83%E5%85%B3%E5%8F%A3+%E5%A4%A7%E5%A6%88%E5%8F%88%E6%9D%A5%E6%8A%84%E5%BA%95%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         }
       ]
     },
@@ -626,8 +688,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 17时14分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 19时04分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
@@ -653,11 +715,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 17时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 19时04分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
