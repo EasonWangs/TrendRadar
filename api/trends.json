@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T04:00:06.396261+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-06-19T05:06:06.329747+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "WTI 7月原油期货收跌0.19美元，跌幅0.25%，报76.60美元/桶。 NYMEX 7月天然气期货收报3.2330美元/百万英热单位。 NYMEX 7月汽油期货收报2.9949美元/加仑，NYMEX 7月取暖油期货收报3.1273美元/加仑。",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/3121872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的2.51亿美元。",
@@ -52,15 +41,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美元指数创13个月新高，两天涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3121867",
-          "source": "华尔街见闻-快讯",
+          "title": "美国至6月12日当周外国央行持有美国国债 -21.18亿美元，前值-135.55亿美元。",
+          "url": "https://flash.jin10.com/detail/20260619043048940800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "05时06分"
         },
         {
           "title": "高盛：将2026年第三季度及2027年全年伦铝均价预测分别从此前的3200美元/吨和2750美元/吨上调至3300美元/吨和2950美元/吨。",
@@ -73,6 +62,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时00分]"
+        },
+        {
+          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/3121872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 05时06分]"
+        },
+        {
+          "title": "美元指数创13个月新高，两天涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3121867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 05时06分]"
+        },
+        {
+          "title": "现货白银日内跌幅达4.0%，报65.18美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3121869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 05时06分]"
         },
         {
           "title": "美元/日元日内涨幅达0.5%，报161.44。",
@@ -99,6 +124,30 @@
           "time_info": "[03时06分 ~ 04时00分]"
         },
         {
+          "title": "高盛：上调三季度铝价预期至330美元，之前预计3200美元；上调2027年预期至2950美元，之前预计2750美元。 预计2026年铝供应过剩72万吨，预计2027年供应过剩59万吨。",
+          "url": "https://wallstreetcn.com/livenews/3121863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 05时06分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7728元，较周三夜盘收盘跌98点。成交量442.19亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 05时06分]"
+        },
+        {
           "title": "LME期铜收跌124美元，报13690美元/吨。 LME期铝收跌24美元，报3386美元/吨。 LME期锌收涨50美元，报3638美元/吨。 LME期铅收涨5美元，报1984美元/吨。 LME期镍收跌218美元，报17842美元/吨。 LME期锡收跌1691美元，报53653美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3121833",
           "source": "华尔街见闻-快讯",
@@ -109,6 +158,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 03时06分]"
+        },
+        {
+          "title": "WTI 7月原油期货收跌0.19美元，跌幅0.25%，报76.60美元/桶。 布伦特8月原油期货收涨0.30美元，涨幅0.38%，报79.85美元/桶。 NYMEX 7月天然气期货收报3.2330美元/百万英热单位。 NYMEX 7月汽油期货收报2.9949美元/加仑，NYMEX 7月取暖油期货收报3.1273美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3121860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 05时06分]"
         },
         {
           "title": "周四（6月18日），美联储隔夜逆回购协议（RRP）使用规模为2.51亿美元（交易对手4家），上个交易日报68.28亿美元。",
@@ -135,35 +196,13 @@
           "time_info": "[03时06分 ~ 04时00分]"
         },
         {
-          "title": "现货白银日内跌幅达4.0%，报65.18美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3121869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
           "title": "美元兑日元USD/JPY短线一度下挫约80点至160.94，现回升至161.53。",
           "url": "https://flash.jin10.com/detail/20260619033230844800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "高盛：上调三季度铝价预期至330美元，之前预计3200美元；上调2027年预期至2950美元，之前预计2750美元。 预计2026年铝供应过剩72万吨，预计2027年供应过剩59万吨。",
-          "url": "https://wallstreetcn.com/livenews/3121863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
         },
@@ -201,26 +240,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7728元，较周三夜盘收盘跌98点。成交量442.19亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3121861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时00分"
-        },
-        {
-          "title": "WTI 7月原油期货收跌0.19美元，跌幅0.25%，报76.60美元/桶。 布伦特8月原油期货收涨0.30美元，涨幅0.38%，报79.85美元/桶。 NYMEX 7月天然气期货收报3.2330美元/百万英热单位。 NYMEX 7月汽油期货收报2.9949美元/加仑，NYMEX 7月取暖油期货收报3.1273美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3121860",
+          "title": "美国4月国际资本净流入 261亿美元，前值 1507亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121880",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时00分"
+          "time_info": "05时06分"
         },
         {
           "title": "美国投资公司协会（ICI）：货币市场基金资产规模升至创纪录的7.919万亿美元。",
@@ -229,9 +257,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
+        },
+        {
+          "title": "美国4月长期资本净流入 1031亿美元，前值 813亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
           "title": "美元指数DXY日内涨超0.50%，现报100.89。",
@@ -240,7 +279,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
         },
@@ -262,7 +301,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
         },
@@ -273,7 +312,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
         },
@@ -284,9 +323,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
+        },
+        {
+          "title": "美国4月长期资本净流入 1031亿美元，前值由813亿美元修正为799亿美元。",
+          "url": "https://flash.jin10.com/detail/20260619040002523800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
           "title": "报道：银行业准备为SpaceX发行至少200亿美元的债券",
@@ -317,9 +367,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
+        },
+        {
+          "title": "美国4月外资净买入美国公债 505亿美元，前值135亿美元。",
+          "url": "https://flash.jin10.com/detail/20260619040002482800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "美国4月国际资本净流入 261亿美元，前值由1507亿美元修正为1493亿美元。",
+          "url": "https://flash.jin10.com/detail/20260619040002474800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         }
       ]
     },
@@ -335,8 +407,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
         },
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
@@ -346,8 +418,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
         },
         {
           "title": "美学者：特朗普凡尔赛签约离谱至极",
@@ -357,20 +429,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
-        },
-        {
-          "title": "特朗普称预计“所有战线都将实现全面停火”",
-          "url": "https://wallstreetcn.com/livenews/3121859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
         },
         {
           "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
@@ -378,11 +438,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
         },
         {
           "title": "美官员称特朗普亲自签署美伊谅解备忘录",
@@ -392,8 +453,55 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
+        },
+        {
+          "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
+          "url": "https://wallstreetcn.com/articles/3774931",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
+        },
+        {
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
+        },
+        {
+          "title": "特朗普称预计“所有战线都将实现全面停火”",
+          "url": "https://wallstreetcn.com/livenews/3121859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 05时06分]"
         },
         {
           "title": "美国总统特朗普：市场喜欢油价下跌时所发生的事。",
@@ -406,40 +514,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时00分]"
-        },
-        {
-          "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
-          "url": "https://wallstreetcn.com/articles/3774931",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
-        },
-        {
-          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
-          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
         },
         {
           "title": "美国总统特朗普：我们预计（中东地区）将全面停火。 期待黎巴嫩、（黎）真主党、以色列（也都）实现停火。 （美国与伊朗的）停火包括黎巴嫩、（黎）真主党、以色列。 中东国家应该允许谈判展开。",
@@ -577,6 +651,112 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
+        },
+        {
+          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
+        },
+        {
+          "title": "新兴市场ETF收涨超3.2%，与纳指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3121889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260619010926778800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260619010902799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
+          "url": "https://wallstreetcn.com/livenews/3121887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040543323800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260619040541240800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 SpaceX跌3.5%",
+          "url": "https://flash.jin10.com/detail/20260619040108280800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 6,
       "titles": [
@@ -588,8 +768,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
         },
         {
           "title": "香港机场发生黄金大劫案",
@@ -598,11 +778,12 @@
           "ranks": [
             6,
             18,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
         },
         {
           "title": "现货黄金日内跌幅达1.0%，报4214.91美元/盎司。",
@@ -652,52 +833,41 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "美债",
+      "match_count": 3,
       "titles": [
         {
-          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
+          "title": "日本4月所持美国国债1.2099万亿美元，前值1.1916万亿美元。 4月英国所持美债9375亿美元，前值9269亿美元。 4月中国所持美债6511亿美元，前值6523亿美元。 4月开曼群岛所持美债4716亿美元，前值4594亿美元。 4月比利时所持美债4599亿美元，前值4540亿美元。 4月卢森堡所持美债4311亿美元，前值4320亿美元。 4月加拿大所持美债3971亿美元，前值4394亿美元。 4月法国所持美债3933亿美元，前值3930亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3121881",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            11
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
-        },
-        {
-          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260619010926778800",
+          "title": "中国4月减持美债，日本、英国增持美债",
+          "url": "https://flash.jin10.com/detail/20260619040538502800",
           "source": "金十数据",
           "ranks": [
-            6
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "05时06分"
         },
         {
-          "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260619010902799800",
-          "source": "金十数据",
+          "title": "10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%",
+          "url": "https://wallstreetcn.com/livenews/3121874",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "05时06分"
         }
       ]
     },
@@ -712,7 +882,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
         },
@@ -723,7 +893,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
         }
@@ -740,7 +910,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
         }
@@ -758,8 +928,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时34分 ~ 04时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时06分]"
         }
       ]
     }
