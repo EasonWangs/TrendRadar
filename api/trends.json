@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T01:41:17.308119+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-06-24T02:51:44.033739+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
+        },
+        {
+          "title": "SpaceX试水债券市场，拟发行250亿美元债券",
+          "url": "https://flash.jin10.com/detail/20260624024736762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "SpaceX有望从美国高评级债券市场募集250亿美元。（彭博）",
@@ -25,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -36,20 +47,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌0.65美元，跌幅0.88%，报73.21美元/桶，逼近3月5日收盘价71.46美元、3月4日收盘价69.24美元，200日均线已经上移至69.98美元。 中东Abu Dhabi Murban原油期货跌1.91%，报69.44美元/桶，逼近2月17日彭博报价66.89美元。 NYMEX 7月天然气期货收报3.1470美元/百万英热单位。 NYMEX 7月汽油期货收报2.9590美元/加仑，NYMEX 7月取暖油期货收报3.1546美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3123610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国联邦通信委员会表示，无线频谱拍卖筹集了超过35亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260624023225603800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "周二（6月23日），美联储隔夜逆回购协议（RRP）使用规模为64.84亿美元（交易对手10家），上个交易日报39.25亿美元。",
           "url": "https://wallstreetcn.com/livenews/3123595",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时51分]"
         },
         {
           "title": "SpaceX高评级债券发行获得890亿美元认购。",
@@ -64,6 +98,19 @@
           "time_info": "[00时56分 ~ 01时41分]"
         },
         {
+          "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
+          "url": "https://www.zhihu.com/question/2052610103719760554",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
+        },
+        {
           "title": "SpaceX涨幅扩大至5.6%，有望结束此前连续三个交易日下跌的趋势、市值合计蒸发6000亿美元的表现。",
           "url": "https://wallstreetcn.com/livenews/3123572",
           "source": "华尔街见闻-快讯",
@@ -74,6 +121,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时41分]"
+        },
+        {
+          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
+          "url": "https://wallstreetcn.com/livenews/3123591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时51分]"
+        },
+        {
+          "title": "彭博美元指数创2025年11月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3123590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时51分]"
         },
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -100,49 +171,61 @@
           "time_info": "[00时56分 ~ 01时41分]"
         },
         {
-          "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
-          "url": "https://www.zhihu.com/question/2052610103719760554",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
-        },
-        {
-          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
-          "url": "https://wallstreetcn.com/livenews/3123591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "彭博美元指数创2025年11月份以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/3123590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率4.189%——至少创2025年2月份以来新高（5月26日为4.071%），投标倍数2.64（前次为2.64）。",
           "url": "https://wallstreetcn.com/livenews/3123588",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时51分]"
+        },
+        {
+          "title": "LME期铜收跌278美元，报13371美元/吨。 LME期铝收跌132美元，报3232美元/吨。 LME期锌收跌116美元，报3492美元/吨。 LME期铅收跌30美元，报1934美元/吨。 LME期镍收跌582美元，报17172美元/吨。 LME期锡收跌3031美元，报51154美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3123584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时51分]"
+        },
+        {
+          "title": "美国原油期货结算价为73.21美元/桶，下跌65美分，跌幅0.88%。",
+          "url": "https://flash.jin10.com/detail/20260624023128925800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时51分"
+        },
+        {
+          "title": "军工初创公司Stark Defence按32亿欧元估值融资5亿欧元（折合5.70亿美元），红杉资本、Peter Thiel旗下Founders Fund领投。",
+          "url": "https://wallstreetcn.com/livenews/3123604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "周二（6月23日），韩元兑美元最终涨0.20%，报1533.80韩元。",
+          "url": "https://wallstreetcn.com/livenews/3123599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "黑石集团计划在日本人工智能数据中心投资300亿美元",
@@ -156,15 +239,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "LME期铜收跌278美元，报13371美元/吨。 LME期铝收跌132美元，报3232美元/吨。 LME期锌收跌116美元，报3492美元/吨。 LME期铅收跌30美元，报1934美元/吨。 LME期镍收跌582美元，报17172美元/吨。 LME期锡收跌3031美元，报51154美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3123584",
+          "title": "SpaceX有望从美国高评级债券市场募集250亿美元，认购需求显示市场心态谨慎",
+          "url": "https://wallstreetcn.com/livenews/3123597",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时51分"
         },
         {
           "title": "市场消息：加油站和便利店运营商“EG集团”已秘密申请了美国IPO，预计筹集资金约10亿美元。",
@@ -173,9 +256,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美联储加息押注升温 美元升至自11月以来的最高点",
+          "url": "https://flash.jin10.com/detail/20260624021505217800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "交易员称，阿根廷银行间比索收盘下跌0.61%，报1471.5比索兑1美元，创八个月来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260624020701022800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "市场消息：SpaceX(SPCX.O)高评级债券发行获得890亿美元认购。",
@@ -203,7 +308,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普谈伊朗：伊朗关于国际原子能机构核查的说法是错误的。核查人员将在适当的时候抵达现场。",
@@ -212,18 +317,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
-          "url": "https://wallstreetcn.com/livenews/3123596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -239,17 +333,6 @@
           "time_info": "00时56分"
         },
         {
-          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
-          "url": "https://wallstreetcn.com/livenews/3123594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
           "title": "意大利总理梅洛尼：与特朗普发生争执后，意大利的外交政策仍将保持不变。",
           "url": "https://flash.jin10.com/detail/20260624003946351800",
           "source": "金十数据",
@@ -261,15 +344,39 @@
           "time_info": "00时56分"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
+          "title": "国际足联（FIFA）主席：美国总统特朗普将亲自颁发世界杯奖杯。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123606",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3123596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "time_info": "[01时41分 ~ 02时51分]"
+        },
+        {
+          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
+          "url": "https://wallstreetcn.com/livenews/3123594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时51分]"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -279,8 +386,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
         },
         {
           "title": "特朗普提前宣布斯塔默辞职有何意味",
@@ -288,11 +407,34 @@
           "source": "今日头条",
           "ranks": [
             27,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
+        },
+        {
+          "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
+          "url": "https://flash.jin10.com/detail/20260624022618787800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3123598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "据AXIOS：预计美国总统特朗普将于周二宣布，他将在7月15日于美国陆军战争学院举行的宾夕法尼亚州国防与创新峰会上发表主旨演讲，该峰会由宾夕法尼亚州联邦参议员戴夫·麦考密克主办。",
@@ -304,6 +446,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普支持率降至任内最低，半数美国人认为对伊战争得不偿失",
+          "url": "https://flash.jin10.com/detail/20260624022036676800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "IBM(IBM.N)：特朗普政府将持有Anderon的股权，但不参与治理。",
+          "url": "https://flash.jin10.com/detail/20260624021722023800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
@@ -330,8 +494,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
         },
         {
           "title": "美股集体低开 纳指跌超2%",
@@ -352,8 +516,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
         },
         {
           "title": "美股",
@@ -361,11 +525,12 @@
           "source": "微博",
           "ranks": [
             14,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
         },
         {
           "title": "金十图示：2026年06月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -392,37 +557,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
-        },
-        {
-          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
@@ -432,8 +568,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
         },
         {
           "title": "华尔街大行集体“变脸”！继高盛之后，德银也大砍黄金目标价",
@@ -443,8 +579,50 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月23日（周二）晚盘收盘下跌0.35%报900.43元/克；<br/>上海黄金交易所白银T+D 6月23日（周二）晚盘收盘下跌2.75%报14827.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260624023113394800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
+          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
+        },
+        {
+          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
         }
       ]
     },
@@ -460,8 +638,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
         },
         {
           "title": "恋与深空新男主敖尹概念短片",
@@ -485,11 +663,29 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 02时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
+          "url": "https://flash.jin10.com/detail/20260624022839964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     },
