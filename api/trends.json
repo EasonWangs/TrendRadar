@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T09:03:08.594751+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-06-23T11:17:00.372725+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "SpaceX股价大跌逾10%：上市后火速发债 披露逾1000亿美元现金储备",
@@ -15,11 +15,24 @@
             12,
             11,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时26分 ~ 09时03分]"
+          "appearance_count": 11,
+          "time_info": "[02时26分 ~ 11时17分]"
+        },
+        {
+          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
+          "url": "https://wallstreetcn.com/articles/3775217",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时17分]"
         },
         {
           "title": "SpaceX单日蒸发4000亿美元市值，高利率开始杀估值？",
@@ -28,7 +41,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -42,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "美国放松对伊朗石油制裁，数十年来首允伊朗以美元卖油；美日财长紧急开会，外汇干预警报拉响；全球最大衍生品交易所又故障......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260623110313753800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "周一（6月22日）纽约尾盘，ICE美元指数涨0.17%，报101.017点，日内交投区间为100.760-101.056点。 彭博美元指数涨0.20%，报1219.05点，全天处于收涨状态，交投区间为1216.69-1219.60点。",
@@ -61,7 +85,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -88,6 +112,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时36分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时17分]"
         },
         {
           "title": "商品货币纽元兑美元日内跌幅达0.5%，报0.5711；澳元兑美元跌穿0.7关口。",
@@ -127,17 +163,6 @@
           "time_info": "[02时26分 ~ 04时06分]"
         },
         {
-          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
-          "url": "https://wallstreetcn.com/articles/3775217",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
-        },
-        {
           "title": "周一（6月22日），美联储隔夜逆回购协议（RRP）使用规模为39.25亿美元（交易对手4家），上个交易日报2.51亿美元。",
           "url": "https://wallstreetcn.com/livenews/3122972",
           "source": "华尔街见闻-快讯",
@@ -148,17 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 04时06分]"
-        },
-        {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
         },
         {
           "title": "周一（6月22日）纽约尾盘，欧元兑美元跌0.41%，英镑兑美元涨0.10%，美元兑瑞郎涨0.26%。 商品货币对中，澳元兑美元跌0.20%，纽元兑美元跌0.51%，美元兑加元涨0.07%。 瑞典克朗兑美元跌0.46%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌0.45%。 波兰兹罗提兑美元跌0.72%，美元兑匈牙利福林涨0.53%。 印度卢比兑美元（收）跌0.37%，土耳其里拉兑美元跌0.04%，南非兰特兑美元涨0.24%，墨西哥比索兑美元跌0.20%，巴西雷亚尔兑美元涨0.15%。",
@@ -173,13 +187,24 @@
           "time_info": "[05时46分 ~ 06时39分]"
         },
         {
+          "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
+          "url": "https://www.zhihu.com/question/2052610103719760554",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
           "title": "现货白银日内跌超1.00%，现报64.45美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260623082223557800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -311,7 +336,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -374,7 +399,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -386,6 +411,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时39分 ~ 11时17分]"
         },
         {
           "title": "据Politico：美国国防部长赫格塞思计划于周三在共和党研究委员会（RSC）午餐会上，向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报。",
@@ -408,19 +447,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 05时46分]"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时39分 ~ 09时03分]"
         },
         {
           "title": "美国法官阻止特朗普政府使用改版后的移民数据库进行选民登记核查。",
@@ -482,6 +508,17 @@
           "time_info": "[02时26分 ~ 04时06分]"
         },
         {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
           "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
           "url": "https://wallstreetcn.com/livenews/3122971",
           "source": "华尔街见闻-快讯",
@@ -540,6 +577,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时39分]"
+        },
+        {
+          "title": "特朗普政府加码量子战略",
+          "url": "https://www.toutiao.com/trending/7654323639415799814/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
         },
         {
           "title": "美国总统特朗普：油价大幅下跌。",
@@ -649,7 +697,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -726,6 +774,30 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 11时17分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时39分 ~ 11时17分]"
+        },
+        {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
@@ -736,8 +808,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 09时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 11时17分]"
         },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -751,29 +823,6 @@
           "time_info": "[00时37分 ~ 05时46分]"
         },
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 09时03分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时39分 ~ 09时03分]"
-        },
-        {
           "title": "美股：纳指跌1.32% SpaceX跌超16%",
           "url": "https://www.toutiao.com/trending/7654363973835296302/",
           "source": "今日头条",
@@ -783,6 +832,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 09时03分]"
+        },
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时17分]"
         },
         {
           "title": "金十图示：2026年06月22日（周一）热门中概股行情一览（美股盘中）",
@@ -816,17 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
         },
         {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
@@ -901,7 +951,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：6月16日当周，投机者所持COMEX黄金净多头头寸减少5,322手合约，至117,885手合约。 所持NYMEX汽油净多头头寸增加至67,676手合约。 所持NYMEX天然气净空头头寸减少至15,985手合约。",
@@ -927,6 +977,18 @@
           "time_info": "[06时39分 ~ 07时36分]"
         },
         {
+          "title": "美联储今年不降息黄金恐崩",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E4%BB%8A%E5%B9%B4%E4%B8%8D%E9%99%8D%E6%81%AF%E9%BB%84%E9%87%91%E6%81%90%E5%B4%A9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时17分]"
+        },
+        {
           "title": "现货黄金涨约0.9%，亚太早盘一度突破4220美元",
           "url": "https://wallstreetcn.com/livenews/3123033",
           "source": "华尔街见闻-快讯",
@@ -950,17 +1012,6 @@
           "time_info": "[07时35分 ~ 07时36分]"
         },
         {
-          "title": "美联储今年不降息黄金恐崩",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E4%BB%8A%E5%B9%B4%E4%B8%8D%E9%99%8D%E6%81%AF%E9%BB%84%E9%87%91%E6%81%90%E5%B4%A9%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至6月16日当周，COMEX黄金投机者将净多头头寸增加9,258手，至112,918手。COMEX白银投机者将净多头头寸增加2,275手，至12,070手。COMEX铜投机者将净多头头寸减少52手，至71,076手。",
           "url": "https://flash.jin10.com/detail/20260623033544512800",
           "source": "金十数据",
@@ -972,13 +1023,24 @@
           "time_info": "04时06分"
         },
         {
+          "title": "黄金看跌期权成交量明显抬升，保护需求快速升温",
+          "url": "https://flash.jin10.com/detail/20260623104052567800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "华尔街五大行罕见同调：黄金短期没戏！",
           "url": "https://flash.jin10.com/detail/20260623074217257800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1004,11 +1066,12 @@
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时17分]"
         },
         {
           "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
@@ -1046,6 +1109,60 @@
       ]
     },
     {
+      "keyword_group": "概念",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "恋与深空新男主敖尹概念短片",
+          "url": "https://search.bilibili.com/all?keyword=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0%E7%94%B7%E4%B8%BB%E6%95%96%E5%B0%B9%E6%A6%82%E5%BF%B5%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            23,
+            24,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 09时03分]"
+        },
+        {
+          "title": "机器人概念股异动拉升，巨轮智能直线涨停，方正电机、联诚精密此前封板，国民技术、万通液压、华是科技、拓斯达、金道科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3123128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "培育钻石概念反复活跃，博云新材3连板，黄河旋风2连板，惠丰钻石涨超10%，力量钻石、四方达、恒盛能源涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3123112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "液冷概念股开盘活跃，英维克、大元泵业、康盛股份、金富科技涨停，高澜股份涨超18%，飞龙股份、强瑞技术、川环科技、淳中科技、佳力图、新朋股份纷纷高开，消息上，英伟达发文详细介绍了即将量产的Vera Rubin平台所使用的45℃全面液冷技术，表示其帮助AI数据中心大幅降低能耗，并称Rubin是全球首个实现100%液冷的AI计算平台。",
+          "url": "https://wallstreetcn.com/livenews/3123106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1057,19 +1174,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时17分]"
         },
         {
           "title": "金价暴跌黄金该买还是该卖",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时17分]"
         }
       ]
     },
@@ -1106,27 +1224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恋与深空新男主敖尹概念短片",
-          "url": "https://search.bilibili.com/all?keyword=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0%E7%94%B7%E4%B8%BB%E6%95%96%E5%B0%B9%E6%A6%82%E5%BF%B5%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            23,
-            24,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 09时03分]"
         }
       ]
     }
