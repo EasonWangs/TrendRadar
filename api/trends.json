@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T07:29:41.360028+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-06-24T09:01:40.003810+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -462,7 +462,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -505,6 +505,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 07时29分]"
+        },
+        {
+          "title": "美参议院通过决议，旨在限制特朗普对伊战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "特朗普谈伊朗：伊朗关于国际原子能机构核查的说法是错误的。核查人员将在适当的时候抵达现场。",
@@ -579,7 +590,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -635,6 +646,18 @@
           "time_info": "[06时33分 ~ 07时29分]"
         },
         {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
           "title": "特朗普称美国正致力于与伊朗达成一项公平协议",
           "url": "https://wallstreetcn.com/livenews/3123633",
           "source": "华尔街见闻-快讯",
@@ -680,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普和我明白债券市场的力量",
+          "url": "https://wallstreetcn.com/livenews/3123707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "美国总统特朗普：美国正致力于与伊朗达成一项公平的协议，昨天有1900万桶石油经由霍尔木兹海峡运输。",
@@ -814,6 +848,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "美国众议院以压倒性票数通过可负担住房法案，并送交特朗普签署成为法律。",
+          "url": "https://wallstreetcn.com/livenews/3123697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们做得相当不错。",
           "url": "https://flash.jin10.com/detail/20260624025528702800",
           "source": "金十数据",
@@ -861,7 +906,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -881,11 +926,12 @@
           "ranks": [
             7,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 09时01分]"
         },
         {
           "title": "美股",
@@ -902,6 +948,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 06时33分]"
+        },
+        {
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 09时01分]"
         },
         {
           "title": "美股集体低开 纳指跌超2%",
@@ -924,18 +982,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        },
-        {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时29分]"
         },
         {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
@@ -1011,6 +1057,29 @@
           "time_info": "[05时39分 ~ 06时33分]"
         },
         {
+          "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3123684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时01分]"
+        },
+        {
+          "title": "美股芯片股全线重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
           "title": "Cerebras Systems第一财季营收1.934亿美元，分析师预期1.814亿美元。 第一财季硬件营收1.106亿美元，云收入0.828亿美元。 第一财季每股亏损0.22美元，毛利润率45%，运营开支1.012亿美元。 预计全年营收8.55亿-8.65亿美元，分析师预期8.248亿美元。 预计第二财季营收大约1.94亿美元，分析师预期1.733亿美元。 Cerebras美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3123642",
           "source": "华尔街见闻-快讯",
@@ -1021,6 +1090,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时33分]"
+        },
+        {
+          "title": "美股三大股指集体收跌",
+          "url": "https://www.toutiao.com/trending/7654735117604113974/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "Cerebras Systems美股盘后跌幅扩大至10%。",
@@ -1067,24 +1147,13 @@
           "time_info": "04时51分"
         },
         {
-          "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3123684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
           "url": "https://wallstreetcn.com/livenews/3123683",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -1095,7 +1164,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -1106,7 +1175,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -1117,7 +1186,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -1125,7 +1194,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "华尔街大行集体“变脸”！继高盛之后，德银也大砍黄金目标价",
@@ -1149,6 +1218,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 05时39分]"
+        },
+        {
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时01分]"
         },
         {
           "title": "周二（6月23日）纽约尾盘，现货黄金跌1.89%，报4111.48美元/盎司，北京时间09:00微幅上扬至4198.46美元刷新日高，随后持续走低，12:00以来持续交投于4120美元附近、16:07刷新日低至4091.05美元。 COMEX黄金期货跌1.92%，报4129.10美元/盎司。 现货白银跌5.50%，报61.5025美元/盎司，06:00微幅高开至65.7325美元刷新日高，随后持续走低。 COMEX白银期货跌6.15%，报62.005美元/盎司。 COMEX铜期货跌3.64%，报6.1950美元/磅。 现货铂金跌1.85%，现货钯金跌2.90%。",
@@ -1180,18 +1261,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
-          "url": "https://www.cls.cn/detail/2407391",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -1202,16 +1272,38 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "华尔街科技股抛售潮加剧黄金市场压力 亚市早盘一度跌破4100美元",
+          "url": "https://flash.jin10.com/detail/20260624081639465800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
@@ -1230,7 +1322,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -1263,11 +1355,67 @@
           "url": "https://wallstreetcn.com/articles/3775294",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 09时01分]"
+        },
+        {
+          "title": "恋与深空新男主敖尹概念短片",
+          "url": "https://search.bilibili.com/all?keyword=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0%E7%94%B7%E4%B8%BB%E6%95%96%E5%B0%B9%E6%A6%82%E5%BF%B5%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            17,
+            15,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时29分]"
+        },
+        {
+          "title": "美国财长贝森特：强势美元的概念与货币升值有所不同。 解决美国住房问题需要更低的利率和更多的供应。",
+          "url": "https://wallstreetcn.com/livenews/3123711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "09时01分"
+        },
+        {
+          "title": "【数读IPO】半导体零部件概念股，今日上市",
+          "url": "https://www.cls.cn/detail/2407387",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     },
@@ -1315,39 +1463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "概念",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时29分]"
-        },
-        {
-          "title": "恋与深空新男主敖尹概念短片",
-          "url": "https://search.bilibili.com/all?keyword=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0%E7%94%B7%E4%B8%BB%E6%95%96%E5%B0%B9%E6%A6%82%E5%BF%B5%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            17,
-            15,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时29分]"
         }
       ]
     },
