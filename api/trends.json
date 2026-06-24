@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T04:41:28.562126+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-06-25T05:36:19.110577+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 64,
       "titles": [
         {
           "title": "GTA6开预购,80美元买空气",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
         },
         {
           "title": "美光科技(MU.O)：HBM4 12层产品的量产爬坡速度目前是HBM3E 12层版本的两倍；公司已经累计交付超过10亿美元的HBM4收入。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -50,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "拉美外汇触及两周低点，美元走强与大宗商品施压股市",
-          "url": "https://wallstreetcn.com/livenews/3124228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
         },
         {
           "title": "现货白银跌破56美元/盎司，为去年11月以来首次，日内跌约9%。",
@@ -122,6 +111,18 @@
           "time_info": "[03时38分 ~ 04时41分]"
         },
         {
+          "title": "拉美外汇触及两周低点，美元走强与大宗商品施压股市",
+          "url": "https://wallstreetcn.com/livenews/3124228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8092元，较周二夜盘收盘跌154点。成交量714.35亿美元。",
           "url": "https://wallstreetcn.com/livenews/3124205",
           "source": "华尔街见闻-快讯",
@@ -170,6 +171,18 @@
           "time_info": "[02时43分 ~ 03时38分]"
         },
         {
+          "title": "AI初创公司Mirendil按10亿美元估值融资2亿美元，英伟达、A16Z、Kleiner Perkins参与投资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3124223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
           "title": "现货白银跌7.00%，报57.23美元/盎司。现货钯金跌6.00%，报1154.40美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3124181",
           "source": "华尔街见闻-快讯",
@@ -180,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时38分]"
+        },
+        {
+          "title": "布油3月以来首次失守75美元！霍尔木兹持续通航推低战事溢价",
+          "url": "https://www.cls.cn/detail/2408290",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
         },
         {
           "title": "比特币跌向5.9万美元，散户大军撤退，暴露市场新脆弱性",
@@ -228,13 +252,24 @@
           "time_info": "03时38分"
         },
         {
+          "title": "高通(QCOM.O)CFO：公司有机会将年度营收规模提升至1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625045451176800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "摩根大通将提高股息至每股1.65美元，打算回购500亿美元股票。 高盛计划提高股息至5美元，之前为4.50美元。 First Merchants将股票回购规模扩大至312.5万股，或回购1亿美元。 嘉信理财没有披露股票分红、或回购信息。",
           "url": "https://wallstreetcn.com/livenews/3124225",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -256,9 +291,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625045426358800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "现货白银日内重挫8.00%，现报56.58美元/盎司。",
@@ -278,20 +324,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
         {
-          "title": "AI初创公司Mirendil按10亿美元估值融资2亿美元，英伟达、A16Z、Kleiner Perkins参与投资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3124223",
+          "title": "高通(QCOM.O)：目标是在2029财年实现工业、网络与机器人业务收入约80亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625045402856800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "周三（6月24日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8132元，较周二纽约尾盘跌184点，日内整体交投于6.7910-6.8195元区间。",
+          "url": "https://wallstreetcn.com/livenews/3124242",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时36分"
         },
         {
           "title": "美光科技(MU.O)：预计第四财季EPS为30.73美元±1.00美元。",
@@ -300,9 +357,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "高通(QCOM.O)：汽车业务订单总估值（Design-win Pipeline）已扩展至650亿美元规模。",
+          "url": "https://flash.jin10.com/detail/20260625045233891800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美光科技(MU.O)2026财年Q3EPS 24.67美元，市场预期20.42美元，上年同期1.68美元。",
@@ -311,7 +379,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -344,18 +412,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "布油3月以来首次失守75美元！霍尔木兹持续通航推低战事溢价",
-          "url": "https://www.cls.cn/detail/2408290",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -371,15 +428,37 @@
           "time_info": "00时52分"
         },
         {
+          "title": "白宫要求美国国会山围绕伊朗和埃博拉疫情拨款876亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "美光科技(MU.O)2026财年Q3营收414.56亿美元，市场预期354.23亿美元，上年同期93.01亿美元。",
           "url": "https://flash.jin10.com/detail/20260625040156822800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "高通(QCOM.O)：公司目标是在2029财年实现物联网（IoT）收入超过140亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625044917220800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "数字货币市场快速下跌，比特币跌向5.9万美元",
@@ -421,9 +500,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "高通(QCOM.O)：目标是在2029财年实现超过18美元的非GAAP每股收益（EPS）。",
+          "url": "https://flash.jin10.com/detail/20260625044811259800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "高通(QCOM.O)CFO：公司目标是在2029财年实现约100亿美元的汽车业务收入。",
+          "url": "https://flash.jin10.com/detail/20260625044636730800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "获英特尔支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿-10亿美元。 General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。（The Information）",
@@ -432,7 +533,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -448,6 +549,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "高通(QCOM.O)CFO：两家超大规模定制芯片客户将在2027财年带来10亿美元收入。",
+          "url": "https://flash.jin10.com/detail/20260625044621272800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
           "url": "https://wallstreetcn.com/livenews/3124157",
           "source": "华尔街见闻-快讯",
@@ -459,6 +571,28 @@
           "time_info": "01时43分"
         },
         {
+          "title": "高通(QCOM.O)CFO：公司目标是在2029财年实现数据中心收入超过150亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625044611907800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "高通(QCOM.O)：已将2029财年非手机业务收入目标上调至400亿美元；约为此前2029财年目标的两倍。",
+          "url": "https://flash.jin10.com/detail/20260625044541626800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "现货白银日内跌幅达6.0%，报57.8美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3124174",
           "source": "华尔街见闻-快讯",
@@ -468,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "高通预计将在数据中心领域抢占超过5%的市场份额。 预计2029财年IoT营收将为140亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "现货白银日内重挫6.00%，现报57.83美元/盎司。",
@@ -498,7 +643,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -509,9 +654,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "白宫：特朗普补充预算请求包括671.5亿美元用于国防部军事项目。",
+          "url": "https://flash.jin10.com/detail/20260625044203755800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "据The Information：获英特尔(INTC.O)支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿至10亿美元。",
@@ -520,7 +676,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -534,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "摩根大通将提高股息至每股1.65美元，打算回购500亿美元股票。 摩根士丹利将股息从1美元提高至1.15美元。 富国银行有意将股票分红提高11%，至0.50美元。 高盛计划提高股息至5美元，之前为4.50美元。 First Merchants将股票回购规模扩大至312.5万股，或回购1亿美元。 嘉信理财没有披露股票分红、或回购信息。",
+          "url": "https://wallstreetcn.com/livenews/3124225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "WTI原油期货重新跌穿70美元关口，目前跌幅大约4.6%。",
@@ -561,7 +728,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -571,8 +738,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -582,8 +749,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
+        },
+        {
+          "title": "北约秘书长吕特：与美国总统特朗普的会谈情况不错。",
+          "url": "https://wallstreetcn.com/livenews/3124252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
+          "url": "https://flash.jin10.com/detail/20260625050017014800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
@@ -592,7 +781,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -603,9 +792,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争权力投票毫无意义。",
+          "url": "https://flash.jin10.com/detail/20260625045743220800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：石油公司没有足够降低汽油价格；今天与石油公司进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260625045731556800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
@@ -655,6 +866,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
+          "url": "https://wallstreetcn.com/livenews/3124247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "特朗普：伊朗同意我提出的所有要求",
           "url": "https://flash.jin10.com/detail/20260625030201081800",
           "source": "金十数据",
@@ -677,6 +899,28 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美国总统特朗普：埃克森美孚、雪佛龙等公司因天然气价格飙升而受到调查。",
+          "url": "https://flash.jin10.com/detail/20260625044934072800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：今天，与多家石油公司会谈。 石油公司对汽油的降价力度还不够。 埃克森美孚、雪佛龙等多家公司正被调查，这是汽油价格飙涨问题的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3124237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "美国驻意大使紧急灭火，称：特朗普与梅洛尼的冲突未破坏两国关系",
           "url": "https://wallstreetcn.com/livenews/3124159",
           "source": "华尔街见闻-快讯",
@@ -686,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国总统特朗普：对霍尔木兹海峡收费是无法让人接受的。",
+          "url": "https://wallstreetcn.com/livenews/3124236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "特朗普称伊朗正做出“重大让步”",
@@ -699,15 +954,70 @@
           "time_info": "01时43分"
         },
         {
+          "title": "特朗普回应拒签住房法案：比任何人都懂房地产，降息才是关键",
+          "url": "https://wallstreetcn.com/livenews/3124235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "页岩油高管称特朗普关于伊朗的言论引发能源市场混乱",
           "url": "https://wallstreetcn.com/livenews/3124212",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普称英国首相热门人选伯纳姆“可能”不会开放北海油田",
+          "url": "https://wallstreetcn.com/livenews/3124232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：在与北约秘书长吕特的沟通中几近取得了进展。",
+          "url": "https://flash.jin10.com/detail/20260625044346005800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：（关于包括运输费用在内的伊朗协议）将是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260625044255916800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：北约秘书长吕特做得不错。 我往往会与吕特取得进展。 对德国、法国、西班牙感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3124229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
@@ -732,6 +1042,17 @@
           "time_info": "03时38分"
         },
         {
+          "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
+          "url": "https://flash.jin10.com/detail/20260625044044047800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
           "url": "https://wallstreetcn.com/livenews/3124117",
           "source": "华尔街见闻-快讯",
@@ -746,7 +1067,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -755,11 +1076,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -770,8 +1092,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
+          "url": "https://wallstreetcn.com/livenews/3124250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
@@ -791,7 +1124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -800,11 +1133,24 @@
           "url": "https://wallstreetcn.com/livenews/3124226",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
+        },
+        {
+          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3124222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时36分]"
         },
         {
           "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
@@ -829,24 +1175,13 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3124222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
           "title": "美光科技(MU.O)美股盘后涨超2%。",
           "url": "https://flash.jin10.com/detail/20260625040228241800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         },
@@ -857,15 +1192,37 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3124233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "高通(QCOM.O)美股盘后涨超14%，高通CFO称目标在2027财年实现AI数据中心业务收入50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625044531459800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -875,8 +1232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
         },
         {
           "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
@@ -890,8 +1247,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
         },
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -900,11 +1257,12 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
         },
         {
           "title": "现货黄金跌破3960美元/盎司，日内跌3.64%。",
@@ -929,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 02时43分]"
+        },
+        {
+          "title": "纽约期金周三跌3.2%，现货黄金失守4000美元整数位心理关口，白银跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3124240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月24日（周三）晚盘收盘下跌2.18%报873.16元/克；<br/>上海黄金交易所白银T+D 6月24日（周三）晚盘收盘下跌5.77%报13969.0元/千克。",
@@ -1053,8 +1422,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 05时36分]"
         }
       ]
     },
@@ -1071,8 +1440,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 05时36分]"
         }
       ]
     }
