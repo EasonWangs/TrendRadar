@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T03:38:06.864773+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-06-25T04:41:28.562126+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 49,
       "titles": [
         {
           "title": "GTA6开预购,80美元买空气",
@@ -15,41 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
         },
         {
-          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
-          "url": "https://wallstreetcn.com/livenews/3124210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3124209",
-          "source": "华尔街见闻-快讯",
+          "title": "美光科技(MU.O)：HBM4 12层产品的量产爬坡速度目前是HBM3E 12层版本的两倍；公司已经累计交付超过10亿美元的HBM4收入。",
+          "url": "https://flash.jin10.com/detail/20260625041252072800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "Kalshi洽谈按400亿美元估值融资，本轮融资最快可能会在三季度完成。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3124207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时41分"
         },
         {
           "title": "据英国金融时报：预测市场平台Kalshi正在洽谈以400亿美元的估值筹集资金。",
@@ -58,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
@@ -69,9 +47,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "拉美外汇触及两周低点，美元走强与大宗商品施压股市",
+          "url": "https://wallstreetcn.com/livenews/3124228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "现货白银跌破56美元/盎司，为去年11月以来首次，日内跌约9%。",
@@ -85,15 +74,28 @@
           "time_info": "02时43分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8092元，较周二夜盘收盘跌154点。成交量714.35亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3124205",
+          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
+          "url": "https://wallstreetcn.com/livenews/3124210",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时41分]"
+        },
+        {
+          "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3124209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时41分]"
         },
         {
           "title": "现货白银下跌超5.7%，刷新12月份以来低位至58美元/盎司。",
@@ -106,6 +108,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时43分]"
+        },
+        {
+          "title": "Kalshi洽谈按400亿美元估值融资，本轮融资最快可能会在三季度完成。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3124207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时41分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8092元，较周二夜盘收盘跌154点。成交量714.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时41分]"
         },
         {
           "title": "纽约银日内跌幅达10.0%，报56.26美元/盎司；现货白银日内跌幅达9.5%，报55.6美元/盎司。",
@@ -197,9 +223,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "摩根大通将提高股息至每股1.65美元，打算回购500亿美元股票。 高盛计划提高股息至5美元，之前为4.50美元。 First Merchants将股票回购规模扩大至312.5万股，或回购1亿美元。 嘉信理财没有披露股票分红、或回购信息。",
+          "url": "https://wallstreetcn.com/livenews/3124225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司（ADNOC）将七月份的穆尔班原油官方售价定为每桶101.48美元。",
@@ -213,6 +250,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260625040511895800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "现货白银日内重挫8.00%，现报56.58美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260625015944010800",
           "source": "金十数据",
@@ -222,6 +270,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美光科技(MU.O)：第三财季经营现金流为253.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625040459107800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "AI初创公司Mirendil按10亿美元估值融资2亿美元，英伟达、A16Z、Kleiner Perkins参与投资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3124223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美光科技(MU.O)：预计第四财季EPS为30.73美元±1.00美元。",
+          "url": "https://flash.jin10.com/detail/20260625040448905800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美光科技(MU.O)2026财年Q3EPS 24.67美元，市场预期20.42美元，上年同期1.68美元。",
+          "url": "https://flash.jin10.com/detail/20260625040310941800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.2%（5月下旬报4.182%），投标倍数2.35（前次为2.34）。",
@@ -246,6 +338,28 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美光科技(MU.O)第四财季营收展望为500亿美元，市场预期为429.15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625040235813800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "布油3月以来首次失守75美元！霍尔木兹持续通航推低战事溢价",
+          "url": "https://www.cls.cn/detail/2408290",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "LME期铝跌3.6%，刷新2月25日以来最低位至3110美元。",
           "url": "https://wallstreetcn.com/livenews/3124137",
           "source": "华尔街见闻-快讯",
@@ -255,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美光科技(MU.O)2026财年Q3营收414.56亿美元，市场预期354.23亿美元，上年同期93.01亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625040156822800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "数字货币市场快速下跌，比特币跌向5.9万美元",
@@ -288,6 +413,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美联储：接受测试的银行在假设情景下能够承受超过7000亿美元的损失，资本仅下降1.6%，仍然高于最低监管要求。",
+          "url": "https://flash.jin10.com/detail/20260625040119435800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "获英特尔支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿-10亿美元。 General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3124214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "现货铂金下跌超过5%，报每盎司1,567.15美元。",
@@ -345,6 +492,39 @@
           "time_info": "01时43分"
         },
         {
+          "title": "高通：面向数据中心推出DragonFly（飞龙） C1000 CPU。 发布全新 Dragonfly（飞龙）产品组合，揭晓面向智能体AI时代的全面数据中心路线图。 推出Pam4电信号与光信号传输服务及相关解决方案服务。 与一家超大规模云服务商（Hyperscaler）在新款通信芯片上合作。 预计数据中心将在2027年带来（至少）数十亿美元收入。 汽车业务2026财年年化营收将达到60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "据The Information：General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。",
+          "url": "https://flash.jin10.com/detail/20260625034921051800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "据The Information：获英特尔(INTC.O)支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿至10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625034748822800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "阿布扎比国家石油公司（ADNOC）将7月Murban石油销售价格定在101.48美元/桶。 将7月UMM Lulu原油价格定在与Murban平价。",
           "url": "https://wallstreetcn.com/livenews/3124150",
           "source": "华尔街见闻-快讯",
@@ -381,7 +561,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -391,8 +571,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -402,8 +582,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
+        },
+        {
+          "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3124229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国官员：特朗普将在补充拨款法案中纳入全年销售含更高乙醇比例汽油的相关内容。",
+          "url": "https://flash.jin10.com/detail/20260625041111417800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         },
         {
           "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
@@ -459,7 +661,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
@@ -497,13 +699,24 @@
           "time_info": "01时43分"
         },
         {
+          "title": "页岩油高管称特朗普关于伊朗的言论引发能源市场混乱",
+          "url": "https://wallstreetcn.com/livenews/3124212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
           "url": "https://flash.jin10.com/detail/20260625022804523800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
@@ -514,7 +727,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
@@ -532,6 +745,125 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
+        },
+        {
+          "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260625003422569800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨幅扩大至7.5%。",
+          "url": "https://flash.jin10.com/detail/20260625040832491800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3124226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260625003209642800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
+          "url": "https://wallstreetcn.com/livenews/3124140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3124222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260625040228241800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 金龙指数跌1.7%",
+          "url": "https://flash.jin10.com/detail/20260625040106828800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 7,
       "titles": [
@@ -543,8 +875,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
         },
         {
           "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
@@ -554,11 +886,12 @@
             12,
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
         },
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -570,8 +903,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
         },
         {
           "title": "现货黄金跌破3960美元/盎司，日内跌3.64%。",
@@ -604,7 +937,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
@@ -622,69 +955,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
-        },
-        {
-          "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260625003422569800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260625003209642800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
-          "url": "https://wallstreetcn.com/livenews/3124140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "gemini",
       "match_count": 3,
       "titles": [
@@ -693,11 +963,12 @@
           "url": "https://wallstreetcn.com/livenews/3124199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时41分]"
         },
         {
           "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
@@ -717,7 +988,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         }
@@ -747,7 +1018,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         }
@@ -782,8 +1053,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 04时41分]"
         }
       ]
     },
@@ -800,8 +1071,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 04时41分]"
         }
       ]
     }
