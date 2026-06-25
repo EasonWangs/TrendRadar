@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T17:15:40.974277+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2026-06-25T19:04:14.454599+08:00",
+  "total_titles_processed": 1657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 89,
+      "match_count": 97,
       "titles": [
         {
           "title": "GTA6开预购,80美元买空气",
@@ -16,11 +16,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 17时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 19时04分]"
         },
         {
           "title": "布油3月以来首次失守75美元！霍尔木兹持续通航推低战事溢价",
@@ -37,6 +38,30 @@
           "time_info": "[04时41分 ~ 13时29分]"
         },
         {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时16分 ~ 19时04分]"
+        },
+        {
+          "title": "怎么看待《GTA6》标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
+          "url": "https://www.zhihu.com/question/2053231216510374205",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时04分]"
+        },
+        {
           "title": "怎么看待《GTA6》售价公布：标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
           "url": "https://www.zhihu.com/question/2053231216510374205",
           "source": "知乎",
@@ -48,6 +73,17 @@
           "time_info": "[13时29分 ~ 15时23分]"
         },
         {
+          "title": "黑莓预计全年营收5.94亿美元至6.21亿美元，预估6.019亿美元。 预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 预计全年经调整基本每股收益0.16美元至0.20美元，预估0.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3124628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "美光科技(MU.O)：HBM4 12层产品的量产爬坡速度目前是HBM3E 12层版本的两倍；公司已经累计交付超过10亿美元的HBM4收入。",
           "url": "https://flash.jin10.com/detail/20260625041252072800",
           "source": "金十数据",
@@ -57,29 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "怎么看待《GTA6》标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
-          "url": "https://www.zhihu.com/question/2053231216510374205",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 17时15分]"
         },
         {
           "title": "据英国金融时报：预测市场平台Kalshi正在洽谈以400亿美元的估值筹集资金。",
@@ -545,7 +558,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -589,7 +602,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -622,7 +635,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -809,7 +822,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -856,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "Stifel：将微软(MSFT.O)目标价从415美元下调至400美元。",
+          "url": "https://flash.jin10.com/detail/20260625182321672800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "高通预计将在数据中心领域抢占超过5%的市场份额。 预计2029财年IoT营收将为140亿美元。",
@@ -968,6 +992,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "策略师担忧高市早苗2.3万亿美元的投资计划恐给日债市场带来新压力",
+          "url": "https://wallstreetcn.com/livenews/3124592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "据The Information：获英特尔(INTC.O)支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿至10亿美元。",
           "url": "https://flash.jin10.com/detail/20260625034748822800",
           "source": "金十数据",
@@ -990,6 +1025,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "富国银行：将高通(QCOM.O)目标价从230美元上调至265美元。",
+          "url": "https://flash.jin10.com/detail/20260625181704038800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "摩根大通将提高股息至每股1.65美元，打算回购500亿美元股票。 摩根士丹利将股息从1美元提高至1.15美元。 富国银行有意将股票分红提高11%，至0.50美元。 高盛计划提高股息至5美元，之前为4.50美元。 First Merchants将股票回购规模扩大至312.5万股，或回购1亿美元。 嘉信理财没有披露股票分红、或回购信息。",
           "url": "https://wallstreetcn.com/livenews/3124225",
           "source": "华尔街见闻-快讯",
@@ -1001,6 +1047,28 @@
           "time_info": "05时36分"
         },
         {
+          "title": "富国银行：将福特汽车(F.N)的目标价从10美元上调至11美元。",
+          "url": "https://flash.jin10.com/detail/20260625181653693800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "富国银行：将通用汽车(GM.N)的目标价从59美元上调至60美元。",
+          "url": "https://flash.jin10.com/detail/20260625181642780800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "WTI原油期货重新跌穿70美元关口，目前跌幅大约4.6%。",
           "url": "https://wallstreetcn.com/livenews/3124119",
           "source": "华尔街见闻-快讯",
@@ -1010,6 +1078,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "Bio-Techne盘前上涨19%，默克KGAA集团同意以每股73美元的现金收购Bio-Techne。",
+          "url": "https://wallstreetcn.com/livenews/3124578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "富国银行：将美光科技(MU.O)的目标价从1220美元上调至1525美元。",
+          "url": "https://flash.jin10.com/detail/20260625181634943800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.2%、创2025年1月份以来新高（5月下旬报4.182%），投标倍数2.35（前次为2.34）。",
@@ -1060,8 +1150,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 19时04分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普的会谈情况不错。",
@@ -1101,11 +1191,12 @@
           "url": "https://www.cls.cn/detail/2408936",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时04分]"
         },
         {
           "title": "美参议院以50:48通过决议，特朗普愤怒回应",
@@ -1201,6 +1292,31 @@
           "time_info": "[11时16分 ~ 15时23分]"
         },
         {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 19时04分]"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时04分]"
+        },
+        {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
           "url": "https://wallstreetcn.com/livenews/3124247",
           "source": "华尔街见闻-快讯",
@@ -1259,18 +1375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时34分]"
-        },
-        {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 17时15分]"
         },
         {
           "title": "美国总统特朗普：对霍尔木兹海峡收费是无法让人接受的。",
@@ -1361,17 +1465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "美国总统特朗普：今天，与多家石油公司会谈。 石油公司对汽油的降价力度还不够。 埃克森美孚、雪佛龙等多家公司正被调查，这是汽油价格飙涨问题的一部分。",
@@ -1523,7 +1616,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -1567,7 +1660,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -1597,7 +1690,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -1609,6 +1702,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 05时36分]"
+        },
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 19时04分]"
         },
         {
           "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
@@ -1628,16 +1733,17 @@
           "time_info": "[00时51分 ~ 13时29分]"
         },
         {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            6,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 17时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 19时04分]"
         },
         {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
@@ -1665,18 +1771,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 07时32分]"
-        },
-        {
-          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-          "url": "https://wallstreetcn.com/articles/3775429",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 17时15分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -1726,6 +1820,17 @@
           "time_info": "[09时04分 ~ 11时17分]"
         },
         {
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时04分]"
+        },
+        {
           "title": "纽约期金周三跌3.2%，现货黄金失守4000美元整数位心理关口，白银跌超6%",
           "url": "https://wallstreetcn.com/livenews/3124240",
           "source": "华尔街见闻-快讯",
@@ -1736,6 +1841,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时34分]"
+        },
+        {
+          "title": "黄金跌破4000美元可以抄底吗",
+          "url": "https://www.toutiao.com/trending/7655250376274218532/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "油价回吐战时涨幅，伊朗却又升级海峡管控，地缘溢价正重返原油市场？贝森特强调美元主导地位，黄金下破4000大关，白银一度暴跌8%！当前金银持续呈现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
@@ -1755,9 +1871,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "金十图示：2018年9月至2026年5月中国香港对内地黄金净出口量",
+          "url": "https://flash.jin10.com/detail/20260625182853163800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.282吨，当前持仓量为1013.355吨。",
@@ -1769,17 +1896,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
-          "url": "https://www.zhihu.com/question/2053415711725151834",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "上海黄金交易所黄金T+D 6月24日（周三）晚盘收盘下跌2.18%报873.16元/克；<br/>上海黄金交易所白银T+D 6月24日（周三）晚盘收盘下跌5.77%报13969.0元/千克。",
@@ -1818,7 +1934,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -1975,6 +2091,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "SpaceX美股盘前扩大涨势，现上涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 金龙指数跌1.7%",
           "url": "https://flash.jin10.com/detail/20260625040106828800",
           "source": "金十数据",
@@ -2008,13 +2135,35 @@
           "time_info": "05时36分"
         },
         {
+          "title": "SpaceX(SPCX.O)美股盘前涨势扩大，最新上涨2.4%。",
+          "url": "https://flash.jin10.com/detail/20260625182304353800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "IBM美股盘前涨超6%，公司推出全球首款亚1纳米芯片技术",
+          "url": "https://wallstreetcn.com/livenews/3124593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "美股盘前：存储板块大涨，美光科技涨约18%",
           "url": "https://wallstreetcn.com/livenews/3124530",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
@@ -2022,7 +2171,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -2044,11 +2193,12 @@
           "ranks": [
             19,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时04分 ~ 17时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 19时04分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -2061,6 +2211,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时04分 ~ 15时23分]"
+        },
+        {
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "金价大跌金饰消费遇冷",
@@ -2083,6 +2244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
+          "url": "https://wallstreetcn.com/livenews/3124603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
@@ -2116,12 +2288,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "金价大跌投资者抄底刷爆银行卡 金店10克20克金条3小时卖光",
+          "url": "https://flash.jin10.com/detail/20260625181541512800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么「分」和「秒」是现代才有的概念，却有「争分夺秒」这个成语？",
@@ -2148,6 +2331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
+          "url": "https://www.cls.cn/detail/2409229",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "A股白酒概念短线拉升，酒鬼酒拉升涨停，吉宏股份涨超4%，水井坊涨超3%，古井贡酒涨超2%，五粮液、贵州茅台跟涨。",
@@ -2178,7 +2372,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -2257,7 +2451,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
