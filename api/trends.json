@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T17:15:41.244539+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-06-26T19:07:43.043232+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
@@ -96,7 +96,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -134,13 +134,24 @@
           "time_info": "03时39分"
         },
         {
+          "title": "现货白银日内涨幅达1%，报58.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3125273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "法农信贷银行：月末美元买盘预计温和",
           "url": "https://flash.jin10.com/detail/20260626164624878800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -162,7 +173,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -265,8 +276,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 17时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 19时07分]"
         },
         {
           "title": "美元指数25日下跌",
@@ -467,7 +478,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -481,6 +492,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "花旗：将达美航空(DAL.N)目标价从79美元上调至106美元。",
+          "url": "https://flash.jin10.com/detail/20260626183536164800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "花旗：将美国航空(AAL.O)目标价从14美元上调至22美元。",
+          "url": "https://flash.jin10.com/detail/20260626183528345800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "Omdia：全球小游戏市场规模有望于2030年增长至200亿美元",
@@ -500,7 +533,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -555,7 +588,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -588,7 +621,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -610,7 +643,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -640,7 +673,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -674,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[07时35分 ~ 19时07分]"
         },
         {
           "title": "加息会杀死黄金吗？机构：当前更像1978年——黄金新一轮大涨前夜",
@@ -689,6 +722,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[05时38分 ~ 17时15分]"
+        },
+        {
+          "title": "你如何看待钟南山院士在广州医科大学毕业典礼上，叮嘱学生要抓住老年慢性病和二甲医院提质扩容的黄金窗口期？",
+          "url": "https://www.zhihu.com/question/2053077287700883043",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 19时07分]"
         },
         {
           "title": "黄金回到“8”字头 实探金店",
@@ -705,18 +750,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时35分]"
-        },
-        {
-          "title": "你如何看待钟南山院士在广州医科大学毕业典礼上，叮嘱学生要抓住老年慢性病和二甲医院提质扩容的黄金窗口期？",
-          "url": "https://www.zhihu.com/question/2053077287700883043",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 17时15分]"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -754,6 +787,20 @@
           "time_info": "[00时53分 ~ 04时47分]"
         },
         {
+          "title": "中金：黄金牛市结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3775561",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 19时07分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 6月25日（周四）晚盘收盘上涨1.25%报884.2元/克；<br/>上海黄金交易所白银T+D 6月25日（周四）晚盘收盘上涨2.11%报14217.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260626023437401800",
           "source": "金十数据",
@@ -776,19 +823,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时07分 ~ 17时15分]"
-        },
-        {
-          "title": "中金：黄金牛市结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3775561",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 17时15分]"
         },
         {
           "title": "周四（6月25日）纽约尾盘，现货黄金涨0.64%，报4024.97美元/盎司。 COMEX黄金期货涨0.78%，报4040.10美元/盎司。 现货白银涨0.73%，报57.8327美元/盎司。 COMEX白银期货跌0.38%，报58.290美元/盎司。 COMEX铜期货涨2.03%，报6.1335美元/磅。 现货铂金涨1.08%，现货钯金涨1.43%。",
@@ -844,11 +878,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 19时07分]"
         },
         {
           "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
@@ -857,9 +892,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "谁毁了韩国足球黄金一代",
+          "url": "https://www.toutiao.com/trending/7655071037801709631/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "中金：黄金牛市尚未结束，转机可能已经不远",
@@ -1225,7 +1271,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -1371,6 +1417,17 @@
           "time_info": "[04时47分 ~ 05时38分]"
         },
         {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "部分美股芯片股夜盘走低，美光科技(MU.O)跌近4%，西部数据(WDC.O)和迈威尔科技(MRVL.O)跌2%，高通(QCOM.O)跌1%。",
           "url": "https://flash.jin10.com/detail/20260626083620659800",
           "source": "金十数据",
@@ -1432,7 +1489,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
@@ -1547,7 +1604,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
@@ -1555,7 +1612,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
@@ -1572,6 +1629,17 @@
           "time_info": "[00时53分 ~ 09时07分]"
         },
         {
+          "title": "志愿填报时这四个概念别搞混",
+          "url": "https://www.baidu.com/s?wd=%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%97%B6%E8%BF%99%E5%9B%9B%E4%B8%AA%E6%A6%82%E5%BF%B5%E5%88%AB%E6%90%9E%E6%B7%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时07分]"
+        },
+        {
           "title": "A股半导体硅片概念持续活跃，有研硅触及20CM涨停，TCL中环此前封板，立昂微、沪硅产业、西安奕材跟涨。",
           "url": "https://wallstreetcn.com/livenews/3125065",
           "source": "华尔街见闻-快讯",
@@ -1583,17 +1651,6 @@
           "time_info": "13时34分"
         },
         {
-          "title": "志愿填报时这四个概念别搞混",
-          "url": "https://www.baidu.com/s?wd=%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%97%B6%E8%BF%99%E5%9B%9B%E4%B8%AA%E6%A6%82%E5%BF%B5%E5%88%AB%E6%90%9E%E6%B7%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
           "title": "港股AI概念股震荡走低，长飞光纤光缆跌超14%，天数智芯跌超13%，智谱跌超11%，MINIMAX跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3125061",
           "source": "华尔街见闻-快讯",
@@ -1603,6 +1660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
+          "url": "https://www.cls.cn/detail/2410338",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "A股算力租赁概念震荡下挫，利通电子、盈峰环境跌停，润建股份、美利云、优刻得、云赛智联、首都在线、大位科技等跌幅靠前。",
@@ -1653,8 +1721,32 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 17时15分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时07分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 19时07分]"
+        },
+        {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时07分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -1668,30 +1760,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时18分 ~ 15时29分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 17时15分]"
-        },
-        {
-          "title": "金价跌回3字头半年回撤30%",
-          "url": "https://www.toutiao.com/trending/7655352007544278564/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 17时15分]"
         },
         {
           "title": "金价回落至900元以下",
@@ -1732,8 +1800,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 17时15分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时07分]"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
@@ -1786,7 +1854,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
