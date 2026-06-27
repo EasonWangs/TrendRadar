@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T19:35:46.643295+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-06-27T20:38:07.421521+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时32分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 20时38分]"
         },
         {
           "title": "美国总统特朗普：许多欧洲国家一直在讨论即将对美国公司征收数字服务税。其中一些国家已接近付诸实施。特此声明，任何征收此类税项的国家，其所有销往美国的商品都将立即被征收100%的关税。",
@@ -92,11 +92,12 @@
           "url": "https://flash.jin10.com/detail/20260627191008880800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时38分]"
         },
         {
           "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
@@ -149,6 +150,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时32分 ~ 09时03分]"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时38分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -233,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 13时26分]"
-        },
-        {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
@@ -370,7 +371,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美光长协的含金量：客户先押220亿美元，合同不可取消，还锁定“史上最赚钱”的毛利率！",
@@ -557,6 +558,17 @@
           "time_info": "[02时45分 ~ 03时38分]"
         },
         {
+          "title": "曝苹果芯片成本涨45售价狂加250美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E8%8A%AF%E7%89%87%E6%88%90%E6%9C%AC%E6%B6%A845%E5%94%AE%E4%BB%B7%E7%8B%82%E5%8A%A0250%E7%BE%8E%E5%85%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
           "title": "布伦特原油日内跌幅达4.5%，报72.06美元/桶；WTI原油日内跌幅达4.5%，报68.64美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3125383",
           "source": "华尔街见闻-快讯",
@@ -653,6 +665,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 20时38分]"
+        },
+        {
           "title": "中金：黄金牛市结束了吗？",
           "url": "https://wallstreetcn.com/articles/3775561",
           "source": "华尔街见闻",
@@ -674,18 +698,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 06时32分]"
-        },
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 19时35分]"
         },
         {
           "title": "跌破4000，黄金正在经历一场\"信仰瓦解\"",
@@ -781,11 +793,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时35分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 20时38分]"
         },
         {
           "title": "黄金暴跌为何买的人更多了",
@@ -857,8 +870,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 19时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时03分 ~ 20时38分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -881,8 +894,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时32分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[06时32分 ~ 20时38分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -906,8 +919,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 20时38分]"
         },
         {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
@@ -1029,6 +1042,19 @@
           "time_info": "02时45分"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 20时38分]"
+        },
+        {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
           "url": "https://wallstreetcn.com/articles/3775589",
           "source": "华尔街见闻",
@@ -1051,18 +1077,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时40分 ~ 06时32分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时35分]"
         },
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
@@ -1126,7 +1140,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -1175,8 +1189,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时38分]"
+        },
+        {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时35分]"
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "DeepSeek发布DSpark",
@@ -1222,11 +1247,12 @@
           "url": "https://www.toutiao.com/trending/7655931453586849835/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时38分]"
         },
         {
           "title": "国际金价银价上涨",
