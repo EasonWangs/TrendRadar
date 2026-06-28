@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T11:18:21.490265+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-06-28T13:38:08.416220+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             8,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 11时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 13时38分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -60,6 +61,18 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时38分]"
+        },
+        {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
           "url": "https://flash.jin10.com/detail/20260628035930738800",
           "source": "金十数据",
@@ -86,6 +99,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时31分 ~ 09时08分]"
+        },
+        {
+          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
+          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
         },
         {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
@@ -142,15 +166,15 @@
           "time_info": "[05时29分 ~ 09时08分]"
         },
         {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
+          "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
+          "url": "https://flash.jin10.com/detail/20260628122518438800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "13时38分"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -184,11 +208,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时38分]"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时38分]"
+        },
+        {
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://news.ifeng.com/c/8uJtXiv6RM9",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时08分 ~ 11时18分]"
+          "time_info": "[13时37分 ~ 13时38分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -203,24 +251,24 @@
           "time_info": "[09时08分 ~ 11时18分]"
         },
         {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
           "title": "签了协议也没用？特朗普：欧洲敢征数字税，就加100%关税",
           "url": "https://wallstreetcn.com/articles/3775666",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
@@ -241,8 +289,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 11时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时38分]"
         },
         {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
@@ -311,8 +359,51 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 11时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机构：美元有望突破过去六至九个月的区间",
+          "url": "https://flash.jin10.com/detail/20260628045205597800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时29分 ~ 09时08分]"
+        },
+        {
+          "title": "下半年美元指数何去何从",
+          "url": "https://wallstreetcn.com/articles/3775680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时38分]"
+        },
+        {
+          "title": "两周不到重回70美元，油价新一轮危险正在降临！",
+          "url": "https://flash.jin10.com/detail/20260628121736837800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -351,33 +442,48 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
         {
-          "title": "机构：美元有望突破过去六至九个月的区间",
-          "url": "https://flash.jin10.com/detail/20260628045205597800",
-          "source": "金十数据",
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            9,
-            20
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时29分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时38分]"
         },
         {
-          "title": "下半年美元指数何去何从",
-          "url": "https://wallstreetcn.com/articles/3775680",
-          "source": "华尔街见闻",
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260628104742126800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            7
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 11时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -401,23 +507,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 09时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 11时18分]"
         }
       ]
     }
