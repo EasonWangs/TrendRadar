@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:44:05.353634+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-06-29T15:58:59.896919+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "强势美元回归 暴风雨要来了吗",
@@ -34,8 +34,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 13时44分]"
+          "appearance_count": 7,
+          "time_info": "[07时29分 ~ 15时58分]"
         },
         {
           "title": "美联储鹰派立场和美元走强令金属价格承压，铜价下跌",
@@ -125,7 +125,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -150,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "野村：市场对汇市干预警惕性升温，美元兑日元涨势受限",
+          "url": "https://flash.jin10.com/detail/20260629152328939800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -185,6 +196,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "曝 PS6 物料成本逼近 1000 美元，你还会考虑购买吗？",
+          "url": "https://www.zhihu.com/question/2054512729973696049",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "油价重回70美元，下一轮行情怎么看？",
           "url": "https://flash.jin10.com/detail/20260628210454561800",
           "source": "金十数据",
@@ -199,7 +221,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "现货黄金日内跌超1%，现报4040.47美元/盎司。",
@@ -208,7 +230,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -267,11 +289,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 15时58分]"
         },
         {
           "title": "现货黄金周一平开，报4078.61美元/盎司。",
@@ -315,9 +338,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月29日（周一）收盘上涨1.15%报887.34元/克；<br/>上海黄金交易所白银T+D 6月29日（周一）收盘上涨2.47%报14215.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260629153028988800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "现货黄金日内跌近1%，跌至4050美元/盎司下方。",
@@ -340,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "大六座SUV进入黄金时代",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%85%AD%E5%BA%A7SUV%E8%BF%9B%E5%85%A5%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "黄金跌势仅为周期中期调整，实际收益率成上涨最后拦路虎",
@@ -466,11 +511,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 15时58分]"
         },
         {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
@@ -584,6 +630,49 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时09分]"
+        },
+        {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时33分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 提出的 DSpark 推理加速方案？",
+          "url": "https://www.zhihu.com/question/2054243716655854373",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -597,8 +686,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 13时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时58分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -627,34 +716,30 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
-          "url": "https://www.cls.cn/detail/2411046",
-          "source": "财联社热门",
+          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
+          "url": "https://flash.jin10.com/detail/20260629084911485800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 09时09分]"
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "国际金价反攻仍缺一关键东风 危机结束后油市将交易什么？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260629151648461800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            28,
-            30
+            22
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     },
@@ -673,23 +758,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时33分 ~ 13时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
-          "url": "https://flash.jin10.com/detail/20260629084911485800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
         }
       ]
     }
