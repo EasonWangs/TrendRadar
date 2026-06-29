@@ -1,11 +1,159 @@
 {
-  "generated_at": "2026-06-29T07:29:50.848427+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-06-29T09:09:08.023271+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "强势美元回归 暴风雨要来了吗",
+          "url": "https://www.toutiao.com/trending/7656406731290840586/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20,
+            6,
+            27,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时29分]"
+        },
+        {
+          "title": "布伦特原油期货周一亚市盘初涨1.9%，至每桶73.39美元；WTI原油期货接近每桶70美元。此前美伊停火协议陷入紧张状态。",
+          "url": "https://wallstreetcn.com/livenews/3125712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "现货白银盘初涨超1.00%，现报59.39美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260629060316167800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时09分]"
+        },
+        {
+          "title": "WTI原油周一小幅高开，最新报70.27美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260629060056748800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
+          "url": "https://flash.jin10.com/detail/20260629022704553800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时34分]"
+        },
+        {
+          "title": "景顺调查：61%的央行认为美国债务水平对美元作为储备资产的长期地位产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260629070243839800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "29万亿全球主权资金转向：能源资产受宠，美元“信用危机”加剧！",
+          "url": "https://flash.jin10.com/detail/20260629082708878800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
+          "url": "https://flash.jin10.com/detail/20260628213314042800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "据韩国《每日经济》报道，三星与SK集团未来10年的投资计划总额或将达到2000万亿韩元（约合1.3万亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260629063120992800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "现货白银延续跌势，日内跌幅达1.00%，现报58.20美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260629082609062800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "油价重回70美元，下一轮行情怎么看？",
+          "url": "https://flash.jin10.com/detail/20260628210454561800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -17,6 +165,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时29分]"
+        },
+        {
+          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时09分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -34,18 +195,6 @@
           "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
           "source": "凤凰网",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时29分]"
-        },
-        {
-          "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
@@ -132,6 +281,17 @@
           "time_info": "[03时35分 ~ 04时34分]"
         },
         {
+          "title": "特朗普政府或为Anthropic最强大模型“松绑” 预计一周内解禁Fable 5",
+          "url": "https://www.cls.cn/detail/2410998",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260628220938422800",
           "source": "金十数据",
@@ -146,133 +306,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "强势美元回归 暴风雨要来了吗",
-          "url": "https://www.toutiao.com/trending/7656406731290840586/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20,
-            6,
-            27,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时29分]"
-        },
-        {
-          "title": "布伦特原油期货周一亚市盘初涨1.9%，至每桶73.39美元；WTI原油期货接近每桶70美元。此前美伊停火协议陷入紧张状态。",
-          "url": "https://wallstreetcn.com/livenews/3125712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "现货白银盘初涨超1.00%，现报59.39美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260629060316167800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "WTI原油周一小幅高开，最新报70.27美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260629060056748800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
-          "url": "https://flash.jin10.com/detail/20260629022704553800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时34分]"
-        },
-        {
-          "title": "景顺调查：61%的央行认为美国债务水平对美元作为储备资产的长期地位产生负面影响。",
-          "url": "https://flash.jin10.com/detail/20260629070243839800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
-          "url": "https://flash.jin10.com/detail/20260628213314042800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "据韩国《每日经济》报道，三星与SK集团未来10年的投资计划总额或将达到2000万亿韩元（约合1.3万亿美元）。",
-          "url": "https://flash.jin10.com/detail/20260629063120992800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "油价重回70美元，下一轮行情怎么看？",
-          "url": "https://flash.jin10.com/detail/20260628210454561800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十图示：2026年06月29日（周一）黄金ETF持仓报告",
@@ -281,7 +316,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -336,6 +371,17 @@
           "time_info": "[06时28分 ~ 07时29分]"
         },
         {
+          "title": "如何看待最近盛行的定型文「假如你是一个韩国人…」「韩国黄金时代」?",
+          "url": "https://www.zhihu.com/question/2054567938204645292",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
           "title": "老铺黄金把市值赌没了2/3",
           "url": "https://www.toutiao.com/trending/7656447231196663347/",
           "source": "今日头条",
@@ -346,6 +392,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 07时29分]"
+        },
+        {
+          "title": "现货黄金日内跌近1%，跌至4050美元/盎司下方。",
+          "url": "https://wallstreetcn.com/livenews/3125752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "现货黄金向下触及4050美元/盎司，日内跌0.77%。",
+          "url": "https://flash.jin10.com/detail/20260629082749168800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
@@ -359,11 +427,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时09分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -405,8 +474,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时09分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -435,8 +504,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 09时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
+          "url": "https://flash.jin10.com/detail/20260629084911485800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "概念",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "半导体零部件头部企业、‌半导体材料‌概念股明日申购",
+          "url": "https://www.cls.cn/detail/2411114",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 09时09分]"
         }
       ]
     }
