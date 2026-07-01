@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T21:09:43.420084+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-07-01T23:07:35.607630+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
@@ -48,6 +48,17 @@
           "time_info": "[04时45分 ~ 13时41分]"
         },
         {
+          "title": "布伦特原油日内跌超2美元，现报71.39美元/桶，跌幅2.73%。",
+          "url": "https://flash.jin10.com/detail/20260701225306164800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国原油期货结算价为每桶69.50美元，下跌1.25美元，跌幅1.77%。",
           "url": "https://flash.jin10.com/detail/20260701023158646800",
           "source": "金十数据",
@@ -57,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "宣布暂停支付境外债本息第二天，旭辉支付一笔美元债利息，知情人士：6月24日已发通知",
+          "url": "https://wallstreetcn.com/livenews/3127501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "WTI原油日内跌超1.00%，现报69.55美元/桶。",
@@ -433,7 +455,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -458,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "现货白银涨超4%，现报60.72美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3127493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "布伦特原油日内下跌1.00%，现报72.92美元/桶。",
@@ -504,6 +537,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "宣布暂停支付境外债本息第二天，旭辉支付一笔美元债利息，知情人士：6月24日已发通知",
+          "url": "https://flash.jin10.com/detail/20260701224029118800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "WTI原油、布伦特原油日内均跌超1%，分别报68.76美元/桶、72.22美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3127288",
           "source": "华尔街见闻-快讯",
@@ -524,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "美国医疗保险和医疗补助服务中心（CMS）扩大GLP-1类药物的获取渠道。 部分GLP-1类药物每月仅需50美元即可获取。 将GLP-1药物的覆盖范围扩大至部分联邦医疗保险（Medicare）受益人。",
+          "url": "https://wallstreetcn.com/livenews/3127486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "Anthropic：该模型在8月31日前的优惠定价为输入每百万tokens 2美元、输出10美元，之后将上调至3美元和15美元。",
@@ -661,7 +716,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -843,7 +898,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -931,7 +986,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -942,7 +997,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -953,7 +1008,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -997,9 +1052,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "美最高法院驳回特朗普的限制「出生公民权」行政令，维持在美出生即美国公民，这项政策利弊该怎么权衡？",
+          "url": "https://www.zhihu.com/question/2055584524273185650",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "美国总统特朗普：普尔特很有才华，他只是暂时担任国家情报总监。",
@@ -1008,7 +1074,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1030,7 +1096,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1074,7 +1140,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1096,7 +1162,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1107,7 +1173,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -1115,7 +1181,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -1136,11 +1202,12 @@
           "ranks": [
             2,
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时33分 ~ 21时09分]"
+          "appearance_count": 13,
+          "time_info": "[07时33分 ~ 23时07分]"
         },
         {
           "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
@@ -1161,11 +1228,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时18分 ~ 21时09分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 23时07分]"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -1221,7 +1289,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1282,11 +1350,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 23时07分]"
         },
         {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
@@ -1355,7 +1424,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1410,7 +1479,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1446,6 +1515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国两年期国债收益率跌超4个基点，刷新日低至4.1311%，此前发布了ISM制造业数据、美联储主席沃什正在讲话，美股开盘之前还曾涨至4.1971%刷新日高。 10年期美债收益率跌1个基点，暂时交投于4.4550%附近，北京时间21:08还曾涨至4.4970%刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3127485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "美股上半年收官：纳指累涨近13% 七巨头走势分化",
@@ -1506,7 +1586,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
@@ -1574,6 +1654,17 @@
           "time_info": "[19时12分 ~ 19时13分]"
         },
         {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "OMFIF调查：央行首次计划净减持美元 转向黄金",
           "url": "https://flash.jin10.com/detail/20260701013018888800",
           "source": "金十数据",
@@ -1602,7 +1693,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1654,24 +1745,35 @@
           "time_info": "[15时41分 ~ 17时18分]"
         },
         {
-          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "美欧英加央行掌门同台亮相 黄金、白银盘前异动拉升 | 今夜看点",
           "url": "https://www.cls.cn/detail/2414541",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时07分]"
+        },
+        {
+          "title": "美股狂飙黄金暴跌为何会这样",
+          "url": "https://www.toutiao.com/trending/7657495000493592070/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时07分]"
+        },
+        {
+          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1687,13 +1789,24 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
+          "url": "https://www.cls.cn/detail/2414658",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "技术刘Pro：黄金双峰结构明显，白银上方筹码堆积不算严重",
           "url": "https://flash.jin10.com/detail/20260701204418264800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1709,15 +1822,15 @@
           "time_info": "09时09分"
         },
         {
-          "title": "美股狂飙黄金暴跌为何会这样",
-          "url": "https://www.toutiao.com/trending/7657495000493592070/",
-          "source": "今日头条",
+          "title": "现货黄金突破4110美元/盎司，日内涨2.56%。",
+          "url": "https://flash.jin10.com/detail/20260701223505214800",
+          "source": "金十数据",
           "ranks": [
-            20
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "23时07分"
         },
         {
           "title": "现货黄金向下触及4000美元/盎司，日内跌0.18%。",
@@ -1737,7 +1850,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -1810,7 +1923,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1829,7 +1942,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测",
@@ -1843,6 +1956,18 @@
           "time_info": "11时19分"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时07分]"
+        },
+        {
           "title": "金价大跌后未来怎么走",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E6%9C%AA%E6%9D%A5%E6%80%8E%E4%B9%88%E8%B5%B0",
           "source": "百度热搜",
@@ -1854,26 +1979,27 @@
           "time_info": "[19时12分 ~ 19时13分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "金价创13年来最大季度跌幅",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%88%9B13%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%AD%A3%E5%BA%A6%E8%B7%8C%E5%B9%85",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 23时07分]"
+        },
+        {
+          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
+          "url": "https://www.zhihu.com/question/2053257491765581754",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "23时07分"
         },
         {
           "title": "金十图示：2026年07月01日（周三）上海金早盘价为869.62元/克，较国际金价(870.23元/克)，低0.61元/克",
@@ -2005,11 +2131,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 23时07分]"
         }
       ]
     },
