@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T18:42:11.233228+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-07-03T20:59:36.523158+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,23 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 20时59分]"
         },
         {
           "title": "美空军少校呼吁弹劾特朗普被捕",
@@ -98,17 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -378,7 +379,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -492,11 +493,12 @@
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时59分]"
         },
         {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
@@ -668,6 +670,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "美元兑加元USD/CAD向上触及1.42，日内涨0.14%。",
+          "url": "https://flash.jin10.com/detail/20260703200451894800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "花旗：铝价短期见底 年底有望回升至3500美元",
           "url": "https://flash.jin10.com/detail/20260703023720823800",
           "source": "金十数据",
@@ -715,7 +728,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -726,8 +739,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 20时59分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -760,7 +773,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -817,11 +830,12 @@
           "url": "https://www.zhihu.com/question/2056317872792773424",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时59分]"
         },
         {
           "title": "黄金暴力拉涨日内涨幅扩大至 2.3%，背后有哪些原因？这会是黄金止跌的信号吗？",
@@ -831,8 +845,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时59分]"
         },
         {
           "title": "黄金会步楼市后尘吗",
@@ -853,7 +867,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -880,6 +894,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "非农数据爆冷，加息预期被抑制！黄金反弹能否持续？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260703201157135800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "香港将于下周推出黄金清算结算系统。（南华早报）",
           "url": "https://wallstreetcn.com/livenews/3128379",
           "source": "华尔街见闻-快讯",
@@ -889,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月3日（周五）晚盘盘初上涨2.61%报910.29元/克；<br/>上海黄金交易所白银T+D 7月3日（周五）晚盘盘初上涨4.68%报15260.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260703200146357800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月2日（周四）晚盘收盘上涨1.23%报898.0元/克；<br/>上海黄金交易所白银T+D 7月2日（周四）晚盘收盘上涨1.59%报14810.0元/千克。",
@@ -922,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金下方多单占优 美日警惕上方空单布局",
+          "url": "https://flash.jin10.com/detail/20260703195750714800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
@@ -947,11 +994,12 @@
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 20时59分]"
         },
         {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
@@ -1097,11 +1145,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 20时59分]"
         },
         {
           "title": "7月3日午间收评：创业板指半日涨1.58%，机器人概念股集体爆发",
@@ -1132,11 +1181,12 @@
           "url": "https://www.cls.cn/detail/2416590",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 20时59分]"
         },
         {
           "title": "A股铜箔概念震荡反弹，诺德股份涨停，德福科技、方邦股份、生益科技、宏和科技、宝鼎科技、海星股份等跟涨。",
@@ -1175,7 +1225,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
@@ -1218,6 +1268,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 07时13分]"
+        },
+        {
+          "title": "腾讯云：DeepSeek-V4正式版“原厂直供”模型计划于7月中上线",
+          "url": "https://wallstreetcn.com/livenews/3128693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
