@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T11:51:04.236257+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-07-13T15:25:56.504818+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 11时51分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 15时25分]"
         },
         {
           "title": "WTI原油突破74美元/桶，日内涨3.63%。",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "美元兑日元5分钟内下跌约30点，报161.95，此前日本内阁官房长官称需要时将调整GPIF的投资组合。",
+          "url": "https://wallstreetcn.com/livenews/3132680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "西班牙批准80亿美元住房计划 未来四年公共住房投资将提高三倍",
@@ -95,7 +107,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -111,15 +123,37 @@
           "time_info": "06时56分"
         },
         {
+          "title": "美元/日元短暂下跌后反弹，目前报162.06。",
+          "url": "https://flash.jin10.com/detail/20260713151445816800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "高盛谈原油：预计到2027年底有效管道运力将再增加380万桶/日，到2028年底累计增加730万桶/日。 近期遭受的袭击凸显了海湾地区出口依然充满不确定性，若局势严重再度升级，可能会重新加剧原油价格的短期上行风险。 绕过霍尔木兹海峡的管道运力最终扩张，对76美元/桶的长期价格假设构成了下行风险。",
           "url": "https://wallstreetcn.com/livenews/3132582",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "我国上半年创新药对外授权约1100亿美元 创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3132675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "HD韩国造船海洋公司获得3艘氨运输船建造订单 价值3.6亿美元",
@@ -128,7 +162,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -139,7 +173,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -150,7 +184,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -161,15 +195,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "日元兑美元跌0.4%，现报162.32，此前报道称日本未计划调整政府养老投资基金的资产配置。",
+          "url": "https://wallstreetcn.com/livenews/3132652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
@@ -177,11 +222,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 15时25分]"
+        },
+        {
+          "title": "国际黄金的疲软并非牛市终结？白银跨入“双轨定价”时代 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260713151837118800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "西部黄金：控股股东拟与新疆地矿投资（集团）有限责任公司整体合并",
@@ -206,6 +263,17 @@
           "time_info": "[11时50分 ~ 11时51分]"
         },
         {
+          "title": "中东战事搅动市场，韩股大跌9%触发熔断，SK海力士重挫14%，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "现货黄金跌至4080美元/盎司下方，日内跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3132459",
           "source": "华尔街见闻-快讯",
@@ -228,6 +296,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "黄金为什么跌",
+          "url": "https://www.toutiao.com/trending/7661837118854925843/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "金十图示：2026年07月13日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260713065738589800",
           "source": "金十数据",
@@ -248,12 +327,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金空单密集 国际现货白银留意下行押注",
+          "url": "https://flash.jin10.com/detail/20260713150335221800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "现货黄金跌破4050美元/盎司关口，报4049.95美元/盎司，日内跌幅达1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3132650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -278,6 +379,17 @@
           "time_info": "[01时03分 ~ 08时01分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 15时25分]"
+        },
+        {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
           "url": "https://wallstreetcn.com/livenews/3132432",
           "source": "华尔街见闻-快讯",
@@ -288,17 +400,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -326,6 +427,28 @@
           "time_info": "[06时56分 ~ 08时01分]"
         },
         {
+          "title": "特朗普命令全美降半旗悼念格雷厄姆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E7%BE%8E%E9%99%8D%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
@@ -335,6 +458,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "伊媒公布“复仇”名单，特朗普、内塔尼亚胡上榜",
+          "url": "https://wallstreetcn.com/livenews/3132660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
+          "url": "https://wallstreetcn.com/livenews/3132438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 08时01分]"
+        },
+        {
+          "title": "摩根士丹利策略师预计美股上涨范围将扩大 受盈利增长等因素提振",
+          "url": "https://wallstreetcn.com/livenews/3132678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "强劲美股首秀后遭抛售！SK海力士韩股暴跌逾10%，韩国央行紧急下场",
+          "url": "https://flash.jin10.com/detail/20260713112208819800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
@@ -348,11 +544,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 11时51分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 15时25分]"
         },
         {
           "title": "苹果指控OpenAI偷窃商业机密",
@@ -379,59 +576,48 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
-          "url": "https://wallstreetcn.com/livenews/3132438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 08时01分]"
-        },
-        {
-          "title": "强劲美股首秀后遭抛售！SK海力士韩股暴跌逾10%，韩国央行紧急下场",
-          "url": "https://flash.jin10.com/detail/20260713112208819800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
-        },
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新产品配套英伟达产业链 液冷概念股斩获3天2板 本周机构密集调研相关上市公司",
           "url": "https://www.cls.cn/detail/2423885",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 15时25分]"
+        },
+        {
+          "title": "【A股收盘：沪指低开低走跌超2%，全市场下跌个股超4600只】市场全天低开低走，三大指数集体下挫。氦气概念逆势走强，九丰能源、水发燃气涨停。中药股盘中活跃，陇神戎发、九芝堂、天目药业等涨停。下跌方面，半导体芯片股下挫，兆易创新、香农芯创等多股跌停；算力硬件股大幅调整，生益科技、金安国纪等跌停。个股呈现普跌态势，沪深京三市超4600股飘绿，今日成交逾2.83万亿。截止收盘沪指跌2.06%，深成指跌3.48%，创业板指跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3132671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月13日（周一）上海金午盘价为884.84元/克，较国际金价（约为884.95元/克），低0.11元/克。",
+          "url": "https://flash.jin10.com/detail/20260713151245460800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     }
