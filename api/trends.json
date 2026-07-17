@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T20:15:00.184265+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-07-17T22:46:59.197249+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
@@ -195,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "瑞银集团：将奈飞(NFLX.O)目标价从130美元下调至115美元。",
+          "url": "https://flash.jin10.com/detail/20260717221630455800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
@@ -467,7 +478,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -489,7 +500,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -585,7 +596,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -767,6 +778,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3135778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
           "url": "https://wallstreetcn.com/livenews/3135254",
           "source": "华尔街见闻-快讯",
@@ -798,12 +820,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -814,8 +847,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 20时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 22时46分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -877,6 +910,30 @@
           "time_info": "16时17分"
         },
         {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "别错过一天中的排便黄金时间",
+          "url": "https://www.toutiao.com/trending/7663363589630967858/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时46分]"
+        },
+        {
           "title": "A股正迎来年内难得的黄金买点",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%AD%A3%E8%BF%8E%E6%9D%A5%E5%B9%B4%E5%86%85%E9%9A%BE%E5%BE%97%E7%9A%84%E9%BB%84%E9%87%91%E4%B9%B0%E7%82%B9%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -887,18 +944,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时16分 ~ 18时51分]"
-        },
-        {
-          "title": "别错过一天中的排便黄金时间",
-          "url": "https://www.toutiao.com/trending/7663363589630967858/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 20时15分]"
         },
         {
           "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
@@ -962,7 +1007,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -976,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "A股黄金买点来了吗",
+          "url": "https://www.toutiao.com/trending/7663454627538406938/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
@@ -1003,8 +1059,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 20时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 22时46分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -1025,8 +1081,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 22时46分]"
         },
         {
           "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
@@ -1124,7 +1180,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1238,7 +1294,7 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "日产芯片超15亿块 什么概念",
@@ -1289,6 +1345,17 @@
           "time_info": "[03时19分 ~ 10时57分]"
         },
         {
+          "title": "解析复联5概念图",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E5%A4%8D%E8%81%945%E6%A6%82%E5%BF%B5%E5%9B%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "A股氟化工概念板块短线拉升，中巨芯涨超10%，联创股份、闰土股份、中欣氟材、雅克科技、金宏气体等跟涨。",
           "url": "https://flash.jin10.com/detail/20260717103053427800",
           "source": "金十数据",
@@ -1328,8 +1395,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 20时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 22时46分]"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
@@ -1399,7 +1466,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1438,7 +1505,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
