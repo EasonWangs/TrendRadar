@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T18:51:56.578172+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-07-17T20:15:00.184265+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
@@ -31,11 +31,12 @@
             22,
             20,
             19,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 18时51分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 20时15分]"
         },
         {
           "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
@@ -356,7 +357,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -460,6 +461,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "海航控股：公司与空客公司于2026年7月17日签订《飞机购买协议》，向空客公司购买40架A320NEO系列飞机，交易总金额不超过53.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3135676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市",
           "url": "https://wallstreetcn.com/livenews/3135549",
           "source": "华尔街见闻-快讯",
@@ -469,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达2.0%，报85.95美元/桶。WTI原油涨超2%，报79.85美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3135673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "高额溢价引发“平替”热潮：贝莱德韩国ETF单日吸金超11亿美元！",
@@ -488,7 +511,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -532,7 +555,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -684,7 +707,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -780,7 +803,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -791,8 +814,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 18时51分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 20时15分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -866,6 +889,29 @@
           "time_info": "[16时16分 ~ 18时51分]"
         },
         {
+          "title": "别错过一天中的排便黄金时间",
+          "url": "https://www.toutiao.com/trending/7663363589630967858/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时15分]"
+        },
+        {
+          "title": "科技股抛售潮蔓延，纳指100期货跌1.5%，盘前存储股跌幅收窄，布油涨2%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
+        },
+        {
           "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
           "url": "https://www.cls.cn/detail/2428377",
           "source": "财联社热门",
@@ -910,24 +956,24 @@
           "time_info": "05时06分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 7月17日（周五）晚盘盘初下跌0.98%报871.1元/克；<br/>上海黄金交易所白银T+D 7月17日（周五）晚盘盘初下跌0.22%报13450.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260717200326965800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "黄金跌破4000美元",
           "url": "https://www.douyin.com/hot/2574464",
           "source": "抖音",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "别错过一天中的排便黄金时间",
-          "url": "https://www.toutiao.com/trending/7663363589630967858/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -946,7 +992,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -957,8 +1003,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 18时51分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 20时15分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -978,9 +1024,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 20时15分]"
         },
         {
           "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
@@ -1034,7 +1080,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1070,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普：昨晚我的演讲获得了很好的评价，观众人数众多。请通过《拯救美国法案》！",
+          "url": "https://flash.jin10.com/detail/20260717195445964800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 媒体应当播放特朗普今夜的讲话。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
@@ -1184,17 +1241,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "西方抛出所谓“朝贡体系”新概念，外交部驳斥",
-          "url": "https://news.ifeng.com/c/8uoAtuDLMsl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 05时06分]"
-        },
-        {
           "title": "日产芯片超15亿块 什么概念",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5",
           "source": "百度热搜",
@@ -1205,8 +1251,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 18时51分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 20时15分]"
+        },
+        {
+          "title": "西方抛出所谓“朝贡体系”新概念，外交部驳斥",
+          "url": "https://news.ifeng.com/c/8uoAtuDLMsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时06分]"
         },
         {
           "title": "A股创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
@@ -1267,11 +1324,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 18时51分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 20时15分]"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
@@ -1302,7 +1360,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -1313,7 +1371,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
@@ -1321,7 +1379,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -1333,6 +1391,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 13时47分]"
+        },
+        {
+          "title": "【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿元人民币，总持仓增加29吨至277吨。6月，中国市场黄金ETF流出150亿元人民币，为有记录以来最疲弱的单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3135688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）上海金早盘价为868.89元/克，较国际金价（约为867.68元/克），高1.21元/克。",
@@ -1349,7 +1418,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债收益率普遍涨超1个基点",
@@ -1361,6 +1430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "瑞银资产管理高管看空美债 认为德债是极佳的防御性配置选择",
+          "url": "https://wallstreetcn.com/livenews/3135669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
