@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:47:36.407336+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-07-17T16:17:14.979619+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 13时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 16时17分]"
         },
         {
           "title": "世界杯冠军奖金5000万美元",
@@ -28,11 +29,12 @@
             6,
             10,
             22,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 13时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 16时17分]"
         },
         {
           "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
@@ -243,9 +245,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "标普：LNG出口至2040年将为美GDP增加1.4万亿美元",
+          "url": "https://flash.jin10.com/detail/20260717155457587800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国铝业二季度销售39.7亿美元，分析师预期40.2亿美元。 维持全年铝产量预期在240万-260万吨不变。 维持全年铝发货量预期在260万-280万吨不变。 预计全年氧化铝产量为950万-960万公吨，此前预期为970万-990万公吨。 预计本财年氧化铝发货量为1150万-1160万公吨。",
@@ -279,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "外资净卖出创纪录的58亿美元台湾股票。",
+          "url": "https://wallstreetcn.com/livenews/3135561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "SpaceX收跌3.1%，报131.11美元，美国IPO以来首次收盘破发。",
@@ -342,7 +366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -424,6 +448,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市",
+          "url": "https://wallstreetcn.com/livenews/3135549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "高额溢价引发“平替”热潮：贝莱德韩国ETF单日吸金超11亿美元！",
           "url": "https://flash.jin10.com/detail/20260717102139196800",
           "source": "金十数据",
@@ -485,7 +520,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -493,7 +528,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -531,6 +566,18 @@
           "time_info": "[10时56分 ~ 13时47分]"
         },
         {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 16时17分]"
+        },
+        {
           "title": "美联储两大官员放鹰：关注通胀风险，支持适度加息；美军连续第六晚对伊朗采取打击行动，伊朗部分机场、桥梁和铁路枢纽遭袭……当前现货金银、美油维持卖出信号，美股信号分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
           "url": "https://flash.jin10.com/detail/20260717103419821800",
           "source": "金十数据",
@@ -553,15 +600,26 @@
           "time_info": "05时06分"
         },
         {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
+          "title": "美股盘前，SK海力士(SKHY.O)跌2%、闪迪(SNDK.O)和西部数据(WDC.O)跌6%、希捷科技(STX.O)和美光科技(MU.O)跌约5%。英伟达(NVDA.O)跌3%。",
+          "url": "https://flash.jin10.com/detail/20260717160126299800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约6%，纳斯达克100指数期货跌1.8%",
+          "url": "https://wallstreetcn.com/livenews/3135572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -676,9 +734,163 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
+      "keyword_group": "黄金",
+      "match_count": 12,
       "titles": [
+        {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时06分]"
+        },
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 16时17分]"
+        },
+        {
+          "title": "美男网红注射黄金求超能力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            11,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 16时17分]"
+        },
+        {
+          "title": "A股贵金属板块重挫，赤峰黄金跌超9%，兴业银锡、招金黄金、中金黄金、西部黄金等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260717103455837800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260717160318452800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "上海黄金交易所7月17日（周五）交易行情",
+          "url": "https://flash.jin10.com/detail/20260717160316025800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "A股正迎来年内难得的黄金买点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%AD%A3%E8%BF%8E%E6%9D%A5%E5%B9%B4%E5%86%85%E9%9A%BE%E5%BE%97%E7%9A%84%E9%BB%84%E9%87%91%E4%B9%B0%E7%82%B9%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
+        },
+        {
+          "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
+          "url": "https://www.cls.cn/detail/2428377",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时24分]"
+        },
+        {
+          "title": "业内：市场正迎来今年的黄金买点",
+          "url": "https://www.toutiao.com/trending/7663141007135457322/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260717023033144800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
+          "url": "https://wallstreetcn.com/livenews/3135268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 16时17分]"
+        },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
@@ -689,18 +901,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 05时06分]"
-        },
-        {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时47分]"
         },
         {
           "title": "据CBS：美国总统特朗普将于当地时间7月22日访问亚特兰大都会区一所高中，推广新的“特朗普账户”投资计划。",
@@ -729,11 +929,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 16时17分]"
+        },
+        {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -753,7 +965,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -877,103 +1089,6 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 05时06分]"
-        },
-        {
-          "title": "美男网红注射黄金求超能力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 13时47分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时47分]"
-        },
-        {
-          "title": "A股贵金属板块重挫，赤峰黄金跌超9%，兴业银锡、招金黄金、中金黄金、西部黄金等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260717103455837800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
-          "url": "https://www.cls.cn/detail/2428377",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260717023033144800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
-          "url": "https://wallstreetcn.com/livenews/3135268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "现货黄金日内跌幅达1.0%，报4005.81美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3135187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "概念",
       "match_count": 6,
       "titles": [
@@ -989,28 +1104,29 @@
           "time_info": "[01时23分 ~ 05时06分]"
         },
         {
-          "title": "A股创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3135490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
           "title": "日产芯片超15亿块 什么概念",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5",
           "source": "百度热搜",
           "ranks": [
             7,
             10,
-            16
+            16,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 05时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 16时17分]"
+        },
+        {
+          "title": "A股创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3135490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "净利同比最高增长近541倍！180亿PCB概念股发布半年度业绩预告|盘后公告集锦",
@@ -1069,11 +1185,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 16时17分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -1130,6 +1247,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外贸",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苏州：上半年外贸进出口1.83万亿元，同比增长40.9%",
+          "url": "https://flash.jin10.com/detail/20260717154946647800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }
