@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:59:02.053960+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-07-18T11:20:01.751336+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时59分]"
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 11时20分]"
         },
         {
           "title": "周五（7月17日），美联储隔夜逆回购协议（RRP）使用规模为1亿美元（交易对手1家），上个交易日报1.25亿美元。",
@@ -309,7 +310,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -320,8 +321,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 11时20分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -393,6 +394,17 @@
           "time_info": "[05时58分 ~ 07时59分]"
         },
         {
+          "title": "特朗普再谈巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
@@ -457,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
+          "url": "https://flash.jin10.com/detail/20260718092759635800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -597,7 +620,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -605,11 +628,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 07时59分]"
+          "appearance_count": 6,
+          "time_info": "[06时57分 ~ 11时20分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -662,6 +686,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 07时59分]"
+        },
+        {
+          "title": "美股三大指数全线下挫",
+          "url": "https://www.douyin.com/hot/2575548",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.toutiao.com/trending/7663631586239188521/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
@@ -738,11 +795,12 @@
           "url": "https://wallstreetcn.com/articles/3777230",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 11时20分]"
         }
       ]
     },
@@ -773,11 +831,12 @@
           "url": "https://www.cls.cn/detail/2430073",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 11时20分]"
         }
       ]
     },
@@ -793,11 +852,12 @@
             6,
             1,
             2,
-            4
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 11时20分]"
         }
       ]
     }
