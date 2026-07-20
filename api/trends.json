@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T02:57:02.117190+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-21T04:25:10.716173+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。 NYMEX 8月天然气期货收报2.86美元/百万英热单位。 NYMEX 8月汽油期货收报3.3890美元/加仑，NYMEX 8月取暖油期货收报4.1190美元/加仑。",
@@ -26,18 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "贝莱德牵头至少120亿美元债务融资 支持Meta得州大型数据中心项目",
-          "url": "https://flash.jin10.com/detail/20260721022952164800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -49,19 +38,53 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "贝莱德牵头至少120亿美元债务融资 支持Meta得州大型数据中心项目",
+          "url": "https://flash.jin10.com/detail/20260721022952164800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
         },
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
           "url": "https://m.thepaper.cn/newsDetail_forward_33623026",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 04时25分]"
+        },
+        {
+          "title": "IREN Ltd.（IREN）收涨20%，创2024年11月份以来最大单日涨幅，该公司上调2026年ARR目标至超过40亿美元，签订28亿美元新客户合同。",
+          "url": "https://wallstreetcn.com/livenews/3137074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美元指数20日上涨",
+          "url": "https://flash.jin10.com/detail/20260721033703387800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "周一（7月20日），美联储隔夜逆回购协议（RRP）使用规模为0.3亿美元（交易对手6家），上个交易日报1亿美元。",
@@ -70,9 +93,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "周一（7月20日）纽约尾盘，ICE美元指数涨0.20%，报100.964点，日内交投区间为100.650-101.027点，整体呈现出V形反转行情。 彭博美元指数涨0.03%，报1217.41点，日内交投区间为1215.57-1218.47点。",
+          "url": "https://wallstreetcn.com/livenews/3137064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "在约翰·希利被任命为英国新任财政大臣后，英镑兑美元GBP/USD略微收窄跌幅，现跌0.18%，报1.3429。",
@@ -81,9 +115,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7690元，较上周五夜盘收盘涨62点。成交量339.96亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3137058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。 布伦特9月原油期货收涨1.12美元，涨幅1.27%，报89.22美元/桶。 中东Abu Dhabi Murban原油期货涨0.34%，报81.60美元/桶。 NYMEX 8月天然气期货收报2.86美元/百万英热单位。 NYMEX 8月汽油期货收报3.3890美元/加仑，NYMEX 8月取暖油期货收报4.1190美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3137057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶89.22美元，上涨1.12美元，涨幅1.27%。",
+          "url": "https://flash.jin10.com/detail/20260721030255145800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "英镑兑美元刷新日低，跌0.2%暂报1.3427。 英国国债价格跌幅扩大，其收益率（政府融资成本）上扬，首相伯纳姆谈及财政制度。 30年期英债收益率涨9个基点，刷新5月20日以来盘中高位至5.75%。",
@@ -103,9 +170,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "美国钢铁(X.N)向美国钢铁工人联合会提出一项为期五年的劳资协议方案，包括累计18.2%的工资涨幅和4000美元协议批准奖金。双方将于8月10日在匹兹堡恢复谈判。",
+          "url": "https://flash.jin10.com/detail/20260721025304558800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
@@ -114,7 +192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -125,7 +203,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -133,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -143,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 04时25分]"
         },
         {
           "title": "如何看特朗普不愿离开颁奖台",
@@ -154,8 +232,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -166,8 +244,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -177,8 +255,52 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
+          "url": "https://flash.jin10.com/detail/20260721034723509800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
+          "url": "https://flash.jin10.com/detail/20260721034603088800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普行政令规定，若国防承包商未能替换存在风险的外国供应商，可能面临失去合同的后果。该行政令要求承包商优先用尽采购国内产品的选择，并绘制武器系统关键矿产及零部件供应链图谱。",
+          "url": "https://flash.jin10.com/detail/20260721034306028800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普签署行政令，收紧国防承包商获取禁用外国关键矿产和材料豁免的条件。",
+          "url": "https://flash.jin10.com/detail/20260721034107530800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美国总统特朗普：要求众议院共和党本周投票支持预算解决方案。",
@@ -214,6 +336,39 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
+          "url": "https://wallstreetcn.com/livenews/3137065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复",
+          "url": "https://wallstreetcn.com/livenews/3137059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复",
+          "url": "https://flash.jin10.com/detail/20260721030649919800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "美国总统特朗普的AI安全部门主管离职。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3137001",
           "source": "华尔街见闻-快讯",
@@ -231,7 +386,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -242,7 +397,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -250,7 +405,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -260,8 +415,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -271,8 +426,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
+          "url": "https://flash.jin10.com/detail/20260721040127333800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3137079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "美股存储芯片反弹",
@@ -282,8 +459,30 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3137077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "标普500指数初步收跌0.2%，保健板块跌1%，原材料、工业、房地产板块至多跌0.9%，科技板块大致收平，电信板块涨0.8%。 纳斯达克100指数初步大致收平，成分股中，“新成员”霍尼韦尔航空初步收跌4.5%，，西部数据跌3.7%，RKLB跌3.1%，SpaceX跌3%，特斯拉跌2.8%，苹果跌2%，拼多多涨2.4%，闪迪涨2.7%，Strategy涨3%，泰瑞达涨3.4%，Lumentum涨4.5%。 美股存储芯片指数高开低走，初步收涨大约1.3%于日低附近；费城半导体指数涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3137070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "汇丰策略师称，目前很难判断亚洲市场的降杠杆和散户抛售何时结束，尽管芯片股的技术面信号正进一步接近超卖区间，但尚未跌至极低水平。 在配置上，更看好欧洲股票、标普500等权重指数成份股以及美股科技七巨头，而非美国芯片股。",
@@ -295,6 +494,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "89岁“四哥”谢贤离世，香港影视黄金时代再别一位见证者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月20日（周一）晚盘收盘上涨0.11%报873.3元/克；<br/>上海黄金交易所白银T+D 7月20日（周一）晚盘收盘上涨0.29%报13763.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260721023018422800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "存储大跌是“假摔”？大摩：所谓利空都是旧的“明牌”，黄金坑逢低买！",
+          "url": "https://wallstreetcn.com/articles/3777451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 04时25分]"
         }
       ]
     },
@@ -320,39 +559,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上海黄金交易所黄金T+D 7月20日（周一）晚盘收盘上涨0.11%报873.3元/克；<br/>上海黄金交易所白银T+D 7月20日（周一）晚盘收盘上涨0.29%报13763.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260721023018422800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "89岁“四哥”谢贤离世，香港影视黄金时代再别一位见证者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时25分]"
         }
       ]
     },
@@ -365,11 +577,12 @@
           "url": "https://wallstreetcn.com/livenews/3137053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 04时25分]"
         }
       ]
     },
