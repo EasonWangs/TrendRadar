@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-22T06:07:57.572955+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-07-22T07:58:37.360872+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
+          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时58分]"
+        },
         {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
           "url": "https://flash.jin10.com/detail/20260722015056462800",
@@ -25,31 +36,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
         {
-          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
-          "url": "https://wallstreetcn.com/livenews/3137772",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
+          "url": "https://news.ifeng.com/c/8ux7TemK3px",
+          "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "07时58分"
         },
         {
-          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
-          "url": "https://wallstreetcn.com/livenews/3137768",
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://wallstreetcn.com/livenews/3137789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "07时58分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -63,26 +74,28 @@
           "time_info": "02时18分"
         },
         {
-          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
-          "url": "https://wallstreetcn.com/livenews/3137767",
+          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
+          "url": "https://wallstreetcn.com/livenews/3137772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
-          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
-          "source": "凤凰网",
-          "ranks": [
-            9
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时07分]"
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 07时58分]"
+        },
+        {
+          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
+          "url": "https://wallstreetcn.com/livenews/3137768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 07时58分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -97,6 +110,18 @@
           "time_info": "[00时26分 ~ 04时21分]"
         },
         {
+          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
+          "url": "https://wallstreetcn.com/livenews/3137767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 07时58分]"
+        },
+        {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
           "url": "https://wallstreetcn.com/articles/3777496",
           "source": "华尔街见闻",
@@ -107,6 +132,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 07时58分]"
         },
         {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
@@ -164,15 +201,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
+          "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3137781",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "07时58分"
         },
         {
           "title": "美国总统特朗普：已指示政府允许所有美国航空公司开通飞往黎巴嫩的直飞航班。",
@@ -203,7 +240,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -225,7 +262,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -263,6 +300,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "特朗普称将打击伊朗核设施",
+          "url": "https://www.toutiao.com/trending/7665119295965236786/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
           "url": "https://flash.jin10.com/detail/20260721234059763800",
           "source": "金十数据",
@@ -296,6 +344,28 @@
           "time_info": "00时26分"
         },
         {
+          "title": "据华尔街日报：白宫官员称，顶级公用事业公司及数据中心开发商加入特朗普旨在保护缴费用户的承诺。公用事业公司与数据中心开发商承诺为数据中心用电支付更高费用。",
+          "url": "https://flash.jin10.com/detail/20260722071735772800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "因特朗普威胁征收关税，加美大桥通车庆祝仪式取消",
+          "url": "https://flash.jin10.com/detail/20260722071159968800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
           "url": "https://wallstreetcn.com/livenews/3137656",
           "source": "华尔街见闻-快讯",
@@ -310,7 +380,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国战争部长赫格塞斯：（美国+以色列发动的）伊朗战争给美方带来375亿美元成本。",
@@ -322,6 +392,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "周二（7月21日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7689元，较周一纽约尾盘涨3点，日内整体交投于6.7699-6.7635元区间。",
+          "url": "https://wallstreetcn.com/livenews/3137760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 07时58分]"
         },
         {
           "title": "周三（8月6日），美联储隔夜逆回购协议（RRP）使用规模为2.75亿美元（交易对手1家），上个交易日报0.3亿美元。",
@@ -357,17 +439,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "周二（7月21日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7689元，较周一纽约尾盘涨3点，日内整体交投于6.7699-6.7635元区间。",
-          "url": "https://wallstreetcn.com/livenews/3137760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
           "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3137696",
           "source": "华尔街见闻-快讯",
@@ -401,6 +472,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "香港高院驳回宗馥莉上诉许可申请，判决维持 18 亿美元资产冻结令，宗馥莉须支付 25 万港元讼费，如何解读？",
+          "url": "https://www.zhihu.com/question/2062979960810295712",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7665元，较周一夜盘收盘涨25点。成交量365.13亿美元。",
           "url": "https://wallstreetcn.com/livenews/3137721",
           "source": "华尔街见闻-快讯",
@@ -423,6 +505,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "中际旭创寻求通过香港IPO融资至多70亿美元",
+          "url": "https://wallstreetcn.com/livenews/3137775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "WTI 8月原油期货收涨1.68美元，涨幅将近2.02%，报84.91美元/桶，逼近6月11日收盘位86.16美元。 布伦特9月原油期货收涨1.79美元，涨幅2.00%，报91.01美元/桶，逼近6月10日收盘位91.47美元。 中东Abu Dhabi Murban原油期货涨4.61%，报85.53美元/桶，逼近6月10日收盘位88.16美元。 NYMEX 8月天然气期货收报2.8650美元/百万英热单位。 NYMEX 8月汽油期货收报3.4059美元/加仑，NYMEX 8月取暖油期货收报4.1266美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3137718",
           "source": "华尔街见闻-快讯",
@@ -432,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "报道：美国白宫希望向研究员提供2000亿美元研发经费",
+          "url": "https://wallstreetcn.com/livenews/3137774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "Prosus于7月13-17日期间按均价39.7892欧元回购股票206.5240万股，合计将近0.822亿欧元（折合超0.939亿美元）。 同期，Naspers按均价866.1325南非兰特回购68.6210万股，合计超5.943亿兰特（折合超0.362亿美元）。",
@@ -484,7 +588,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -503,7 +607,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -521,11 +625,12 @@
           "url": "https://www.cls.cn/detail/2433005",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时58分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -538,6 +643,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时21分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
@@ -560,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
@@ -601,7 +728,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -612,7 +739,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -623,7 +750,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -634,7 +761,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -656,6 +783,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时58分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
           "url": "https://flash.jin10.com/detail/20260722034543375800",
           "source": "金十数据",
@@ -676,17 +814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时07分]"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -739,7 +866,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
@@ -778,7 +905,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -808,30 +935,32 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "专家：黄金已严重超卖",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%BB%84%E9%87%91%E5%B7%B2%E4%B8%A5%E9%87%8D%E8%B6%85%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时07分]"
-        },
         {
           "title": "专家：黄金已严重超卖",
           "url": "https://www.toutiao.com/trending/7664353036575850515/",
           "source": "今日头条",
           "ranks": [
             4,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时58分]"
+        },
+        {
+          "title": "专家：黄金已严重超卖",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E9%BB%84%E9%87%91%E5%B7%B2%E4%B8%A5%E9%87%8D%E8%B6%85%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时58分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -840,9 +969,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
@@ -851,7 +991,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
@@ -866,11 +1006,12 @@
           "url": "https://wallstreetcn.com/livenews/3137759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时07分 ~ 07时58分]"
         },
         {
           "title": "金价为什么上蹿下跳",
@@ -895,11 +1036,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时07分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时58分]"
         }
       ]
     }
