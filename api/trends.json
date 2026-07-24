@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T15:36:21.077254+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-07-24T18:25:39.994823+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "Melius Research：将AMD(AMD.O)目标价从540美元上调至660美元。",
+          "url": "https://flash.jin10.com/detail/20260724180801602800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元（交易对手6家），上个交易日报3.76亿美元。",
@@ -213,6 +224,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "市场消息：国防科技公司安杜里尔（Anduril ）正在洽谈融资，估值约为1000亿美元。目前尚未就未来融资做出任何决定。据悉该公司可能要求投资者承诺以更高估值参与后续第二轮融资。",
+          "url": "https://flash.jin10.com/detail/20260724180223087800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "高盛提供单次2.5亿美元交易AI垃圾债的途径",
           "url": "https://wallstreetcn.com/livenews/3139098",
           "source": "华尔街见闻-快讯",
@@ -222,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：过去六周显示了环境的不确定性。 每桶100美元的油价将给通胀带来影响。 通胀环境已经加剧。 通胀风险偏向上行。 现在急于做决定没有意义。 9月我们将再次获得更多通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3139399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "AMD上调AI加速器市场规模预期至1.4万亿美元 正式发布机架级AI系统Helios",
@@ -329,7 +362,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -362,7 +395,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -395,7 +428,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -483,7 +516,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -543,13 +576,24 @@
           "time_info": "01时36分"
         },
         {
+          "title": "欧洲央行管委西姆库斯：100美元/桶的石油将对通胀产生影响。",
+          "url": "https://flash.jin10.com/detail/20260724174949788800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "新台币兑美元下跌0.4%至32.396。",
           "url": "https://wallstreetcn.com/livenews/3139263",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -579,7 +623,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -591,6 +635,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时35分 ~ 07时01分]"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时24分 ~ 18时25分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -607,20 +666,6 @@
           "time_info": "[01时35分 ~ 15时36分]"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时24分 ~ 15时36分]"
-        },
-        {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
           "url": "https://wallstreetcn.com/articles/3777811",
           "source": "华尔街见闻",
@@ -628,8 +673,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -666,6 +711,18 @@
           "time_info": "[03时24分 ~ 05时09分]"
         },
         {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
@@ -685,8 +742,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时25分]"
         },
         {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
@@ -710,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         },
         {
           "title": "美国总统特朗普：伊朗比四个月前更弱。",
@@ -778,13 +824,24 @@
           "time_info": "08时09分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-24）",
+          "url": "https://flash.jin10.com/detail/20260724180204955800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "据报道，泽连斯基将于7月28日在美国会晤特朗普。",
           "url": "https://wallstreetcn.com/livenews/3139278",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -858,7 +915,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -885,6 +942,17 @@
           "time_info": "[07时01分 ~ 15时36分]"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时25分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -896,17 +964,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时35分 ~ 08时09分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -986,6 +1043,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260724040548081800",
           "source": "金十数据",
@@ -1044,7 +1112,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "菲尔兹奖得主谈加入OpenAI",
@@ -1056,6 +1124,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时25分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -1137,15 +1217,15 @@
           "time_info": "01时36分"
         },
         {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "18时25分"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -1154,7 +1234,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
@@ -1162,7 +1242,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -1173,8 +1253,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时01分 ~ 15时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 18时25分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -1242,7 +1322,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1256,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "为什么美元石油黄金一起涨",
+          "url": "https://www.toutiao.com/trending/7665964732095925779/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
@@ -1283,9 +1374,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时25分]"
         },
         {
           "title": "学者：黄金价格尚未迎来击球区",
@@ -1353,6 +1444,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
+          "url": "https://wallstreetcn.com/livenews/3138991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 2,
       "titles": [
@@ -1378,23 +1497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 08时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
-          "url": "https://wallstreetcn.com/livenews/3138991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
         }
       ]
     },
