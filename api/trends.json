@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T12:34:50.425652+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-08-03T16:33:22.645875+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -61,9 +61,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "特朗普称美伊3日将举行谈判",
@@ -95,9 +106,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "特朗普300个账户为何被关？银行首度开口：反洗钱审查发现“问题交易”",
@@ -106,9 +128,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 16时33分]"
         },
         {
           "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
@@ -205,17 +239,6 @@
           "time_info": "06时05分"
         },
         {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
           "title": "特朗普：美伊谈判明日启动 霍尔木兹海峡已有协议",
           "url": "https://flash.jin10.com/detail/20260803054815233800",
           "source": "金十数据",
@@ -247,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
+          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）随时准备行动。",
@@ -395,7 +429,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "策略师：美财政部疑通过欧元干预日元，避免美元走弱",
@@ -404,9 +438,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "月之暗面计划最早本月内提交香港IPO申请 或募资约30亿美元",
+          "url": "https://flash.jin10.com/detail/20260803162635023800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "索尼影业最新一部电影《蜘蛛侠》全球首映票房9.27亿美元。",
@@ -480,8 +525,93 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "现货黄金周一开盘突破4080美元/盎司，日内涨0.97%。",
+          "url": "https://flash.jin10.com/detail/20260803060032880800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 12时34分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260803064157448800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时34分]"
+        },
+        {
+          "title": "黄金欲在下半年重拾升势？瑞银：需先满足这些条件…",
+          "url": "https://www.cls.cn/detail/2443705",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260803161225406800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "上海黄金交易所8月3日（周一）交易行情",
+          "url": "https://flash.jin10.com/detail/20260803161136361800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "黄金还会涨吗",
+          "url": "https://www.toutiao.com/trending/7669607460847488563/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -530,67 +660,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "现货黄金周一开盘突破4080美元/盎司，日内涨0.97%。",
-          "url": "https://flash.jin10.com/detail/20260803060032880800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
         },
         {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
+          "title": "全球大模型进入DeepSeek斩杀区",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 12时34分]"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260803064157448800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时34分]"
-        },
-        {
-          "title": "黄金还会涨吗",
-          "url": "https://www.toutiao.com/trending/7669607460847488563/",
-          "source": "今日头条",
-          "ranks": [
-            22
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -605,13 +694,24 @@
           "time_info": "[01时05分 ~ 12时34分]"
         },
         {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
           "url": "https://www.zhihu.com/question/2066921241156523798",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -622,7 +722,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -630,8 +730,19 @@
     },
     {
       "keyword_group": "概念",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【数读IPO】今日1申购1上市，涉及智能穿戴概念等",
+          "url": "https://www.cls.cn/detail/2443669",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
         {
           "title": "【图解牛熊股】7月创业板指月跌23%，油气开采、创新药概念股逆势走强",
           "url": "https://www.cls.cn/detail/2443459",
@@ -639,7 +750,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -650,7 +761,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -661,9 +772,48 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根大通警告：美股“挤水分”进入下半场，但抄底时机未到",
+          "url": "https://flash.jin10.com/detail/20260803162828608800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 08时03分]"
+        },
+        {
+          "title": "8月股票配置调整：日本以外亚洲市场有吸引力，美股......",
+          "url": "https://flash.jin10.com/detail/20260803161423014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -678,7 +828,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -689,33 +839,27 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 08时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
         {
           "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
           "url": "https://flash.jin10.com/detail/20260803115620374800",
@@ -723,7 +867,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
