@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-08-04T19:29:33.970219+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-08-04T22:26:00.516957+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 22时26分]"
+        },
         {
           "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
           "url": "https://wallstreetcn.com/articles/3778603",
@@ -18,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 22时26分]"
         },
         {
           "title": "Sharon AI宣布签订一项为期五年、价值3.73亿美元的人工智能云服务协议。公司称该协议是与一家全球人工智能平台签署的。",
@@ -28,22 +42,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
-        },
-        {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 19时29分]"
         },
         {
           "title": "地缘风险溢价消退，原油重挫7%破80美元，道指刷新历史新高，亚马逊市值突破三万亿",
@@ -63,9 +64,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "AI初创公司Listen Labs按15亿美元估值融资1.25亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3144824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的21.27亿美元。",
@@ -318,6 +330,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "报道：美国AI电力需求激增，开发商动用数十亿美元银行担保",
+          "url": "https://wallstreetcn.com/livenews/3144815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国金融业监管局（FINRA）：因反洗钱违规，对瑞银金融公司处以2000万美元罚款。瑞银未能合理监控超过6万笔交易，总金额达100亿美元。",
           "url": "https://flash.jin10.com/detail/20260804012330576800",
           "source": "金十数据",
@@ -335,7 +358,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -368,9 +391,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "WTI原油向下触及75美元/桶，创7月13日以来新低，日内跌4.75%。",
+          "url": "https://flash.jin10.com/detail/20260804215600063800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "LME期铜收涨79美元，报13870美元/吨。 LME期铝收涨38美元，报32000美元/吨。 LME期锌收跌2美元，报3641美元/吨。 LME期铅收跌10美元，报1867美元/吨。 LME期镍收跌189美元，报17060美元/吨。 LME期锡收涨178美元，报55446美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -516,6 +550,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "北美科技软件股指数ETF涨2.9%，刷新6月4日以来盘中高位至100.23美元，7月24日以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3144798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "花旗：阿里巴巴股价最近的强劲表现，可能反映的是亚马逊AWS和微软Azure云业务收入增长趋势的积极预期，以及千问3.8-Max基准分率的显著提高。重申对公司的买入评级，目标价192美元。",
           "url": "https://wallstreetcn.com/livenews/3144414",
           "source": "华尔街见闻-快讯",
@@ -541,7 +586,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -578,6 +623,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 16时45分]"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 22时26分]"
         },
         {
           "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
@@ -680,29 +738,18 @@
           "time_info": "03时44分"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 19时29分]"
-        },
-        {
           "title": "美媒：因凡蒂诺向特朗普求助",
           "url": "https://www.douyin.com/hot/2596620",
           "source": "抖音",
           "ranks": [
             10,
             17,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 22时26分]"
         },
         {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
@@ -751,6 +798,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 05时09分]"
+        },
+        {
+          "title": "曝国际足联主席求助特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E6%B1%82%E5%8A%A9%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
@@ -1031,7 +1089,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -1042,8 +1100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 22时26分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -1103,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 07时06分]"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "Palantir(PLTR.N)美股盘后拉升7%。",
@@ -1191,7 +1260,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1235,7 +1304,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1290,7 +1359,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1301,7 +1370,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
@@ -1371,8 +1440,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 22时26分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -1435,8 +1504,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时26分]"
         },
         {
           "title": "DeepSeek低价风暴打服硅谷",
@@ -1445,7 +1514,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1474,11 +1543,12 @@
             9,
             13,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时56分 ~ 22时26分]"
         },
         {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
@@ -1543,7 +1613,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1584,7 +1654,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "穿山跨海的“黄金大外环”要来了",
@@ -1641,6 +1711,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 07时06分]"
+        },
+        {
+          "title": "黄金筑底信号显现？专家：美联储加息前景存限制，现在是建仓好时机！",
+          "url": "https://www.cls.cn/detail/2445091",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "黄金在政策转向前或存在上行天花板？美国通胀处于失控边缘...——新版发布",
@@ -1741,8 +1822,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 22时26分]"
         },
         {
           "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
