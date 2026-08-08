@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-08T15:01:47.065050+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-08-08T15:56:11.513713+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
       "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时56分]"
+        },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
           "url": "https://flash.jin10.com/detail/20260808005548495800",
@@ -17,6 +30,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            13,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 15时56分]"
         },
         {
           "title": "大摩：预计美联储资产负债表将缩减1.5万亿美元",
@@ -58,32 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时01分]"
         },
         {
           "title": "据The Information：英伟达(NVDA.O)将投资高达30亿美元于黑石集团支持的电力公司。",
@@ -384,8 +386,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 15时56分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时54分 ~ 15时01分]"
+          "time_info": "[11时37分 ~ 15时56分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -408,18 +423,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 15时01分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -678,7 +681,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -699,8 +702,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 15时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 15时56分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时41分 ~ 15时56分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -712,19 +729,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时01分 ~ 06时41分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时41分 ~ 15时01分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -864,6 +868,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 15时56分]"
+        },
+        {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
           "url": "https://wallstreetcn.com/articles/3778942",
           "source": "华尔街见闻",
@@ -871,11 +888,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 15时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 15时56分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -887,19 +905,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 05时43分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 15时01分]"
         },
         {
           "title": "黄金",
@@ -928,8 +933,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时46分 ~ 15时01分]"
+          "appearance_count": 14,
+          "time_info": "[04时46分 ~ 15时56分]"
         },
         {
           "title": "为何这次油价跌，黄金涨的传导终于通了？｜大师复盘",
@@ -972,7 +977,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -1181,6 +1186,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 15时56分]"
+        },
+        {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
@@ -1191,8 +1209,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时46分 ~ 15时01分]"
+          "appearance_count": 14,
+          "time_info": "[04时46分 ~ 15时56分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1204,24 +1222,12 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时01分 ~ 07时38分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 15时01分]"
         }
       ]
     },
     {
       "keyword_group": "外贸",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我国外贸延续良好增长态势",
@@ -1244,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时41分 ~ 09时55分]"
+        },
+        {
+          "title": "外贸成绩单里的中国机遇2.0",
+          "url": "https://www.toutiao.com/trending/7671237290643079209/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
         }
       ]
     },
@@ -1261,11 +1278,12 @@
             17,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 15时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 15时56分]"
         }
       ]
     },
