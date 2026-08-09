@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:21:43.599206+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-08-09T13:49:56.505897+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             3,
             4,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 12时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时49分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -53,22 +54,36 @@
             8,
             9,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 12时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时49分]"
+        },
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时49分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
           "url": "https://flash.jin10.com/detail/20260809110518488800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时49分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -95,15 +110,15 @@
           "time_info": "[03时34分 ~ 06时35分]"
         },
         {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 13时49分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -116,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时43分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -154,7 +158,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -164,8 +168,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 12时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时49分]"
         },
         {
           "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
@@ -226,9 +230,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时49分]"
         },
         {
           "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
@@ -236,22 +240,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时49分]"
         },
         {
           "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
           "url": "https://www.zhihu.com/question/2069330740664439572",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时49分]"
+        },
+        {
+          "title": "伯克希尔净买入约200亿美元股票",
+          "url": "https://www.toutiao.com/trending/7671843485523119662/",
+          "source": "今日头条",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "13时49分"
         }
       ]
     },
@@ -280,8 +297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 12时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时49分]"
         },
         {
           "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
@@ -293,8 +310,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 12时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时49分]"
         },
         {
           "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
@@ -302,22 +319,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时49分]"
         },
         {
           "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
           "url": "https://m.thepaper.cn/newsDetail_forward_33747571",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时49分]"
         }
       ]
     },
@@ -335,8 +354,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 12时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 13时49分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -355,11 +374,12 @@
           "url": "https://wallstreetcn.com/articles/3778998",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时49分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -368,9 +388,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时49分]"
         }
       ]
     },
