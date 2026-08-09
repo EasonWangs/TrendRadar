@@ -1,101 +1,34 @@
 {
-  "generated_at": "2026-08-10T00:41:37.628992+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:36:01.057066+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "伦纳德被曝隐匿收入超5000万美元",
-          "url": "https://www.douyin.com/hot/2602832",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747571",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "利润大涨超100%，这一行业，黄金窗口期来了",
-          "url": "https://www.cls.cn/detail/2449206",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 01时36分]"
+        },
+        {
+          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
           "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
@@ -104,19 +37,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时36分]"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -132,6 +66,97 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
+        },
+        {
+          "title": "伦纳德被曝隐匿收入超5000万美元",
+          "url": "https://www.douyin.com/hot/2602832",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747571",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
+        },
+        {
+          "title": "利润大涨超100%，这一行业，黄金窗口期来了",
+          "url": "https://www.cls.cn/detail/2449206",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -143,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -154,8 +179,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 01时36分]"
         }
       ]
     }
