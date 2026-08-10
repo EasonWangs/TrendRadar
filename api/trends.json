@@ -1,8 +1,224 @@
 {
-  "generated_at": "2026-08-10T12:42:41.886564+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-08-10T14:14:04.319522+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美元",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时36分]"
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            16,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 12时42分]"
+        },
+        {
+          "title": "伦纳德被曝隐匿收入超5000万美元",
+          "url": "https://www.douyin.com/hot/2602832",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时35分]"
+        },
+        {
+          "title": "印尼盾兑美元涨幅扩大至0.5%，在亚洲货币中表现最佳。",
+          "url": "https://wallstreetcn.com/livenews/3147316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060209367800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060035302800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "Jefferies把特斯拉目标价从400美元下调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3147274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 14时14分]"
+        },
+        {
+          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
+          "url": "https://wallstreetcn.com/livenews/3147125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
+          "url": "https://flash.jin10.com/detail/20260810053536334800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "退出欧佩克后第一把火！阿联酋能源巨头豪掷80亿美元扩产天然气",
+          "url": "https://flash.jin10.com/detail/20260810135736561800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "据英国金融时报：英国国防集团Cambridge Aerospace已筹集3亿美元，用于开发其导弹和无人机拦截系统。此次交易的估值达34亿美元，进一步巩固了其作为英国最有价值初创企业之一的地位。",
+          "url": "https://flash.jin10.com/detail/20260810121130498800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月10日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3147179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "交易员：印度央行可能在出售美元以支持卢比。",
+          "url": "https://wallstreetcn.com/livenews/3147289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "现货白银向下触及63美元/盎司，日内跌0.84%。",
+          "url": "https://flash.jin10.com/detail/20260810093019603800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报64.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810135116934800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报64.17美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810134828684800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC天然气部门：将投资超过80亿美元以扩大生产能力。",
+          "url": "https://flash.jin10.com/detail/20260810114603160800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 17,
@@ -17,8 +233,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时35分 ~ 12时42分]"
+          "appearance_count": 12,
+          "time_info": "[01时35分 ~ 14时14分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -32,6 +248,19 @@
           "time_info": "[00时41分 ~ 07时35分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时14分]"
+        },
+        {
           "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
           "url": "https://flash.jin10.com/detail/20260810071953536800",
           "source": "金十数据",
@@ -41,6 +270,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时14分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -94,28 +335,15 @@
           "time_info": "[05时37分 ~ 07时35分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 14时14分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -172,18 +400,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -212,168 +429,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时36分]"
-        },
-        {
-          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 12时42分]"
-        },
-        {
-          "title": "伦纳德被曝隐匿收入超5000万美元",
-          "url": "https://www.douyin.com/hot/2602832",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时35分]"
-        },
-        {
-          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810060209367800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810060035302800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
-          "url": "https://wallstreetcn.com/livenews/3147125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
-          "url": "https://flash.jin10.com/detail/20260810053536334800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "Jefferies把特斯拉目标价从400美元下调至350美元。",
-          "url": "https://wallstreetcn.com/livenews/3147274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "据英国金融时报：英国国防集团Cambridge Aerospace已筹集3亿美元，用于开发其导弹和无人机拦截系统。此次交易的估值达34亿美元，进一步巩固了其作为英国最有价值初创企业之一的地位。",
-          "url": "https://flash.jin10.com/detail/20260810121130498800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "人民币兑美元中间价创2023年2月10日以来新高",
-          "url": "https://wallstreetcn.com/livenews/3147179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "现货白银向下触及63美元/盎司，日内跌0.84%。",
-          "url": "https://flash.jin10.com/detail/20260810093019603800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC天然气部门：将投资超过80亿美元以扩大生产能力。",
-          "url": "https://flash.jin10.com/detail/20260810114603160800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
@@ -386,6 +443,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 10时07分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时37分 ~ 14时14分]"
         },
         {
           "title": "利润大涨超100%，这一行业，黄金窗口期来了",
@@ -416,28 +487,26 @@
           "time_info": "[00时41分 ~ 10时07分]"
         },
         {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时37分 ~ 12时42分]"
-        },
-        {
           "title": "英国监管机构正着手制定代币化黄金框架。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3147282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "现货黄金向上触及4350美元/盎司，日内上涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3147312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "金十图示：2026年08月10日（周一）黄金ETF持仓报告",
@@ -481,15 +550,37 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "报道：英国监管机构正着手制定代币化黄金框架",
+          "url": "https://wallstreetcn.com/livenews/3147282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "A股黄金珠宝概念股午后持续走强，招金黄金涨超9%，曼卡龙、西部黄金、湖南黄金等上涨。",
+          "url": "https://flash.jin10.com/detail/20260810134701533800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
     {
       "keyword_group": "概念",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "创新药、CRO概念股延续涨势，百花医药5连板，义翘神州涨超10%，泓博医药、近岸蛋白、昭衍新药等多股高开。",
@@ -503,6 +594,18 @@
           "time_info": "10时07分"
         },
         {
+          "title": "创新药概念股集体爆发",
+          "url": "https://www.douyin.com/hot/2604000",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时14分]"
+        },
+        {
           "title": "A股游戏概念盘初下挫，大晟文化、凯撒文化跌超6%，恺英网络、昆仑万维、盛天网络、世纪华通、巨人网络等跟跌。",
           "url": "https://flash.jin10.com/detail/20260810093806924800",
           "source": "金十数据",
@@ -514,15 +617,26 @@
           "time_info": "10时07分"
         },
         {
-          "title": "创新药概念股集体爆发",
-          "url": "https://www.douyin.com/hot/2604000",
-          "source": "抖音",
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147307",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "14时14分"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "A股小金属概念集体高开，鹏欣资源涨停，先导基电涨超6%，云南锗业、中钨高新等跟涨。",
@@ -545,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810134351393800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
@@ -590,6 +715,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 1,
       "titles": [
@@ -598,11 +740,12 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时14分]"
         }
       ]
     },
@@ -617,7 +760,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
