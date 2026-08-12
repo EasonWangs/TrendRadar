@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:11:41.589765+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-08-12T19:51:28.160281+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -58,24 +58,13 @@
           "time_info": "[02时02分 ~ 02时03分]"
         },
         {
-          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3148574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
           "title": "据华盛顿邮报：特朗普政府计划至少花费9亿美元用于白宫建设。",
           "url": "https://flash.jin10.com/detail/20260812180318303800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -93,6 +82,17 @@
           "time_info": "[10时15分 ~ 16时22分]"
         },
         {
+          "title": "美国智库PIIE：“支持盟友”还是另有目的？美国参与日元干预背后的美元算盘",
+          "url": "https://flash.jin10.com/detail/20260812193435332800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "CoreWeave预计全年销售124亿-132亿美元，预计资本开支350亿-390亿美元。 预计三季度销售34.5亿-36亿美元，预计资本开支115亿-135亿美元，预计网络开支8.6亿-9.4亿美元。",
           "url": "https://wallstreetcn.com/livenews/3148263",
           "source": "华尔街见闻-快讯",
@@ -104,6 +104,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时51分]"
         },
         {
           "title": "Kalshi年化收入超过40亿美元。 该公司按400亿美元估值洽谈融资。（The Information）",
@@ -259,6 +271,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "现货钯金向上触及1400美元/盎司，日内涨2.56%。",
+          "url": "https://flash.jin10.com/detail/20260812193037536800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "英伟达信用风险指标回落，黄仁勋澄清5000亿美元融资计划",
           "url": "https://wallstreetcn.com/livenews/3148187",
           "source": "华尔街见闻-快讯",
@@ -276,7 +299,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -331,7 +354,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -405,7 +428,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -437,11 +460,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 18时11分]"
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 19时51分]"
         },
         {
           "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
@@ -450,9 +474,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -528,6 +563,17 @@
           "time_info": "[16时22分 ~ 18时11分]"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
           "url": "https://flash.jin10.com/detail/20260812064319870800",
           "source": "金十数据",
@@ -567,7 +613,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -581,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
+        },
+        {
+          "title": "据大西洋月刊：美国财长贝森特曾告诉特朗普，加强制裁可能会迫使伊朗屈服，并声称随着70%的能源运输转移到地下管道，霍尔木兹海峡将在两年内变得无关紧要。",
+          "url": "https://flash.jin10.com/detail/20260812191933612800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "特朗普以安全理由为其在土耳其更换座机一事辩护。",
@@ -630,7 +687,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -675,7 +732,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -714,6 +771,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时49分]"
+        },
+        {
+          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -755,7 +823,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -826,11 +894,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时49分 ~ 18时11分]"
+          "appearance_count": 9,
+          "time_info": "[06时49分 ~ 19时51分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -857,17 +926,6 @@
           "time_info": "[07时46分 ~ 14时20分]"
         },
         {
-          "title": "黄金剪开里面竟是钨芯 警方抓9人",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%89%AA%E5%BC%80%E9%87%8C%E9%9D%A2%E7%AB%9F%E6%98%AF%E9%92%A8%E8%8A%AF+%E8%AD%A6%E6%96%B9%E6%8A%939%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
           "title": "实际利率压不住黄金，多头为更大的信誉风险买单！",
           "url": "https://flash.jin10.com/detail/20260812122411977800",
           "source": "金十数据",
@@ -877,6 +935,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "黄金剪开里面竟是钨芯 警方抓9人",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%89%AA%E5%BC%80%E9%87%8C%E9%9D%A2%E7%AB%9F%E6%98%AF%E9%92%A8%E8%8A%AF+%E8%AD%A6%E6%96%B9%E6%8A%939%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时51分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.712吨，当前持仓量为1022.672吨。",
@@ -1147,11 +1217,12 @@
           "url": "https://wallstreetcn.com/livenews/3148572",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时51分]"
         },
         {
           "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
