@@ -1,11 +1,247 @@
 {
-  "generated_at": "2026-08-13T07:48:16.662918+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-08-13T10:20:48.232062+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？",
+          "url": "https://www.zhihu.com/question/2071009298574829246",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时51分 ~ 10时20分]"
+        },
+        {
+          "title": "湖人售价120亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            17,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 07时48分]"
+        },
+        {
+          "title": "沃尔特以超120亿美元出售湖人",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E7%89%B9%E4%BB%A5%E8%B6%85120%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B9%96%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 06时47分]"
+        },
+        {
+          "title": "美油主力合约收跌0.75%，报82.58美元/桶；布油主力合约跌0.6%，报88.38美元/桶。美国上周原油库存意外大幅增加1742.3万桶，远超出市场原本减少的预期，叠加欧佩克下调了全球原油需求增长预测，对油价形成压制。",
+          "url": "https://wallstreetcn.com/livenews/3148770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时48分]"
+        },
+        {
+          "title": "周三（8月12日）纽约尾盘（周三北京时间04:59），美元兑离岸人民币（CNH）报6.7464元，持平于周二纽约尾盘汇价，日内整体交投于6.74193-6.74873元区间。",
+          "url": "https://wallstreetcn.com/livenews/3148766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时48分]"
+        },
+        {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20260813041909701800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时47分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的7.25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260813011605195800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "SpaceX涨幅扩大至8%，总市值达1.9万亿美元，本月已累升逾32%。",
+          "url": "https://wallstreetcn.com/livenews/3148721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "125亿美元天价易手！洛杉矶湖人队刷新职业体育最高估值纪录",
+          "url": "https://www.cls.cn/detail/2452870",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "每月最高10万美元卖“时间差”，特朗普被诉违宪！",
+          "url": "https://flash.jin10.com/detail/20260813100116657800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "Anthropic拟60亿美元收购Decart 强化AI基础设施",
+          "url": "https://flash.jin10.com/detail/20260813100045009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "华人加密投资者叶俊德被曝全裸从 30 楼坠亡，生前曾管理超 24 亿美元资产，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2070227462877876846",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
+          "url": "https://flash.jin10.com/detail/20260813063512720800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "Anthropic据悉正在洽谈以60亿美元收购AI新创公司Decart。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "Jane Street发行146亿美元债券 10年期收益率逾8%",
+          "url": "https://wallstreetcn.com/livenews/3148710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7888，下调6点；上一交易日中间价6.7882，上一交易日官方收盘价6.7456，上日夜盘报收6.7459。",
+          "url": "https://wallstreetcn.com/livenews/3148818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "机构：2025年全球商用清洁机器人出货量突破50000台，营收超过4亿美元",
+          "url": "https://flash.jin10.com/detail/20260813094201472800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "周三（8月12日）纽约尾盘，ICE美元指数涨0.22%，刷新日高至99.874点，整体先跌后涨，北京时间20:20跌至99.484点刷新日低，之后扭转跌幅持续走强。",
+          "url": "https://wallstreetcn.com/livenews/3148741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "周三（8月12日）纽约尾盘，ICE原糖期货跌1.79%报16.43美分/磅，棉花期货跌0.18%报84.24美分/磅，可可期货涨1.15%报5719.00美元/吨，咖啡期货涨0.49%报317.25美分/磅。",
+          "url": "https://wallstreetcn.com/livenews/3148740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -17,6 +253,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时03分 ~ 07时48分]"
+        },
+        {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 10时20分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -35,19 +285,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 07时48分]"
-        },
-        {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -168,9 +405,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "丰田等日本企业在美遭消费者起诉 要求返还特朗普退税费用",
+          "url": "https://wallstreetcn.com/livenews/3148820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
@@ -208,160 +456,169 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 13,
+      "keyword_group": "DeepSeek",
+      "match_count": 14,
       "titles": [
         {
-          "title": "如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？",
-          "url": "https://www.zhihu.com/question/2071009298574829246",
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 10时20分]"
+        },
+        {
+          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
           "source": "知乎",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时51分 ~ 07时48分]"
-        },
-        {
-          "title": "湖人售价120亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%E5%94%AE%E4%BB%B7120%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            17,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 07时48分]"
-        },
-        {
-          "title": "沃尔特以超120亿美元出售湖人",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%83%E5%B0%94%E7%89%B9%E4%BB%A5%E8%B6%85120%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B9%96%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时03分 ~ 06时47分]"
         },
         {
-          "title": "美油主力合约收跌0.75%，报82.58美元/桶；布油主力合约跌0.6%，报88.38美元/桶。美国上周原油库存意外大幅增加1742.3万桶，远超出市场原本减少的预期，叠加欧佩克下调了全球原油需求增长预测，对油价形成压制。",
-          "url": "https://wallstreetcn.com/livenews/3148770",
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 10时20分]"
+        },
+        {
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://wallstreetcn.com/livenews/3148768",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8,
-            21
+            2,
+            9,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时48分]"
         },
         {
-          "title": "周三（8月12日）纽约尾盘（周三北京时间04:59），美元兑离岸人民币（CNH）报6.7464元，持平于周二纽约尾盘汇价，日内整体交投于6.74193-6.74873元区间。",
-          "url": "https://wallstreetcn.com/livenews/3148766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 07时48分]"
-        },
-        {
-          "title": "美元指数12日上涨",
-          "url": "https://flash.jin10.com/detail/20260813041909701800",
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://flash.jin10.com/detail/20260813050715033800",
           "source": "金十数据",
           "ranks": [
-            17,
-            24
+            4,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时47分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的7.25亿美元。",
-          "url": "https://flash.jin10.com/detail/20260813011605195800",
-          "source": "金十数据",
+          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
           "ranks": [
-            7
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 4,
+          "time_info": "[05时51分 ~ 06时47分]"
         },
         {
-          "title": "SpaceX涨幅扩大至8%，总市值达1.9万亿美元，本月已累升逾32%。",
-          "url": "https://wallstreetcn.com/livenews/3148721",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek V4 Pro正式版API上线",
+          "url": "https://www.toutiao.com/trending/7673284418319945259/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
         },
         {
-          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
-          "url": "https://flash.jin10.com/detail/20260813063512720800",
-          "source": "金十数据",
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "10时20分"
         },
         {
-          "title": "Jane Street发行146亿美元债券 10年期收益率逾8%",
-          "url": "https://wallstreetcn.com/livenews/3148710",
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "DeepSeek最新版本藏了一个大招",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%97%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
+          "url": "https://wallstreetcn.com/livenews/3148708",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3148702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "周三（8月12日）纽约尾盘，ICE美元指数涨0.22%，刷新日高至99.874点，整体先跌后涨，北京时间20:20跌至99.484点刷新日低，之后扭转跌幅持续走强。",
-          "url": "https://wallstreetcn.com/livenews/3148741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "周三（8月12日）纽约尾盘，ICE原糖期货跌1.79%报16.43美分/磅，棉花期货跌0.18%报84.24美分/磅，可可期货涨1.15%报5719.00美元/吨，咖啡期货涨0.49%报317.25美分/磅。",
-          "url": "https://wallstreetcn.com/livenews/3148740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         }
       ]
     },
@@ -378,8 +635,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 10时20分]"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 10时20分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -392,18 +661,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 05时52分]"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 07时48分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -510,130 +767,125 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "概念",
       "match_count": 10,
       "titles": [
         {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 06时47分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek重磅更新 V4Pro正式版上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://wallstreetcn.com/livenews/3148768",
+          "title": "CPO概念股持续拉升，天孚通信、德科立涨超10%，共进股份此前涨停，炬光科技、华懋科技、东山精密、锐捷网络涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3148855",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9,
-            22
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 07时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         },
         {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://flash.jin10.com/detail/20260813050715033800",
-          "source": "金十数据",
+          "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3148753",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            11
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时47分]"
         },
         {
-          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
-          "url": "https://www.zhihu.com/question/2071019389479023642",
-          "source": "知乎",
+          "title": "A股CRO概念拉升走强，博济医药20CM封板涨停，皓元医药涨超9%，万邦医药、昭衍新药等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260813100200863800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时51分 ~ 06时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         },
         {
-          "title": "DeepSeek V4 Pro正式版API上线",
-          "url": "https://www.toutiao.com/trending/7673284418319945259/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
-          "url": "https://wallstreetcn.com/livenews/3148708",
+          "title": "数据中心电源概念开盘拉升，麦格米特涨停，欧陆通涨超10%，中恒电气、科士达、爱科赛博、科泰电源涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148835",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "10时20分"
+        },
+        {
+          "title": "A股光纤概念延续强势，通鼎互联2连板，长进光子、天孚通信、炬光科技、长盈通、源杰科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3148832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "A股白酒概念异动走强，会稽山封板涨停，古越龙山、水井坊涨超2%，皇台酒业、口子窖等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260813095949873800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "A股指数高开 CPO光通信等概念走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+CPO%E5%85%89%E9%80%9A%E4%BF%A1%E7%AD%89%E6%A6%82%E5%BF%B5%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "A股算力租赁概念继续活跃，城地香江3连板，群兴玩具一字涨停，中鼎股份、行云科技、宏景科技、鸿博股份涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3148827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "A股CPO概念短线拉升，共进股份涨停，炬光科技、源杰科技、联特科技、天孚通信、太辰光等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260813094524714800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
+        },
+        {
+          "title": "A股数据中心电源概念走强，麦格米特涨停，欧陆通、中恒电气、科士达、爱科赛博、科泰电源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260813094216471800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -647,27 +899,29 @@
           "time_info": "[02时03分 ~ 05时52分]"
         },
         {
-          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
-          "url": "https://www.cls.cn/detail/2452911",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
-        },
-        {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
           "url": "https://wallstreetcn.com/articles/3779257",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 10时20分]"
+        },
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 10时20分]"
         },
         {
           "title": "8月涨太快！黄金强势反弹后，今晚CPI会引发获利了结吗？",
@@ -701,9 +955,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "韩国央行在二季度进行了十三年来的首次黄金相关投资。",
+          "url": "https://wallstreetcn.com/livenews/3148811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         }
       ]
     },
@@ -737,7 +1002,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -747,8 +1012,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时03分 ~ 07时48分]"
+          "appearance_count": 9,
+          "time_info": "[02时03分 ~ 10时20分]"
+        },
+        {
+          "title": "金价油价全涨了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B2%B9%E4%BB%B7%E5%85%A8%E6%B6%A8%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         }
       ]
     },
@@ -771,20 +1047,19 @@
       ]
     },
     {
-      "keyword_group": "概念",
+      "keyword_group": "外贸",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3148753",
-          "source": "华尔街见闻-快讯",
+          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            24
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时20分"
         }
       ]
     }
